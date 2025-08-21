@@ -1,0 +1,20 @@
+# PDF parsing
+marker-pdf[full]
+
+# API framework
+fastapi
+uvicorn
+
+# RAG & orchestration
+langchain
+faiss-cpu
+langchain-community
+sentence-transformers
+langchain_huggingface
+
+# LLM clients
+google-genai
+
+# Data validation & config
+pydantic
+pydantic-settings
