@@ -1,0 +1,15 @@
+[project]
+name = "attachment-handler"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "a2a-sdk>=0.3.2",
+    "langchain>=0.3.27",
+    "langchain-mistralai>=0.2.11",
+    "python-magic>=0.4.27",
+    "sse-starlette>=3.0.2",
+    "starlette>=0.47.2",
+    "uvicorn>=0.35.0",
+]
