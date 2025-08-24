@@ -1,0 +1,118 @@
+Project "Insurance Database System" {
+  database_type: 'PostgreSQL'
+  Note: 'Insurance management system with accounts, contracts, guarantees, and claims'
+}
+
+Table "accounts" {
+  ref_personne int [pk]
+  email varchar(255) [unique]
+  password_hash varchar(255)
+  role varchar(50) [not null]
+  Note: 'Base accounts table for all persons (physical and moral)'
+}
+
+Table "personne_physique" {
+  ref_personne int [pk, ref: - "accounts".ref_personne]
+  nom_prenom text
+  date_naissance date
+  lieu_naissance text
+  code_sexe varchar(10)
+  situation_familiale varchar(100)
+  num_piece_identite varchar(50)
+  lib_secteur_activite text
+  lib_profession text
+  ville varchar(100)
+  lib_gouvernorat varchar(100)
+  ville_gouvernorat text
+  Note: 'Physical persons (individuals) profile details'
+}
+
+Table "personne_morale" {
+  ref_personne int [pk, ref: - "accounts".ref_personne]
+  raison_sociale text
+  matricule_fiscale varchar(100)
+  lib_secteur_activite text
+  lib_activite text
+  ville varchar(100)
+  lib_gouvernorat varchar(100)
+  ville_gouvernorat text
+  Note: 'Moral persons (companies/organizations) profile details'
+}
+
+Table "contrats" {
+  num_contrat varchar(50) [pk]
+  ref_personne int [not null, ref: > "accounts".ref_personne]
+  lib_produit text
+  effet_contrat date
+  date_expiration date
+  prochain_terme varchar(100)
+  lib_etat_contrat varchar(100)
+  branche varchar(100)
+  somme_quittances numeric
+  statut_paiement varchar(50)
+  capital_assure numeric
+
+  Indexes {
+    ref_personne [name: 'idx_contrats_ref_personne']
+    lib_produit [name: 'idx_contrats_produit']
+    branche [name: 'idx_contrats_branche']
+  }
+
+  Note: 'Insurance contracts linked to accounts'
+}
+
+Table "garantie_contrat" {
+  num_contrat varchar(50) [ref: > "contrats".num_contrat]
+  code_garantie int
+  capital_assure numeric
+  lib_garantie text
+
+  Indexes {
+    num_contrat [name: 'idx_garantie_num_contrat']
+    code_garantie [name: 'idx_garantie_code']
+    (num_contrat, code_garantie) [name: 'idx_garantie_contract_code']
+  }
+
+  Note: 'Contract guarantees - multiple guarantees per contract allowed'
+}
+
+Table "sinistres" {
+  num_sinistre varchar(50) [pk]
+  num_contrat varchar(50) [not null, ref: > "contrats".num_contrat]
+  lib_branche varchar(100)
+  lib_sous_branche varchar(100)
+  lib_produit text
+  nature_sinistre varchar(100)
+  lib_type_sinistre varchar(100)
+  taux_responsabilite numeric
+  date_survenance date
+  date_declaration date
+  date_ouverture date
+  observation_sinistre text
+  lib_etat_sinistre varchar(100)
+  lieu_accident text
+  motif_reouverture text
+  montant_encaisse numeric
+  montant_a_encaisser numeric
+
+  Indexes {
+    num_contrat [name: 'idx_sinistres_num_contrat']
+    lib_branche [name: 'idx_sinistres_branche']
+    date_survenance [name: 'idx_sinistres_date_survenance']
+    lib_etat_sinistre [name: 'idx_sinistres_etat']
+  }
+
+  Note: 'Insurance claims/accidents linked to contracts'
+}
+
+// Relationships Overview:
+// 1. accounts (1) -> personne_physique (0..1) [One-to-one for physical persons]
+// 2. accounts (1) -> personne_morale (0..1) [One-to-one for moral persons]
+// 3. accounts (1) -> contrats (0..n) [One-to-many: one person can have multiple contracts]
+// 4. contrats (1) -> garantie_contrat (0..n) [One-to-many: one contract can have multiple guarantees]
+// 5. contrats (1) -> sinistres (0..n) [One-to-many: one contract can have multiple claims]
+
+Enum role_types {
+  "Personne Physique"
+  "Personne Morale"
+}
