@@ -1,928 +1,597 @@
-# ASSURANCE'D CONTRAT PROFESSIONNELLE MULTIRISQUE ARTISANS ,COMMERÇANTS DES SERVICES DE PRESTATAIRES ET **GÉNÉRALES CONDITIONS**
-
 ![](_page_0_Picture_2.jpeg)
 
-1998 Juin 13 du 394/7 °N MF : Visa
+# CONDITIONS GÉNÉRALES
 
-# **SOMMAIRE**
+## CONTRAT D'ASSURANCE MULTIRISQUE PROFESSIONNELLE ARTISANS, COMMERÇANTS ET PRESTATAIRES DE SERVICES
 
-## GENERALES DISPOSITIONS - I TITRE GENERALITES : 1 CHAPITRE
+**Visa : MF N° 7/394 du 13 Juin 1998**
 
-| Objet<br>du<br>contrat                                                | ARTICLE<br>1  |
-|-----------------------------------------------------------------------|---------------|
-| Situation<br>des<br>risques                                           | ARTICLE<br>2  |
-| Définitions                                                           | ARTICLE<br>3  |
-| Les<br>exclusions<br>communes<br>tous à<br>les<br>risques             | ARTICLE<br>4  |
-| CHAPITRE<br>: Il<br>FORMATION<br>ET<br>DUREE<br>DU<br>CONTRAT         |               |
-| Formation<br>et<br>prise<br>effet'd<br>du<br>contrat                  | ARTICLE<br>5  |
-| Durée<br>du<br>contrat                                                | ARTICLE<br>6  |
-| Résiliation<br>du<br>contrat                                          | ARTICLE<br>7  |
-| Transfert<br>de<br>propriété                                          | ARTICLE<br>8  |
-| CHAPITRE<br>Ill<br>LES :<br>OBLIGATIONS<br>'L DE<br>ASSURE            |               |
-| Déclarations<br>concernant<br>le<br>risque<br>ses et<br>modifications | ARTICLE<br>9  |
-| Aggravations<br>du<br>risque                                          | ARTICLE<br>10 |
-| Diminution<br>des<br>risques                                          | ARTICLE<br>11 |
-| Autres<br>assurances                                                  | ARTICLE<br>12 |
-| Le<br>paiement<br>la de<br>prime                                      | ARTICLE<br>13 |
-| Obligations<br>l de<br>assuré'<br>en<br>de cas<br>sinistre            | ARTICLE<br>14 |
-| CHAPITRE<br>IV<br>LES :<br>OBLIGATlONS<br>'L DE<br>ASSUREUR           |               |
-| Détermination<br>'l de<br>indemnité<br>en<br>de cas<br>sinistre       | ARTICLE<br>15 |
-| Expertise<br>et<br>sauvetage                                          | ARTICLE<br>16 |
-| La<br>règle<br>proportionnelle                                        | ARTICLE<br>17 |
-| Les<br>délais<br>de<br>règlement                                      | ARTICLE<br>18 |
-| Subrogation                                                           | ARTICLE<br>19 |
-| Compétence<br>et<br>prescription                                      | ARTICLE<br>20 |
-|                                                                       |               |
+## SOMMAIRE
 
-# **SOMMAIRE**
+### TITRE I - DISPOSITIONS GÉNÉRALES
+#### CHAPITRE 1 : GÉNÉRALITÉS
+| Objet du contrat                                                | ARTICLE 1  |
+|-----------------------------------------------------------------|------------|
+| Situation des risques                                           | ARTICLE 2  |
+| Définitions                                                     | ARTICLE 3  |
+| Les exclusions communes à tous les risques                      | ARTICLE 4  |
 
-| TITRE<br>- II<br>DISPOSITIONS<br>SPECIFIQUES                      |              |
-|-------------------------------------------------------------------|--------------|
-| CHAPITRE<br>: 1<br>VOS<br>BIENS<br>ASSURES                        |              |
-| Vos<br>locaux<br>professionnels                                   | ARTICLE<br>1 |
-| Le<br>contenu<br>vos de<br>locaux<br>professionnels               | ARTICLE<br>2 |
-| CHAPITRE<br>: Il<br>VOS<br>GARANTIES                              |              |
-| 'L<br>incendie<br>et<br>les<br>événements<br>assimilés            | ARTICLE<br>3 |
-| 'L - A<br>incendie                                                |              |
-| - B<br>Foudre<br>et<br>explosions                                 |              |
-| Le<br>vol                                                         | ARTICLE<br>4 |
-| A<br>Objet -<br>la de<br>garantie                                 |              |
-| - B<br>Etendue<br>la de<br>garantie                               |              |
-| 'L - C<br>inoccupation<br>des<br>locaux<br>assurés                |              |
-| Les -<br>mesures<br>de<br>sécurité<br>D                           |              |
-| Les - E<br>risques<br>exclus                                      |              |
-| - F<br>Obligations<br>l de<br>assuré'<br>en<br>de cas<br>sinistre |              |
-| - G<br>Récupération<br>des<br>objets<br>volés                     |              |
-| Responsabilité<br>civile<br>exploitation                          | ARTICLE<br>5 |
-| A<br>Objet -<br>et<br>étendue<br>la de<br>garantie                |              |
-| - B<br>Limites<br>la de<br>garantie                               |              |
-| - C<br>Exclusions                                                 |              |
-| Dégâts<br>des<br>eaux                                             | ARTICLE<br>6 |
-| A<br>Objet -<br>et<br>étendue<br>la de<br>garantie                |              |
-| - B<br>Risques<br>exclus                                          |              |
-| Bris<br>de<br>glaces                                              | ARTICLE<br>7 |
-| A<br>Objet -<br>et<br>étendue<br>la de<br>garantie                |              |
-| - B<br>Risques<br>exclus                                          |              |
-| Défense<br>et<br>recours<br>Article                               | ARTICLE<br>8 |
+#### CHAPITRE II : FORMATION ET DURÉE DU CONTRAT
+| Formation et prise d’effet du contrat                          | ARTICLE 5  |
+| Durée du contrat                                                | ARTICLE 6  |
+| Résiliation du contrat                                          | ARTICLE 7  |
+| Transfert de propriété                                          | ARTICLE 8  |
+
+#### CHAPITRE III : LES OBLIGATIONS DE L’ASSURÉ
+| Déclarations concernant le risque et ses modifications          | ARTICLE 9  |
+| Aggravations du risque                                          | ARTICLE 10 |
+| Diminution des risques                                          | ARTICLE 11 |
+| Autres assurances                                               | ARTICLE 12 |
+| Le paiement de la prime                                         | ARTICLE 13 |
+| Obligations de l’assuré en cas de sinistre                      | ARTICLE 14 |
+
+#### CHAPITRE IV : LES OBLIGATIONS DE L’ASSUREUR
+| Détermination de l’indemnité en cas de sinistre                | ARTICLE 15 |
+| Expertise et sauvetage                                          | ARTICLE 16 |
+| La règle proportionnelle                                        | ARTICLE 17 |
+| Les délais de règlement                                         | ARTICLE 18 |
+| Subrogation                                                     | ARTICLE 19 |
+| Compétence et prescription                                      | ARTICLE 20 |
+
+### TITRE II - DISPOSITIONS SPÉCIFIQUES
+#### CHAPITRE I : VOS BIENS ASSURÉS
+| Vos locaux professionnels                                       | ARTICLE 1  |
+| Le contenu de vos locaux professionnels                         | ARTICLE 2  |
+
+#### CHAPITRE II : VOS GARANTIES
+| L’incendie et les événements assimilés                          | ARTICLE 3  |
+| - A. Incendie                                                   |            |
+| - B. Foudre et explosions                                       |            |
+| Le vol                                                          | ARTICLE 4  |
+| - A. Objet de la garantie                                       |            |
+| - B. Étendue de la garantie                                     |            |
+| - C. Inoccupation des locaux assurés                            |            |
+| - D. Les mesures de sécurité                                    |            |
+| - E. Risques exclus                                             |            |
+| - F. Obligations de l’assuré en cas de sinistre                 |            |
+| - G. Récupération des objets volés                              |            |
+| Responsabilité civile exploitation                              | ARTICLE 5  |
+| - A. Objet et étendue de la garantie                            |            |
+| - B. Limites de la garantie                                     |            |
+| - C. Exclusions                                                 |            |
+| Dégâts des eaux                                                 | ARTICLE 6  |
+| - A. Objet et étendue de la garantie                            |            |
+| - B. Risques exclus                                             |            |
+| Bris de glaces                                                  | ARTICLE 7  |
+| - A. Objet et étendue de la garantie                            |            |
+| - B. Risques exclus                                             |            |
+| Défense et recours                                              | ARTICLE 8  |
 
 ![](_page_4_Picture_0.jpeg)
 
-## GÉNÉRALES CONDITIONS
+Le présent contrat est régi par le Code des Assurances, ainsi que par les Conditions Générales qui suivent, les Conditions Particulières ci-annexées, le Formulaire de déclaration du risque sur les réponses duquel il est basé et qui fait partie intégrante.
 
-1998 Juin 13 du 394/7 °N MF : Visa
+## TITRE I - DISPOSITIONS GÉNÉRALES
 
-,Code le dénommé après-ci Assurances des Code le par régi est contrat présent Le annexées ci Particulières Conditions les ,suivent qui Générales Conditions les que ainsi qui et basé est il duquel réponses les sur Risque du Déclaration de Formulaire le et .intégrante Partie fait en
+### CHAPITRE 1 : GÉNÉRALITÉS
 
-## GENERALES DISPOSITIONS - 1 TITRE **GENERALITES : 1 CHAPITRE** CONTRAT DU OBJET - 1 ARTICLE
+#### ARTICLE 1 : OBJET DU CONTRAT
 
- garantit Assurance BH ,contrat présent le Par directs matériels dommages les contre assuré'l
+Par le présent contrat, BH Assurance garantit à l’assuré contre les dommages matériels directs, ainsi que les dommages désignés expressément comme couverts aux Conditions Particulières ou aux Dispositions Spécifiques, tels que l’incendie, les explosions, la responsabilité civile ou autres dommages matériels divers.
 
- dommages les que ainsi explosions ,incendie'd civile responsabilité ou divers matériels désignés expressément sont qui et exploitant particulières conditions aux couverts comme .spécifiques dispositions aux désignés et
+Les garanties sont accordées sous réserve des exclusions prévues par l’article 4 ci-après et des exclusions spécifiques à chaque garantie, et dans la limite, pour chaque catégorie de dommages, des sommes et franchises fixées auxdites Conditions Particulières ou Dispositions Spécifiques, la part des dommages restant à la charge de l’assuré (franchises).
 
- des réserve sous accordées sont garanties Les des ,après-ci 4 article'l par prévues exclusions garantie chaque à spécifiques exclusions chaque pour sinistre par ,limite la dans et et sommes des ,dommages de catégorie charge la à dommages des part (franchises conditions dites aux fixées ,)assuré'l de .spécifiques dispositions ou particulières
+#### ARTICLE 2 : SITUATION DES RISQUES
 
-## RISQUES DES SITUATION - 2 ARTICLE
+Les garanties du présent contrat, y compris les recours, s’appliquent exclusivement aux lieux indiqués aux Conditions Particulières. Toute garantie cesse ses effets en cas de transfert partiel ou total dans un autre lieu. La garantie s’exerce exclusivement en Tunisie.
 
- les compris y ,contrat présent du garanties Les lieux aux exclusivement appliquent's ,recours La .particulières conditions aux indiqués assurés biens les sur effets ses cesse garantie un dans partiel transfert un'd objet'l fait ayant en également cesse garantie Toute .lieu autre autre territoire un dans total transfert de cas .Tunisie la que
+#### ARTICLE 3 : DÉFINITIONS
 
-## DEFINITIONS - 3 ARTICLE
+Pour l’exécution du présent contrat et sous réserve des limites et exclusions mentionnées aux Conditions Particulières, on entend par :
 
- et contrat présent du exécution'l Pour exclusions des et limites des réserve sous on particulières conditions aux mentionnées : par entend
+1. **ACCIDENT** : Tout événement soudain et imprévu, extérieur à la victime ou à la chose endommagée, constituant la cause d’un dommage corporel ou matériel.
 
- ,soudain événement Tout : ACCIDENT - 1 la à et victime la à extérieur et imprévu de cause la constituant ,endommagée chose .matériel ou corporel dommage
+2. **ASSURANCE POUR COMPTE** : Assurance contractée par l’assuré pour se prémunir contre les conséquences de la responsabilité qu’il peut encourir à l’égard des propriétaires des biens endommagés ou détruits dont il est le dépositaire. Toutefois, en cas de sinistre n’engageant pas la responsabilité de l’assuré vis-à-vis des tiers, cette assurance bénéficiera aux tiers non assurés ou insuffisamment assurés, mais en complément et dans la limite de leur insuffisance de garantie, sans pouvoir intervenir en co-assurance avec les garanties souscrites par eux auprès d’autres compagnies d’assurances.
 
-6
+3. **DÉPENDANCES** : Tous locaux tels que caves, greniers, remise, garages, situés au lieu d’assurance, servant principalement à l’exercice de la profession de l’assuré, soit à son habitation privée, avec les pièces de communication intérieure.
 
- Assurance : COMPTE POUR ASSURANCE - 2 prémunir se pour Assuré'l par contractée responsabilité la de conséquences les contre propriétaires des égard'l à encourir peut il'qu est il dont détruits ou endommagés biens des .dépositaire
+4. **DOMMAGE CORPOREL** : Toute atteinte corporelle subie par une personne physique.
 
- pas engageant'n sinistre de cas en ,Toutefois tiers des vis-à-vis Assuré'l de responsabilité la présente la ,précités biens des propriétaires assurés non tiers aux bénéficiera assurance ces pour mais assurés insuffisamment ou de limite la dans et complément en derniers pouvoir sans garantie de insuffisance leur garanties les avec assurance-co en intervenir compagnies autres'd auprès eux par souscrites .assurances'd
+5. **DOMMAGES MATÉRIELS** : Toute détérioration ou destruction d’une chose ou substance, ou atteinte physique à des animaux.
 
- que tels locaux Tous : DEPENDANCES - 3 au situés ,garages ,remise ,greniers ,caves communication sans mais ,assurance'd lieu servant pièces les avec privée et intérieure la de exercice'l à soit ,principalement .habitation son à soit Assuré'l de profession
+6. **DOMMAGE IMMATÉRIEL** : Tout préjudice pécuniaire résultant de la privation de jouissance d’un droit, de l’interruption d’un service rendu par une personne ou par un bien meuble ou immeuble, ou de la perte d’un bénéfice, et qui entraîne directement la survenance de dommages matériels ou corporels.
 
- atteinte Toute : CORPOREL DOMMAGE - 4 .physique personne une par subie corporelle
+7. **AGENCEMENTS ET EMBELLISSEMENTS** : Les peintures, papiers peints, et, en général, tous les aménagements non considérés comme immeubles par destination.
 
- Toute : MATERIELS DOMMAGES - 5 chose une'd destruction ou détérioration des à physique atteinte ou ,substance ou .animaux
+8. **MACHINES DE BUREAU (VOL)** : Les machines à écrire, à adresser, à affranchir, à calculer, à dicter, à photographier, les caisses enregistreuses, les duplicateurs, et tout autre matériel analogue, à l’exclusion de leur contenu.
 
- préjudice Tout : IMMATERIEL DOMMAGE - 6 de privation la de résultant pécuniaire un'd interruption'l de ,droit un'd jouissance un par ou personne une par rendu service perte la de ou immeuble ou meuble bien directement entraîne qui et bénéfice un'd ou corporels dommages de survenance la .matériels
+9. **MARCHANDISES** : L’ensemble des matières premières, fournitures, denrées, produits en cours de fabrication ou de confection, produits finis, fabriqués ou confectionnés, emballages, produits vendus et non encore livrés, se rapportant au commerce ou à la profession de l’assuré.
 
-: AGENCEMENTS ET EMBELISSEMENTS - 7 ,général en ,et peints papiers ,peintures Les
+10. **MATÉRIEL** : L’ensemble du matériel professionnel et de l’outillage, y compris les engins à moteurs ou le mobilier de l’habillement, les outils, ainsi que les effets destinés à l’entretien du parc ou du jardin, à l’exclusion des véhicules terrestres à moteur.
 
- non ou considérés aménagements les tous .destination par immeuble comme
+11. **MOBILIER PERSONNEL** : L’ensemble des biens meubles qui composent le mobilier destiné à l’usage privé de l’assuré, des membres de sa famille habitant ordinairement à son foyer, des domestiques, et qui appartiennent à l’assuré ou aux personnes précitées. Les objets de même nature et de même usage dont l’assuré ou les personnes précitées sont dépositaires, ainsi que ceux appartenant à des personnes en visite ou séjournant au foyer de l’assuré, sont couverts (voir Définition 2 : Assurance pour compte). Les agencements et embellissements (voir Définition 7). Pour l’appréciation de la limitation fixée aux Tableaux des Garanties, sont considérés comme objets précieux : les bijoux, pierreries, perles fines, objets en métaux précieux et pierres dures, les livres rares, les objets mobiliers ayant une valeur unitaire supérieure à 20 000 DT ou constituant un ensemble d’une valeur globale supérieure à 60 000 DT. Ne sont pas compris dans le Mobilier Personnel : les véhicules à moteur et leurs remorques, les fonds et valeurs, les collections numismatiques et de timbres-poste, et les manuscrits. **Note** : Selon les déclarations du souscripteur aux Conditions Particulières, le mobilier personnel est couvert au titre du contenu ou doit faire l’objet d’un capital spécial.
 
- Les :) VOL (BUREAU DE MACHINES - 8 ,affranchir à ,adresser à ,écrire à machines les ,photographier à ,dicter à ,calculer à à enregistreuses caisses les ,duplicateurs autre tout et contenu leur de exclusion'l .analogue matériel
+12. **TEMPÊTES** : Les événements météorologiques suivants : tempêtes, ouragans, trombes, cyclones, dont le vent a une violence telle qu’il détruit, brise ou endommage un certain nombre de bâtiments de bonne construction, arbres, etc., dans un rayon de cinq kilomètres autour du risque assuré, ou bien que les faits établissent que, au moment du sinistre, il présentait les mêmes caractéristiques que l’un des événements ci-dessus.
 
- des ensemble'L : MARCHANDISES - 9 ,denrées ,fournitures ,premières matières cours en produits ,divers approvisionnements produits ,confection de ou fabrication de ,emballages ,confectionnés ou fabriqués ,finis se ,livrés encore non et vendus produits commerce au ou profession la à rapportant .Assuré'l de
+13. **VALEUR DE CONSTRUCTION À NEUF (BÂTIMENTS)** : Valeur au prix de la reconstruction au jour du sinistre, la vétusté prise en charge par l’assureur étant toutefois limitée au quart de ladite valeur de reconstruction. L’indemnisation sur la base de la valeur à neuf est seulement due :  
+   - En cas de reconstruction des bâtiments sinistrés sur leur emplacement initial ou en un autre lieu du territoire tunisien, dans un délai maximum de deux ans à compter de la date du sinistre, sans qu’il soit apporté de modification importante à la destination initiale desdits bâtiments.  
+   - Par dérogation à l’article 18 des dispositions générales, la part de l’indemnité correspondant à la vétusté ne sera payée par l’assureur qu’après reconstruction ou emploi, et sur justification par la production, selon le cas, des factures ou mémoires de l’indemnité, et des travaux effectués, ou par toute autre pièce dont la présentation aurait été convenue.
 
- du ,matériel du ensemble'L : MATERIEL - 10 ainsi outillage'l de et professionnel mobilier du outils les et habillement'd effets les que ou moteurs à engins les compris y (,personnel ,parc du entretien'l à destinés électriques des exclusion'l à) golf de terrain et jardin .moteurs à terrestres véhicules
+#### ARTICLE 4 : LES EXCLUSIONS COMMUNES À TOUS LES RISQUES
 
-### : PERSONNEL MOBILIER 11-
+1. Les dommages causés par la guerre étrangère ou civile, les émeutes, les mouvements populaires ou les actes de terrorisme ou de sabotage.  
+   **Charge de la preuve** : L’assuré doit prouver que le sinistre résulte d’un fait autre que la guerre étrangère, et il appartient à l’assureur de prouver que le sinistre résulte de la guerre civile, des émeutes, des mouvements populaires ou des actes de terrorisme ou de sabotage.
 
- composent qui meubles biens des ensemble'L de privé usage'l à destiné mobilier le ,famille sa de membres des ,Assuré'l ses de ,foyer son à ordinairement habitant Assuré'l à appartiennent qui et ,domestiques .précitées personnes aux ou
+2. Les dommages causés pendant la réquisition des biens assurés par ordre d’une autorité publique nationale ou locale.
 
- usage même de et nature même de objets Les sont précitées personnes les ou Assuré'l dont appartiennent qui ceux que ainsi dépositaires au séjournant ou visite en personnes aux en couverts sont biens ces ,Assuré'l de foyer .(2 Définition (compte pour assurance
+3. Les dommages occasionnés par les catastrophes et les cataclysmes naturels (tels que tremblement de terre, éruption volcanique, inondation, raz-de-marée, ouragan, glissement ou tassement de terrain, tempête, trombes ou cyclones).
 
-agencements et embellissements Les-
+4. Les dommages causés intentionnellement par l’assuré ou avec sa complicité, ainsi que par les mandataires de l’assuré quand il s’agit d’une personne morale. La preuve du caractère intentionnel de l’acte qui a causé le dommage incombe à l’assureur.
 
-.(7 Définition(
+5. Les dommages causés par l’assuré en état d’ivresse.
 
- fixée limitation la de appréciation'l Pour considérées sont Garanties des Tableaux aux : précieux objets comme
+6. Les dommages ainsi que les accidents causés ou aggravés, à dire d’expert, par :  
+   a) Des armes ou engins destinés à exploser par modification de la structure du noyau de l’atome ;  
+   b) Tout combustible nucléaire, déchet radioactif, ou toute autre source de rayonnements ionisants, qui engagent la responsabilité exclusive d’un exploitant d’installation nucléaire ou qui trouvent leur origine dans la fourniture de biens ou de services concernant une installation nucléaire, ou frappant directement une installation nucléaire, sauf convention contraire mentionnée aux Conditions Particulières ;  
+   c) Toute source de rayonnements ionisants (en particulier tout isotope radioactif utilisé ou destiné à être utilisé hors d’une installation nucléaire) dont l’assuré ou toute personne répond de la propriété, de l’usage ou de la garde, pour la fabrication, le conditionnement ou la conception, sauf convention contraire mentionnée aux Conditions Particulières.
 
- en objets ,fines perles ,pierreries ,bijoux Les dures pierres et précieux métaux
+7. Les dommages autres que ceux d’incendie causés par :  
+   a) L’ébranlement résultant du franchissement du mur du son par un aéronef ;  
+   b) L’explosion se produisant dans une fabrique ou un dépôt d’explosifs.
 
-.rares livres Les -
+### CHAPITRE II : FORMATION ET DURÉE DU CONTRAT
 
- valeur une ayant mobiliers objets autres Les ils's ou D 20.000 à supérieure unitaire globale valeur une'd ensemble un constituent .D 60.000 à supérieure
+#### ARTICLE 5 : FORMATION ET PRISE D’EFFET DU CONTRAT
 
- Mobilier le dans compris pas sont Ne : Personnel
+Le présent contrat est parfait dès sa signature par les parties ; BH Assurance pourra, dès ce moment, en poursuivre l’exécution. Toutefois, l’assurance ne produira ses effets que le lendemain à midi du jour où la première prime aura été payée à BH Assurance. Les mêmes dispositions s’appliquent à tout avenant au contrat.
 
-.remorques leurs et moteurs à véhicules les collections les ,valeurs et fonds les les et poste-timbres de et numismatiques .manuscrits
+#### ARTICLE 6 : DURÉE DU CONTRAT
 
- souscripteur du déclarations les selon : Note mobilier le ; Particulières Conditions aux contenu de titre au couvert est personnel capital un'd objet'l faire doit ou professionnel .spécial
+Le présent contrat peut être souscrit :  
+1. Pour une période temporaire ferme, inférieure à une année, mentionnée aux Conditions Particulières. Dans ce cas, le contrat cesse ses effets de plein droit à minuit du dernier jour de la période assurée.  
+2. Pour une période d’une année, renouvelable par tacite reconduction. Dans ce cas, le contrat est résiliable à la fin de chaque année d’assurance, à charge pour la partie qui en prend l’initiative d’aviser l’autre, au moins deux mois avant l’échéance contractuelle, par voie d’huissier-notaire, par lettre recommandée avec accusé de réception, ou par notification faite contre récépissé au siège de BH Assurance ou à l’agence émettrice du contrat.  
 
- événements Les : TEMPETES 12- ,Tempêtes : suivants météorologiques cours au cyclones ,trombes ,ouragans il'qu telle violence une à vent le desquels certain un endommage ou brise ,détruit ,construction bonne de bâtiments de nombre cinq de rayon un dans .etc ,arbres'd si bien ou assuré risque du autour kilomètres ,sinistre du moment au'qu établissent faits les que caractéristiques mêmes les présentait il .dessus-ci événements des un'l de lors
+L’échéance contractuelle, qui détermine le point de départ d’une période d’assurance, est indiquée aux Conditions Particulières.
 
-### NEUF A CONSTRUCTION DE VALEUR - 13 : (Bâtiments(
+#### ARTICLE 7 : RÉSILIATION DU CONTRAT
 
-jour au reconstruction la de prix au Valeur
+Le contrat peut être résilié :  
+1. **Par le souscripteur et BH Assurance** : Dans les conditions de délai et de forme prévues par l’article 6 du présent contrat.  
+2. **Par BH Assurance** :  
+   a) Si l’assuré ne paie pas la prime, dans les conditions de délai et de forme prévues par l’article 11 du Code des Assurances.  
+   b) En cas d’aggravation du risque en cours de contrat, si l’assuré n’accepte pas l’augmentation de prime proposée par BH Assurance, dans les conditions de délai et de forme prévues par l’article 9, alinéas 1 et 2 du Code des Assurances.  
+   c) En cas d’aggravation du risque en cours de contrat, telle que, si les nouvelles circonstances avaient existé à la souscription ou au renouvellement, BH Assurance n’aurait pas envisagé de contracter (Article 9, alinéa 3 du Code des Assurances).  
+3. **Par l’assuré** : Si BH Assurance ne consent pas la diminution de prime correspondant à la diminution des risques en cours de contrat, dans les conditions de délai et de forme prévues par l’article 9, alinéa 6 du Code des Assurances.  
+4. **De plein droit** : En cas de perte totale de la chose assurée résultant d’un événement non prévu par le contrat (Article 19, alinéa 2 du Code des Assurances).  
 
-7
+En cas de résiliation au cours d’une période d’assurance, la portion de prime afférente à la période postérieure à la résiliation n’est pas acquise à BH Assurance. Elle doit être remboursée à l’assuré si elle est perçue d’avance.
 
- par charge en prise vétusté la ,sinistre du de quart au limitée toutefois étant assureur'l .reconstruction de valeur ladite
+#### ARTICLE 8 : TRANSFERT DE PROPRIÉTÉ
 
- à valeur la de base la sur indemnisation'L : seulement due est neuf
+En cas de décès de l’assuré ou d’aliénation de la chose assurée, l’assurance continue de plein droit au profit de l’héritier ou de l’acquéreur, à charge pour ceux-ci d’exécuter toutes les obligations dont l’assuré était tenu vis-à-vis de BH Assurance en vertu du contrat (Article 22 du Code des Assurances).
 
- bâtiments des reconstruction de cas En un en ou initial emplacement leur sur sinistrés .Tunisien territoire du lieu autre
+### CHAPITRE III : LES OBLIGATIONS DE L’ASSURÉ
 
- à maximum au ans deux de délai un Dans- .sinistre du date la de compter
+#### ARTICLE 9 : DÉCLARATIONS CONCERNANT LE RISQUE ET SES MODIFICATIONS
 
- modification de apporté soit il'qu Sans dits des initiale destination la à importante .bâtiments
+1. **À la souscription** : L’assuré doit répondre loyalement et avec précision à toutes les questions consignées dans le formulaire de déclaration du risque, par lequel BH Assurance l’interroge sur les circonstances qui sont de nature à lui faire apprécier les risques qu’elle prend en charge. Le présent contrat est établi sur la base des déclarations de l’assuré figurant sur le Formulaire de déclaration du risque.
 
- dispositions des 18 article'l à dérogation Par correspondant indemnité'l de part la ,générales ne Assureur'l par charge en prise vétusté la à emploi ou reconstruction après'qu payée sera apportée justification sur et indemnité'l de mémoires des ,cas le selon ,production la par de ou effectués travaux au relatifs factures et aurait présentation la dont pièce autre toute .convenue été
+2. **En cours de contrat** : L’assuré doit déclarer à BH Assurance, en cours de contrat, les nouvelles circonstances rendant inexactes les réponses figurant sur le Formulaire de déclaration du risque. Cette déclaration doit se faire par lettre recommandée dans un délai de huit jours à partir du moment où l’assuré en a eu connaissance (Article 7 du Code des Assurances).
 
-## EXCLUSIONS LES - 4 ARTICLE RISQUES LES TOUS A COMMUNES
+3. **Conséquences** :  
+   a) **Nullité du contrat pour fausse déclaration intentionnelle** : Le contrat est nul en cas de réticence ou de fausse déclaration intentionnelle de la part de l’assuré, se rapportant aux indications portées sur le Formulaire de déclaration du risque, quand cette réticence ou cette fausse déclaration a changé l’appréciation du risque assuré, alors même qu’elle n’a pas eu d’influence sur le sinistre. Il demeure entendu que la réticence ou la fausse déclaration de la part de l’assuré n’entraîne la nullité du contrat que lorsque BH Assurance prouve la mauvaise foi de l’assuré (Article 8 du Code des Assurances).  
+   b) **Résiliation du contrat pour fausse déclaration de bonne foi constatée avant sinistre** : Dans tous les cas autres que ceux visés à l’alinéa a) ci-avant, si BH Assurance constate la réticence ou la fausse déclaration avant tout sinistre, elle a le droit de résilier le contrat dix jours après notification adressée à l’assuré par lettre recommandée avec accusé de réception, sauf si l’assuré accepte une majoration de la prime d’assurance en relation avec la réalité du risque assuré. Si le contrat est résilié, BH Assurance restituera à l’assuré la portion de prime afférente à la période pendant laquelle le risque n’a pas couru (Article 8 du Code des Assurances).  
+   c) **Réduction de l’indemnité pour fausse déclaration constatée après sinistre** : Lorsque la constatation de la réticence ou de la fausse déclaration a lieu après sinistre, BH Assurance aura le droit de réduire l’indemnité en proportion de la prime payée rapportée à la prime qui aurait dû être payée s’il n’y avait pas eu réticence ou fausse déclaration (Article 8 du Code des Assurances).  
 
- guerre la par causés dommages Les - 1 mouvements et émeutes ,civile ou étrangère de ou terrorisme de actes ,populaires .sabotage
+Les dispositions des alinéas a, b et c du paragraphe 3 du présent article s’appliquent aux déclarations en cours de contrat relatives aux circonstances nouvelles visées au paragraphe 2 du présent article.
 
-: preuve la de Charge
+#### ARTICLE 10 : AGGRAVATIONS DU RISQUE
 
- résulte sinistre le que prouver doit assuré'L étrangère guerre de fait le que autre fait un'd le que prouver de assureur'l à appartient il et émeutes ,civile guerre la de résulte sinistre terrorisme de actes ,populaires mouvements .sabotage de ou
+Pour l’application du présent contrat, il faut entendre par aggravation du risque, au sens de l’article 9 du Code des Assurances, les nouvelles circonstances qui, si elles avaient existé à la souscription ou au renouvellement, l’assureur n’aurait pas contracté ou n’aurait contracté que moyennant une prime d’assurance plus élevée. Ces circonstances sont définies aux Conditions Particulières.
 
-la pendant causés dommages Les - 2
+#### ARTICLE 11 : DIMINUTION DES RISQUES
 
-8
+En cas de diminution des risques en cours de contrat, l’assuré a le droit de demander une diminution de la prime d’assurance. Lorsque BH Assurance n’accepte pas la demande de diminution, l’assuré a le droit de résilier le contrat trente jours à compter de la date de la notification de la demande de diminution, par lettre recommandée avec accusé de réception ou par déclaration faite contre récépissé aux bureaux de BH Assurance. En cas de résiliation, BH Assurance doit restituer à l’assuré la portion de prime d’assurance afférente à la période pendant laquelle le risque n’a pas couru (Article 9, alinéa 6 du Code des Assurances).
 
- ordre par assurés Biens des réquisition .locale ou nationale publique autorité une'd
+#### ARTICLE 12 : AUTRES ASSURANCES
 
- les par occasionnés dommages Les - 3 naturels cataclysmes les et catastrophes éruption ,terre de tremblement que tels( de glissement ou tassement ,volcanique ,ouragan ,marée de raz ,inondation ,terrain .(cyclones ou trombes ,tempête
+Si les risques garantis par le présent contrat sont ou viennent à être couverts par une autre assurance, l’assuré doit le déclarer à BH Assurance. Lors de cette déclaration, l’assuré doit faire connaître le nom de l’assureur avec lequel une autre assurance a été contractée et indiquer la somme assurée.  
 
- intentionnellement causés dommages Les - 4 que ainsi ,complicité sa avec ou assuré'l par il quand assuré'l de mandataires les par du preuve La .morale personne une'd agit's causé a qui acte'l de intentionnel caractère .assureur'l à incombe dommage le
+Quand plusieurs assurances sont contractées, soit à la même date, soit à des dates différentes, sans fraude, pour une somme totale supérieure à la valeur de la chose assurée, elles sont toutes valables en proportion de la part de chaque contrat dans la somme totale, sans que l’ensemble des indemnités dépasse la valeur de la chose assurée.  
 
- en assuré'l par causés dommages Les - 5 .ivresse'd état
+Il peut être stipulé aux Conditions Particulières l’adoption de la règle de l’ordre des dates ou la solidarité des assureurs (Article 18 du Code des Assurances).
 
- accidents les que ainsi dommages Les - 6 : par expert'd dire à aggravés ou causés
+#### ARTICLE 13 : PAIEMENT DE LA PRIME
 
- exploser à destinés engins ou armes Des) a de noyau du structure de modification par ; atome'l
+La prime doit être acquittée d’avance, comme indiqué aux Conditions Particulières. Elle est payable au siège social de BH Assurance ou à l’une de ses agences (Article 6 du Code des Assurances).  
 
- ou produit ,nucléaire combustible Tout) b de source autre tout ou radioactif déchet engagent qui et ionisants rayonnements exploitant un'd exclusive responsabilité la leur trouvent qui ou nucléaire installation'd de ou biens de fourniture la dans origine nucléaire installation une concernant services une directement frappant ou ,étranger'l à .nucléaire installation
+Toutefois, elle peut être payable au domicile de l’assuré ou à tout autre lieu convenu, dans les cas et conditions fixés par l’arrêté du Ministre des Finances du 02-01-1993.  
 
- ionisants rayonnements de source Toute) c ou utilisée) isotope-radio tout particulier en( installation une'd hors utilisée être à destinée personne toute ou assuré'l dont et nucléaire
+Si une prime ou une fraction de prime n’est pas acquittée :  
+- BH Assurance peut suspendre le contrat si l’assuré ne paie pas, à son échéance, la prime ou la fraction de prime.  
+- La suspension ne prend effet que vingt jours après l’envoi à l’assuré, à son dernier domicile connu par BH Assurance, par lettre recommandée avec accusé de réception, d’une mise en demeure d’avoir à payer.  
+- BH Assurance a le droit, dix jours à partir de l’expiration du délai de vingt jours fixé par l’alinéa ci-dessus, de résilier le contrat ou d’en poursuivre l’exécution en justice (Article 11 du Code des Assurances).
 
- garde la ,propriété la à répond il dont pour tenu être peut il dont ou usage'l ou de ,conception sa de fait du responsable conditionnement son de ou fabrication sa aux mention et contraire convention sauf( .(particulières conditions
+#### ARTICLE 14 : OBLIGATIONS DE L’ASSURÉ EN CAS DE SINISTRE
 
- incendie'd ceux que autres dommages Les - 7 : par causés
+En cas de sinistre, l’assuré doit :  
+1. Donner avis à l’assureur, dès qu’il en a connaissance et au plus tard dans un délai ne dépassant pas cinq jours ouvrés, de tout sinistre de nature à entraîner la garantie de l’assureur. Ce délai est ramené à deux jours ouvrés en cas de vol. L’assuré qui ne respecte pas cette obligation est déchu de son droit à l’indemnité, sauf s’il justifie qu’il a été mis, par suite d’un cas fortuit ou de force majeure, dans l’impossibilité de faire sa déclaration dans le délai imparti (Article 7, alinéa 4 du Code des Assurances).  
+2. User de tous les moyens en son pouvoir pour arrêter le progrès, sauver les objets assurés et veiller à leur conservation.  
+3. Faire parvenir à BH Assurance, dans les meilleurs délais, une déclaration indiquant les circonstances du sinistre, ses causes connues ou présumées, la nature et le montant approximatif des dommages, les garanties souscrites auprès d’autres assureurs sur les mêmes risques.  
+4. Fournir, dans un délai de 20 jours, un état estimatif, signé et certifié par lui, des objets détruits et sauvés.  
+5. Communiquer, sur simple demande de BH Assurance et sans délai, tous les documents nécessaires à l’expertise.  
+6. Transmettre à BH Assurance, dès réception, tous avis, lettres, convocations, assignations, actes extrajudiciaires et pièces de procédure qui seraient adressés, remis ou signifiés à lui-même ou à ses préposés, concernant un sinistre susceptible d’engager la responsabilité de l’assuré.  
 
- franchissement du résultant ébranlement'L) a .aéronef un par son du mur du
+Faute par l’assuré de remplir les formalités précisées aux alinéas 2 à 6 du présent article, sauf cas fortuit ou de force majeure, BH Assurance peut réclamer une indemnité proportionnée au dommage que le non-respect de ces formalités pourrait lui causer.  
 
- une dans produisant se explosion'L) b .explosifs'd dépôt un ou fabrique
+L’assuré qui, de mauvaise foi, exagère le montant des dommages, prétend détruits des objets n’existant pas lors du sinistre, dissimule ou soustrait tout ou partie des objets assurés, emploie sciemment des documents inexacts comme justification, ou use de moyens frauduleux, ou ne déclare pas l’existence d’autres assurances portant sur les mêmes risques, est entièrement déchu de tout droit à indemnité sur l’ensemble des risques sinistrés, la déchéance étant indivisible entre les diverses garanties du contrat, indépendamment des poursuites judiciaires que l’assureur pourrait engager contre lui.
 
-## ET FORMATION : Il CHAPITRE CONTRAT DU DUREE
+### CHAPITRE IV : LES OBLIGATIONS DE L’ASSUREUR
 
-## PRISE ET FORMATION - 5 ARTICLE : CONTRAT DU EFFET'D
+#### ARTICLE 15 : DÉTERMINATION DE L’INDEMNITÉ EN CAS DE SINISTRE
 
- signature sa dès parfait est contrat présent Le en pourra Assurance BH ; parties les par .exécution'l ,moment ce dès ,poursuivre effets ses produira ne assurance'l ,Toutefois première la où jour du midi à lendemain le que .Assurance BH à payée été aura prime
+Le présent contrat ne peut être une cause de bénéfice pour l’assuré, il ne garantit que la réparation de ses pertes réelles ou de celles dont il est responsable.  
 
- tout à appliquent's dispositions mêmes Les .contrat au avenant
+La somme assurée ne peut en aucun cas être considérée comme une preuve de la valeur réelle du bien endommagé. L’assuré est tenu de justifier, par tous les moyens dont il dispose, de la valeur de ce bien, ainsi que de l’importance des dommages qu’il a subis.
 
-## : CONTRAT DU DUREE - 6 ARTICLE
+Si, de mauvaise foi, l’assuré fait de fausses déclarations, exagère le montant des dommages, prétend détruits ou disparus des objets n’existant pas lors du sinistre, dissimule ou soustrait tout ou partie des objets assurés, ne déclare pas l’existence d’autres assurances portant sur les mêmes risques, emploie sciemment des documents inexacts comme justification ou use de moyens frauduleux, l’assuré est entièrement déchu de tout droit à indemnité sur l’ensemble des risques sinistrés, la déchéance étant indivisible entre les diverses garanties du contrat.
 
-: souscrit être peut contrat présent Le
+#### ARTICLE 16 : EXPERTISE ET SAUVETAGE
 
- ferme temporaire période une Pour - 1 aux mentionnée ,année une à inférieure le ,cas ce Dans .Particulières Conditions 24 à et droit plein de effets ses cesse contrat .assurée période la de jour dernier du heures
+Si les dommages ne sont pas fixés de gré à gré, une expertise amiable est toujours obligatoire, sous réserve des droits respectifs des parties.  
 
- ,année une'd période une Pour - 2 ce Dans .reconduction tacite par renouvelable chaque de fin la à résiliable est contrat le ,cas  partie la pour charge à ,assurance'd année ,autre'l aviser en'd initiative'l prend en qui ,contractuelle échéance'l avant mois deux lettre par ,notaire huissier'd voie par ou réception de accusé avec recommandée siège au récépissé contre faite notification par du émettrice agence'l à ou Assurance BH de .contrat
+Chacune des parties choisit un expert. Si les experts ainsi désignés ne sont pas d’accord, ils s’adjoignent un troisième expert. Les trois experts opèrent en commun et à la majorité des voix.  
 
- le détermine qui contractuelle échéance'L ,assurance'd période une'd départ de point .Particulières Conditions aux indiquée est
+Faute par l’une des parties de nommer son expert, ou par les deux experts de s’entendre sur le choix du troisième, la désignation sera effectuée par le président du tribunal de première instance territorialement compétent. Cette nomination est faite sur simple requête, signée des deux parties ou d’une seule, l’autre partie ayant été convoquée par lettre recommandée.  
 
-## : CONTRAT DU RESILIATION 7- ARTICLE **: résilié être peut contrat Le**
+L’expertise après sinistre, en cas d’assurance pour le compte de tiers, s’effectue avec le souscripteur du contrat.  
 
-Assurance BH et souscripteur le Par **- 1**
+Chaque partie paie les frais et honoraires de son expert et, s’il y a lieu, la moitié des honoraires du tiers expert et des frais de sa nomination.  
 
- dans ,assurance'd année chaque de fin la A prévues forme de et délai de conditions les .contrat présent du 6 article'l par
+L’assuré ne peut faire aucun délaissement des objets garantis ; le sauvetage reste à sa propriété. En cas de contestation sur sa valeur, faute d’accord sur l’estimation, la vente amiable ou la vente aux enchères du sauvetage, sur le matériel et marchandises, chacune des parties peut demander, par simple requête au président du tribunal de première instance territorialement compétent, la désignation d’un expert pour procéder à l’estimation du sauvetage.
 
-: Assurance BH Par **- 2**
+#### ARTICLE 17 : LA RÈGLE PROPORTIONNELLE
 
- les dans et prime la pas paie ne assuré'l Si) a par prévues forme de et délai de conditions .Assurances des Code du 11 Article'l
+S’il résulte, au jour du sinistre, des estimations des experts que les valeurs des biens faisant l’objet de garanties sont supérieures aux sommes assurées, l’assuré est considéré comme son propre assureur pour l’excédent et supporte une part proportionnelle des dommages, conformément à l’article 17 du Code des Assurances et à la Notice Explicative de la Règle Proportionnelle de Capitaux ci-jointe, faisant partie intégrante du présent contrat.
 
- en risque du aggravation'd cas En) b pas accepte'n assuré'l si ,contrat de cours proposée est lui qui prime de augmentation'l de conditions les dans ,Assurance BH par du 9, Article'l par prévues forme de et délai .Assurances des Code
+#### ARTICLE 18 : LES DÉLAIS DE RÈGLEMENT
 
- cours en risque du aggravation'd cas En) c circonstances les si ,que telle ,contrat de ou souscription la à existé avaient nouvelles aurait'n Assurance BH ,renouvellement au alinéa 9, Article (contracter de envisagé pas .(Assurances des Code du 3,
+Le paiement des indemnités sera effectué dans les 30 jours suivant l’accord amiable et après constitution de toutes les pièces du dossier indiquées aux Conditions Particulières.  
 
- consent ne Assurance BH Si : assuré'l Par **- 3** correspondant prime de diminution la pas de cours en risques de diminution la à de et délai de conditions les dans ,contrat
+Le versement des indemnités est subordonné à la réparation effective du dommage, sauf si ce règlement est accordé sur la base de la valeur vénale du bien endommagé.  
 
- des Code du 9, article'l par prévues forme .Assurances
+En cas d’action portée devant les tribunaux, le règlement sera effectué conformément à la procédure judiciaire en la matière.
 
-#### : droit plein De **- 4**
+#### ARTICLE 19 : SUBROGATION
 
- ,assurée chose la de totale perte la de cas En le par prévu non événement un'd résultant .(Assurances des Code du 9 1 article (contrat période une'd cours au résiliation de cas En à afférente prime de portion la ,assurance'd est'n résiliation la à postérieure période la être doit elle ,Assurance BH à acquise pas perçue est elle si ,assurée'l à remboursée .avance'd
+Une fois qu’elle a payé l’indemnité d’assurance, BH Assurance est subrogée, jusqu’à concurrence de cette indemnité, dans les droits et actions de l’assuré contre les tiers qui, par leur fait, ont causé le dommage ayant donné lieu à la responsabilité de BH Assurance.  
 
-### : PROPRIETE DE TRANSFERT - 8 ARTICLE
+Toutefois, BH Assurance n’a aucun recours contre les descendants, ascendants, alliés en ligne directe, préposés, ouvriers ou domestiques, et généralement toute personne vivant habituellement au foyer de l’assuré, sauf le cas de dommage intentionnel commis par l’une de ces personnes (Article 21 du Code des Assurances).  
 
- aliénation'd ou assuré'l de décès de cas En continue assurance'l ,assurée chose la de de ou héritier'l de profit au ,droit plein de à ,appartiendra il qui de ou acquéreur'l les toutes exécuter'd ci-ceux pour charge vis-à-vis tenu était assuré'l dont obligations Article (contrat du vertu en Assurance BH de .(Assurances des Code du 22,
+BH Assurance peut être déchargée, en tout ou en partie, de sa responsabilité envers l’assuré, quand la subrogation ne peut plus, par le fait de l’assuré, s’opérer en faveur de BH Assurance (Article 21, alinéa 2 du Code des Assurances).
 
-## OBLIGATIONS LES : Ill CHAPITRE ASSURE'L DE
+#### ARTICLE 20 : COMPÉTENCE ET PRESCRIPTION
 
-### CONCERNANT DECLARATIONS - 9 ARTICLE : MODIFICATIONS SES ET RISQUE LE
+1. **Compétence** : Les tribunaux tunisiens sont seuls compétents pour statuer sur les différends qui peuvent s’élever à propos du présent contrat. Le tribunal compétent est celui du lieu où se trouve le bien assuré.  
 
-#### : souscription la A - 1
+2. **Prescription** : Les actions dérivant du présent contrat sont prescrites après un délai de deux ans à compter de l’événement qui y donne naissance, dans les conditions déterminées par les articles 14 et 15 du Code des Assurances.
 
- avec et loyalement répondre doit assuré'L consignées questions les toutes à précision ,risque du déclaration de formulaire le dans la de lors ,interroge'l Assurance BH lequel par circonstances les sur ,contrat du souscription les apprécier faire lui à nature de sont qui .charge en prend elle'qu risques
+## TITRE II - DISPOSITIONS SPÉCIFIQUES
 
- des base la sur établi est contrat présent Le le sur figurant ,assuré'l de déclarations .risque du déclaration de formulaire
+Dans les conditions et limites prévues ci-après, chaque garantie acquise est dans la mesure où vous en avez expressément fait le choix aux Conditions Particulières. À concurrence des montants et compte tenu des franchises (somme restant toujours à votre charge en cas de sinistre) indiqués aux Conditions Particulières, elle s’applique aux locaux professionnels indiqués aux Conditions Particulières.
 
-#### : contrat de cours En - 2
+### CHAPITRE I : VOS BIENS ASSURÉS
 
- en ,Assurance BH à déclarer doit assuré'L nouvelles circonstances les ,contrat du cours le sur figurant réponses les inexactes rendant .risque du déclaration de Formulaire
+#### ARTICLE 1 : VOS LOCAUX PROFESSIONNELS
 
- lettre par faire se doit déclaration Cette jours huit de délai un dans ,recommandée eu a en assuré'l où moment du partir à des Code du 7, Article (connaissance .(Assurances
+Il s’agit des locaux dans lesquels vous exercez votre activité et dont vous êtes propriétaire (seules les parties vous appartenant en propre, ou votre quote-part des parties communes dans le cas où vous êtes copropriétaire, sont concernées ; elles sont définies au règlement de copropriété).  
 
-#### : Conséquences - 3
+- Leurs annexes affectées à votre usage (salle de repos, cuisine, bureau).  
+- Leurs dépendances et garages.  
+- Toutes leurs installations spécifiques non professionnelles (installations électriques, de chauffages, de climatisation, sanitaires, revêtement de sol, de murs, vitrines, stores, plafond, alarmes, etc.) qui vous appartiennent.  
 
- déclaration fausse pour contrat du Nullité) a : intentionnelle
+Si vous êtes locataire, nous garantissons votre responsabilité civile vis-à-vis de ces biens.  
 
- réticence de cas en nul est contrat présent Le ,intentionnelle déclaration fausse de ou aux rapportant se ,assuré'l de part la de de Formulaire le sur portées indications réticence cette quand ,risque du déclaration changé a déclaration fausse cette ou même alors ,assuré risque du appréciation'l .sinistre le sur influence sans été a elle'qu la ou réticence la que entendu demeure Il assuré'l de part la de déclaration fausse lorsque que contrat du nullité la entraîne'n de foi mauvaise la prouve Assurance BH .(Assurances des Code du 8, Article (assuré'l fausse pour contrat du Résiliation) b avant constatée ,foi bonne de déclaration : sinistre
+Les agencements et embellissements des locaux professionnels et de leurs accessoires (voir définition 7) doivent être couverts, soit en communication intérieure et privée avec les précédents, soit au titre du « contenu professionnel » et donc exclus de la présente rubrique ; ils sont couverts au titre de « Mobilier Personnel ».
 
- à visés ceux que autres cas les tous Dans constate Assurance BH si ,dessus-ci) a (alinéa avant déclaration fausse la ou réticence la le résilier de droit le a elle ,sinistre tout à adressée notification après jours dix contrat accusé avec recommandée lettre par assuré'l
+#### ARTICLE 2 : LE CONTENU DE VOS LOCAUX PROFESSIONNELS
 
- une accepte assuré'l si sauf ,réception de relation en assurance'd prime de majoration .assuré risque du réalité la avec
+- Les mobiliers et les agencements spécifiques à votre activité : meubles, rayonnages, présentoirs, enseignes.  
+- Les matériels professionnels (de magasin, d’arrière-boutique, d’atelier et de laboratoire, etc.) : les appareils électriques et électroniques nécessaires à votre activité : caisse enregistreuse, balances, rôtissoires, fours, machines et équipements, matériel informatique.  
+- Le matériel du froid : réfrigérateurs, congélateurs, présentoirs réfrigérés.  
+- Les marchandises que vous commercialisez, celles en cours de fabrication, ainsi que les matières premières que vous utilisez, les fournitures diverses et emballages.  
+- Les objets destinés à votre usage personnel ou celui de vos employés.  
+- Les fonds et valeurs : espèces monnayées, chèques, billets de banque, chèques de restaurants.  
+- Les archives :  
+  - Informatiques : tous supports (disques, disquettes, cassettes, bandes magnétiques, etc.) directement utilisables sous cette forme par le matériel informatique.  
+  - Non informatiques : registres, papiers, documents relatifs à votre activité.  
 
- restituera Assurance BH ,résilié est contrat le Si la à afférente prime de portion la assuré'l à pas a'n risque le laquelle pendant période .(Assurances des Code du 8, Article (couru
+**Sont exclus** :  
+- Les véhicules à moteur et leurs remorques, sauf convention contraire aux Conditions Particulières ou Spécifiques.  
+- Les fonds et valeurs (voir Définition 11), bijoux, perles fines et pierres précieuses, or ou argent, métaux précieux, collections numismatiques et de timbres-poste, fourrures, livres rares et manuscrits.  
+- Les modèles, dessins originaux, calques, clichés, minutes, héliographies et tous objets s’y rattachant.  
+- Les machines et appareils électroniques.
 
- fausse pour indemnité'l de Réduction**) c** : sinistre après constatée déclaration
+### CHAPITRE II : VOS GARANTIES
 
- de ou réticence la de constatation la Lorsque BH ,sinistre après lieu a déclaration fausse la indemnité'l déduire de droit le aura Assurance rapportée payée prime la de proportion en y'n il's payée être dû aurait qui prime la à déclaration fausse ou réticence eu pas avait .(Assurances des Code du 8, Article(
+#### ARTICLE 3 : L’INCENDIE ET LES ÉVÉNEMENTS ASSIMILÉS QUE BH ASSURANCE GARANTIT
 
- ,(a (alinéas 3, paragraphe du dispositions Les aux appliquent's ,article présent du ,)c (,)b( aux relatives contrat du cours en déclarations paragraphe au visées ,nouvelles circonstances .article présent du 2
+**Dommages causés par :**
 
-## AGGRAVATIONS - 10 ARTICLE
+##### A. INCENDIE
 
-## : RISQUE DU
+Par dommages d’incendie, il faut entendre tous dommages causés aux objets assurés par : conflagration, embrasement ou combustion, à l’exclusion seule de ceux occasionnés par la chaleur ou par le contact direct et immédiat du feu, s’il n’y a ni commencement d’incendie ni incendie (Article 27 du Code des Assurances).  
 
- faut il ,contrat présent du application'l Pour sens au risque du aggravation par entendre les ,Assurances des Code du 9 article'l de avaient elles si ,qui nouvelles circonstances ,renouvellement au ou souscription la à existé aurait'l ne ou contracté pas aurait'n ,assureur'l assurance'd prime une moyennant que fait définies sont circonstances Ces .élevée plus .Particulières Conditions aux
+Sont assimilés aux dommages occasionnés par l’incendie, ceux causés aux objets compris dans l’assurance, par les mesures de secours et de sauvetage (Article 28 du Code des Assurances).  
 
-## DIMINUTION - 11 ARTICLE : RISQUES DES
+Sont considérés comme dommages d’incendie, la perte ou la disparition des objets assurés survenus pendant l’incendie, à moins que BH Assurance ne prouve que cette perte ou disparition provienne d’un vol (Article 29 du Code des Assurances).  
 
- du cours en risques des diminution de cas En une demander de droit le a assuré'l ,contrat  Lorsque .assurance'd prime la de diminution de demande la pas accepte'n Assurance BH le résilier de droit le a assuré'l ,diminution de date la de compter à jours trente contrat ,diminution de demande la de notification la de accusé avec recommandée lettre par contre faite déclaration par ou réception En .Assurance BH de bureaux aux récépissé restituer doit Assurance BH ,résiliation de cas assurance'd prime de portion la assuré'l à le laquelle pendant période la à afférente alinéa 9, Article (,couru pas a'n risque
+Il est précisé que BH Assurance répond des dommages occasionnés par l’incendie même causé par un vice propre de la chose assurée (Article 30 du Code des Assurances).
 
-## .(Assurances des Code du 6,
+1. **Les dommages matériels résultant d’un incendie** :  
+   a) Aux biens immobiliers, c’est-à-dire aux immeubles, à leurs dépendances, à l’exclusion des clôtures ne faisant pas partie intégrante des bâtiments, ainsi qu’à toutes les installations qui ne peuvent être détachées sans détériorer la construction à laquelle elles sont attachées, conformément à l’article 10 du code des droits réels. La garantie est accordée à concurrence du montant réel des dommages, sans que l’indemnité puisse excéder la valeur de reconstruction de l’immeuble au jour du sinistre.  
+   b) Aux embellissements, aménagements exécutés à leurs frais par les locataires ou occupants.  
+   c) À l’ensemble du matériel, du mobilier professionnel et de l’outillage, à l’exclusion des véhicules terrestres à moteur, et aux marchandises, à tous états, fournitures, matières premières, approvisionnements se rapportant à la profession de l’assuré. La garantie est accordée à concurrence du montant réel des dommages, sans dépasser la somme fixée aux Conditions Particulières.
 
-## : ASSURANCES AUTRES - 12 ARTICLE
+2. **Les responsabilités résultant d’un incendie** :  
+   a) La responsabilité locative, c’est-à-dire les conséquences pécuniaires de la responsabilité que l’assuré peut encourir, en vertu de la législation en vigueur, comme locataire, fermier ou métayer vis-à-vis du propriétaire, pour tous dommages d’incendie.  
+   b) Le recours des voisins et des tiers, c’est-à-dire les conséquences pécuniaires de la responsabilité que l’assuré peut encourir, en vertu de la législation en vigueur, pour tous dommages matériels résultant d’un incendie survenu dans les biens assurés par le présent contrat, dans les locaux loués ou occupés par l’assuré, ou au lieu indiqué dans les Conditions Particulières.  
+   c) Le recours des locataires contre le propriétaire, c’est-à-dire les conséquences pécuniaires de la responsabilité que ce dernier peut encourir pour tous dommages matériels causés aux biens mobiliers desdits locataires, par suite de vice de construction ou de défaut d’entretien, conformément à la législation en vigueur.  
+   d) La perte de loyers du locataire, c’est-à-dire le montant des loyers dont l’assuré, comme locataire, peut être privé par suite d’un incendie pour la responsabilité qu’il peut encourir envers le propriétaire ou ses colocataires.
 
- contrat présent le par garantis risques les Si une par couverts être à viennent ou sont déclarer le doit assuré'l ,assurance autre cette de lors ,doit assuré'L .Assurance BH à de nom le connaître faire ,déclaration a assurance autre une lequel avec assureur'l .assurée somme la indiquer et contractée été
+3. **Les dommages résultant de la suite d’un incendie** :  
+   a) La privation de jouissance, c’est-à-dire la perte de valeur résultant de l’impossibilité pour l’occupant (propriétaire ou locataire) d’utiliser temporairement tout ou partie des locaux dont il a la jouissance, par suite d’un incendie.  
+   b) La perte de loyers du propriétaire, c’est-à-dire le montant des loyers dont l’assuré, comme propriétaire, peut se trouver privé par suite d’un incendie. L’indemnité est calculée sur la base du montant annuel du loyer et en proportion du temps nécessaire à la reconstruction, sans que ce délai puisse dépasser une année à compter du jour du sinistre.
 
- contractées sont assurances plusieurs Quand des à soit ,date même la à soit ,fraude sans totale somme une pour ,différentes dates ,assurée chose la de valeur la à supérieure de proportion en valables toutes sont elles somme la dans contrat chaque de part la indemnités des ensemble'l que sans ,totale peut Il .assurée chose la de valeur la dépasse du Particulières Conditions aux ,stipulé être des ordre'l de règle la de adoption'l ,contrat Article (assureurs des solidarité la ou dates .(Assurances des Code du 18
+##### B. FOUDRE ET EXPLOSIONS
 
-## : PRIME LA DE PAIEMENT LE - 13 ARTICLE
+Toutes les garanties énumérées au paragraphe A ci-avant, recours compris, sont automatiquement étendues aux dommages matériels occasionnés par :
 
- comme ,avance'd acquittée être doit prime La est Elle .Particulières Conditions aux indiqué ou Assurance BH de social siège au payable
+1. **La foudre**, c’est-à-dire la décharge électrique aérienne, dûment constatée, sur un bien assuré, qu’il s’ensuive ou non un incendie.
 
- des Code du 6 Article (agences ses de une'l à payable être peut le l e ,Toutefois .)Assurances lieu autre tout à ou assuré'l de domicile au par fixés conditions et cas les dans ,convenu 02-01- du Finances des Ministre du arrêté'l prime de fraction ou prime une si 1993.
+2. **Les explosions** : Pour l’application du présent contrat, il faut entendre par explosion toute action subite et violente de la pression ou de la dépression de gaz ou de vapeurs, que ceux-ci aient existé avant cette action ou que leur formation ait été concomitante. Sont exclus de la garantie les explosions résultant d’explosifs ou d’autres matières analogues, introduits dans les bâtiments assurés ou à leurs alentours, à l’insu de l’assuré, sauf s’il est établi que ces explosions résultent d’actes de sabotage ou de terrorisme, commis dès le cadre d’actions concertées d’émeutes, de mouvements populaires et de terrorisme.
 
-:acquittée pas est'n
+**Ce que BH Assurance peut aussi garantir** :  
+Toutes les garanties énumérées au paragraphe A de l’article 3, recours compris, peuvent être étendues, moyennant des primes distinctes et une stipulation expresse, aux Conditions Particulières, aux :
 
- contrat le suspendre peut Assurance BH la ,échéance son à ,pas paie ne assuré'l si .prime de fraction la ou prime
+1. **Dommages matériels causés** :  
+   a) Par le choc ou la chute des appareils de navigation aérienne ou des objets tombant de ceux-ci, ainsi que par l’ébranlement résultant du franchissement du mur du son.  
+   b) Par le choc d’un véhicule terrestre à moteur, non identifié ou n’appartenant pas à l’assuré.  
+   **Toutefois** : soit une destruction partielle du bâtiment garanti accompagne les verres, simples ou semi-doubles, qui seraient incorporés à la toiture, ceux-ci sont toujours exclus de la garantie grêle.
 
- vingt que effet prend ne suspension La dernier son à .,assuré'l à envoi'l après jours par et Assurance BH par connu domicile réception de accusé avec recommandée lettre .payer à avoir'd demeure en mise une'd
+2. **Dommages d’ordre électrique** :  
+   Les dommages subis par les transformateurs, appareils électriques ou électroniques, les canalisations électriques (autres que les canalisations enterrées) et leurs accessoires, appartenant à l’assuré ou confiés à l’assuré, à l’exception des dommages dus au bris de lampes, fusibles et tubes électroniques, des dommages dus à l’usure, au fonctionnement mécanique ou à un quelconque manque.
 
- de partir à jours dix ,droit le a Assurance BH par fixé jours vingt de délai du expiration'l en'd ou contrat le résilier de ,dessus-ci alinéa 11 Article (justice en exécution'l poursuivre .(Assurances des Code du
+3. **Remboursement des honoraires** :  
+   Payés par l’assuré à l’expert choisi par lui à l’occasion d’un sinistre garanti.
 
-## DE OBLIGATIONS - 14 ARTICLE : SINISTRE DE CAS EN ASSURE'L
+4. **Frais de déblais et de démolition** :  
+   Consécutifs à un sinistre garanti. Cette garantie est accordée d’office, sans surprime, dans la limite de cinq pour cent (5 %) du montant de l’indemnité payée pour les dommages réels subis par les biens assurés (indemnité des frais de déblais et de démolition incluse), sans que celle-ci puisse excéder le montant du capital assuré sur lesdits biens.
 
-: doit assuré'l ,sinistre de cas En
+**Ce qui n’est pas garanti** :  
+Outre les exclusions communes à tous les risques prévues à l’article 4 des dispositions générales, le présent contrat ne garantit pas, même s’ils sont couverts au titre de l’assurance incendie :  
+- Tous bâtiments construits ou couverts en matériaux légers, tels que bois, plaques de tôle ondulée, feutre, bitume, carton ou plastique, et ceux non entièrement clos.  
+- Tous bâtiments dont la construction est en matériaux durs (tels que pierre, briques, moellons, béton de ciment, pisé), sans aucune addition de bois, paille ou autres substances étrangères, pour moins de 50 %. Les matières plastiques ne seront jamais considérées comme matériaux durs.  
+- Les tuiles ou ardoises en recherche, ainsi que leur contenu, les vérandas, marquises, stores, enseignes, panneaux de réclame, les tentes et bâches extérieures, les antennes de F.S.T et de télévision, leurs supports et fils aériens, à moins qu’ils ne soient entièrement clos, avec portes et fenêtres placées, les contrevents, persiennes, vitres ou glaces, à moins que leur bris ne demeure.  
+- Les dommages causés par les marées exceptionnelles, hautes eaux, inondations, raz-de-marée et, plus généralement, par la mer ou autres plans d’eau naturels ou artificiels, sauf stipulation contraire aux Conditions Particulières.  
+- Les dommages d’ordre électrique ne résultant pas d’un incendie au sens de l’article 27 du Code des Assurances, subis par les transformateurs, appareils électriques ou électroniques, canalisations électriques, et leurs accessoires.  
+- Les destructions d’espèces monnayées, de billets de banque et de titres de toute nature.  
+- Le vol des objets assurés survenu pendant un incendie, la preuve du vol étant à la charge de BH Assurance.  
+- Demeurent exclus de la garantie explosions :  
+  - Les crevasses et fissures dues notamment à l’usure, aux coups de feu, à la désagrégation ou la fusion, au gel, à un réchauffement résultant d’un manque d’eau dans les tuyaux.  
+  - Les dommages corporels.  
+  - Les explosions se produisant dans une fabrique ou un dépôt d’explosifs.  
+  - Les explosions résultant d’explosifs détenus par l’assuré.
 
- eu a en il'qu dès ,assureur'l à avis Donner - 1 délai un dans tard plus au et connaissance tout de ,ouvrés jours cinq pas dépassant ne de garantie la entrainer à nature de sinistre .assureur'l
+**Limitation de la garantie** :  
+Les garanties « Tempête » et « Grêle » sont accordées sur les risques assurés en incendie, à concurrence des mêmes capitaux, sous réserve des exclusions énumérées ci-dessus et tant que celle prévue par l’article des conditions générales.  
 
- en ouvrés jours deux à ramené est délai Ce cette pas respecte ne qui assuré'L .vol de cas ,indemnité à droit du déchu est obligation suite par ,mis été a il'qu justifie il's sauf dans ,majeure force de ou fortuit cas un'd dans déclaration sa faire de impossibilité'l Code du 4, alinéa 7, Article (imparti délai le .(Assurances des
+L’indemnité par sinistre et par risque est limitée à dix mille dinars.  
 
- pouvoir son en moyens les tous de User **- 2** objets les sauver ,progrès le arrêter en pour .conservation leur à veiller et assurés
+Sont considérés comme constituant un seul et même sinistre les dégâts survenus dans les 48 heures qui suivent le moment où les biens assurés ont subi les premiers dommages.  
 
- les dans ,Assurance BH à parvenir Faire **- 3** les indiquant déclaration une ,délais meilleurs connues causes ses ,sinistre du circonstances montant le et nature la ,présumées ou garanties les ,dommages des approximatif auprès risques mêmes les sur souscrites .assureurs autres'd
+**Franchise (part des dommages restant à la charge de l’assuré)** :  
+L’assuré supportera, par sinistre et par risque, une franchise égale à 20 % du montant des dommages, avec un minimum de cinquante dinars.
 
- état un ,jours 20 de délai un dans ,Fournir **- 4** objets des ,lui par signé et certifié estimatif .sauvés et détruits
+#### ARTICLE 4 : LE VOL
 
- de demande simple sur ,Communiquer **- 5** documents tous ,délai sans et Assurance BH .expertise'l à nécessaires
+##### A. OBJET DE LA GARANTIE
 
- dès ,Assurance BH à Transmettre **- 6** ,convocations ,lettres ,avis tous ,réception pièces et extrajudiciaires actes ,assignations remis ,adressés seraient qui procédure de ,préposés ses à ou même-lui à signifiés ou engager'd susceptible sinistre un concernant .assuré'l de responsabilité la
+BH Assurance garantit l’assuré contre la disparition, la destruction ou les détériorations résultant d’un vol commis ou tenté, dans les locaux désignés au contrat, dans l’une des circonstances suivantes :  
+1. Vol commis dans les locaux entièrement clos et couverts, fermant à clé, soit avec effraction, escalade ou usage de fausses clés, soit sans effraction dans le cas où il est établi que l’acteur du vol a pénétré clandestinement dans les locaux, et sous réserve, en ce qui concerne les locaux commerciaux, que le vol ait été commis pendant les heures où ils ne sont pas sous son contrôle.  
+2. Vol accompagné de meurtre ou de tentative de meurtre, ou de violences dûment caractérisées sur la personne de l’assuré, d’un membre de sa famille ou d’une personne vivant habituellement avec elle, ou de l’un de leurs proposés.
 
- formalités les remplir de ,assuré'l par ,Faute présent du 6 à 2 alinéas aux précisées ,majeure force de ou fortuit cas sauf ,article indemnité une réclamer peut Assurance BH .causer lui pourrait formalités ces de respectnon le que dommage au proportionnée le exagère ,foi mauvaise de ,qui assuré'L détruits prétend ,dommages des montant ,sinistre du lors pas existant'n objets des des partie ou tous soustrait ou dissimule comme ,sciemment emploie ,assurés objets ou frauduleux moyens des ,justification pas déclare ne ,inexacts documents des sur portant assurances autres'd existence'l
+##### B. ÉTENDUE DE LA GARANTIE
 
- déchu entièrement est ,risques mêmes les ensemble'l sur indemnité à droit tout de indépendamment sinistrés risques des assureur'l que judiciaires poursuites des déchéance la ,lui contre engager pourrait du articles divers les entre indivisible étant .contrat
+La garantie de BH Assurance porte sur :  
+1. **Les marchandises et le matériel** : L’ensemble de ces biens est garanti à concurrence de la somme fixée aux Conditions Particulières.  
+   **Toutefois** :  
+   - L’indemnité due pour les machines à écrire, à calculer ou toute autre machine de bureau ne pourra pas excéder 10 % de la somme assurée.  
+   - L’indemnité due à la suite d’un vol des marchandises exposées dans les devantures, sans pénétration préalable dans les locaux, ne pourra pas excéder 5 % de la somme assurée.  
+2. **Les fonds et valeurs** : Les espèces monnayées, billets de banque, chèques, papiers timbrés, timbres-poste, et titres de toute nature, sont garantis seulement lorsqu’ils se trouvent dans des coffres-forts ou meubles fermés à clé, et à concurrence, par sinistre, de deux cents dinars. Il est précisé que l’assurance ne s’exerce qu’en cas d’effraction ou d’enlèvement des coffres ou meubles, et à condition que le voleur ait pénétré indûment dans les locaux assurés.  
+3. **Les détériorations immobilières** : Résultant d’un vol ou d’une tentative de vol (à l’exclusion du bris de glaces ou vitres extérieures), elles sont garanties à concurrence, par sinistre, de deux cents dinars.
 
-## OBLIGATIONS LES : IV CHAPITRE ASSUREUR'l DE
+##### C. L’INOCCUPATION DES LOCAUX ASSURÉS
 
-## DE DETERMINATION - 15 ARTICLE : SINISTRE DE CAS EN INDEMNITE'L
+Lorsque les locaux assurés restent inoccupés, la garantie cesse à partir du trente-cinquième jour d’inoccupation dans l’année d’assurance, et dans le cas où cette inoccupation aurait été supérieure à cinq semaines au cours des douze mois précédant le sinistre.  
 
- de cause une être peut ne contrat présent Le la que garantit lui ne il ,assuré'l pour bénéfice celles de ou réelles pertes ses de réparation .responsable est il dont
+Les absences de moins de trois jours consécutifs n’entrent pas en ligne de compte pour le calcul de la période d’inoccupation.  
 
- être cas aucun en peut ne assurée somme La valeur la de preuve une comme considérée tenu est Assuré'L .endommagé bien du réelle ce de valeur la ,moyens les tous par justifier à dommages des importance'l que ainsi bien .objet'l fait a il dont
+Par inoccupation, on entend l’absence simultanée, pendant plus de trois jours consécutifs, de l’assuré et de toutes les personnes qui le suivent habituellement dans le local.
 
- fausses de fait assuré'l ,foi mauvaise de ,Si des montant le exagère ,déclarations disparus ou détruits prétend dommages ,sinistre du lors pas existant'n objets des des partie ou tout soustrait ou dissimule existence'l pas déclare ne ,assurés objets mêmes les sur portant assurances autres'd des justification comme emploie risques moyens des un ou inexact documents déchu entièrement est assuré'l ,frauduleux ensemble'l sur indemnité à droit tout de étant déchéance la ,sinistrés risques des du garanties diverses les entre indivisible
+##### D. LES MESURES DE SÉCURITÉ
 
-#### .contrat
+Les locaux renfermant les biens assurés doivent être munis des dispositifs de sécurité ci-après :  
+- **Portes donnant sur l’extérieur ou sur les parties communes de l’immeuble** : Deux systèmes de fermeture dont un de sécurité, ou un verrou comportant un mécanisme à pompe ou à cylindre, ou encore à gorges mobiles, dont le nombre de ces dernières doit être supérieur à quatre.  
+- Pour les portes vitrées, l’armature, en bois ou en fer, comportant une fermeture de sûreté, doit pouvoir ne pas être manoeuvrée de l’intérieur ou de l’extérieur au moyen de la clef.  
+- Pendant toute absence, les systèmes de protection déclarés existants doivent être utilisés.  
 
-## : SAUVETAGE ET EXPERTISE - 16 ARTICLE
+En cas de sinistre résultant de l’inobservation des obligations ci-dessus indiquées, l’assureur peut réclamer une réduction de l’indemnité proportionnelle au dommage que cet état de fait a pu lui causer.
 
- gré de fixés pas sont ne dommages les Si toujours est amiable expertise une ,gré à respectifs droits des réserve sous ,obligatoire .parties des
+##### E. RISQUES EXCLUS
 
- les Si .expert un choisit partie Chaque ,accord'd pas sont ne désignés ainsi experts trois Les .expert troisième un adjoignent's ils majorité la à et commun en opèrent experts .voix des
+Indépendamment des exclusions communes à tous les risques prévues par l’article 4 des dispositions générales, BH Assurance ne garantit pas :  
+1. Les vols commis par ou avec la complicité :  
+   a) Des membres de la famille de l’assuré, c’est-à-dire le conjoint, les ascendants ou alliés au même degré, les descendants.  
+   b) Des représentants légaux de l’entreprise, si l’assuré est une personne morale.  
+   c) Des personnes habitant dans l’enceinte de l’entreprise, des locataires, locataires-sous, ou toute autre personne occupant tout ou partie des locaux enfermant les biens assurés.  
+   d) Des gérants, employés, préposés, ouvriers, et généralement toute personne chargée de la garde ou de la surveillance des locaux, à moins que les vols ne soient commis exclusivement avec effraction des fermetures des locaux et en dehors des heures de travail ou de service.  
+2. Les vols constatés après l’évacuation des locaux assurés, ordonnée par les autorités civiles ou militaires.  
+3. Les objets déposés dans les cours et jardins ou dans des réserves indépendantes, ainsi que le contenu des vitrines extérieures aux locaux assurés.
 
- son nommer de ,parties des une'l par ,Faute entendre's et experts deux les par ou ,expert sera désignation la ,troisième du choix le sur de tribunal du président le par effectuée .compétent territorialement instance première
+##### F. OBLIGATIONS DE L’ASSURÉ EN CAS DE SINISTRE
 
- ,requête simple sur faite est nomination Cette ,seulement une'd ou parties deux des signée lettre par convoquée été ayant partie autre'l sinistre après expertise'L .recommandée compte le pour assurance'd cas en ,effectue's .contrat du souscripteur le avec ,tiers de
+À défaut, l’assuré ou le souscripteur doit se conformer aux dispositions de l’article 14 des dispositions générales, et en particulier, lors de la survenance d’un sinistre, prendre les mesures suivantes :  
+1. Dans les douze heures après qu’il a eu connaissance du vol :  
+   - Prévenir la police locale.  
+2. Dans les plus brefs délais :  
+   - Former opposition, partout où il sera besoin, sur les titres et valeurs disparus ou détruits, et remplir toutes les formalités prévues par les lois et règlements en vigueur, y compris, le cas échéant, celle de protestation.  
+3. Dans les cinq jours suivant la constatation du vol :  
+   - Adresser à l’assureur l’état estimatif, s’il y a lieu, avec la liste des espèces et billets de banque, ainsi que les séries et numéros des titres et/ou valeurs volés, détruits ou détériorés.  
+   - Remettre à la police locale une copie de cet état.  
+4. Déposer une plainte aux autorités de police ou de garde nationale, si l’assureur l’exige.
 
- honoraires et frais les paye partie Chaque moitié la ,lieu a y il's ,et expert son de frais des et expert tiers du honoraires des faire peut ne assuré'L .nomination sa de le ; garantis objets des délaissement aucun de cas en même ,propriété sa reste sauvetage .valeur sa sur contestation
+##### G. RÉCUPÉRATION DES OBJETS VOLÉS
 
- vente la ,estimation'l sur accord'd Faute du ,enchères aux vente la ou ,amiable ,marchandises et matériel sur sauvetage par ,demander peut parties des chacune de tribunal du président au requête simple ,compétent territorialement instance première à procéder pour ,expert un'd désignation la
+En cas de récupération, tout ou partie, des objets volés, à quelque époque que ce soit, l’assuré ou le souscripteur doit immédiatement aviser l’assureur par lettre recommandée.  
+1. Si la récupération a lieu avant le paiement de l’indemnité, l’assuré doit reprendre possession desdits objets, et l’assureur n’est tenu qu’au paiement d’une indemnité correspondant aux détériorations éventuelles subies et aux frais que l’assuré a pu exposer utilement et/ou avec l’accord de l’assureur pour la récupération de ces objets.  
+2. Après le paiement de l’indemnité, l’assureur devient de plein droit propriétaire des objets récupérés. Toutefois, l’assuré, à la faculté de reprendre possession, moyennant la restitution de l’indemnité reçue et une indemnité calculée comme il est dit à l’alinéa précédent. L’exercice de cette faculté est subordonné à la condition que l’assuré notifie sa décision de reprise à l’assureur dans les trente jours suivant celui où il a eu connaissance de la récupération. Lorsque l’assuré vient à avoir connaissance qu’une personne détient le bien volé, il doit en aviser l’assureur dans les huit jours par lettre recommandée.
 
-.sauvetage du estimation'l
+#### ARTICLE 5 : RESPONSABILITÉ CIVILE EXPLOITATION
 
-## REGLE LA - 17 ARTICLE : PROPORTIONNELLE
+##### A. OBJET ET ÉTENDUE DE LA GARANTIE
 
- estimations des résulte il ,sinistre du jour au ,Si de objet'l faisant biens des valeurs les que sommes aux supérieures sont garantie la son comme considéré est assuré'l ,garanties supporte et excédent'l pour assureur propre ,dommages des proportionnelle part une des Code du 17, article'l à conformément la de Explicative Notice la à et Assurances ,jointe-ci Capitaux de Proportionnelle Règle .contrat présent du intégrante partie faisant
+Dans les limites prévues ci-après, BH Assurance garantit les conséquences pécuniaires de la responsabilité civile que l’assuré peut encourir, en vertu de la loi et notamment des articles 82, 93, 94, 96 et 97 du code des obligations et des contrats, pour les dommages corporels et matériels causés par un accident survenu par le fait de l’exploitation de la profession ou du commerce, désignés aux Conditions Particulières. La garantie est acquise pour les dommages causés, tant par l’assuré que par les membres de sa famille, ses associés et ses préposés, pendant qu’ils effectuent des travaux relevant de l’activité de l’entreprise, ainsi que par les apprentis lorsqu’ils se trouvent sous la surveillance de l’assuré.
 
-## :REGLEMENT DE DELAIS LES - 18 ARTICLE
+##### B. LIMITES DE LA GARANTIE
 
- effectué sera indemnités des paiement Le accord'l suivent qui jours 30 les dans les toutes de constitution après et amiable Conditions aux indiquées dossier du pièces .Particulières
+La garantie de BH Assurance s’exerce, quel que soit le nombre des victimes, par sinistre, à concurrence de :  
+- Un million de dinars pour les dommages corporels.  
+- Cent mille dinars pour les dommages matériels.
 
- subordonné est indemnités des versement Le sauf ,dommage du effective réparation la à la de base la sur accordé est règlement ce si .endommagé bien du vénale valeur
+##### C. EXCLUSIONS
 
- ,tribunaux les devant portée action'd cas En la à conformément effectué sera règlement le .matière la en judiciaire procédure
+Outre les exclusions communes à tous les risques prévues par l’article 4 des dispositions générales, BH Assurance ne garantit pas les conséquences pécuniaires des dommages corporels et matériels causés par :  
+1. Les engins, véhicules et matériels énumérés ci-après, dont l’assuré ou les personnes dont il est civilement responsable ont la propriété, la conduite, l’usage ou la garde :  
+   - Tous véhicules ou engins aériens, flottants ou maritimes.  
+   - Tous véhicules terrestres à moteur et leurs remorques, ou autres engins soumis à l’obligation d’assurance automobile, qu’ils soient ou non en circulation, y compris les dommages causés à l’occasion de leur emploi pour l’exécution d’un travail.  
+   - Les choses et animaux, que les véhicules, engins ou matériels énumérés ci-dessus transportent ou qui tombent, si ce n’est au cours d’opération de chargement ou de déchargement.  
+   - Les immeubles dont l’assuré est propriétaire, locataire ou occupant, autres que ceux mentionnés et définis à l’article 2 et aux Conditions Particulières.  
+   - Les animaux, objets, marchandises, denrées, substances ou produits, après leur livraison ou leur remise à un transporteur, à un tiers, soit à titre définitif, soit à titre provisoire, et même en cas de propriété.  
+   - Tous ouvrages ou travaux effectués par l’assuré, postérieurement à leur achèvement (qu’ils aient été réceptionnés ou non), tous ouvrages ou travaux considérés comme achevés, terminés ou durablement interrompus, la garantie cessant, en ce qui les concerne, à minuit du jour même du départ du dernier ouvrier ou du retrait du dernier matériel du chantier.  
+   - Les sous-traitants, sous-entrepreneurs, tâcherons, ou les personnes dont ils sont civilement responsables, leurs animaux, leur matériel, meubles, immeubles dont ils sont propriétaires, gardiens ou usagers.  
+2. La pollution de l’atmosphère ou des eaux.  
+3. Les dommages dont l’assuré serait rendu responsable du fait :  
+   - De toute responsabilité d’ordre contractuel, notamment de toute acceptation ou transfert de responsabilité.  
+   - D’intoxication ou d’empoisonnement provoqués par l’absorption d’aliments.  
+   - De l’organisation de foires ou expositions.  
+   - D’engins de guerre, en temps de guerre ou après la date légale de cessation des hostilités, dont l’assuré ou les personnes dont il est civilement responsable détiennent sciemment ou volontairement, et dont la détention est interdite.  
+   - Des dommages ayant pour origine un acte d’aliénation mentale.  
+   - Des dommages causés par un incendie, une explosion ou des dégâts des eaux provenant des locaux dont l’assuré est locataire, propriétaire ou occupant à un titre quelconque.  
+   - Des dommages inhérents à la nature des travaux de l’entreprise et qui sont la conséquence inévitable des modalités mêmes de l’exécution du travail.  
+   - Des dommages aux terrains, récoltes, cultures ou plantations, lorsque ces dommages sont causés soit par l’emploi de produits chimiques utilisés dans l’agriculture, soit par des animaux.  
+   - Des dommages subis par les animaux, choses (meubles ou immeubles), substances et autres, dont l’assuré ou les personnes dont il est civilement responsable, sont propriétaires, ou qu’ils ont en dépôt, en garde, en location, en prêt, ou confiés pour les utiliser, les travailler, les transformer ou les transporter dans tout autre but.
 
-## : SUBROGATION - 19 ARTICLE
+#### ARTICLE 6 : DÉGÂTS DES EAUX
 
- indemnité'l payé a qui Assurance BH concurrence à'jusqu ,subrogée est assurance'd actions et droits les dans ,indemnité cette de ,fait leur par ,qui tiers les contre assuré'l de la à lieu donné ayant dommage le causé ont .Assurance BH de responsabilité
+##### A. OBJET ET ÉTENDUE DE LA GARANTIE
 
- recours aucun a'n Assurance BH ,Toutefois alliés ,ascendants ,descendants les contre ou ouvriers ,préposés ,directe ligne en  personne toute généralement et ,domestiques ,assuré'l de foyer au habituellement vivant commis intentionnel dommage de cas le sauf du 21 article (personnes ces de une'l par .(Assurances des Code
+BH Assurance garantit l’assuré, dans les limites fixées par sinistre aux Conditions Particulières, contre les fuites accidentelles d’eau provenant des conduites non souterraines d’adduction, de distribution et d’évacuation d’eau, des appareils fixes à effet d’eau faisant partie de l’installation d’eau, et reliés à celle-ci, à l’exclusion toutefois des canalisations enterrées et des installations de chauffage central.  
 
- tout en ,déchargée être peut Assurance BH envers responsabilité sa de ,partie en ou ,plus peut ne subrogation la quand ,assuré'l de faveur en opérer's ,assuré'l de fait le par Code du 2, alinéa 21, Article (Assurance BH .(Assurances des
+Les risques assurés sont ceux énumérés ci-dessous, suivant la qualité de l’assuré :  
 
-## ET COMPETENCE - 20 ARTICLE : PRESCRIPTION
+**Si l’assuré est propriétaire occupant total** :  
+- Les biens immobiliers.  
 
- Tunisiens tribunaux les : Compétence - 1 les sur statuer pour compétents seuls sont du propos à élever's peuvent qui différends est compétent tribunal Le .contrat présent .assuré bien le trouve se où lieu du celui
+**Quelle que soit la qualité de l’assuré (propriétaire occupant ou locataire)** :  
+- Les marchandises, le matériel, les embellissements et aménagements.  
+- Les responsabilités.  
+- La privation de jouissance de l’occupant.  
+- Les honoraires d’experts.  
 
- du dérivant actions Les : Prescription - 2 un après prescrites sont contrat présent événement'l de compter à ans deux de délai conditions les dans ,naissance donne y qui Code du 15 et 14 articles les par déterminées .Assurances des
+La garantie de BH Assurance s’exerce globalement sur l’ensemble des risques assurés, à concurrence, par sinistre, de la somme fixée aux Conditions Particulières.
 
-## SPECIFIQUES DISPOSITIONS - Il TITRE
+##### B. RISQUES EXCLUS
 
- ? garanties vos appliquent's Comment la dans acquise est vous garantie Chaque le expressément fait avez en vous ou mesure .particulières conditions aux choix
+Outre les exclusions communes à tous les risques prévues à l’article 4 des dispositions générales, BH Assurance ne garantit pas :  
+1. Les dégradations et frais nécessités par la recherche des fuites ou infiltrations dans les locaux assurés, ainsi que les frais de dégorgement, de réparation ou de remplacement des conduites, robinets et appareils de l’installation d’eau, et la réparation des toitures, ciels vitrés et terrasses.  
+2. Les dommages résultant, en cas d’orage, des eaux de ruissellement, d’inondations, de refoulement ou de débordements de cours d’eau, naturels ou artificiels, d’égouts, de fosses d’aisance, ainsi que ceux occasionnés par l’humidité.  
+3. Les pertes et détériorations des espèces monnayées, bijoux, billets de banque, titres de toute nature, timbres-poste, documents, manuscrits, registres, archives, et se trouvant dans les locaux assurés.  
+4. Les dommages survenus après l’évacuation des locaux assurés, ordonnés par les autorités civiles ou militaires.  
+5. Les dommages résultant d’un défaut d’entretien permanent incombant à l’assuré.
 
-.aprèsci prévues limites et conditions les Dans -
+#### ARTICLE 7 : BRIS DE GLACES
 
- compte et montants des concurrence A toujours restant somme (franchises des tenu indiqués) sinistre de cas en charge votre à applique's Elle .particulières conditions aux professionnels locaux vos de adresse'l à .particulières conditions aux indiqués
+##### A. OBJET ET ÉTENDUE DE LA GARANTIE
 
-## ASSURES BIENS VOS : I CHAPITRE
+BH Assurance garantit à l’assuré le paiement des objets assurés ci-après, à la suite de leur bris.  
 
-## LOCAUX VOS - 1 ARTICLE : PROFESSIONNELS
+La garantie de BH Assurance porte exclusivement sur les glaces, verres, marbres désignés au formulaire de déclaration du risque.  
 
- votre exerce's lesquels locaux des agit's Il ou propriétaire êtes vous dont et activité seules ,cas ème2 ce dans (copropriétaire ou propre en appartenant vous parties les telles concernées parties des part-quote votre la de règlement au définies sont elles'qu .(garanties seront copropriété
+Sont également couverts les dommages occasionnés aux inscriptions et façonnages, mais seulement dans le cas où ces dommages sont la conséquence du bris des objets sur lesquels ils figurent.
 
- usage votre à affectées annexes Leurs - .(bureau ,cuisine ,repos de salle (personnel
+##### B. RISQUES EXCLUS
 
-.garages et dépendances Leurs -
+Indépendamment des exclusions visées à l’article 4 des dispositions générales, BH Assurance ne garantit pas :  
+1. Les miroirs à main ou portatifs, les vitraux, ainsi que les objets de verrerie d’art, tels que bocaux, globes, lustres, services de verre, ampoules électriques, etc.  
+2. Les détériorations des peintures, argentures ou gravures, les rayures ou écaillages, sous réserve des dispositions de l’alinéa 3 du paragraphe A.  
+3. Les dommages occasionnés par l’incendie, la foudre, l’explosion, la grêle, les tempêtes, ouragans, trombes ou cyclones.  
+4. Les dommages consécutifs ou au franchissement du mur du son par un avion.  
+5. Les dommages survenus au cours de tous travaux effectués sur les objets assurés et au cours de leur pose, dépose, transport ou entrepôt.  
+6. Les dommages résultant du vice de construction, du défaut d’entretien ou des encadrements ou soubassements.  
+7. En ce qui concerne les tubes luminescents : le bris résultant de l’arrachement ou de la chute des fonds métalliques supportant les tubes, les fonds métalliques eux-mêmes, le remplacement des transformateurs et de l’appareillage des tubes brûlés, ainsi que des enseignes.
 
- spécifiques non installations (leurs Toutes vous qui professionnelle activité votre à ,électriques installations (appartiennent ,climatisation de ,chauffages de ,sanitaires ,murs de ,sol de revêtement ,vitrines alarme'd .(... stores ,plafond de
+#### ARTICLE 8 : DÉFENSE ET RECOURS
 
- garantissons nous ,locataire êtes vous Si ces de vis-à-vis civile Responsabilité votre .biens
+BH Assurance indemnise, à concurrence de la somme indiquée aux Conditions Particulières, le paiement de tous frais d’expertise, d’assistance judiciaire, d’enquête, pouvant incomber à l’assuré à la suite d’un événement ou d’une responsabilité garanties par le présent contrat, et ce dans les cas suivants :  
 
- agencements et embellissements Les de professionnels locaux des) 7 définition( accessoires locaux ses de ceux et Assuré'1 avec privée et intérieure communication en soit ; couverts être doivent ,précédents les au soit » Professionnel contenu « du titre au donc sont et » Personnel Mobilier « de titre .rubrique présente la de exclus
+1. **La défense devant les tribunaux répressifs** : En cas de poursuites judiciaires devant les tribunaux correctionnels pour homicide ou blessures involontaires des salariés de l’entreprise, survenus à la suite des faits dans l’exercice des activités prévues aux garanties. Le paiement des amendes est exclu de la garantie.  
 
-## VOS DE CONTENU LE - 2 ARTICLE : PROFESSIONNELS LOCAUX
+2. **Le recours contre les auteurs responsables d’un dommage subi par l’assuré** : En cas de préjudice corporel et matériel ou immatériel subi par les personnes assurées dans l’exercice des activités prévues aux Conditions Particulières, BH Assurance s’engage, à ses frais, à exercer toutes interventions amiables ou actions judiciaires, pour obtenir du tiers responsable la réparation du préjudice subi par la victime.  
 
-spécifiques agencements les et mobiliers Les•
+L’auteur responsable doit être une personne autre que l’assuré, son conjoint, leurs ascendants, descendants, et les autres membres de sa famille ou de la famille de son conjoint vivant habituellement avec l’assuré, pendant leur service, et les salariés et préposés, à quelque titre que ce soit.  
 
- ,rayonnages ,meubles : activité votre à .enseignes ,présentoirs
+En cas de contestation, entre BH Assurance et l’assuré, sur l’opportunité d’engager ou de poursuivre une action judiciaire contre l’auteur de l’accident, les parties nomment chacune un arbitre. Si ces deux arbitres ne peuvent trouver un terrain d’entente, ils sont départagés par un tiers arbitre nommé par eux, ou, à défaut d’accord, par le président du tribunal de premières instances du domicile de l’assuré.  
 
- ,magasin de (professionnels matériels Les de et atelier'd ,boutique-arrière'd électriques appareils les et .etc laboratoire activité votre à nécessaires électroniques et ,rôtissoires ,balances ,enregistreuse Caisse : matériel et équipements ,machines ,fours .informatique
+Chaque partie supporte les honoraires de son arbitre et la moitié de ceux du tiers arbitre.  
 
- ,réfrigérateurs : froid du matériel Le .réfrigérés présentoirs ,congélateurs
-
- ,commercialisez vous que marchandises Les• les que ainsi fabrication de cours en celles les ,utilisez vous que premières matières .diverses fournitures et emballages
-
- personnel usage votre à destinés objets Les• .employés vos de celui ou
-
- ,monnayées espèces : valeurs et fonds Les• chèques ,chèques ,banques de billets .restaurants
-
-: archives Les•
-
- bandes (supports tous : Informatiques - ,cassettes ,disquettes ,disques ,magnétiques directement informatiques'd porteur) .etc matériel le par forme cette sous utilisables .informatique
-
- ,papiers ,registres : informatiques Non - .activité votre à relatifs documents
-
-: exclus Sont
-
- ,remorques leurs et moteur à véhicules Les - Conditions aux contraire convention sauf .Particulières ou Spécifiques
-
- ,bijoux ,)11 Définition (valeurs et fonds Les en objets ,précieuses pierres et fines perles collections ,précieux métaux ou argent ,or
-
- ,poste-timbre de et numismatiques .rares livres et fourrures ,manuscrits
-
- ou originaux (dessins les ,modèles Les ,calques ,clichés ,minutes ,fabrication .(rattachant y's objets tous et héliographies
-
-.électroniques appareils et machines Les -
-
-GARANTIES VOS : Il CHAPITRE
-
-## LES ET INCENDIE'L - 3 ARTICLE BH QUE CE ASSIMILES EVENEMENTS : GARANTIT ASSURANCE
-
-: par causés Dommages Les -
-
-#### : INCENDIE - A
-
- incendie'd dommages par entendre faut Il assurés objets aux causés dommages tous : par
-
- ,combustion ou embrasement ,conflagration seule la par occasionnés ceux de exclusion'l à direct contact le par ou chaleur la de action ,incendie ni eu a y'n il's ,feu du immédiat et du 27 article (incendie'd commencement ni aux assimilés Sont .)Assurances des Code ceux incendie'l par occasionnés dommages ,assurance'l dans compris ,objets aux causés sauvetage de mesures les par et secours le par .(Assurances des Code du 28 article(
-
- ,incendie'd dommages comme considérés Sont assurés objets des disparition la ou perte la que moins à ,incendie'l pendant survenus ou perte cette que prouve ne Assurance BH du 29 article (vol un'd provienne disparition .(Assurances des Code
-
- des répond Assurance BH que précisé est Il même incendie'l par occasionnés dommages assurée chose la de propre vice un par causé .(Assurances des Code du 30 article(
-
-### un'd résultant matériels dommages Les - 1 : causé incendie
-
- aux dire-à-est'c ,immobiliers biens Aux) a exclusion'l à ,dépendances leurs à ,immeubles intégrante partie pas faisant ne clôtures des installations les toutes à'qu ainsi ,bâtiments des bâtiments des détachées être peuvent ne qui la détériorer sans ou détériorées être sans sont elles laquelle à construction la de partie code du 10 article'l à conformément attachées à accordée est garantie La .réels droits des ,dommages des réel montant du concurrence valeur la excéder puisse indemnité'l que sans du jour au immeuble'l de reconstruction de .sinistre
-
- aménagements ,embellissements Aux) b ou locataires les par frais leurs à exécutés ; occupants
-
- professionnel mobilier matériel du ensemble'l A véhicules des exclusion'l à outillage'l de et à marchandises Aux ; moteur à terrestres fournitures ,premières matières ,états tous à rapportant se approvisionnements et est garantie La ; assuré'l de profession la des réel montant du concurrence à accordée fixée somme la dépasser sans ,dommages .particulières conditions aux
-
-### un'd résultant responsabilités Les - 2 :incendie
-
- les dire-à-est'c ; locative responsabilité La) a responsabilité la de pécuniaires conséquences la de vertu en ,encourir peut assuré'l que ,locataire comme ,vigueur en législation ,propriétaire du vis -à-vis métayer ou fermier ; incendie'd dommages tous pour
-
- la de pécuniaires conséquences les dire-àest'c ,tiers des et voisins des recours Le) b
-
- ,encourir peut assuré'l que responsabilité pour ,vigueur en législation la de vertu en un'd résultant matériels dommages tous par assurés biens les dans survenu incendie ou loués locaux les dans ou contrat présent le les dans indiqué lieu au ,assuré'l par occupés ; Particulières Conditions
-
- le contre locataires des recours Le) c conséquences les dire-à-est'c ,propriétaire dernier ce que responsabilité la de pécuniaires matériels dommages tous pour ,encourir peut dits des mobiliers biens aux causés incendie'd construction de vice de suite par ,locataires la à conformément ,entretien'd défaut de ou .vigueur en législation
-
- dire-à-est'c ,locataire du loyers de perte La) d comme ,peut assuré'l que responsabilité la la à propriétaire le envers encourir ,locataire loyers des montant le pour incendie un'd suite .colocataires ses de
-
-### un'd suite la à ,résultant dommages Les 3- : de ,incendie
-
- la dire-à-est'c ,jouissance de privation La) a impossibilité'l de résultant valeur de perte (locataire ou propriétaire (occupant'l pour un'd suite par ,temporairement utiliser'd à il dont locaux des partie ou tout ,incendie ; jouissance la
-
- ,peut assuré'l dont loyers des montant le direà-est'c ,propriétaire du loyers de perte La) b suite par privé trouve se ,propriétaire comme base la sur calculée est indemnité'L .incendie'd proportion en et loyer du annuel montant du sans ,reconstruction la à nécessaire temps du à année une dépasser puisse délai ce que .sinistre du jour du compter
-
-### EXPLOSIONS ET FOUDRE - B
-
- au énumérées garanties tes Toutes sont ,compris recours ,avant ci A paragraphe dommages aux étendues automatiquement : par occasionnés matériels
-
- la de choc le dire-à-est'c ,foudre La - 1 dûment ,aérienne électrique décharge soit ne il'qu sans ,assuré bien un sur ,constaté .incendie un'd suivi
-
- présent du application'l Pour : explosions Les - 2 toute ,explosion par ,entendre faut il ; contrat ou pression la de violentes et subite action que ,vapeurs de ou gaz de dépression la de que ou action cette avant existé aient ci-ceux Sont .concomitante été ait lui formation leur explosifs'd résultant explosions les garanties ,insu'l à ,qui analogues matières autres'd ou ou assurés bâtiments les dans introduits serait que établi est il's sauf ; alentours leurs à placés ,sabotage de actes'd résultant explosions ces actions'd cadre le dès commis ,terrorisme des sabotage de et terrorisme de concertées .populaires mouvements et émeutes
-
-## AUSSI PEUT Assurance BH QUE CE : GARANTIR
-
- au énumérées garanties les Toutes compris recours 3, article'l de A paragraphe des moyennant ,étendues être peuvent; aux expresse stipulation et distinctes primes : aux ,Particulières Conditions
-
-### : causés matériels Dommages - 1
-
- appareils des chute la ou choc le Par) a ces de partie ou ,aérienne navigation de ,ci-ceux de tombant objets'd ou appareils résultant ébranlement'l par que ainsi ; son du mur du franchissement du
-
- moteur à terrestre véhicule un'd choc le Par) b ou assuré'l à pas appartenant'n ,identifié
-
- partielle destruction une'd accompagné soit verres les ,Toutefois .garanti bâtiment du seraient qui doubles-semi ou simples exclus toujours sont ,toiture la à incorporés .grêle garantie la de
-
- marées les par causés dommages Les- ,inondations ,eaux hautes ,exceptionnelles par ,généralement plus ,et marée de raz ou naturels eau'd plans autres ou mer la .artificiels
-
- sauf ,pas garantit ne contrat présent Le- Conditions aux contraire stipulation : particulières
-
- ne électrique ordre'd dommages Les - 1 article'l de sens au incendie un'd pas résultant ,transformateurs les par subis ,Code du 27 électroniques ou électriques appareils et électriques canalisations ,quelconques .accessoires leurs
-
- ,monnayées espèces'd destructions Les - 2 de billets de et nature toute de titres de .banque
-
- pendant survenu assurés objets des vol Le - 3 la à étant vol du preuve la ,incendie un .Assurance BH de charge
-
-:explosions garantie la de exclus Demeurent
-
- notamment dues fissures et crevasses Les• des désagrégation la ou fusion la dire-àest'c ,feu de coups aux et usure'l à ,gel au résultant réchauffement un à suite tuyaux ; eau'd manque un'd
-
-corporels dommages Les•
-
- une dans produisant se explosions Les• ; explosifs'd dépôt un ou fabrique
-
-## explosifs'd résultant explosions Les• .assuré'l par détenus
-
-### : garantie de Limitation
-
- sont » Grêle « et » Tempête « garanties Les incendie en assurés risques les sur accordées article ,capitaux mêmes des concurrence à exclusions des réserve sous ,article par prévues celle que dessus -ci tant énumérées .générales conditions aux
-
- limitée est risque par et sinistre par indemnité'L .dinars mille dix à
-
- et seul un constituant comme considérés Sont les dans survenus dégâts les ,sinistre même biens les où moment le suivent qui heures 48 .dommages premiers les subis ont assurés
-
-## la à restant dommages des part (Franchise : (assuré'l de charge
-
- ,risque par et sinistre par ,supportera assuré'L des montant du 20% à égale franchise une cinquante de minimum un avec .,mages dom .dinars
-
-## VOL LE - 4 ARTICLE
-
-## : GARANTIE LA DE OBJET - A
-
- la contre assuré'l garantit Assurance BH détériorations les et destruction de ,disparition les dans ,tenté ou commis vol un'd résultant des une'l dans ,contrat au désignés locaux : suivantes circonstances
-
- entièrement locaux les dans commis Vol) a avec soit ,clé à fermant et couverts ,clos ,clés fausses de usage ou escalade ,effraction cas ce dans ,établi est il's effraction sans soit clandestinement pénétré a vol du acteur'l que qui ce en ,réserve sous et locaux les dans vol le que ,commerciaux locaux les concerne de heures les pendant commis été ait
-
-.contrôle son sous pas étant'n
-
- les dire-à-est'c ,grêle la et tempête la Par) c par assurés biens aux causés dommages corps un'd choc le ou vent du directe action'l ou brise ,détruit il'qu telle violence une a cicelui lorsque ,vent le par projeté ou renversé bâtiment de nombre certain un endommage autres et arbres'd ,construction bonne de kilomètres) 5 (cinq de rayon un dans ,objets contestation de cas En .assuré risque du autour assuré'l ,preuve de complément de titre à et station la de attestation une produire devra indiquant ,météologie la de proche plus de la dépassait vent le ,sinistre du moment au'qu Sont .heure kilomètres) 100 (cent de vitesse aux causés dommages les assurés également grêle la de directe action'l par assurés biens .toitures les sur
-
-#### : électrique ordre'd Dommages - 2
-
- appareils ,transformateurs les pas Subis ,quelconques électroniques ou électriques les que autres (électriques canalisation ,accessoires leurs et) enterrées canalisations à ,assuré'l à confiés ou appartenant aux causés dommages des exception'l et électroniques tubes et fusibles ,lampes de bris au ,usure'l à dûs dommages des mécanique fonctionnement un à ou machines .quelconque
-
-#### : honoraires des Remboursement - 3
-
- à lui par choisi expert'l à assuré'l par Payés .garanti sinistre un'd occasion'l
-
-### : démolition de et déblais de Frais - 4
-
- Cette .garanti sinistre un à Consécutifs et surprime sans accordée est garantie pour) 5 (cinq de limite la dans ,office'd pour ,payée indemnité'l de montant du cent  ,assurés biens les par subis réels dommages de et déblais de frais (indemnité'l que sans montant le excéder puisse) inclus démolition .biens dits les sur assuré capital du
-
-#### : GARANTI PAS EST'N QUI CE
-
- tous à communes exclusions les Outre des 4 article'l à prévues et risques les dispositions
-
- ,pas garantit ne contrat présent le ,générales assurance'l de titre au couverts il's même :incendie
-
- **ou construits ,bâtiments Tous tels légers matériaux en couverts de plaques ,bois ,ondulée tôle que ,bitume ,feutre ou carton ,plastique non ceux et roseaux ou paille .clos entièrement**
-
- desquels construction la dans bâtiments Tous- ,briques ,pierre que tels (durs matériaux les de pisé ,ciment de béton fer ,moellons aucune sans ,argile'd pisé ou mâchefer substances autres ou paille ,bois de addition 50% de moins pour entrent ,)étrangères jamais seront ne plastiques matières les .durs matériaux comme considérées
-
- les ,recherche en ardoises ou tuiles Les- ,contenu leur que ainsi vérandas marquises panneaux les ,enseignes les ,stores les ainsi ,tentes et extérieures bâches les ,réclame les ,télévision de et F.S.T de antennes les que bâtiments les ,supports leurs et aériens fils à ,réfection de ou construction de cours en et clos entièrement soient ne ils'qu moins placées fenêtres et portes avec couverts ,persiennes ,contrevents les ,demeure à ne bris leur que moins à ,glaces ou vitres
-
- partielle destruction une'd accompagné soit verres les ,Toutefois .garanti bâtiment du seraient qui doubles-semi ou simples exclus toujours sont ,toiture la à incorporés .grêle garantie la de
-
- marées les par causés dommages Les- ,inondations ,eaux hautes ,exceptionnelles par ,généralement plus ,et marée de raz ou naturels eau'd plans autres ou mer la .artificiels
-
- sauf ,pas garantit ne contrat présent Le- Conditions aux contraire stipulation : particulières
-
- ne électrique ordre'd dommages Les - 1 article'l de sens au incendie un'd pas résultant ,transformateurs les par subis ,Code du 27 électroniques ou électriques appareils et électriques canalisations ,quelconques .accessoires leurs
-
- ,monnayées espèces'd destructions Les - 2 de billets de et nature toute de titres de .banque
-
- pendant survenu assurés objets des vol Le - 3 la à étant vol du preuve la ,incendie un .Assurance BH de charge
-
-:explosions garantie la de exclus Demeurent
-
- notamment dues fissures et crevasses Les• des désagrégation la ou fusion la dire-àest'c ,feu de coups aux et usure'l à ,gel au résultant réchauffement un à suite tuyaux ; eau'd manque un'd
-
-corporels dommages Les•
-
- une dans produisant se explosions Les• ; explosifs'd dépôt un ou fabrique
-
-## explosifs'd résultant explosions Les• .assuré'l par détenus
-
-### : garantie de Limitation
-
- sont » Grêle « et » Tempête « garanties Les incendie en assurés risques les sur accordées article ,capitaux mêmes des concurrence à exclusions des réserve sous ,article par prévues celle que dessus -ci tant énumérées .générales conditions aux
-
- limitée est risque par et sinistre par indemnité'L .dinars mille dix à
-
- et seul un constituant comme considérés Sont les dans survenus dégâts les ,sinistre même biens les où moment le suivent qui heures 48 .dommages premiers les subis ont assurés
-
-## la à restant dommages des part (Franchise : (assuré'l de charge
-
- ,risque par et sinistre par ,supportera assuré'L des montant du 20% à égale franchise une cinquante de minimum un avec .,mages dom .dinars
-
-## VOL LE - 4 ARTICLE
-
-## : GARANTIE LA DE OBJET - A
-
- la contre assuré'l garantit Assurance BH détériorations les et destruction de ,disparition les dans ,tenté ou commis vol un'd résultant des une'l dans ,contrat au désignés locaux : suivantes circonstances
-
- entièrement locaux les dans commis Vol) a avec soit ,clé à fermant et couverts ,clos ,clés fausses de usage ou escalade ,effraction cas ce dans ,établi est il's effraction sans soit clandestinement pénétré a vol du acteur'l que qui ce en ,réserve sous et locaux les dans le que ,commerciaux locaux les concerne de heures les pendant commis été ait vol
-
-.public au fermeture
-
- de tentative ,meurtre de accompagné Vol) b sur caractérisés dûment violences ou meurtre sa de membre un'd ,assuré'l de personne la une'd ou ,proposés leur de un'd ou famille .elle avec habituellement vivant personne
-
-#### : GARANTIE LA DE ETENDUE - B
-
-: sur porte Assurance BH de garantie La
-
-#### : matériel le et marchandises Les) a
-
- à garantis sont biens ces de ensemble'L conditions aux fixée somme la de concurrence .particulières
-
-: Toutefois
-
- ,écrire à machines les pour due indemnité'L - ,bureau de machine autre toute ou ,calculer à somme la de % 10 excéder pas pourra ne .assurée
-
- des vol un'd suite la à due indemnité'L - ,devantures les dans exposées marchandises ,locaux les dans préalable pénétration sans somme la de % 5 excéder pas pourra ne .assurée
-
- ,caisse en espèces les : Valeurs et Fonds Les) b sont ,nature toute de titres ,acquit'd et postetimbres ,timbrés papiers ,banque de billets dans trouvent se ils'lorsqu seulement garantis à et clé à fermés meubles ou forts-coffres les .dinars cent deux de ,sinistre par ,concurrence exerce's ne assurance'l que précisé est Il de enlèvement'd ou effraction'd cas en'qu le que condition à et meubles ou coffres ces locaux les dans indûment pénétré ait voleur .assurés
-
- résultant immobilières détériorations Les) c exclusion'l à (vol de tentative une'd ou vol un'd sont) extérieures vitres ou glaces de bris des deux de ,sinistre par ,concurrence à garanties .dinars cent
-
-### :ASSURES LOCAUX DES INOCCUPATION'L - C
-
- ,inoccupés restent assurés locaux les Lorsque trente du partir à cesse garantie la année'l dans inoccupations'd jour cinquième cette où cas le dans que ainsi ,assurance'd pendant ,supérieure été aurait inoccupation cinq à ,sinistre le précédant mois douze les .semaines
-
- jours trois de moins de absences Les compte de ligne en pas entrent'n consécutifs .inoccupation'd période la de calcul le pour
-
- absence'l inoccupation par entend On jours trois de plus pendant ,simultanée les toutes de et assuré'l de ,consécutifs lui avec habituellement suivent qui personnes .local le dans
-
- locaux les : SECURITE DE MESURES LES - D être doivent assurés biens les renfermant : après-ci sécurité de dispositifs des munis
-
- les sur ou extérieur'l sur donnant Portes - : immeuble'l de communes parties
-
- moins ou dont fermeture de systèmes Deux - .sécurité de un
-
- de fermeture de système par entend On comportant verrou un ou serrure une sécurité ou cylindre à ou pompe à mécanisme un le que autant pour mobiles gorges à encore à supérieures soit dernières ces de nombre .quatre
-
- une comportant vitrées portes les Pour de système le ,fer en ou bois en armature être pouvoir doit ne sûreté de fermeture extérieur'l de ou intérieur'l de ,manœuvré .clef la de moyen au'qu
-
-ou dispositifs les absence toute Pendant
-
- existants déclarés protection de systèmes .utilisés être doivent
-
- inobservation'l de résultant sinistre de cas En assureur'l ,indiquées dessus-ci obligations des ,indemnité'l de réduction une réclamer peut cet que dommage au proportionnelle sera qui .causé a lui fait de état
-
-### : EXCLUS RISQUES LES - E
-
- communes exclusions des Indépendamment 4 article'l par prévues et risques les tous à ne Assurance BH ,générales dispositions des : pas garantit
-
-:complicité la avec ou par commis vols Les) a ,assuré'l de famille la de membres Des ou ,descendants les ,conjoint le dire-à-est'c
-
-.degré même au alliés les ou ascendants
-
- si ,entreprise'l de légaux représentants Des - .morale personne une est assuré'l
-
- de enceinte'l dans habitant personnes Des locataires-sous ,locataires des ,entreprise'l partie ou tout occupant personne autre ou .assurés biens les enfermant locaux des
-
- ouvriers ,préposés ,employés ,gérants Des personne toute que ainsi ,entreprise'l de surveillance la de ou garde la de chargée soient ne vols les que moins à locaux des ou travail de heures des dehors en commis effraction avec exclusivement et service de .locaux des fermetures des
-
- de évacuation'l après constatés vols Les) b ,assurés locaux les trouvent se où immeuble'l ou civiles autorités les par ordonnée .militaires
-
- et cours les dans déposés objets Les) c indépendantes réserves des dans ou jardins des contenu le que ainsi ,assurés locaux des
-
-#### .locaux ces à extérieure vitrines
-
-### DE CAS EN ASSURE'L DE OBLIGATIONS - F : SINISTRE
-
- se doit souscripteur le défaut à ou assuré'L des 14 article'l de dispositions aux conformer lors particuliers en et ,générales dispositions les prendre ,sinistre un'd survenance la de : suivantes mesures
-
-### eu a il'qu après heures douze les Dans - 1 : vol du connaissance
-
-.locale police la Prévenir
-
-#### : brefs plus les Dans - 2
-
- ,sera besoin où partout opposition Former ,détruits ou disparus valeurs et titres les sur e l compris y (formalités les toutes remplir et à prévues) protestation de celle échéant cas .vigueur en règlements et lois les ,par sujet ce
-
- la suivent qui jours cinq les Dans - 3 : vol du constatation
-
- après estimatif état'l assureur'l à Adresser montant le ,lieu a y il's ,figurer fait avoir y la que ainsi Banque de billets et espèces des ou/et titres des numéros et séries avec liste .détériorés ou détruits ,volés valeurs
-
- cet de copie une locale police la à Remettre - .état
-
- de autorités aux plainte une Déposer - 4 Assureur'l si nationale garde de ou police .exige'l
-
-: VOLES OBJETS DES RECUPERATION - G
-
- partie ou tout de récupérations cas En que époque quelque à ,volés objets des en doit souscripteur le ou assuré'l ,soit ce lettre par assureur'l immédiatement aviser : lieu a récupération la Si .recommandée
-
- assuré'l ,indemnité'l de paiement le Avant - 1 et objets dits des possession reprendre doit une'd paiement au'qu tenu est'n assureur'l détériorations aux correspondant indemnité a assuré'l que frais aux et subies éventuelles de accord'l avec ou/et utilement exposer pu .objets ces de récupération la pour assureur'l
-
- assureur'l ,indemnité'l de paiement le Après 2 objets des propriétaire droit plein de devient .récupérés
-
- reprendre en'd faculté la à assuré'l ,Toutefois la de restitution moyennant ,procession une et reçue indemnité'l entre différence alinéa'l à dit est il comme calculée indemnité est faculté cette de exercice'L précédent assuré'l que condition la à subordonné assureur'l à reprise de décision sa notifie eu a il où celui suivants jours trente les dans Lorsque .récupération la de connaissance une'qu connaissance avoir à vient assuré'l en doit il ,volé bien le détient personne lettre par jours huit les dans assureur'l aviser .recommandée
-
-## CIVILE RESPONSABILITE : 5 ARTICLE EXPLOITATION
-
-## : GARANTIE LA DE ETENDUE ET OBJET - A
-
- prévues limites les dans ,garantit Assurance BH de pécuniaires conséquences les ,après-ci en peut assuré'l que civile responsabilité la les notamment et loi la de vertu en ,courir des code du 97 et 96 94, 93, 82, articles des raison en ,contrats des et obligations par causés matériels et corporels dommages /exploitation'l de fait du survenu accident un désignés ,commerce du ou profession la de est garantie La .particulières conditions aux par tant ,causés dommages les pour ,acquise  ,famille sa de membres les par que assuré'l ils'qu pendant ,préposés ses et associés ses de activité'l de relevant travaux des effectuent ils'lorsqu apprentis les que ainsi ,entreprise'l .assuré'l de surveillance la sous trouvent se
-
-### : GARANTIE LA DE LIMITES - B
-
- par exerce's Assurance BH de garantie La ,victimes des nombre le soit que quel ,sinistre : de concurrence à
-
- dommages les pour dinars de million Un - .corporels
-
- dommages les pour dinars mille Cent - .matériels
-
-### : EXCLUSIONS - C
-
- tous à communes exclusions les Outre des 4 article'l par prévues et risques les ne Assurance BH générales dispositions pécuniaires conséquences les pas garantit causés matériels et corporels dommages des : par
-
- énumérés matériel et véhicules ,engins Les) a dont personnes les ou assuré'l dont ,après-ci ,propriété la ont responsable civilement est il : usage'l ou garde la ,conduite la
-
- tous ,aériens ou flottants ,engins Tous .maritimes ou aériens véhicules
-
- leurs et moteur à terrestres véhicules Tous à soumis engins autres ou ,remorques ils'qu ,automobile assurance'd obligation'l compris y ,circulation en non ou soient leur de occasion'l à causés dommages les .travail un'd exécution'l pour emploi
-
- ,véhicules les que animaux et choses Les - ,dessus-ci énuméré matériels ou engins ce si sauf ,tombent en qui ou transportent
-
- chargement de opération'd cours au est'n .déchargement de ou
-
- ,propriétaire est assuré'l dont immeubles Les ceux que autres ,occupant ou locataire aux mentionnés et 2 article'l à définis .particulières conditions
-
- ,marchandises ,objets ,animaux Les leur après ,produits ou substances ,denrées ou transporteur un à remise leur ,livraison titre à soit ,définitivement soit ,tiers un à .propriété de cas en même ,ce et ,provisoire
-
- par effectués travaux ou ouvrages Tous - ,achèvement leur à postérieurement assuré'l au (non ou réceptionnés été aient ils'qu considérés seront ,assurance'l de regard travaux ou ouvrages tous ,achevés comme la ,interrompus durablement ou terminés le ,concerne les qui ce en ,cessant garantie dernier du départ du minuit à même jour du matériel dernier du retrait du ou ouvrier .(chantier
-
- entrepreneurs-sous ,traitants-sous Les sont ils dont personnes les ,tâcherons ou leur ,animaux leurs ,responsables civilement meubles ,choses les ,général en ,et matériel ,propriétaires sont ils dont ,immeubles ou .gardiens ou usages
-
-.eaux des ou atmosphères'l de pollution La également pas garantit ne Assurance BH) b rendu serait assuré'l dont dommages Les : : fait du ,responsable
-
- contractuel ordre'd responsabilité toute De transfert ou acception toute de notamment et .responsabilité de
-
- ,empoisonnent'd ou intoxication'D - .aliments'd absorption'l par provoqués
-
-.expositions ou foires de organisation'l De -
-
- guerre de temps en ,guerre de engins'D des cessation de légale date la auprès ou détention la dont guerre de engins'd hostilités personnes les ou assuré'l dont et interdite est seraient responsable civilement est il dont ou détenteurs ou possesseurs sciemment .volontairement manipuleraient ils'qu
-
- acte un origine pour ayant dommages Les) c .mentale aliénation'd
-
- ,incendie un par causés dommages Les) d provenant eaux'd dégâts des ou explosion ,locataire est assuré'l dont locaux des titre un .à occupant ou propriétaire .quelconque
-
- nature la à inhérents dommages Des) e sont qui et entreprise'l de travaux des même modalités des inévitable conséquence la .travail du exécution'd
-
- ,récoltes ,terrains aux dommages Des) f ces lorsque ,plantations ou cultures ,animaux des par soit causés sont dommages produits de assuré'l par ,emploi'l par soit .agriculture'l dans utilisés chimiques
-
- ,animaux les par subis dommages Des) g et meubles (choses autres ou substances personnes les ou assuré'l dont ,)immeubles sont responsable civilement est il dont en ,dépôt en ont ils'qu ou propriétaires sont leur qui ou prêt en ,garde en ,location
-
- les ,travailler les ,utiliser les pour confiés tout dans ou transporter les ,transformer .but autre
-
-## EAUX DES DEGATS : 6 ARTICLE
-
-### : GARANTIE LA DE ETENDUE OBJET - A
-
- limites les dans assuré'l garantit Assurance BH ,particulières conditions aux sinistre par fixées provenant accidentelles eau'd fuites les contre ,adduction'd souterraines non conduites des des ,eau'd évacuation'd et distribution de partie faisant eau'd effet à fixes appareils des et ,ci-celle à reliés eau'd installation'l de exclusion'l à ,central chauffage de installations .enterrées canalisations des toutefois
-
-: assuré'l de qualité la suivant ,dessousci énumérés ceux sont assurés risques Les
-
-### : total occupant propriétaire est assuré'l Si
-
-.immobiliers biens Les -
-
- assuré'l de qualité la soit que Quelle : (occupant propriétaire ou locataire(
-
- les ,matériel ,marchandises Les- .aménagements et embellissements
-
- responsabilités les - .jouissance de privation La - .occupant'l de
-
-.experts'd honoraires Les -
-
- exerce's Assurance BH de garantie La risques des ensemble'l sur globalement de ,sinistre par ,concurrence à'jusqu ,assurés .particulières conditions aux fixée somme la
-
-### : EXCLUS RISQUE - B
-
- tous à communes exclusions les Outre des 4 article'1 à prévues et risques les ne Assurance BH générales dispositions : pas garantit
-
-nécessités frais et dégradations Les) a
-
- infiltrations ou fuites de recherche la par les que ainsi ,assurés locaux les dans ou réparation de ,dégorgement de frais robinets ,conduites des remplacement de la et eau'd installation des appareils et et vitrés ciels ,toitures des réparation .terrasses
-
- en même ,résultant dommages Les) b ,ruissellement de eaux des ,orage'd cas de ,refoulement de et inondations'd étendues'd ,eau'd cours de débordements de ou artificielles ou naturelles eaux'd fosses ,égouts ,souterraines canalisations par occasionnés ceux que ainsi ,aisance'd .humidité'l
-
- espèces des détériorations et pertes Les) c ,banque de billets ,bijoux ,monnayées toute de valeurs et titres ,poste -timbres registres ,manuscrits ,documents ,nature locaux les dans trouvant se ,archives et .assurés
-
- évacuation'l après survenus dommages Les) d locaux les trouvent se où immeuble'l de civiles autorités les par ordonnés ,assurés .militaires ou
-
- défaut un'd résultant dommages Les) e .assuré'l à incombant ,permanent entretien'd
-
-## GLACES DE BRIS : 7 ARTICLE
-
-## : GARANTIE LA DE ETENDUE ET OBJET) A
-
- paiement le ,assuré'l à ,garantit Assurance BH leur de suite la à ,après-ci assurés objets des .bris
-
- porte Assurance BH de garantie La marbres ,verres ,glaces les sur exclusivement
-
- déclaration de formulaire au désignés objets et .risque du
-
- dommages les couverts également Sont ,façonnages et inscriptions aux occasionnés dommages ces où cas le dans seulement mais sur objets des bris du conséquence la sont .figurent ils lesquels
-
-### : EXCLUS RISQUE) B
-
- à visées exclusions des Indépendamment BH ,générales dispositions des 4 article'l : pas garantit ne Assurance
-
- vitraux les ,portatifs ou main à miroirs Les) a de verrerie de objets les que ainsi ,art'd ,lustres ,globes bocaux que tels ,sortes toutes .etc ,verre de services ,électriques ampoules
-
- ,peintures des détériorations Les) b ou rayures les ,gravures ou argentures dispositions des réserve sous ,écaillements .A paragraphe du 3 alinéa'l de
-
- ,incendie'l par occasionnés dommages Les) c ,tempêtes les ,grêle la ,foudre la ,explosion'l .. cyclones ou trombes ,ouragans
-
- ou consécutifs dommages Les) d .avion un par son du mur du franchissement tous de cours au survenus dommages Les) e au et assurés objets les sur effectués travaux ou transport ,dépose ,pose leur de cours .entrepôt
-
- de vice du résultant dommages Les) f des entretien'd défaut ou construction .soubassements ou encadrements
-
- luminescents tubes les concerne qui ce En) g la de ou arrachement'l de résultant bris les : les supportant métalliques fonds des chute les ,mêmes-eux métalliques fonds les ,tubes des appareillage'l et transformateurs des remplacement le que ainsi ,enseignes .brûlés tubes
-
-## RECOURS ET DEFENSE : 8 ARTICLE
-
- la de concurrence à indemnise Assurance BH ,particulières conditions aux indiquée somme ,enquête'd frais tous de paiement le pouvant ,judiciaire assistance'd ,expertise'd événement un'd suite la à ,assuré'l à incomber le par garanties responsabilité une' d ou : suivants cas les dans ce et contrat présent
-
- répressifs tribunaux les devant défense La - 1 les devant judiciaires poursuites de cas En : ou homicide pour correctionnels tribunaux ou tiers des vis-à-vis involontaires blessures des suite la à entreprise'l de salariés des activités des exercice'l dans survenus faits .garanties
-
- la de exclu est amendes des paiement Le .garantie
-
-### responsables auteurs les contre recours Le - 2 : assuré'l par subi dommage un'd
-
- et matériel corporel préjudice de cas En assurées personnes les par subi immatériel aux prévues activités des exercice'l dans Assurance BH ,particulières conditions toutes ,frais ses à ,exercer à engage's judiciaires actions ou amiables interventions la ,responsable tiers du ,obtenir'd vue en .victime la par subi préjudice du réparation
-
- personne une être doit responsable auteur'L leurs ,conjoint son ,assuré'l que autre descendants Souscripteur Le et ascendants la pas ayant'n ou ayant ,conjoints leurs et sa de membres autres les ,assuré'd qualité
-
- vivant conjoint son de famille la de ou famille pendant ,et assuré'l avec habituellement à préposés et salariés les ,service leur contestation de cas En .titre quel importe'n sur portant ,assuré'l et Assurance BH entre une poursuivre de ou engager'd opportunité'l ,accident'l de auteur'l contre judiciaire action .arbitre un chacune nomment parties les
-
- trouver peuvent ne ils's ,arbitres deux Ces par départagés sont ,entente'd terrain un défaut à ,ou eux par nommé arbitre tiers un  de tribunal du président le par ,accord'd .assuré'l de domicile du instances premières
-
- son de honoraires les supporte partie Chaque .arbitre tiers du ceux de moitié la et arbitre
-
- ,arbitres des défavorable avis'l malgré ,Si une obtient et compte son à plaide assuré'l par proposée celle que favorable plus solution remboursera lui Assurance BH ,arbitres les présente La .justification sur engagés frais les cinq de concurrence à accordée est garantie .sinistre par dinars cents
+Si, malgré l’avis défavorable des arbitres, l’assuré plaide à son compte et obtient une solution plus favorable que celle proposée par les arbitres, BH Assurance lui remboursera, sur justification, les frais engagés. La garantie est accordée à concurrence de cinq cents dinars par sinistre.
 
 #### CONSENTEMENT DE CLAUSE
 
- données mes de traitement du informé être déclare je ,personnel caractère à données des protection la sur portant 2004, juillet 27 du °2004-63n organique loi la à Conformément .Assurance BH par établi assurance'd contrat un'd souscription la de cadre le dans formulaire présent du niveau au renseignées personnelles
+Conformément à la loi organique n°2004-63 du 27 juillet 2004 portant sur la protection des données personnelles, je déclare être informé du traitement de mes données personnelles renseignées au niveau du présent formulaire dans le cadre de la souscription d’un contrat d’assurance établi par BH Assurance.  
 
- pour inutiles deviennent elles'lorsqu ou collectées été ont elles lesquelles pour finalités des réalisation de cas en et personnelles données mes de traitement au expressément consens Je .détruites verront se dernières ces ,Assurance BH de activité'l
+Je consens expressément au traitement de mes données personnelles et, en cas de réalisation des finalités pour lesquelles elles ont été collectées ou lorsqu’elles deviennent inutiles pour l’activité de BH Assurance, ces dernières seront détruites. De même, je déclare être informé de mon droit d’accès, de rectification de mes données personnelles et de mon droit d’opposition au traitement de ces dernières, ainsi que de porter plainte auprès de l’INPDP pour toute violation constatée.
 
- droit mon que ainsi dernières ces de traitement au opposition'd droit mon de et personnelles données mes de rectification de ,accès'd droit mon de informé être déclare je ,même De .constatée violation toute pour INPDP'l de auprès plainte porter de
+**SOUSCRIPTEUR : APPROUVÉ ET LU**
 
-عمال بأحكام القانون األساسي عدد 63ـ2004 املؤرخ يف 27 جويلية 2004 واملتعلق بحماية املعطيات الشخصية أصرح بعلمي التام بعملية معالجة معطياتي الشخصية املذكورة يف هذه املطبوعة يف إطار اكتتاب عقد تأمين من طرف BH تأمين.
+**BH ASSURANCE**
 
-أوافق صراحة ىلع معالجة معطياتي الشخصية ويف صورة تحقق الغرض الذي جمعت من أجله أو يف صورة ما إذا لم تعد ضرورية لنشاط شركة BH تأمين، يتم القيام بإتالفها. كما أصرح بأني ىلع علم بحقي يف النفاذ إلى معطياتي الشخصية وتصحيحها وحقي يف االعتراض ىلع معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية املعطيات الشخصية يف صورة عدم حمايتها.
+#### NOTICE DE LA RÈGLE PROPORTIONNELLE DE CAPITAUX
 
-ASSURANCE BH
+**Cher Client,**
 
-## SOUSCRIPTEUR APPROUVÉ ET LU
+Afin de respecter l’article 17 du Code des Assurances, nous attirons votre aimable attention sur le fait que votre contrat comporte la règle proportionnelle de capitaux.
 
-![](_page_28_Picture_0.jpeg)
+**QU’EST-CE QUE LA RÈGLE PROPORTIONNELLE DE CAPITAUX ?**
 
-### NOTICE DE LA REGLE PROPORTIONNELLE DE CAPITAUX
+C’est le principe en vertu duquel, s’il résulte de l’estimation des experts que la valeur, telle que définie aux Conditions Générales, de la chose assurée excède, au jour du sinistre, la somme garantie, vous seriez considéré comme restant votre propre assureur pour l’excédent et supporterez une part proportionnelle du dommage. C’est-à-dire : Si vous garantissez les biens assurés pour une somme inférieure à sa valeur réelle, vous ne serez indemnisé, en cas de sinistre couvert, que dans le rapport :
 
-Cher Client.
+**Valeur assurée sur le bien / Valeur réelle du bien**
 
-Afin de respecter l'article 17 du Code des Assurances, nous attirons votre aimable attention que votre contrat comporte la règle proportionnelle de capitaux.
+**EXEMPLE D’APPLICATION DE LA RÈGLE PROPORTIONNELLE DE CAPITAUX**
 
-## QU'EST-CE QUE LA REGLE PROPORTIONNELLE DE CAPITAUX ?
+Supposons un bien d’une valeur de cinq cent mille dinars (500 000 DT), assuré pour une somme insuffisante de deux cent cinquante mille dinars (250 000 DT).
 
-C'est le principe en vertu duquel, s'il résulte de l'estimation des experts que la valeur, telle que définie aux Conditions Générales, de la chose assurée excède, au jour du sinistre, la somme garantie, vous seriez considéré comme restant votre propre assureur pour l'excèsdent et supporterez une part proportionnelle du dommage. C'est-à-dire : Si vous garantissez les biens assurés pour une somme inférieure à sa valeur réelle, vous ne serez indemnisé, en cas de sinistre couvert, que dans le rapport :
+1. **Hypothèse de sinistre partiel ayant causé des dommages estimés, par exemple, à 100 000 DT** :  
+   L’indemnité est calculée comme suit :  
+   Dommages × (Capital assuré / Valeur réelle)  
+   Soit : 100 000 DT × (250 000 DT / 500 000 DT) = 50 000 DT  
+   D’où une perte non indemnisée de 50 000 DT.
 
-## VALEUR ASSUREE SUR LE BIEN
+2. **Hypothèse de sinistre total (les dommages s’élèvent donc à 500 000 DT)** :  
+   Indemnité :  
+   Soit : 500 000 DT × (250 000 DT / 500 000 DT) = 250 000 DT  
+   D’où une perte non indemnisée de 250 000 DT.
 
-### VALEUR REELLE DU BIEN
-
-## EXEMPLE D'APPLICATION DE LA RÈGLE PROPORTIONNELLE DE CAPITAUX
-
-Supposons un bien d'une valeur de cinq cent mille dinars (500.000 Drs), assurées pour une somme insuffisante de deux cent cinquante mille dinars (250.000 Drs).
-
-### A / HYPOTHESE DE SINISTRE PARTIEL AYANT
-
-CAUSE DES DOMMAGES ESTIMES, PAR FXFMPIF A 100,000 Drs: L'indemnité est calculée comme suit :
-
-Dommages X <u>Capital assuré</u><br>Valeur réelle Soit :100.000 Drs X 250.000 Drs <br>500.000 Drs D'où une perte non indemnisée de 50.000 Drs
-
-## LE SOUSCRIPTEUR
-
-## B / HYPOTHESE DE SINISTRE TOTAL
-
-[les dommages s'élèvent donc à 500.000Drs] Indemnité :
-
-Soit : 500.000 Drs X 250.000 Drs <br>500.000 Drs
-
-D'où une perte non indemnisée de 250.000Drs
-
-## BH ASSURANCE
-
-#### CONSENTEMENT DE CLAUSE
-
- données mes de traitement du informé être déclare je ,personnel caractère à données des protection la sur portant 2004, juillet 27 du °2004-63n organique loi la à Conformément .Assurance BH par établi assurance'd contrat un'd souscription la de cadre le dans formulaire présent du niveau au renseignées personnelles
-
- pour inutiles deviennent elles'lorsqu ou collectées été ont elles lesquelles pour finalités des réalisation de cas en et personnelles données mes de traitement au expressément consens Je .détruites verront se dernières ces ,Assurance BH de activité'l
-
- droit mon que ainsi dernières ces de traitement au opposition'd droit mon de et personnelles données mes de rectification de ,accès'd droit mon de informé être déclare je ,même De .constatée violation toute pour INPDP'l de auprès plainte porter de
-
-عمال بأحكام القانون األساسي عدد 63ـ2004 املؤرخ يف 27 جويلية 2004 واملتعلق بحماية املعطيات الشخصية أصرح بعلمي التام بعملية معالجة معطياتي الشخصية املذكورة يف هذه املطبوعة يف إطار اكتتاب عقد تأمين من طرف BH تأمين.
-
-أوافق صراحة ىلع معالجة معطياتي الشخصية ويف صورة تحقق الغرض الذي جمعت من أجله أو يف صورة ما إذا لم تعد ضرورية لنشاط شركة BH تأمين، يتم القيام بإتالفها. كما أصرح بأني ىلع علم بحقي يف النفاذ إلى معطياتي الشخصية وتصحيحها وحقي يف االعتراض ىلع معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية املعطيات الشخصية يف صورة عدم حمايتها.
-
-ASSURANCE BH
-
-## SOUSCRIPTEUR APPROUVÉ ET LU
-
-- Assurance BH
-- Assurance BH
-- com.assurance-bh.www
+**BH ASSURANCE**

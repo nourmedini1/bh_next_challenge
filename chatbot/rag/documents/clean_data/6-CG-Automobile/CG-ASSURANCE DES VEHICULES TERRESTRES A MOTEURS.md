@@ -1,513 +1,300 @@
-![](_page_0_Picture_0.jpeg)
+# CONTRAT D’ASSURANCE DES VÉHICULES TERRESTRES À MOTEUR
 
-# عقد تأمين العربات البرية ذات محرك **الشروط العامة**
+**CONDITIONS GÉNÉRALES**
 
-![](_page_0_Figure_2.jpeg)
+## Préambule
 
-# الشروط العامة عقد تأمين العـربات البريـة ذات محــــرك **تـــوطئـــــــة**
+Le présent contrat est régi par le Code des Assurances, promulgué par la loi n° 92-24 du 9 mars 1992, ainsi que par les Conditions Générales, les Conditions Particulières, les annexes et le Formulaire de déclaration du risque, sur la base des réponses duquel il est établi, et qui en fait partie intégrante.
 
-### الشروط العامة عقد تأمين العـربات البريـة ذات محــــرك
+## SOMMAIRE
 
-![](_page_3_Picture_0.jpeg)
+| **Rubrique**                                              | **Article** |
+|-----------------------------------------------------------|-------------|
+| Définitions                                               | Article 1   |
+| Garanties                                                 | Articles 4-17 |
+| Exclusions                                                | Articles 18-25 |
+| Formation et durée du contrat                             | Articles 26-28 |
+| Déclaration des risques                                   | Article 29  |
+| Autres assurances                                         | Article 30  |
+| Paiement des primes                                       | Article 31  |
+| Obligations de l’assuré en cas de sinistre                | Article 32  |
+| Sanctions                                                 | Article 33  |
+| Obligations de l’assureur                                 | Article 34  |
+| Indemnisation des dommages                                | Article 35  |
+| Modalités d’indemnisation et procédures en cas de litige  | Article 36  |
+| Délais d’indemnisation                                    | Article 37  |
+| Subrogation                                               | Article 38  |
+| Prescription                                              | Article 39  |
+| Compétence judiciaire                                     | Article 40  |
 
-### الشـروط العاهة عقد تأهين العــربات البريــــــۃ ذات هحــــــــــــــــــــــــــــــــــــ
+## ARTICLE 4 : GARANTIE RESPONSABILITÉ CIVILE
 
-الخضراء أو البطاقة البرتقالية مقابل دفع قسط تأمين إضافى. لا يمكن تمديد الضمان بالنسبة لتأمين الدراجات النارية.
+L’assureur s’engage, conformément aux articles 110 et 117 du Code des Assurances, à couvrir les conséquences financières de la responsabilité civile de l’assuré pour les dommages corporels ou matériels causés à des tiers du fait de l’utilisation du véhicule assuré, résultant de :
+- Accidents, incendies ou explosions causés par le véhicule, ses remorques, accessoires, équipements ou objets/matériaux transportés.
+- Détachement des accessoires, équipements ou objets/matériaux mentionnés ci-dessus.
 
-### العنوان الثاني : ضمان الأخطار الفصل 4: ضمان المسؤولية المدنية
+## ARTICLE 5 : DÉFENSE ET RECOURS
 
-يلتزم المؤمّن بموجب هذا الضمان ، طبقا لمقتضيات الفصلين 110 و 117 من مجلة التأمين بتغطية التبعات المالية للمسؤولية المدنية للمؤمّن له بسبب الأضرار الحاصلة للأشخاص أو الممتلكات من جراء إستعمال العربة المؤمّنة والناتجة عن : أ- الحوادث أو الحرائق أو الإنفجارات التي تتسبب فيها عربة برية ذات محرك أو مجروراتها أو توابعها أو التجهيزات المعدة لإستعمالها أو الأشياء أو المواد التى تنقلها.
+Si cette garantie est souscrite, l’assureur prend en charge, dans la limite du montant indiqué aux Conditions Particulières, les frais d’investigation, d’expertise et d’assistance judiciaire supportés par l’assuré à la suite d’un accident de la circulation couvert par la garantie et causé par le véhicule assuré, dans les cas suivants :
+1. Poursuites pénales contre l’assuré pour homicide ou blessures involontaires.
+2. Défense des intérêts et droits de l’assuré devant les tribunaux en cas de poursuites liées à un accident couvert.
+3. Réclamation contre le tiers responsable ou son assureur, amiablement ou judiciairement, pour les dommages corporels et matériels subis par l’assuré.
 
-ب- تناثر التوابع أو التجهيزات أو الأشياء أو المواد المشار إليها بالفقرة أ من هذا الفصل .
+L’assureur peut refuser ou cesser la défense si la position de l’assuré est jugée non fondée. L’assuré peut récupérer les frais engagés s’il gagne une affaire avec ses propres moyens, dans la limite du montant assuré. L’assureur ne couvre pas les dommages matériels pour un véhicule irréparable techniquement, sauf si l’assuré prouve avoir respecté les formalités de retrait de circulation (article 37 de l’arrêté du 25 janvier 2000).
 
-الفصل 5 : ضمان التأمين الخاص
+## ARTICLE 6 : GARANTIE DOMMAGES AU VÉHICULE (RISQUE « ت »)
 
-### دفاع و رجوع
+Si souscrite, cette garantie indemnise les dommages au véhicule assuré, ses accessoires et pièces de rechange (selon le carnet du constructeur), causés par :
+- Collision avec un corps extérieur.
+- Renversement sans collision préalable.
+- Submersion dans l’eau due à une collision, un renversement ou une chute dans l’eau.
 
-إذا تم إكتتاب هذا الضمان، يتكفل المؤمّن لفائدة المؤمّن له في حدود المبلغ المنصوص عليه بالشّروط الخاصة بكلّ مصاريف التحرّي والإختبار والمساعدة القضائية التى قد تحمل على المؤمّن له نتيجة حادث مرور يشمله الضمان وتسببت فيه العربة المؤمّنة وذلك في الحالات التالية : 1- في صورة تتبع المؤمّن له أمام المحاكم الجزائية من أجل
+Elle s’applique aux dommages survenus pendant le transport, l’assuré devant effectuer les démarches légales contre le transporteur ou le tiers. Une franchise absolue, calculée comme un pourcentage de la valeur déclarée du véhicule à la souscription, est déduite de l’indemnisation.
 
-القتل أو الجرح على وجه الخطأ.
+## ARTICLE 7 : GARANTIE CATASTROPHES NATURELLES ET MANIFESTATIONS POPULAIRES (RISQUE « ث »)
 
-2 - الدفاع عن مصالح و حقوق المؤمّن له أمام المحاكم عن أحد الأحداث التالية : المعنية من جراء التتبعات المرفوعة ضده نتيجة حادث مرور يشمله الضمان وتسببت فيه العربة المؤمّنة
+Si souscrite, cette garantie couvre les dommages matériels directs au véhicule assuré, dans la limite du montant assuré, avec une franchise de 10 %, causés exclusivement par :
+- **Catastrophes naturelles** : Glissements/éboulements de terrain, avalanches, grêle, inondations, ouragans, tornades, tempêtes, chute de pierres ou d’arbres. Une tempête est définie comme un vent destructeur endommageant des arbres ou bâtiments solides dans un rayon de 5 km, prouvé par un certificat de l’Institut National de Météorologie (vitesse > 100 km/h).
+- **Manifestations populaires** : Grèves, émeutes, actes de terrorisme ou sabotage, ou interventions des autorités légales.
 
-> 3- في صورة حصول أضرار للعربة المؤمّن عليها نتيجة حادث مرور يشمله الضمان وتسبب فيه الغير وذلك بمطالبة هذا الأخير أو مؤمّنه سواء بالتراضي أو أمام
+L’indemnisation totale pour ces événements ne peut excéder la valeur marchande du véhicule, avec un maximum de 20 000 TND par année d’assurance.
 
-القضاء بالتعويض عن الأضرار البدنية المباشرة و المادية الحاصلة للمؤمّن له.
+## ARTICLE 8 : GARANTIE INCENDIE ET EXPLOSION (RISQUE « ج »)
 
-يمكن للمؤمّن أن يرفض الدفاع عن المؤمّن له أو أن يوقف تدخله في القضية المرفوعة ضد هذا الأخير إذا ما تبين له أن موقفه غير مدعم ولا جدوى منه.
+Si souscrite, cette garantie indemnise les dommages causés par incendie, explosion, combustion spontanée ou foudre, hors dommages couverts par la garantie vol.
 
-كما يمكن للمؤمّن عدم القيام بإجراءات المطالبة سواء بالتراضى أو أمام القضاء بالتّعويض عن الأضرار الهاديّة الحاصلة للعربة المؤمّنة إذ اعتبر أنّ مطالبة المؤمّن له لا جدوي منها.
+## ARTICLE 9 : GARANTIE INCENDIES ET EXPLOSIONS DUS AUX TROUBLES POPULAIRES (RISQUE « ح »)
 
-ويحق للمؤمّن له في هذه الحالة إذا ما كسب القضية بوسائله الخاصة أن يطالب المؤمّن بإرجاع المصاريف التي بذلها وذلك في حدود المبلغ المؤمّن.
+Si souscrite, cette garantie couvre les dommages par incendie ou explosion causés par des émeutes, troubles populaires ou actes terroristes.
 
-ولا يلتزم المؤمّن بالدفاع عن المؤمّن له للمطالبة بتعويض الأضرار المادية للعربة غير قابلة للإصلاح فنيا نتيجة حادث مرور إلا في صورة إذا ما أثبت الهؤمّن له أنه قام بإجراءات سحب العربة من الجولان المنصوص عليها بالفصل 37 من قرار وزير النقل المؤرخ في 25 جانفي 2000 . الفصل 6 : الخطر «ت» ضمان الأضرار اللاحقة بالعربة المؤمن عليها نتيجة تصادم أو بدونه :
+## ARTICLE 10 : GARANTIE VOL DU VÉHICULE (RISQUE « خ »)
 
-إذا تم إكتتاب هذا الضمان ، يعوض المؤمّن له عن الأضرار اللاحقة بالعربة والمبيّنة بالشروط الخاصة مع التوابع وقطع الغيار المنصوص على تسليمها - بدفتر صانعها - في نفس وقت تسليم العربة وذلك عندما تكون تلك الأضرار ناتجة
+Si souscrite, cette garantie indemnise la perte ou les dommages au véhicule assuré dus au vol ou à une tentative de vol, ainsi que les frais de récupération convenus avec l’assureur. Le vol doit être prouvé par des signes d’effraction (ex. : serrures forcées, système électrique endommagé). L’indemnisation est basée sur la valeur marchande ou le coût des réparations, avec une déduction de 20 % si les documents d’immatriculation ou de contrôle technique sont volés.
 
-تصادم بين العربة المؤمّن عليها وكل جسم خارجي. إنقلاب العربة المؤمّن عليها بدون تصادم سابق.
+## ARTICLE 11 : GARANTIE BRIS DE GLACE (RISQUE « د »)
 
-إنغمار العربة المؤمّن عليها بالماء نتيجة تصادم بين العربة المؤمّن عليها وكل جسم خارجى أو إنقلاب العربة المؤمّن عليها أو بسبب وقوعها في الماء.
+Si souscrite, cette garantie couvre les dommages non intentionnels aux vitres (pare-brise, lunette arrière, vitres latérales) causés par des projections, collisions ou renversements. L’indemnisation est basée sur le coût de remplacement, vérifié par un expert et des factures originales, avec une franchise. Le total des indemnisations par année d’assurance ne peut excéder le montant assuré.
 
-# BH تــــا هـــيـــــــــــــــــــــــــــــ
+## ARTICLE 12 : GARANTIE VOL OU TENTATIVE DE VOL DE RADIO/CASSETTE (RISQUE « ذ »)
 
-### الشـروط العاهة عقد تأهين العــربات البريـــة ذات هحــــــــــــــــــــــــــــــــــــ
+Si souscrite, cette garantie couvre les dommages ou la perte de la radio/cassette ou du lecteur CD préinstallé, causés par un vol ou une tentative de vol, prouvés par des indices sérieux (ex. : effraction). Une franchise de 10 % s’applique. Cette garantie nécessite la souscription de la garantie incendie et explosion.
 
-ينطبق هذا الضمان على الأضرار الحاصلة للعربة المؤمن عليها أثناء عملية نقلها.
+## ARTICLE 13 : GARANTIE PERSONNES TRANSPORTÉES GRATUITEMENT (RISQUE « ر »)
 
-في صورة وقوع أضرار أثناء عملية النقل يكون المؤمن له ملزما بأن يقوم بمعاينتها تجاه الناقل أو الغير بمختلف الوسائل القانونية.
+Si souscrite, cette garantie indemnise les dommages corporels subis par les personnes transportées gratuitement, selon les conditions et limites de l’Annexe 2.
 
-- يلتزم المؤمن بإرجاع قطع الغيار التي تم تغييرها نتيجة ذلك الحادث إلى شركة التأمين كلها تم الخلاص على أساس هذا الضمان.
+## ARTICLE 14 : GARANTIE DOMMAGES CORPORELS DU CONDUCTEUR (RISQUE « ز »)
 
-يجب على المؤمن له :
+Si souscrite, cette garantie indemnise les dommages corporels subis par le conducteur assuré, selon les conditions et limites de l’Annexe 3.
 
-التصريح بقيمة العربة عند إكتتابه للعقد طبقا لقيمتها المسجلة لدى الصانع (بالعملة المحلية) مع إعتبار الأداءات الموظّفة، و لا يعتبر إعتماد هذه القيمة بالشّروط الخاصة إقرار من المؤمّن بصحتها.
+## ARTICLE 15 : GARANTIE ASSISTANCE (RISQUE « س »)
 
-- تعديل القيمة المصرح بها كلما وقع الترفيع في سعر العربة. يخضع ضمان تعويض الأضرار اللاحقة بالعربة المؤمن عليها الى خصم حصّة مطلقة متبقية بذمة المؤمّن له من قيمة السيارة المسجل لدى الصانع عند إكتتاب العقد:
+Si souscrite, l’assureur fournit une assistance immédiate à l’assuré en cas de difficulté due à un événement imprévu, selon les conditions de l’Annexe « Assistance Privilège ».
 
-تحتسب هذه الحصة كما يلى :
+## ARTICLE 16 : GARANTIE ASSISTANCE EN CAS D’ACCIDENT (RISQUE « ش »)
 
-(النسبة المنصـوص عليها في الشروط الخاصـة  $\mathbf X$  قيمة السيارة المسجلة لدى الصانع عند إكتتاب العقد) وتطرح هذه الحصة وجوبا من مبلغ التعويض الذي ستدفعه الشركة مهما كانت قيمة الأضرار.
+Si souscrite, cette garantie fournit une assistance financière en cas d’accident causant uniquement des dommages matériels, selon les conditions de l’Annexe « Assistance en cas d’accident ».
 
-الفصل7: الخطر ((ث)) : ضمان الكوارث الطبيعية والمظاهرات الشعبية :
+## ARTICLE 17 : GARANTIE DOMMAGES PAR COLLISION (RISQUE « ص »)
 
-إذا تم إكتتاب هذا الضمان يعوض المؤمن الأضرار المباشرة الحاصلة للعربة المؤمنة في حدود المبلغ المؤمن عليه مع خصم الحصة المطلقة المتبقية بذمة المؤمن له المذكورة على مستوى الشروط الخاصة ، و الناتجة حصريا عن أحد الأحداث التالية:
+Si souscrite, cette garantie couvre les dommages au véhicule assuré causés par une collision hors entrepôt ou propriété de l’assuré, avec un véhicule identifié. Une franchise s’applique, et le total des indemnisations par année d’assurance ne peut excéder le montant assuré. Les pièces remplacées doivent être retournées à l’assureur.
 
-بالنسبة للكوارث الطبيعية :
+## ARTICLE 18 : EXCLUSIONS DE LA GARANTIE RESPONSABILITÉ CIVILE
+
+Ne sont pas couverts :
+1. Dommages subis par le conducteur du véhicule assuré.
+2. Dommages subis par le voleur ou ses complices.
+3. Dommages subis par les employés ou préposés de l’assuré dans l’exercice de leurs fonctions.
+4. Dommages subis par les associés de l’assuré transportés dans le véhicule lors d’une activité commune.
+5. Dommages causés par le chargement/déchargement de marchandises.
+6. Dommages dus à des explosions, émissions thermiques, radiations nucléaires ou accélérations artificielles de particules.
+7. Dommages aux marchandises ou objets transportés, sauf vêtements des passagers en cas de dommages corporels.
+8. Dommages aux biens, véhicules ou animaux appartenant à l’assuré ou confiés à lui.
+9. Dommages intentionnels ou frauduleux de l’assuré (article 4 du Code).
+10. Dommages causés par guerres, émeutes, catastrophes naturelles.
+11. Dommages si le conducteur n’a pas l’âge légal.
+12. Dommages si le conducteur n’a pas de permis valide, sauf pour un véhicule d’apprentissage sous supervision.
+13. Dommages aux passagers transportés sans respect des conditions de sécurité (ex. : nombre de passagers excédant la limite du constructeur).
+14. Responsabilité des professionnels de la réparation, entretien ou commerce de véhicules.
+15. Dommages si le conducteur est en état d’ivresse ou sous influence de stupéfiants (article 7 du Code de la Route, arrêté n°146 du 24 janvier 2000).
+
+## ARTICLE 19 : EXCLUSIONS DU RISQUE « ت » (DOMMAGES AU VÉHICULE)
+
+Ne sont pas couverts :
+1. Dommages dus à un manque d’entretien, usure ou défaut de fabrication.
+2. Dommages couverts par la garantie vol (article 10).
+3. Dommages dus à un incendie, foudre ou court-circuit (couverts par article 8).
+4. Dommages dus à une surchauffe du moteur ou du radiateur.
+5. Dommages aux pneus, sauf s’ils résultent d’un accident couvert causant d’autres dommages.
+6. Dommages à un véhicule utilitaire surchargé.
+7. Dommages dus à des actes de vandalisme (ex. : rayures), sauf collision avec un véhicule identifié ou un objet.
+8. Dommages dus à des catastrophes naturelles (grêle, inondations, tempêtes, etc.).
+9. Dommages si le conducteur est en état d’ivresse ou sous stupéfiants.
+10. Dommages lors d’une poursuite par les forces de l’ordre.
+11. Dommages immatériels (ex. : perte d’usage, dépréciation).
+
+## ARTICLE 20 : EXCLUSIONS DU RISQUE « ج » (INCENDIE ET EXPLOSION)
+
+Ne sont pas couverts :
+1. Dommages aux appareils électriques/électroniques dus à leur fonctionnement.
+2. Incendies causés par le tabagisme dans le véhicule.
+3. Dommages dus à des substances explosives.
+4. Dommages couverts par la garantie vol (article 10).
+5. Dommages causés par la chaleur ou un contact direct avec le feu sans incendie.
+6. Dommages dus à un acte criminel.
+
+## ARTICLE 21 : EXCLUSIONS DU RISQUE « خ » (VOL DU VÉHICULE)
+
+Ne sont pas couverts :
+1. Vol des roues, phares, vitres ou accessoires, sauf s’ils sont volés avec le véhicule ou après effraction du garage.
+2. Dommages aux vitres sans indices sérieux de tentative de vol.
+3. Vol par abus de confiance ou fraude.
+4. Vol si l’assuré n’a pas pris les précautions nécessaires (ex. : fenêtres ouvertes, clés laissées dans le véhicule).
+5. Vol par agression violente.
+6. Vol si l’assuré ne fournit pas toutes les clés déclarées.
+
+## ARTICLE 22 : EXCLUSIONS DU RISQUE « د » (BRIS DE GLACE)
+
+Ne sont pas couverts :
+1. Dommages couverts par la garantie vol (article 10).
+2. Dommages dus à un incendie, foudre ou court-circuit (article 8).
+3. Dommages aux vitres supplémentaires, rétroviseurs, clignotants ou phares.
+4. Dommages lors du montage/démontage des vitres.
+
+## ARTICLE 23 : EXCLUSIONS DU RISQUE « ذ » (VOL DE RADIO/CASSETTE)
+
+Ne sont pas couverts :
+1. Vol si l’assuré n’a pas pris les précautions nécessaires (ex. : fenêtres ouvertes, clés laissées).
+2. Vol par les employés, préposés ou membres de la famille de l’assuré.
+3. Dommages aux amplificateurs, accessoires, écrans ou antennes.
+
+## ARTICLE 24 : EXCLUSIONS DU RISQUE « ص » (COLLISION)
+
+Ne sont pas couverts :
+1. Dommages dus au remorquage, assistance ou stationnement.
+2. Dommages si le conducteur est en état d’ivresse ou sous stupéfiants.
+3. Dommages dus à un incendie, foudre ou court-circuit (article 8).
+4. Dommages lors d’une poursuite par les forces de l’ordre.
+5. Dommages immatériels (perte d’usage, dépréciation).
+
+## ARTICLE 25 : EXCLUSIONS COMMUNES AUX RISQUES « ب », « ت », « ج », « خ », « د », « ذ », « ص »
+
+Ne sont pas couverts :
+1. Dommages aux véhicules transportant des matières inflammables/explosives, sauf mention contraire dans les Conditions Particulières.
+2. Dommages lors de compétitions organisées ou d’essais en tant que compétiteur.
+3. Dommages lors de saisies par des autorités civiles/militaires, guerres, émeutes ou catastrophes naturelles.
+4. Dommages dus à des explosions, radiations nucléaires ou accélérations artificielles de particules.
+5. Dommages intentionnels causés par l’assuré ou avec sa complicité.
+6. Dommages dus à une utilisation non déclarée du véhicule.
+7. Dommages immatériels (perte d’usage, dépréciation).
+8. Frais de dépannage ou de gardiennage.
+9. Dommages aux biens confiés à l’assuré.
+10. Dommages aux véhicules confiés à des garagistes ou commerçants.
+11. Dommages lors d’une saisie municipale.
+12. Dommages si le conducteur n’a pas l’âge légal.
+13. Dommages si le conducteur n’a pas de permis valide.
+14. Dommages lors du chargement/déchargement de marchandises.
 
-- انزلاق أو انهيار الأرض ، إنجراف ثلجى ، سقوط البرد ، الفياضانات ، الأعاصير ، الزوابع ، العواصف ، سقوط الحجارة أو الأشجار.
+## ARTICLE 26 : FORMATION ET PRISE D’EFFET DU CONTRAT
 
-- و يقصد بالعاصفة الفعل المباشر للريح عندما تكون قوية بحيث تدمر ، تكسر أو تلحق أضرارا بالأشجار و الأشياء التابعة للمبانى المتينة في دائرة خمسة (05) كيلومترات. - وفي صورة حصول نزاع يجب على المؤمن له أن يستظهر بشهادة من المعهد الوطنى للرصد الجوى تثبت أن سرعة الريح كانت تفوق100 كلم في الساعة زمن وقوع الحادثة. بالنسبة للمظاهرات الشعبية :
+Le contrat prend effet aux dates et heures indiquées dans les Conditions Particulières, après signature des parties et paiement de la première prime. Les mêmes règles s’appliquent aux avenants.
 
-- قيام أشخاص بالمشاركة في الإضرابات و المظاهرات الشعبية. - عمليات إرهابية أو تخريبية.
+## ARTICLE 27 : DURÉE DU CONTRAT
 
-- كل السلط الشرعية أثناء إتخاذها تراتيب بمناسبة الأحداث المذكورة.
+Le contrat est conclu pour la durée spécifiée dans les Conditions Particulières. Si la durée est fixée de date à date, il expire à minuit le dernier jour. Si les Conditions Particulières mentionnent un renouvellement tacite, il est reconduit annuellement, sauf résiliation notifiée 2 mois avant l’échéance (article 28).
 
-لايمكن لمجموع مبالغ التعويضات المدفوعة بعنوان الكوارث الطبيعية و المظاهرات الشعبية أن تفوق المبلغ المؤمن عليه. ويتم التعويض عن الأضرار آنفة الذكر في حدود القيمة السوقية للشيئ المؤمن عليه بعد تحديدها من قبل خبير يتم تعيينه من طرف شركة التأمين مع خصم الحصة المطلقة المتبقية بذمة المؤمن له المذكورة بالشروط الخاصة و المحددة بنسبة 10% من مبلغ التعويضات على ألاّ تتعدى جملة التعويضات بالنسبة لضمان الكوارث الطبيعية و المظاهرات الشعبية عشرون ألف دينار بالنسبة لنفس السنة التأمينية.
+## ARTICLE 28 : RÉSILIATION DU CONTRAT
 
-الفصل 8 : الخطر ((ج)) ضمان الحريق و الإنفجار. إذا تم إكتتاب هذا الضمان يعـوض المؤمّن المؤمّن له عن الأضرار اللاحقة بالعربة المبينة بالشروط الخاصة مع التوابع وقطع الغيار المنصوص على تسليمها بدفتر صانعها في نفس وقت تسليم العربة وذلك عندما تكون تلك الأضرار ناتجة عن أحد الأحداث التالية : الحريق، الإنفجار، الإشتعال التلقائى ، نزول الصاعقة .......
+Le contrat peut être résilié :
+1. **Par l’assuré ou l’assureur** :
+   - À l’échéance annuelle, avec un préavis de 2 mois.
+   - En cas de cession du véhicule (article 22 du Code).
+2. **Par l’assureur** :
+   - Non-paiement de la prime (article 31).
+   - Aggravation du risque (article 29).
+3. **Par l’assuré** :
+   - Si l’assureur refuse une réduction de prime pour diminution du risque.
 
-الفصل 9 : الخطر ((ح)) ضمان الحرائق و الإنفجارات الناتجة عن الإضطرابات الشعبية:
+## ARTICLE 29 : DÉCLARATION DES RISQUES
 
-إذاتم إكتتاب هـذاالضـمان، يعـوض المؤمّن للمؤمن له عن أضرار الحرائق و الإنفجارات الحاصلة للعربة المؤمنة الناتجة عن أعمال الشغب والإضطرابات الشعبية والعمليات الإرهابية.
+1. **À la souscription** : L’assuré doit répondre honnêtement et précisément au Formulaire de déclaration du risque (article 7 du Code).
+2. **En cours de contrat** : L’assuré doit déclarer par lettre recommandée, dans les 8 jours, tout changement rendant les déclarations initiales inexactes (ex. : changement de puissance fiscale, usage, carrosserie, profession, lieu de garage, ajout de remorque, transport de matières inflammables).
+3. **Sanctions** :
+   - Nullité du contrat en cas de fausse déclaration intentionnelle prouvée par l’assureur.
+   - Réduction proportionnelle de l’indemnisation pour déclaration inexacte non intentionnelle.
+   - Résiliation possible par l’assureur après 30 jours de notification pour aggravation du risque.
 
-![](_page_5_Picture_0.jpeg)
+## ARTICLE 30 : AUTRES ASSURANCES
 
-### الشـروط العاهة عقد تأهين العــربات البريـــــۃ ذات محــــــــــــــــــــــــــــــــــــ
+L’assuré doit déclarer à l’assureur, par lettre recommandée, tout autre contrat d’assurance couvrant les mêmes risques, en précisant l’assureur et le montant assuré. En cas de pluralité d’assurances sans fraude, chaque contrat est valide proportionnellement, sans dépasser la valeur du bien assuré (article 18 du Code).
 
-الفصل 11 : الخطر «د » ضمان تكسير الزجاج : إذا تم إكتتاب هذا الضمان تقوم الشركة بتعويض الأضرار الناجمة عن الكسر غير المقصود والناتج عن رمى أو قذف أشياء خارجية أو إصطدام أو إلتحام بجسم ثابت أو متحرك أو عن إنقلاب العربة وذلك بالنسبة لأجزاء العربة المؤمّنة التالية : - البلور الأمامي - البلور الخلفي - بلور النوافذ الجانبية يكون الضمان في حدود قيمة استبدال البلّور المؤمّن حسب تقرير الخبير وذلك بعد الإستظهار بأصل الفواتير شريطة أن يتطابق البلور المستبدل مع البلور المتضرر. و يخضع ضمان تعويض الأضرار إلى خصم حصة مطلقة متبقية بذَّمة المؤمّن له من المبلغ المؤمّن عليه والمذكور بالشرّوط الخاصّة . لا يمكن لمجموع مبالغ التعويضات المدفوعة بعنوان حوادث متعدّدة خلال نفس سنة التأمين أن تفوق المبلغ المؤمّن عليه والمذكور بالشروط الخاصّة. الفصل 12: الخطر «ذ » ضمان سرقة الراديو كاسات أو محاولة سرقة الراديو كاسات : إذا تم إكتتاب هذا الضمان تقوم الشركة بتعويض المؤمّن له عن إتلاف أو فقدان جهاز الراديو كاسات أو لقارئ أقراص الليزر التي تم تركيبها مسبقا بداخل السيارة والناتجة عن الأحداث التالية :
+## ARTICLE 31 : PAIEMENT DES PRIMES
 
-سرقة العربة المؤمّنة. محاولة سرقة العربة المؤمّنة أو الجهاز نفسه. وتكون السرقة أو محاولة السرقة مجسمة على الأقل بمؤشر جدى يجعلها مرجحة
+- Les primes, taxes incluses, sont payables d’avance au siège de l’assureur, chez un agent désigné ou au domicile de l’assuré (selon arrêté ministériel).
+- En cas de non-paiement, l’assureur peut suspendre le contrat après 20 jours de mise en demeure, puis résilier après 10 jours supplémentaires ou poursuivre judiciairement.
+- Les primes sont ajustées en cas de modification des tarifs ou des risques.
 
-و يخضع ضمان تعويض أضرار الحرائق و الإنفجارات الحاصلة للعربة إلى خصم 10% من مبلغ التعويض. إن هذا الضمان المذكور في هاته الفقرة لا يمكن التمتع به إلاّ عند إكتتاب ضمان الحريق والإنفجار.
+## ARTICLE 32 : OBLIGATIONS DE L’ASSURÉ EN CAS DE SINISTRE
 
-الفصل 10 : الخطر «خ » ضمان سرقة العربة : إذا تم إكتتاب هذا الضمان ، يعوض المؤمّن للمؤمّن له عن الأضرار الناتجة عن فقدان العربة المؤمّن عليها أو تردي حالتها إثر سرقتها أو محاولة سرقتها. ويغطى الضمان أيضا المصاريف المبذولة من طرف المؤمّن له بإتفاق مع المؤمّن لإسترجاع العربة المذكورة.
+1. **Notification** :
+   - L’assuré doit informer l’assureur par écrit dans les 5 jours ouvrables (2 jours pour un vol), sous peine de déchéance, sauf cas fortuit ou force majeure.
+   - La déclaration doit inclure : numéro du contrat, date, heure, lieu, circonstances, causes, identité des victimes/témoins, informations sur le tiers responsable.
 
-أ - سرقة العربة :
+2. **Responsabilité civile** :
+   - Transmettre immédiatement à l’assureur tout avis, convocation ou document judiciaire.
+   - S’abstenir de reconnaître une responsabilité ou de conclure un accord sans l’accord de l’assureur.
 
-تجسم سرقة العربة وجوبا بالعناصر التالية:
+3. **Dommages au véhicule** :
+   - Indiquer le lieu où les dommages peuvent être constatés.
+   - Ne pas réparer sans l’accord de l’assureur, sauf si ce dernier n’a pas inspecté dans les 10 jours (sauf réparations ≤ 50 TND).
 
- - خلع المحل الموجود به السيارة والذى لا ينفذ إليه إلاّ المؤمّن له
+4. **Vol** :
+   - Informer l’assureur dans les 2 jours ouvrables.
+   - Déposer une plainte auprès des autorités dans les 24 heures.
+   - Fournir le procès-verbal, la carte grise, les clés, et autres documents nécessaires.
 
-- أو خلع العربة نفسها
+## ARTICLE 33 : SANCTIONS
 
-ليتوفر الضمان في هذه الحالة يجب أن يكون خلع السيارة مجسما بتضافر مجموعة جدية من المؤشرات تجعل سرقة العربة مرجحا كخرق القيادة والقفل المثبت لها أو إتلاف الجهاز الكهربائي للتشغيل.
+- Non-respect des obligations (article 32) : L’assureur peut réclamer une indemnité proportionnelle au préjudice, sauf cas fortuit ou force majeure.
+- Déclarations frauduleuses : Perte totale des droits à l’indemnisation.
 
-ب - محاولة السرقة :
+## ARTICLE 34 : OBLIGATIONS DE L’ASSUREUR
 
-تضمن الشركة في هذه الحالة الأضرار الحاصلة للسيارة عندما تكون ناتجة مباشرة عن محاولة السرقة وذلك حسب رأى الخبير.
+- Les frais de procédure ne sont pas déduits du montant de la garantie, sauf si l’indemnisation dépasse la garantie.
+- L’assureur peut constituer une sûreté pour une rente ou capital ordonné judiciairement.
+- Les amendes pénales ne sont pas couvertes.
 
-وليتوفر الضمان ، يجب أن تكون محاولة السرقة مجسمة على الأقل بمؤشر جدى يجعلها مرجحة.و يبرز نّية السارق: كخلع جسم السيارة أو خرق السيارة أو خرق القيادة أو خلع القفل المثبت لها وإتلاف الجهاز الكهربائي للتشغيل.
+## ARTICLE 35 : INDEMNISATION DES DOMMAGES
 
-### BHتـــا مـــــــــــــــــــــــــــــــــ
+- Les dommages sont évalués par un expert désigné par l’assureur.
+- **Véhicule totalement détruit ou irréparable** : Indemnisation basée sur la valeur marchande au jour du sinistre, déduction faite des récupérations.
+- **Dommages partiels** : Indemnisation basée sur le coût de réparation/remplacement, selon l’expert.
+- Si la valeur réelle excède le montant assuré, l’assuré supporte une part proportionnelle (article 17 du Code).
 
-### الشـروط العامة عقد تأمين العــربات البريــــــــــــــــــــــــــــــــــــ
+## ARTICLE 36 : MODALITÉS D’INDEMNISATION ET PROCÉDURES EN CAS DE LITIGE
 
-يكون الضمان في حدود قيمة التصليح الفعلى حسب تقرير الخبير وذلك بعد الإستظهار بأصل الفواتير أوعلى أساس قيمة الجهاز يوم الحادث حسب تقرير الخبير. يتم تعيين الخبير وجوبا مهما كانت قيمة الأضرار و على المؤمّن له إذا ما توفرت له إمكانية ذلك أن يمد الخبير بفاتورة شراء الجهاز أو ما يفيد تسليمه بدفتر الصانع مع العربة.
+- L’indemnisation est fixée amiablement ou, à défaut, par expertise amiable. Chaque partie désigne un expert ; en cas de désaccord, un troisième expert est nommé. Les frais sont partagés.
 
-لا يمكن لمجموع مبالغ التعويضات المدفوعة بعنوان حوادث متعددة خلال نفس سنة التأمين أن تفوق المبلغ المؤمّن عليه و المذكور بالشروّط الخاصة.
+## ARTICLE 37 : DÉLAIS D’INDEMNISATION
 
-الفصل 13 : الخطر « ر » ضمان التأمين على الأشخاص المنقولين مجانا :
+- Paiement dans les 30 jours suivant l’accord amiable ou la décision judiciaire.
+- Pour un vol, l’indemnisation intervient après 20 jours, sous réserve de fournir les documents requis.
+- Si le véhicule volé est retrouvé avant paiement, l’assuré doit le récupérer ; après paiement, il peut le récupérer en remboursant l’indemnité.
 
-إذ تمّ إكتتاب هذا الضمان ، يعوض المؤمّن لفائدة الأشخاص المنقولين بصفة مجانية ، المتضررين نتيجة حوادث بدنية طبقا للشروط و الحدود المنصوص عليها بالملحق الخاص (2) المصاحب لهذا العقد.
+## ARTICLE 38 : SUBROGATION
 
-الفصل 14 : الخطر « ز » ضمان التأمين على الأضرار البدنية الحاصلة للسائق:
+L’assureur, après indemnisation, est subrogé dans les droits de l’assuré contre les tiers responsables, sauf contre les proches ou employés, sauf faute intentionnelle (article 21 du Code).
 
-إذ تمّ إكتتاب هذا الضمان ، يعوض المؤمّن لفائدة المؤمّن له عن الأضرار البدنية الاحقة من جراء حادث مرور طبقا للشروط والحدود المنصوص عليها بالملحق الخاص(3) المصاحب لهذا العقد.
+## ARTICLE 39 : PRESCRIPTION
 
-الفصل15 : الخطر « س » : ضهان تأمين المساعدة : إذا تمّ اكتتاب هذا الضمان يتعهد المؤمّن بوضع مساعدة في الحال على ذمة المؤمّن له عندما يتعرض هذا الأخير لصعوبة ناتجة عن طارئ وذلك في الحالات وحسب الشروط المنصوص عليها بالملحق (تأمين المساعدة للسيارة «امتياز») المصاحب لهذا العقد.
+- Les actions découlant du contrat sont prescrites après 2 ans (articles 14 et 15 du Code).
+- Les actions des victimes d’accidents de la route sont prescrites après 3 ans (article 125).
 
-الفصل16: الخطر « ش» : تأمين المساعدة في وقوع حادث :
+## ARTICLE 40 : COMPÉTENCE JUDICIAIRE
 
-إذا تمّ اكتتاب هذا الضمان يتعهد المؤمّن بوضع مساعدةمالية في حالة وقوع حادث نتج عنه أضرار مادية فحسب. تسدى خدمات هذا الضمان طبقا للشروط والحدود المضبوطة بالملحق (تأمين المساعدة في حالة وقوع حادث). الفصل17 : الخطر «ص» ضمان الأضرار الناتجة عن تصادم :
+- Actions de l’assureur : Tribunal du domicile de l’assuré.
+- Actions de l’assuré : Tribunal du domicile de l’assuré, de l’assureur ou du lieu du sinistre.
 
-إذا تمّ إكتتاب هذا الضمان يعوض المؤمّن الأضرار الحاصلة للعربة المؤمّنة والناتجة عن تصادم حدث خارج مستودع أو خارج ملك المؤمّن له مع عربة يكون صاحبها معروف الهوية. يخضع ضمان تعويض الأضرار اللاحقة بالعربة المؤمّن عليها إلى خصم حصة مطلقة متبقية بذمة المؤمّن له من المبلغ المؤمّن عليه في خصوص هذا الضمان والمذكور بالشّروط الخاصة. لا يمكن لمجموع مبالغ التعويضات المدفوعة بعنوان حوادث متعددة خلال نفس سنة التأمين أن تفوق المبلغ المؤمّن عليه و الهذكور بالشروط الخاصة.
+## CLAUSE DE CONSENTEMENT
 
-يلتزم المؤمّن له بإرجاع قطع الغيار التي تم تغييرها نتيجة ذلك الحادث إلى شركة التأمين كلما تم الخلاص على أساس هذا الضمان.
-
-العنوان الثالث : إستثناءات الضمان الفصل 18: إستثناءات ضمان تأمين المسؤولية الهدنىة :
-
-لا يشمل ضمان تأمين المسؤولية المدنية تعويض الأضرار التالية :
-
-الأضرار اللاحقة بسائق العربة المؤمّنة - الأضرار
-
-2 - الأضرار اللاحقة بسارق العربة المؤمّنة و بالأشخاص المشاركين في السرقة.
-
-![](_page_7_Picture_0.jpeg)
-
-### الشـروط العاهة عقد تأمين العــربات البريـــة ذات محــــــــــــــــــــــــــــــــــــ
-
-3- الأضرار اللّاحقة بإجراء وإتباع المؤمّن له أثناء قيامهم بعملهم وعند ثبوت مسؤوليته عن تلك الأضرار.
-
-4- الأضرار اللاحقة بشركاء المؤمّن له في صورة نقلهم بالعربة المؤمّنة وبمناسبة النشاط المشترك بينهم وبين المؤمّن له.
-
-5- الأضرار الناتجة عن عمليات شحن العربة بالبضائع أو تفريغها منها.
-
-6- الأضرار الناتجة عن التأثيرات المباشرة أو الغير المباشرة للإنفجار أو الإنبعاث الحراري أو الأشعة المتولدة عن تحويل نواة الذرة أو النشاط الإشعاعى وكذلك تأثيرات الإشعاع التي تنشأ عن التسارع الإصطناعي للجزئيات. 7- الأضرار اللآحقة بالبضائع و الأشياء المحمولة على متن عربة برية ذات محرك عدا التلف الذي يلحق ثياب الأشخاص الراكبين إذا كان ناتجا عن حادث مرور ترتبت عنه أضرار بدنية.
-
-8- الأضرار الّتى تلحق العقارات أو الأشياء أو العربات أو الحيوانات الّتى يملكها المؤمّن له أو كل من سلمت له على وجه التسويغ أو الحراسة بأية صفة كانت وخاصة منها الأضرار اللاّحقة بالسلع و الأشياء الواقع نقلها.
-
-9- الأضرار الناتجة عن الفعل القصدي للمؤمّن له ونتائج الفعل المرتكب على أساس التغرير طبقا لمقتضيات الفصل الرابع من مجلة التأمين.
-
-10- الحوادث الناتجة عن الحروب الأهلية أو الأجنبية أو الإضطرابات أو الحركات الشعبية أو الكوارث الطبيعية. كما يستثنى من ضمان تأمين المسؤولية المدنية الحالات التالية :
-
-11-إذا لم تكن للسائق زمن وقوع الحادث السن القانونية لسياقة العربة المؤمّنة.
-
-12-إذا لم تكن لسائق زمن وقوع الحادث الشهادات الصالحة
-
-الّتى تقتضيها التراتيب الجاري بها العمل لسياقة العربة المؤمّنة بإستثناء السائق الّذي يقود عربة برية ذات محرك معدة للتدريب أثناء حصة يشرف عليها شخص متحصل على الشهادات التي تقتضيها التراتيب الجارى بها العمل. 13-إذ تم نقل أشخاص على متن العربة المؤمّنة دون
-
-إحترام شروط السلامة التى يقتضيها التراتيب الجاري بها العمل وذلك بنسبة الأضرار التي تلحقهم.
-
-أ- فيما يخص السيارات السياحية (بما في ذلك السيارات ذات القفص القابل للتغيير ) إلاَّ إذا كان الركاب منقولين داخل العربة ولا يتجاوز عددهم العدد المنصوص عليه من طرف الصانع.
-
-ب- فيما يخص السيارات النفعية إلاّ إذا كانت الشروط التالية متوفرة :
-
-ب1- يجب أن تكون العربة مهيئة لغرض نقل الركاب و مرخص لها في ذلك من طرف السلط المعنية
-
-ب2- يجب أن يكون نقل الركاب إما داخل حجرة القيادة وإما على سطح العربة ذي الجوانب أو داخل عربة ذات قفص مغلق.
-
-ب3- يجب ألاّ يتعدى عدد الأشخاص المنقولين (بإعتبار السائق) خمسة في المجموع أو إثنين خلرج حجرة القيادة يحتسب عدد الأطفال دون السن عشرة سنوات بالنصف. ج -يجب أن لا يتعدي عدد الأشخاص المنقولين على الجرارات عدد المقاعد المنصوص عليها من طرف الصانع. د - فيما يخص المجرورات أو نصف المجرورات، شرط أن تكون مؤمنة حسب الفصل الأول الهذكور أعلاه ، لا يتوفر الضمان إلاَّ إذا توفر تلازم الشرطين التاليين.
-
-د1- أن تكون العربات الهذكورة صنعت لغرض نقل الأشخاص.
-
-![](_page_8_Picture_0.jpeg)
-
-### الشـروط العاهة عقد تأهين العــربات البريـــة ذات هحــــــــــــــــــــــــــــــــــــ
-
-د 2 - أن يكون نقل الأشخاص قد وقع داخل المجرورة أو 2 - الأضرار اللاّحقة بالسيارة نتيجة السرقة أو محاولة نصف المجرورة.
-
-> ه - بالنسبةللدراجات النارية الصغيرة والمتوسطة والكبيرة والدراجات النارية ذات ثلاثة أو أربع عجلات إلاّ إذا كان عدد الأشخاص المنقولين لا يتجاوز العدد المنصوص عليه من طرف الصانع وأن يكون النقل غير مخالف للمقتضيات قرار وزير النقل في 25 جانفي 2000 و المتعلق بالدراجات والدراجات النارية.
-
-14-المسؤولية المدنية للأشخاص المتعاطين لمهن تصليح العربات أو صيانتها أو الإتجار فيها ومسؤولية مأموريهم ومسؤولية كل شخص يتولى سياقة العربات المعهود بها أكثر من 20% من وزن الحمولة المرخص فيها من طرف أو حفظها أو في نطاق عملهم.
-
-15 - سقوط حق المؤمّن له :
-
-يسقط حق المؤمّن له في الضمان إذا كان السائق يقود بأحكام الفصل السابع من مجلة الطرقات و الأمر عدد 146 لسنة 2000 المؤرخ في 24 جانفي 2000 المتعلق بالسياقة تحت تأثير حالة كحولية. ولا يمكن للمؤمّن معارضة ضحايا حوادث المرور أو من يؤول إليهم الحق عند الوفاة بسقوط حق المؤمّن له في هذه الحالة إذ يتولى المؤمّن دفع التعويض إلى مستحقيه لحساب المؤمّن له وله حق الرجوع إلى هذا الأخير لإسترجاع المبالغ وجميع المصاريف التي دفعها عوضا عنه و ذلك طبقا لأحكام الفصل - 119 -من مجلة التأمين الفصل 19 : استثناءات تتعلق بالخطر «ت »
-
-الأضرار اللاّحقةبالعربة المؤمّن عليها : تستثنى من الضمان الأضرار التالية : الأضرار الناتجة مباشرة عن قلة العناية والتآكل أو الخلل -  $\,$ 
-
-في السيارة أو عيب في الصنع.
-
-السرقة ( يقع ضمان هذه الأضرار ضمن خطر السرقة حسب الفصل 10 من الشروط العامة ). 3 - الأضرار اللاحقة بالعربة نتيجة الحريق أو النار أو سقوط صاعقة أو خلل كهربائي (يقع ضمان هذه الأضرار ضمن خطر الحريق حسب الفصل 8 من الشروط العامة ). 4 - الأضرار الناتجة عن تجهد في المحرك أو في المبرد. 5 -الأضرار اللآحقة بالعجلات المطاطية إلآإذا كانت نتيجة لحادث مؤمن إنجرت عنه أضرارا بأجزاء أخرى من العربة. 6 - الأضرار اللاحقة بعربة نفعية تنقل حمولة يفوق وزنها الصانع.
-
-7 ـ الأضرار الناتجة عن عمليات التخريب كالخدوش و النقوش التي لا تنطمس والمرسومة على هيكل السيارة إذا العربة المؤمّنة في حالة سكر أو تحت تأثير مواد مخدرة عملا كانت هذه الأضرار غير ناتجة عن اصطدام مع عربة وقع التعرف عليها أو إصطدام بجسم ثابت أو متحرك. 8 - الأضرار الناتجة عن سقوط البرد أو الثلج ، الزلازل ، البراكين ، الفيضانات ، سيلان الوحل ، الموج الغامر ،
-
-العواصف والزوابع والأعاصير وكل الكوارث الطبيعية الأخرى.
-
-9 -الأضرار اللاّحقة بالعربة المؤمّنة إذا كان السائق يقودها في حالة سكر أو تحت تأثير مواد مخدرة عملا بأحكام الفصل من مجلة الطرقات والأمر عدد146 لسنة 2000 المؤرخ في 24 جانفي المتعلق بالسياقة تحت تأثير حالة كحولية 10-الأضرار اللآحقة بالسيارة المؤمّنة نتيجة عملية مطاردة من طرف وحدات الأمن أو الحرس الوطنى أو الديوانة.
-
-11 - الأضرار غير المباشرة مثل الحرمان من الإنتفاع وتدهور القيمة
-
-### BHتـــا مـــيــــــن 🛷
-
-### الشـروط العاهة عقد تأهين العــربات البريــــــۃ ذات هحــــــــــــــــــــــــــــــــــــ
-
-الأضرار الناتجة عن عمليات شحن العربة بالبضائع 3 - مذياع السيارة وتوابعه. 4 - لا يتوفر الضمان إذا ما وقع اقتراف السرقة من طرف أو تفريغها منها خدم المؤمّن له و مأموريه أو أفراد عائلته أو بمشاركتهم. الفصل 20 : الإستثناءات المتعلقة بالخطر «ج » الحريق والإنفجار: تستثنى من الضمان الأضرار التالية : 1 - الأضرار اللاّحقة بالآلات الكهربائية والإلكترونية الناتجة عن مجرد إشتغالها . 2 - الحرائق الناتجة عن التدخين بالسىارة. 3 - الأضرار الناتجة عن المواد المتفجّرة. 4 - الأضرار اللاّحقة بالسيارة نتيجة السرقة أو محاولة السرقة (يقع ضمان هذه الأضرار ضمن خطر السرقة حسب الفصل 10 من الشروط العامة) 5 - الأضرار التي تنجر بفعل الحرارة وحدها أو من جراء الإحتكاك المباشر والحينى بالنار مالم يوجد حريق أو بداية حريق. 6 - الأضرار الناجمة عن فعل إجرامي الفصل 21 : الإستثناءات المتعلقة بالخطر «خ » سرقة العربة: 1 - بالنسبة للعجلات بمافى ذلك العجلة الإحتياطية ، المصابيح ، تكسير الزجاج: وكذلك الملحقات والقطع التي يسلمها الصانع في نفس الوقت مع العربة فان الضمان لا يوفر إلاَّ إذا سرقت في نفس الوقت مع العربة أو إذا ارتكبت السرقة داخل المأوى بعد خلعه وذلك بإستعمال مفاتيح مزيفة أو محاولة قتل أو عنف 2 - لا تعتبر الأضرار اللاّحقة بالنوافذ الزجاجية الأمامية أو الخلفية أو الجانبية محاولة سرقة إلاّ إذا قدم المؤمّن له مؤشر
-
-بدنی.
-
-جدي يؤكده الرأي الفني للخبير.
-
-5 - لا يتوفر الضمان أيضا إذا ما وقع تحويل السيارة عن طريق عملية خيانة مؤتمن أو تحيل. 6 - لا يتوفر الضمان إذا ما اتضح أن السائق لم يبذل كل العناية اللآزمة للمحافظة على السيارة وخاصة : - غلق النوافذ وتشغيل أجهزة الحماية والإنذار الموجودة - إحكام غلق الأبواب قبل ترك العربة. - عدم ترك المفاتيح فوق أو داخل السيارة. 7 - لا يتوفر الضمان إذا ما وقع الإعتداء على سائق السيارة وافتكاكها منه بالعنف. 8 - لا يتوفر الضمان إذا لم يوفر المؤمّن له إلى شركة التأمين جميع مفاتيح العربة المصرح بها في مطبوعة التصريح بالخطر. يمكن للمؤمّن خصم 20 % من قيمة التعويض إذا وقعت سرقة شهادة تسجيل العربة (البطاقة الرمادية) أو شهادة الفحص الفنى مع العربة. الفصل 22 : الإستثناءات المتعلقة بالخطر «د » الأضرار الحاصلة نتيجة السرقة أو محاولة السرقة (يقع - الأضرار ضمان هذه الأضرار ضمن خطر السرقة حسب الفصل 10 من الشروط العامة). 2 - الأضرار الحاصلة نتيجة الحريق أو النار أو سقوط صاعقة أو خلل كهربائي ) يقع ضمان هذه الأضرار ضمن
-
-خطر الحريق حسب الفصل 8 من الشروط العامة ). 3 - الأضرار اللاّحقة بالأجزاء البلورية الإضافية أو ما
-
-## BHتـــا مـــيــــــــــــــــــــــــــــــ
-
-### الشـروط العاهة عقد تأمين العــربات البريـــــۃ ذات محــــــــــــــــــــــــــــــــــــ
-
-شابهها بما في ذلك المرآة العاكسة أو أضواء تغيير الإتجاه أو الأضواء الأمامية أو الخلفية أو البلّور العلوى. 4 - الأضرار الحاصلة أثناء عمليات فك أو تركيب بلور العربة المؤمّن عليه أو أي أشغال أخرى. الفصل23 : الإستثناءات المتعلقة بالخطر « ذ » سرقة راديو كاسات. لا يتوفر الضمان إذا ما إتضح أن السائق لم يبذل كل - $^1$ العناية اللزِّمة للمحافظة على السيارة وخاصّة : - غلق النوافذ وتشغيل أجهزة الحماية والإنذار الموجودة بالسيارة. - إحكام غلق الأبواب قبل ترك العربة. - عدم ترك المفاتيح فوق أو داخل السيارة. لا يتوفر الضمان إذا ما وقع إقتراف السرقة من طرف - $^2$ خدم المؤمّن له أو مؤموريه أو أفراد عائلته أو بمشاركتهم. الأضرار الآحقة بمضخمات الصوت ، التوابع ، جميع -  $^3$ أنواع الشاشات والهوائيات الداخلية أوالخارجية. الفصل 24: الإستثناءات المتعلقة بالخطر «ص» الأضرار الناتجة عن تصادم 1 - الأضرار التي تكون بسبب عملية الجر أو المساعدة أو الوضع بمأوى السيارات. 2 - الأضرار اللآحقة بالعربة المؤمّنة إذا كان السائق يقودها فى حالة سكر أو تحت تأثير مواد مخدرة عملا بأحكام الفصل 7 من مجلة الطرقات والأمر عدد 146 لسنة 2000 المؤرخ في 24 جانفي 2000 المتعلق بالسياقة تحت تأثير حالة كحولية. 3 - الأضرار اللاّحقة بالعربة نتيجة الحريق أو النار أو سقوط صاعقة أو خلل كهربائى ( يقع ضمان هذه الأضرار ضمن خطر الحريق حسب الفصل 8 من الشروط العامة ).
-
-4 - الأضرار اللاحقة بالسيارة نتيجة عملية مطاردة من طرف الأمن أو الحرس الوطني أو الديوانة. 5 - الأضرارغير المباشرة مثل الحرمان من الإنتفاع وتدهور القيمة.
-
-الفصل25 : استثناءات مشتركة تتعلق بالأخطار «ب» «ت» «ج» «خ» «د» «ذ» «ص» 1 - بالنسبة للعربات الناقلة للمواد القابلة للإشتعال أو الإنفجار والّتى بوجودها قد تكون سببا لحادث أو لخطورة ناتجة عنه ،
-
-لا يضمن المؤمّن الأضرار الحاصلة لها أو المتسببة فيها ما لم يقع التنصيص على إكتتاب هذا الضمان ضمن الشروط الخاصة مقابل قسط تأمين خاص به. غير أنه في خصوص المواد القابلة للإشتعال تقبل 600 أو 500 كلغ من الزيوت أو البنزين المعدني أو المنتجات المماثلة بما في ذلك التزويد بالمحروقات السائلة أو الغازية الضرورية لتشغيل المحرك 2- الأضرار الحاصلة بمناسبة مشاركة العربات المشار إليها بالعقد في مسابقات منظمة أو تجربتها عندما يساهم فيها المؤمّن له بصفة متسابق.
-
-3 - الحوادث التى تجدّ أثناء حجز العربة المؤمّنة من قبل سلطة مدنية أو عسكرية أو الحوادث الناتجة عن الحروب الأهلية أو الأجنبية أو الإضطرابات أو الحركات الشعبية أو الكوارث الطبيعية.
-
-4 - الأضرار الناتجة عن التأثيرات المباشرة للإنفجار أو الإنبعاث الحراري أو الأشعة المتولدة عن تحويل نواة النرة أو عن النشاط الإشعاعي وكذلك عن تأثيرات الإشعاع الّتى تنشأ عن التسارع الإصطناعى للجزئيات.
-
-5 - الأضرار التي يتسبب فيها بنفسه عمدا أوبإيعاز من مالك العربة ، مكتتب العقد وكل شخص وقع تسليم العربة إليه.
-
-### BHتـــا مـــيــــــــــــــــــــــــــــــ
-
-### الشـروط العاهة عقد تأهين العــربات البريــــــــــــــــــــــــــــــــــــ
-
-6- الأضرار الناتجةعن الحوادث التي تقع من جراء إستعمال العربة المؤمّنة في غير الإستعمالات المصرح بها بمطبوعة الإعلام بالخطر والمنصوص عليها بالشروط الخاصة لهذا العقد.
-
-7- الأضرار غير المباشرة كالحرمان من الإستعمال أو إنخفاض قيمة السيارة .
-
-8- مصاريف رفع عطب السيارة أو إيداعها والناتجة عن أحداث مؤمن عليها.
-
-9- محتوى العربات و الأضرار التى تلحق العقارات و الأشياء و العربات أو الحيوانات التي يملكها المؤمّن له أو كل من سلمت له على وجه التسويغ أو الحراسة بأيّة صفة كانت وخاصة منها الأضرار اللآحقة بالسلع والأشياء الواقع نقلها.
-
-10-الأضرار اللاحقة بالسيارة المعهود بها إلى صاحب مستودع أو صاحب محل إصلاح أو صيانة أو محل للإتجار فيها. 11- الأضرار الحاصلة نتيجة الحجز البلدي للسيارة وذلك إبتداءا من رفعها إلى تسليمها لصاحبها.
-
-12-إذا لم تكن للسائق زمن وقوع الحادث السن القانونية لسياقة العربة المؤمّنة.
-
-13-إذا لم تكن للسائق زمن وقوع الحادث الشهادات الصالحة التى تقتضيها التراتيب الجاري بها العمل لسياقة العربة المؤمّنة بإستثناء السائق الذي يقود عربة برية ذات محرك معدة للتدريب أثناء حصة يشرف عليها شخص متحصل على الشهادات التي تقتضيها التراتيب الجاري بها العمل.
-
-14-الأضرار الناتجة عن عمليات شحن العربة بالبضائع أو تفريغها منها.
-
-### العنوان الرابع : تكوين العقد ومدته
-
-الفصل 26 : تكوين العقد وبداية مفعوله : يبدأ مفعول هذا العقد في التواريخ والساعات المذكورة بالشروط الخاصة.
-
-على أنه لا يكون صحيحا إلاّ بعد إمضائه من قبل الأطراف و بعد خلاص القسط الأول من التأمين. تنطبق هذه الأحكام على كل ملحق للعقد.
-
-الفصل 27 : مدة العقد :
-
-يبرم هذا العقد للمدة المنصوص عليها بالشّروط الخاصة. ويمكن تحديد المدة من تاريخ إلى تاريخ آخر وفي هذه الحالة يتوقف مفعول العقد وجوبا وبدون أى تنبيه عند منتصف ليل اليوم المعين لانقضائه . وبخلاف ذلك إذا تضمنت الشروط الخاصة عبارة «التجديد الضمنى » فإن العقد يتجدد وجوبا عند انقضاء هذه المدة من سنة إلى أخرى ما لم يتوجه أحد الطرفين بالتنبيه بالفسخ قبل شهرين على الأقل من إنقضاء سنة التأمين الجارية بالشكل والشروط المنصوص عليها بالفقرة الأخيرة من الفصل 28 من الشروط العامة. الفصل 28 : فسخ العقد :
-
-حالات الفسخ : يمكن فسخ العقد قبل تاريخ انقضائه العادي في الحالات التالية :
-
-. من طرف الهؤمّن له أو المؤمّن $\mathbf{1}$ 
-
-التأمين.
-
-أ- عند حلول أجل القسط السنوي للعقد على أن يتم توجيه انذار مسبق شهرين قبل حلوله. ب- في حالة التفويت في العربة المؤمّن عليها حسب الشروط المحددة بالفقرة الثانية من الفصل 22 من مجلة
-
-نلي التاليات
-
-### الشروط العامة عقد تأمين العـربات البريـة ذات محــــرك
-
-### BHتـــا مـــيــــــــــــــــــــــــــــــ
-
-### الشـروط العاهة عقد تأهين العــربات البريــــــــــــــــــــــــــــــــــــ
-
-التغييرات إذا كانت هذه التغييرات من فعله الشخصى وفي الحالات الأخرى يجب أن يقع التصريح بالتغييرات في أجل 08 أيام من تاريخ علمه بها. إذا ما شكّل التغيير تفاقها للخطر بحيث أنه لو وجدت تلك الظروف الجديدة عند الإكتتاب أو التجديد لما تعاقد المؤمّن أو لما كان ليفعل إلاَّ مقابل قسط تأمين أرفع ، يحق للمؤمّن : إما فسخ العقد بعد مضى 30 يوما إبتداء من تاريخ إعلام المؤمّن له بهذا الفسخ ( طبقا للفقرة 03 من الفصل 09 من مجلة التأمين). أو عرض مبلغ جديد لقسط التأمين وإذارفض المؤمّن له الترفيع المعروض عليه حقق للمؤمّن فسخ العقد بعد مضى 30 يوما ابتداء من تاريخ الإعلام المؤمّن له بالمطالبة بالترفيع وذلك بواسطة رسالة مضمونة الوصول مع الإعلام بالبلوغ. يجب التنصيص على هذا الأجل ضمن الإعلام (الفقرة الثانية من الفصل 09 من مجلة التأمين). العقوبات : - يكون عقد التأمين باطلا إذا تعمّد المؤمّن له كتمان أمر أو قدّم عن عمد بيانا غير صحيح بمطبوعة الإعلام بالخطر وكان لذلك تأثير على تقييم الخطر المؤمّن عليه ولو لم يكن للكتمان أو البيان غير الصحيح أثر في وقوع الحادث. ولا يترتب عن كتمان المؤمّن له أمرا أوعن إعطائه بيانا غير صحيح بطلان العقد إلآإذا أثبت المؤمّن سوء نية المؤمّن ويعارض المؤمّن في هذه الحالة ضحايا حوادث المرور أو من يؤول إليهم الحق عند الوفاة بهذا البطلان طبقا لأحكام الفصل 120 من مجلة التأمين. كل كتمان أو إعطاء بيانات غير صحيحة وغير مقصودة
-
-يترتب عنه تخفيض التعويضات بنسبة تعادل القسط
-
-العناصر الّتى تمكنه من تقييم المخاطر وبالتالى يجب عليه أن يجيب بأمانة ودقة على جميع الأسئلة المضمنة بمطبوعة الإعلام بالخطر والّتى يستفسره المؤمّن بواسطتها عند إبرام العقد ( الفقرة الثانية من الفصل07 من مجلة التأمين ). 2 - خلال سريان العقد :
-
-يجب على المؤمّن له أن يصرّح للمؤمّن بالظروف الجديدة الّتي تطرأ خلال سريان مفعول العقد والّتي تجعل الأجوبة الواردة بمطبوعة الإعلام بالخطر غير صحيحة ويكون ذلك بواسطة رسالة مضمونة الوصول مع الإعلام بالبلوغ. تعتبر من قبيل عناصر تفاقم الخطر على معنى الفصل التاسع من مجلة التأمين التغييرات المتعلقة بالحالات التالية :
-
-- تغيير القوة الجبائية للعربة.
-  - تغيير إستعمال العربة.
-    - تغيير هيكل العربة.
-  - تغيير مهنة المؤمّن له.
-- تغيير مكان الإيواء العادى للعربة.
-
-- إضافة مجرورة أو نصف مجرورة أو كرفانة أو أي معدات أو آلة يتم جرها.
-
-- تهيئة العربة المؤمّنة.
-- تغيير الحمولة والوزن الصافى للعربة.
-
-- إضافة مقعد إضافي أو عربة جانبية للدراجا ت النارية. - تغيير نوع الطاقة المستخدمة لتشغيل عربة المؤمّن له. - نقل مواد سريعة الالتهاب أو متفجّرة بصفة دائمة أو ظرفية ، مع مراعاة النسبة المسموح بها طبقا للفصل 25 من
-
-هذه الشروط العامّة.
-
-التصريح ونتائجه :
-
-يجب أن تقع هذه التصريحات من قبل المؤمّن له قبل وقوع الهدفوع من القسط الذي كان من المفروض دفعه.
-
-![](_page_14_Picture_0.jpeg)
-
-### الشـروط العاهة عقد تأمين العــربات البريـــة ذات محــــــــــــــــــــــــــــــــــــ
-
-التصريح بالتأمينات الأخرى :
-
-على المؤمّن له أن يعلم المؤمّن بواسطة رسالة مضمونة الوصول بوجود تأمينات أخرى وقع إكتتابها لتغطية أخطار يشملها هذا العقد وعلى المؤمّن له أن يبيّن اسم أو أسماء المؤمّنين الآخرين والمبلغ المؤمّن عليه.
-
-و إذا أبرمت عدة عقود تأمين لضمان نفس الخطر بنية التغرير أو الغش يمكن للمؤمّن المطالبة ببطلان العقد مع الغرامات.
-
-و إذا أبرمت عدة عقود تأمين بدون غش سواء في نفس التاريخ أو في تواريخ مختلفة بمبلغ جملي يتجاوز قيمة الشئ المؤمّن عليه فإنها تكون كلّها نافذة المفعول حسب صحّة كلّ عقد من المبلغ الجملي على أن لا يتجاوز جملة التعويضات قيهة الشيئ الهؤمّن عليه ( الفصل 18 من مجلة التأمين).
-
-الفصل 31 : دفع أقساط التأمين :
-
-يدفع قسط التأمين بمقر المؤمّن أو الوكيل الذي يعينه المؤمّن لهذا الغرض ما لم يحصل اتفاق مخالف يقع التنصيص عليه بالشّروط الخاصة ( الفصل 06 من مجلة التأمين ) على أنه يهكن دفع قسط التأمين بهقر الهؤمّن له أو بأي مقر آخر يتم الإتفاق عليه وذلك في الحالات وحسب الشروط التي يتم ضبطها بقرار وزير المالية.
-
-يدفع قسط التأمين مسبقا في الآجال المنصوص عليها بالشروط الخاصة.
-
-زيادة لقسط التأمين يجب على المكتتب أن يدفع: -مصاريف العقد عند الإكتتاب
-
-- توابع العقد المنصوص على مبلغها بالشرّوط الخاصة به ( الفقرة الأخيرة من الفصل 11 من مجلة التأمين ). مقابل قسيمة الخلاص وذلك في نفس الوقت الذي يدفع تغيير التعريفة : فيه قسط التأمين
-
-الضرائب والأداءات الموظفة على قسط التأمين أو على المبالغ المؤمّن عليها و التي لا يمنع استرجاعها قانونا العقوبات فى صورة عدم دفع قسط التأمين: يمكن للمؤمّن أن يوقف عقد التأمين إذا لم يدفع المؤمّن له قسط التأمين أو الجزء الذي حلّ أجله. و لا يكون للإيقاف مفعولا إلاَّ بعد عشرين يوما على توجيه إنذار بالدفع إلى المؤمّن له بآخر مقر يعرفه المؤمّن وذلك برسالة مضمونة الوصول مع الإعلام بالبلوغ. و تتضمن الرسالة وجوبا إشارة واضحة تدل على أنها موجهة كإنذار للمؤمّن له و التذكير بأجل دفع القسط و إدراج مضمون الفصل الحالي. و للمؤمّن حق فسخ العقد أو المطالبة أمام القضاة بتنفيذه
-
-بعد عشرة أيام من انقضاء الأجل المحدد أعلاه. و يمكن أن يتم الفسخ على إثر تصريح من المؤمّن بواسطة رسالة مضمونه الوصول مع الإعلام بالبلوغ موجهة إلى المؤمّن له.
-
-و لا يستعيد عقد التأمين الذي وقف العمل به مفعوله إلاّ بداية من اليوم الموالى ليوم خلاص الأقساط المخلدة. و يترتب عن الفسخ عدم استحقاق المؤمّن ما تبقى من القسط المتعلق بالمدّة التي فيها الخطر المؤمّن عليه. و لا ينسحب الإيقاف أو الفسخ على غير حسن نية المستفيد من التأمين بمقتضى إنتقال سابق عن حصول أي ضرر وعن الإعلان بالإيقاف أو الفسخ. على أن للمؤمّن في صورة حصول الضرر أن يعارض ذلك الغير إلى حد المبلغ الكافى بالمقاصة من قسط التأمين الذى يطلب التمتع
-
-إذا تعين على المؤمّن تغيير التعريفة المطبقة على الأخطار
-
-## 🛷 ப்பட மட்ப BH
-
-### الشـروط العاهة عقد تأمين العــربات البريــــــــــــــــــــــــــــــــــــ
-
-المضمونة بمقتضى هذا العقد بين أجلين سنويين فإن القسط الذي يقع تعيينه بالشروط الخاصّة. أو الجزء من القسط الواجب دفعه في كل تاريخ حلول أجله تقع 2 - يجب أن يتضمّن الإعلام بالحادث البيانات مراجعته بنفس النسبة.
-
-> يمكن للمؤمّن له أن يفسخ العقد برسالة مضمونة الوصول مع الإعلام ببلوغ خلال الخمسة عشرة يوما من تاريخ إعلامه بالترفيع.
-
-> يبدأ مفعول هذا الفسخ بعد شهر من تاريخ إصدار هاته الرسالة ويحق للمؤمّن المطالبة بجزء من قسط التأمين يقع احتسابه على أساس التعريفة السابقة مع نسبة المدّة الجارية بين آخر الأجل وتاريخ مفعول الفسخ . يحتفظ المؤمّن له في كل الحالات بإمكانية فسخ العقد عند حلول الأجل السنوي طبقا للفقرة الأولى من الفصل 28 من الشروط العامة الحالية.
-
-> > الفصل32 : إلتزامات المؤمّن له عند حصول حادث :
-
-> > > أ- الواجبات المشتركة لكلّ الحوادث :
-
-يجب على المؤمّن له أن يقوم بإعلام المؤمّن بكلّ حادث  $^{-1}$ من شأنه أن ينجر عنه ضمانه حال علمه به وفي كلّ الحالات في أجل لا يتجاوز خمسة أيام من تاريخ علمه بالحادث وإلاّ سقط حقه في الضمان إلا إذا أثبت أنّه استحال عليه التصريح في الأجل المحدد نتيجة لحالة طارئة أو قوّة قاهرة.
-
-يحفض هذا الأجل إلى $($ <sup>02</sup> ) يوم عمل فى حالة السرقة أو محاولة السرقة ( بما في ذلك سرقة الراديو كاسات إذا ما تمّ إكتتاب الضمان) وإلا سقط حقه في الضمان إلا إذا أثبت أنّه استحال عليه التصريح في الأجل المحدد نتيجة لحالة طارئة أو قوّة قاهرة.
-
-يجب أن يكون الإعلام بالحادث كتابيا مقابل إفادة بالإستلام.
-
-يجب أن يقع الإعلام بالمقر الإجتماعي للمؤمّن أو لدى ممثله
-
-- التالية :
-  - عدد عقد التأمين
-- تاريخ وساعة الحادث ومكانه وطبيعته وظروف حدوثه.
-  - أسباب الحادث ونتائجه المعروفة أو المحتملة.
-- الحالة المدنية و العنوان ورقم رخصة سياقة السائق وقت
-  - الحادث وتاريخ حصوله عليها.
-  - هوية المتضرّرين والشهود إن وجدوا.
-  - رقم تسجيل عربة الضد وهوية سائقها.
-
-- نسخة من شهادة التأمين الدوليّة : البطاقة البرتقالية أو البطاقة الخضراء( إذا كانت عربة الضد مؤمّنة خارج البلاد التونسيّة).
-
-يتعين على المؤمّن له إستعمال وثيقة المعاينة الوديّة في حالة حصول حادث أو تصادم حتى في صورة عدم مشاركة عربة أخرى في الحادث.
-
-يلتزم المؤمّن له بأن يجيب بكلّ أمانة ودقّة على كلّ البيانات و الإرشادات و يجب عليه حضور عملية إعادة تشخيص الحادث التي يطلبها منه المؤمّن سواء مباشرة أو بواسطة الخبراء.
-
-يسقط حق المؤمّن له في الضمان في صورة الإدلاء بتصريحات خاطئة و متعمّدة بخصوص تاريخ و ظروف الحادث وتبعاته الظاهرة.
-
-ب- الواجبات فى صورة وقوع حادث تنشأ عنه مسؤولية المؤمّن له :
-
-1 - يجب على المؤمّن له أن يمد المؤمّن في أقرب الآجال بكلّ التنابيه والرسائل والإستدعاءات والعرائض وغيرها من المراسلات غير العدلية أو الوثائق الإجرائية التي قدتبلغ
-
-### BH تـــا مــــــــــــــــــــــــــــــــ
-
-### الشـروط العاهة عقد تأمين العــربات البريـــــۃ ذات محــــــــــــــــــــــــــــــــــــ
-
-له أو لمخدومية حتى يتمكن المؤمّن من الرد عليها في الإبان وإلاَّ فإنّه يتحمل عند التأخير كل العواقب وخصوصا كل الأضرار التي قد تحصل للمؤمّن. 2 - لا يمكن معارضة المؤمّن له بأى اعتراف بالمسؤولية صادر عن المؤمّن له تجاه الغير كما لا يمكن معارضته بأي اتفاق أو صلح يمضيه هذا الأخير مع المتضرر من حادث المرور ويبقى للمؤمّن وحده الحق في اجراء الصلح. غير أنه لا يعتبر اعترافا بالمسؤولية بمجرد تصريح المؤمّن له بواقعة مادية أو قيامه بنجدة المتضرر من الحادث عندما يتعلق الأمر بإسعافات أولية وجب على كل شخص تقديمها. ت - الــواجبات في صورة وقوع حـادث يغطيه التأمين عن الأضرار الحاصلة للعربة : يجب على المؤمّن له أن يعلم المؤمّن عن المكان الذي يمكن معاينة الأضرار فيه. لا يمكن للمؤمّن له أن يشرع في عمليات التصليح أو يأذن بها قبل تثبيت المؤمّن للأضرار بواسطة خبير معين من لدنه. إلا أنه يمكن أن يأذن بالشروع في الإصلاحات إذا لم يتم تثبت الهؤمّن من الأضرار في غضون عشرة أيام من قبوله التصريح بالحادث. غير أنه بالنسبة للإصلاحات التى لا يفوق مقدارها الجملى 50 دينارا يمكن للمؤمّن له أن يقوم بها دون اللجوء إلى الإختبار وذلك بإرسال الوثائق المدعمة للمصاريف على المؤمّن. في صورة وقوع حادث أثناء عملية نقل العربة على المؤمّن له أن يقوم بمعاينة الأضرار تجاه الناقل أوالغير وذلك بجميع الوسائل القانونية. ث - الواجبات في حالة سرقة العربة : إذا تعلق الأمر بسرقة أو محاولة سرقة يجب على المؤمّن له : 1 - أن يعلم المؤمّن خلال يومي العمل المواليين. ) يجب
-
-إعلام المؤمّن حتى وإن لم يتحصل المؤمّن له على شهادة في السرقة من السلط الأمنية و إلا فقد حقه في التعويض. 2 - أن يتقدم بشكاية إلى السلط الأمنية المحلية وأن يثبت ذلك.
-
-3 - تقديم نسخة من محضر البحث. 4 - أن يقوم باعتراض على نقل ملكية العربة لدى مصلحة النقل البري التي سبق لها سلمت وصل التصريح بالإذن بالجولان. 5 - إذا وقع إعلام المؤمّن له بالعثور على العربة : يجب عليه إعلام المؤمّن بذلك خلال يومي عمل. إذا تعرضت العربة إلى أضرار يجب الرجوع إلى الإجراءات الواجب إتباعها في حالة حصول حادث ( الفصل 32 من الشروط العامة ) 6 - في حالة اختفاء العربة : - يجب على المؤمّن له اثبات وجود العربة قبل الحادث على الحالة التى كانت عليها وذلك بكلّ الطرق المتوفرة بطبيعتها لديه وأن يقدم تبعا لذلك الوثائق الضرورية للتعويض: - وصل إيداع الشكوى ( عدد محضر البحث ، تاريخ إحالته إلى المحكمة المختصة) -البطاقة الرمادية أو شهادة في وضعية العربة إذا ما وقعت سرقة البطاقة الرمادية - شهادة إحالة العربة لفائدة المؤمّن معرّفة بالإمضاء من طرف المالك المذكور اسمه بالبطاقة الرمادية - مجموعة المفاتيح - وصل خلاص معلوم الجولان
-
-- شهادة الفحص الفنى - شهادة عدم العثور على السيارة أو شهادة في الحفظ مسلمّة
-
-من المحكمة .
-
-# BH تــــا مــــيــــــــــــــــــــــــــــ
-
-### الشـروط العاهة عقد تأمين العــربات البريــة ذات محـــــــــــرك
-
-ج - الواجبات في صورة وقوع حادث يشمله التأمين الخاص : دفاع ورجوع
-
-قضائية دون موافقة المؤمّن و إلاّ فإنه يتحمل كل التبعات الحق في شكل جراية : التي تنجر عن ذلك.
-
-> للمؤمّن وحده الحق في تسيير القضية وذلك في حدود الضمان الممنوح.
-
-> لا يمكن للمؤمّن له أن يشرع في عملية التصليح أو يأذن بها قبل تثبت المؤمّن من الأضرار بواسطة خبيرمعين من لدنه. إلاّ أنه يمكن للمؤمّن له أن يؤذن بالشروع بالإصلاحات إذا لم يتم تثبيت المؤمّن من الأضرار في خلال العشرة أيام من قبوله التصريح بالحادث وعندما تكون قيهة الاصلاحات لا تفوق 50 دينارا.
-
-#### الفصل 33 : العقوبات
-
-إذا لم يف المؤمّن له بكافة أو ببعض الواجبات المنصوص عليها بالفصل 30 من الشروط العامة الحالية ، يمكن للمؤمّن أن يطالب بغرامة مناسبة للضرر الذي سببه عدم وفاء المؤمّن له بها إلاّ في حالة الأمر الطارئ أو القوة القاهرة. تسقط جهيع حقوق الهؤمّن له في الضمان في صورة تصريحه عهدا ببيانات غير صحيحة عن طبيعة وتاريخ الحادث وأسبابه وظروفه ونتائجه.
-
-العنوان السادس : إلتزامات المؤمّن
-
-يقع تحديد مبلغ الضمان بالنسبة لكل خطر بالشّروط الخاصّة : الفصل34: التعويض في صورة وقوع حادث ينجرّ عنه إعتمـــاد ضمان مسؤولية المؤمّن له (الخطر («ĺ»
-
-اذا كان القيام بدعوى قضائية ضروريًا -
-
-لا تطرح أتعاب التقاضي و مصاريف قسيمة الخلاص وغيرها من مصاريف التسوية من مبلغ الضمان. على المؤمّن له أن يمتنع قطعيا عن القيام بنفسه بدعوى 2 -عندما يكون التعويض الممنوح للمتضرر أو لمن آل إليهم أ -إذا وقع الإذن بشراء سندات لتأمين خلاصها فإنّ الهؤمّن يتولى تأسيس هذا الضمان. ب - إذا لم يمنح الحكم القضائى أيّ ضمان خاص فإنّه يقع حساب قيهة الجراية في شكل رأس مال حسب القواعد المطبقة لتقدير الاحتياطي الحسابي لها. ت - وفي كلتا الحالتين (أ وب) ، يمكن للمؤمّن أن يطالب باسترجاع المبالغ التى دفعها أو قام بادخارها احتياطيا لفائدة المؤمّن له إذا ما فاقت مبلغ الضمان. 3-فــلا يمكن أن تحــمل الخطية علـــــى كاهل المؤمّن بأيّ حال من الأحوال بإعتبارها عقوبة ضد المؤمّن له. 4 - سقوط الحق والبنود التي لا يمكن معارضة الضحايا بها ورجوع المؤمّن على المؤمّن له. لا يمكن معارضة الضحايا أومن يؤول إليهم الحق بالنسبة للخطر «أ» أ - بسقوط الحق بإستثناء حالة توقيف العقد بسبب عدم دفع قسط التأمين ب - بالتخفيض من قيمة التعويض التابع لعدم الإعلام بإحدى التغييرات المنصوص عليها بالفصل 20 من الشروط العامة.
-
-والتي تطرأ على الأخطار خلال سريان مفعول العقد. يمكن للمؤمّن في الحالات المذكورة أعلاه القيام بدعوى
-
-### BH تــــــــــــــــــــــــــــــــــــ
-
-### الشـروط العاهة عقد تأهين العــربات البريـــة ذات هحــــــــــــــــــــــــــــــــــــ
-
-على سبيل الإحتياط.
-
-الفصل 35 : التعويض عن الأضرار الاحقة بالعربة المؤمّنة :
-
-مبلغ التعويض :
-
-يقع تقدير الأضرار الحاصلة للعربات المؤمّنة بعنوان الأضرار اللآحقة بها عند حصول حادث بواسطة خبير يقع تعيينه من طرف المؤمّن
-
-و لا يمكن بأيّ حال أن تفوق قيمة التعويض المبلغ المحدد الشّروط الخاصة ويقع في جميع الحالات خصم الحصة المتبقية بذمة المؤمّن له والمنصوص عليها بالشّروط الخاصة . أ- عند تحطم العربة كليا أو إذا إتضح أنها غير قابلة للإصلاح اقتصاديا أو عند سرقتها فإن التعويض يحدد حسب قيمة العربة يوم وقوع الحادث والمضمنة بتقرير الخبير دون تجاوز قيمة المبلغ المؤمّن عليه ويقع عند الاقتضاء طرح قيمة الحطام وكذلك قيمة كل القطع والمعدات التي أمكن استعادتها من مبلغ التعويض
-
-ب - عند الهلاك الجزئى وعندما تكون العربة قابلة للإصلاح اقتصاديا يحدد التعويض حسب كلفة تغيير أو إصلاح القطع التي أتلفت حسب الرأى الفني للخبير وتقديراته.
-
-ت - إذا اتضح من تقدير الخبير أن قيمةالشيئ المؤمّن عليه تتجاوز يوم وقوع الحادث مبلغ التأمين ،يتكفل المؤمن له وحده بمازاد عن قيمته المضمونة ويتحمل بناء على ذلك حصة نسبيّة من قيمة الضرر عند الهلاك الجزئي للشيء المؤمّن عليه وفق أحكام 17 من مجلة التأمين والمذكرة التفسيرية الموضوعة للغرض.
-
-الفصل 36: طرق التعويض و الإجراءات في حالة الخلاف :
-
-يقع تعويض الأضرار في إطار تسوية رضائيّة. وفي صورة
-
-ضد المؤمّن له لإسترجاع كل المبالغ التي دفعها أورصدها عدم حصول إتفاق حول تسوية رضائيّة فإنّ اللّجوء الى الإختبار الودي يضلّ قائما مع مراعاة حقوق الطرفين. ويعين كلّ طرف خبير. وفي صورة إختلاف الطرفين ، يقع الإحتكام إلى خبير ثالث.
-
-ويدفع كلّ طرف أتعاب ومصاريف الخبير الذي يعينه ويتحمّل مناصفة مع الطرف الآخر أتعاب الخبير الثالث ومصاريف تعيينه.
-
-بعد الإنتهاء من الإختبار الودى ، يكون الإتفاق على مسؤولية المؤمّن له.
-
-الفصل 37 : آجال التعويض :
-
-يتم دفع التعويض بعد مد المؤمّن بجميع الوثائق المكوّنة للملف خلال الثلاثين يوما الموالية لاتفاق الأطراف.
-
-و في صورة التلف الجزئي لا يقع دفع التعويضات إلاَّ عند إتمام الإصلاحات.
-
-على أنّه في صورة السرقة ، لا يمكن للمؤمّن له أن يطالب بالتعويض إلاَّ بعد أجل 20 يوما من تاريخ التصريح بالحادث شريطة الحصول على محضر البحث من السلط القضائية وتوفير الوثائق (المنصوص عليها بالفقرة ث من الفصل 32 من هذه الشروط العامة).
-
-و يتعهد المؤمّن له بإسترجاع العربة المسروقة إذا تمّ العثور عليها في غضون الأجل الهذكور. في هذه الحالة ، لا يكون المؤمّن ملزما إلا في حدود الأضرار والمصاريف المضمونة.
-
-أمّا إذا عثر على العربة المسروقة بعد الأجل المشار إليه فإنّ للمؤمّن له الخيار في إسترجاع حيازتها مقابل رد التعويض بعد طرح المقدار المناسب للأضرار والمصاريف المبذولة.
-
-![](_page_19_Picture_0.jpeg)
-
-### الشـروط العاهة عقد تأمين العــربات البريــة ذات محـــــــــــرك
-
-الفصل 38 : حلول المؤمّن محل المؤمّن له : يحلّ المؤمّن الذي قام بالتعويض وفي حدود الضّمان محل المؤمّن له فيما له من الحقوق والدعاوى على الآخرين الذين تسببوا في الضرر طبقا للفصل 21 من مجلة التأمين. غير أنّ هذا الحلول غير مقبول فيما يخصّ الخطر «د » كما لا يمكن القيام بدعوى الرجوع على الأعقاب والأسلاف والأصهار والأقربين والمستخدمين والعملة والخدم وبصفة عامة كلّ شخص يعيش عادة في منزل المؤمّن له إلاّ في حالة الإضرار القصدّي او العمد بالغير من قبلهم. 1 - الإجراءات المتعلقة بالخطر «أ »
-
-أ - في صورة القيام بدعوى ضدّ المؤمّن له أمام القضاء المدنى أو التجاري أو الإداري ، يتولى المؤمّن ، في حدود الضمان الدفاع عنه وتسيير القضيّة وله الحرية في إستعمال طرق الطعن.
-
-ب - إذا لم يمنح التعويض للضحيّة أو للضحايا ، يمكن للمؤمّن تسيير القضيّة أمام المحاكم الجزائيّة أو المشاركة فيها بإسم المؤمّن له المسؤول مدنيا وإستعمال كلّ طرق الطعن المتوفّرة.
-
-غير أنّه لا يمكن للمؤمّن إستعمال طرق الطعن إلاّ بموافقة
-
-المؤمّن له إذا وقع إستدعاؤه كمتّهم بإستثناء التعقيب إذا كان في حدود الغرامات المدنيّة.
-
-#### مختلفات
-
-الفصل 39 : سقوط الدعوى بمرور الزمن :
-
-تسقط كلّ الدعاوى الناشئة عن عقد التأمين بعد مضى عامين من تاريخ الحادث الذي تولدت عنه طبقا للشروط المحدّدة بالفصلين  $^{14}$  و  $^{15}$  من مجلة التأمين.
-
-غير أنّ الدعاوى الناشئة عن حوادث الهرور تسقط بعد مضى ثلاث سنوات من تاريخ علم المتضرر أو من يؤول إليهم الحق عند الوفاة بالضرر أو من تسبب فيه طبقا لأحكام الفصل <sup>125</sup> من مجلة التأمين.
-
-#### الفصل 40 : مرجع النضر القضائى :
-
-أ - إذا كانت الدعوى مرفوعة من طرف المؤمّن ضدّ المؤمّن له فالمحكمة المختصّة بالنظر هي محكمة مقر المؤمّن له. ب - إذا كانت الدعوى مرفوعة من طرف المؤمّن له فالمحكمة المتخصصة بالنظر هي حسب إختياره للمحكمة إمّاالتي بدائرتها مقره أو مقر المؤمّن أو المحكمة التي بدائرتها حصل الضرر.
-
-#### CLAUSE DE CONSENTEMENT
-
-Conformément à la loi organique n°2004-63 du 27 juillet 2004, portant sur la protection des données à caractère personnel, je déclare être informé du traitement de mes données personnelles renseignées au niveau du présent formulaire dans le cadre de la souscription d'un contrat d'assurance établi par BH Assurance. Je consens expressément au traitement de mes données personnelles et en cas de réalisation des finalités pour lesquelles elles ont été collectées ou lorsqu'elles deviennent inutiles pour l'activité de BH Assurance, ces dernières se verront détruites. De même, je déclare être informé de mon droit d'accès, de rectification de mes données personnelles et de mon droit d'opposition au traitement de ces dernières ainsi que mon droit de porter plainte auprès de l'INPDP pour toute violation constatée. عملا بأحكام القانون الأساسي عدد 2004.63 المؤرخ في 27 جويلية 2004 والمتعلق بحماية المعطيات الشخصية أصرح بعلمي التام بعملية معالجة معطياتي الشخصية المذكورة في هذه المطبوعة في إطار اكتتاب عقد تأمين من طرف تأمين H أوافق صراحة على معالجة معطياتي الشخصية وفي صورة تحقق الغرض الذي جمعت من أجله أو في صورة ما إذا لم تعد ضرورية لنشاط شركة تأمين BH ، يتم القيام بإتلافها كما أصرح بأني على علم بحقي في النفاذ إلى معطياتي الشخصية وتصحيحها وحقي في الاعتراض على معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية المعطيات الشخصية في صورة عدم حمايتها ه
-
-![](_page_19_Picture_15.jpeg)
-
-20
-
-المكتتب
+Conformément à la loi organique n°2004-63 du 27 juillet 2004, portant sur la protection des données à caractère personnel, je déclare être informé du traitement de mes données personnelles renseignées au niveau du présent formulaire dans le cadre de la souscription d’un contrat d’assurance établi par BH Assurance. Je consens expressément au traitement de mes données personnelles et, en cas de réalisation des finalités pour lesquelles elles ont été collectées ou lorsqu’elles deviennent inutiles pour l’activité de BH Assurance, ces dernières se verront détruites. De même, je déclare être informé de mon droit d’accès, de rectification de mes données personnelles et de mon droit d’opposition au traitement de ces dernières ainsi que mon droit de porter plainte auprès de l’INPDP pour toute violation constatée.

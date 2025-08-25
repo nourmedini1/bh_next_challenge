@@ -4,600 +4,482 @@
 
 ![](_page_0_Picture_2.jpeg)
 
-# **SOMMAIRE**
+# SOMMAIRE
 
-# GENERALES DISPOSITIONS : 1 CHAPITRE
+## DISPOSITIONS GÉNÉRALES : CHAPITRE I
 
-| Objet<br>du<br>contrat                                                                           | ARTICLE<br>1  |
-|--------------------------------------------------------------------------------------------------|---------------|
-| Vol<br>des<br>marchandises<br>en<br>magasins<br>et<br>locaux<br>à<br>usage<br>Professionnel      | ARTICLE<br>2  |
-| du Vol<br>contenu<br>des<br>coffres<br>forts-<br>et<br>chambre<br>fortes                         | ARTICLE<br>3  |
-| Exclusions<br>spécifiques<br>au<br>de vol<br>marchandises<br>en<br>magasin<br>et                 | ARTICLE<br>4  |
-| locaux<br>à<br>usage<br>professionnel<br>au et<br>du vol<br>contenu<br>des<br>coffres<br>forts-  |               |
-| et<br>chambres<br>fortes                                                                         |               |
-| Vols<br>avec<br>effraction<br>des<br>biens<br>mobiliers<br>dans<br>les<br>locaux<br>à<br>usage   | ARTICLE<br>5  |
-| 'd<br>habitation                                                                                 |               |
-| Exclusions<br>spécifiques<br>vol au<br>avec<br>effraction<br>des<br>biens<br>mobiliers           | ARTICLE<br>6  |
-| dans<br>les<br>locaux<br>'d<br>habitation                                                        |               |
-| Vol<br>la sur<br>personne<br>et<br>perte<br>par<br>de cas<br>force<br>majeure                    | ARTICLE<br>7  |
-| Exclusions<br>spécifiques<br>la à<br>garantie<br>vol<br>la sur<br>personne<br>et<br>perte        | ARTICLE<br>8  |
-| par<br>de cas<br>force<br>majeure                                                                |               |
-| Les<br>détournements<br>des<br>espèces<br>billets ,<br>de<br>banque<br>titres ,<br>et<br>valeurs | ARTICLE<br>9  |
-| Exclusions<br>spécifiques<br>la à<br>garantie<br>contre<br>les<br>détournements<br>des           | ARTICLE<br>10 |
-| espèces<br>billets ,<br>de<br>banque<br>titres ,<br>et<br>valeurs                                |               |
-| Extensions<br>de<br>garanties                                                                    | ARTICLE<br>11 |
-| Exclusions<br>communes                                                                           | ARTICLE<br>12 |
-| CHAPITRE<br>: Il<br>FORMATION<br>ET<br>DUREE<br>DU<br>CONTRAT                                    |               |
-| Formation<br>et<br>prise<br>effet'd<br>du<br>contrat                                             | ARTICLE<br>13 |
-| Durée<br>du<br>contrat                                                                           | ARTICLE<br>14 |
-| Résiliation<br>du<br>contrat                                                                     | ARTICLE<br>15 |
-| Transfert<br>de<br>propriété                                                                     | ARTICLE<br>16 |
-| CHAPITRE<br>Ill<br>LES :<br>OBLIGATIONS<br>'L DE<br>ASSURE                                       |               |
-| Déclaration<br>la à<br>souscription<br>en ,<br>cours<br>de<br>contrat<br>et                      | ARTICLE<br>17 |
-| conséquences                                                                                     |               |
-|                                                                                                  |               |
+| Objet du contrat | ARTICLE 1 |
+| Vol des marchandises en magasins et locaux à usage professionnel | ARTICLE 2 |
+| Vol du contenu des coffres-forts et chambres fortes | ARTICLE 3 |
+| Exclusions spécifiques au vol des marchandises en magasin et locaux à usage professionnel et au vol du contenu des coffres-forts et chambres fortes | ARTICLE 4 |
+| Vols avec effraction des biens mobiliers dans les locaux à usage d'habitation | ARTICLE 5 |
+| Exclusions spécifiques au vol avec effraction des biens mobiliers dans les locaux à usage d'habitation | ARTICLE 6 |
+| Vol sur la personne et perte par cas de force majeure | ARTICLE 7 |
+| Exclusions spécifiques à la garantie vol sur la personne et perte par cas de force majeure | ARTICLE 8 |
+| Les détournements des espèces, billets de banque, titres et valeurs | ARTICLE 9 |
+| Exclusions spécifiques à la garantie contre les détournements des espèces, billets de banque, titres et valeurs | ARTICLE 10 |
+| Extensions de garanties | ARTICLE 11 |
+| Exclusions communes | ARTICLE 12 |
 
-# **SOMMAIRE**
+## FORMATION ET DURÉE DU CONTRAT : CHAPITRE II
 
-| Aggravations<br>du<br>risque                                         | ARTICLE<br>18 |
-|----------------------------------------------------------------------|---------------|
-| Diminution<br>des<br>risques                                         | ARTICLE<br>19 |
-| Autres<br>assurances                                                 | ARTICLE<br>20 |
-| Paiement<br>la de<br>prime                                           | ARTICLE<br>21 |
-| Obligations<br>l de<br>assuré'<br>en<br>de cas<br>sinistre           | ARTICLE<br>22 |
-| CHAPITRE<br>: IV<br>OBLIGATlONS<br>'L DE<br>ASSUREUR                 |               |
-| Evaluation<br>des<br>dommages                                        | ARTICLE<br>23 |
-| Expertise<br>-<br>Sauvetage                                          | ARTICLE<br>24 |
-| Insuffisance<br>de<br>garantie<br>:<br>Application<br>la de<br>Règle | ARTICLE<br>25 |
-| Proportionnelle                                                      |               |
-| Les<br>délais<br>de<br>règlements                                    | ARTICLE<br>26 |
-| Récupération<br>des<br>objets<br>volés                               | ARTICLE<br>27 |
-| Subrogation<br>-<br>Recours<br>après<br>sinistre                     | ARTICLE<br>28 |
-| Reconstitution<br>la de<br>garantie                                  | ARTICLE<br>29 |
-| Compétence<br>et<br>Prescription                                     | ARTICLE<br>30 |
+| Formation et prise d'effet du contrat | ARTICLE 13 |
+| Durée du contrat | ARTICLE 14 |
+| Résiliation du contrat | ARTICLE 15 |
+| Transfert de propriété | ARTICLE 16 |
+
+## OBLIGATIONS DE L'ASSURÉ : CHAPITRE III
+
+| Déclaration à la souscription, en cours de contrat et conséquences | ARTICLE 17 |
+| Aggravations du risque | ARTICLE 18 |
+| Diminution des risques | ARTICLE 19 |
+| Autres assurances | ARTICLE 20 |
+| Paiement de la prime | ARTICLE 21 |
+| Obligations de l'assuré en cas de sinistre | ARTICLE 22 |
+
+## OBLIGATIONS DE L'ASSUREUR : CHAPITRE IV
+
+| Évaluation des dommages | ARTICLE 23 |
+| Expertise - Sauvetage | ARTICLE 24 |
+| Insuffisance de garantie : Application de la Règle Proportionnelle | ARTICLE 25 |
+| Les délais de règlements | ARTICLE 26 |
+| Récupération des objets volés | ARTICLE 27 |
+| Subrogation - Recours après sinistre | ARTICLE 28 |
+| Reconstitution de la garantie | ARTICLE 29 |
+| Compétence et Prescription | ARTICLE 30 |
 
 ![](_page_4_Picture_0.jpeg)
 
-# GÉNÉRALES CONDITIONS
+# CONDITIONS GÉNÉRALES
 
-le dénommé après-ci Assurances des Code le par régi est contrat présent Le le et Particulières Conditions les ,suivent qui Générales Conditions les ,Code fait en qui basé est il duquel réponses les sur risque de déclaration de Formulaire .intégrante partie
+Le présent contrat est régi par le Code des Assurances et les Conditions Générales, qui suivent, les Conditions Particulières, et le Formulaire de déclaration de risque sur lequel il est basé, qui fait partie intégrante.
 
-# DISPOSITIONS - I CHAPITRE GENERALES
+## DISPOSITIONS GÉNÉRALES - CHAPITRE I
 
-# : CONTRAT DU OBJET - 1 ARTICLE
+### OBJET DU CONTRAT - ARTICLE 1
 
- Conditions aux faite mention Suivant ,exclusions des réserve sous et Particulières le ,après-ci prévues déchéances et limitations catégories des une'l garantit contrat présent : suivants vols des
+Sous réserve des exclusions, limitations et déchéances prévues ci-après, le présent contrat garantit l'une des catégories de vols suivants, suivant mention faite aux Conditions Particulières :
 
- et magasins en marchandises des Vol) a ; professionnels usages à locaux
+a) Vol des marchandises en magasins et locaux à usage professionnel ;  
+b) Vol avec effraction des biens mobiliers dans les locaux à usage d'habitation ;  
+c) Vol du contenu des coffres-forts et chambres fortes ;  
+d) Vol sur la personne et perte par cas de force majeure ;  
+e) Les détournements des espèces, billets de banque, titres et valeurs.
 
- mobiliers biens des effraction avec Vol) b ; habitations'd usages à locaux les dans
+### VOL DES MARCHANDISES EN MAGASINS ET LOCAUX À USAGE PROFESSIONNEL - ARTICLE 2
 
- et forts-coffres des contenu du Vol) c ; fortes chambres
+BH ASSURANCE garantit les pertes dont l'assuré peut être victime par suite de la disparition, détérioration ou destruction des objets assurés et définis aux Conditions Particulières, se trouvant à l'intérieur des locaux assurés, qui seraient la conséquence de vols :
 
- de cas par perte et personne la sur Vol) d ; majeure force
+a) Commis avec effraction, escalade ou usage de fausses clés ;  
+b) Commis sans effraction, s'il est dûment établi qu'ils ont été commis par des tiers qui se seraient introduits ou maintenus clandestinement dans les locaux renfermant les objets assurés ;  
+c) Précédés ou suivis de meurtre, tentative de meurtre ou de violence sur la personne de l'assuré, d'un membre de sa famille ou de ses préposés.
 
- de billets ,espèces des détournements Les) e .valeurs et titres ,banque
+Par « Objet », on entend tous les biens et marchandises mentionnées aux Conditions Particulières, se trouvant, lors du vol, dans les locaux désignés et appartenant à l'assuré, à ses employés ou à des tiers, s'il est justifié d'un dépôt régulier.
 
-# DES VOL – 2 ARTICLE ET MAGASINS EN MARCHANDISES : PROFESSIONNEL USAGE A LOCAUX
+La garantie est expressément subordonnée à ce que tous les moyens de fermeture et de sécurité et de protection aient été normalement utilisés en dehors des jours et heures de travail ou de service.
 
- dont pertes les garantit ASSURANCE BH de suite par victime être peut assuré'l des destruction ou détérioration ,disparition ,Particulières Conditions aux définis objets et assurés locaux des intérieur'l à trouvant se : vols de conséquence la seraient qui
+#### Pour bénéficier de la garantie, l'assuré doit :
 
- ou escalade ,effraction avec Commis) a ; clés fausses de usage
+1. Se conformer aux dispositions légales et réglementaires relatives à la tenue de la comptabilité ;  
+2. Tenir régulièrement à jour :  
+   a) Un état détaillé des titres et valeurs avec indication des séries et numéros ;  
+   b) Un registre spécial des entrées et sorties des marchandises données ou reçues ;  
+3. En cas de sinistre, communiquer ces livres à BH ASSURANCE.
 
- est il's ,effraction sans Commis) b des par commis été ont ils'qu établi dûment maintenus ou introduits seraient se qui tiers renfermant locaux les dans clandestinement ; assurés objets les
+### VOL DU CONTENU DES COFFRES-FORTS ET CHAMBRES FORTES - ARTICLE 3
 
- tentative de ,meurtre de suivis ou Précédés) c de personne la sur violence de ,meurtre de un'l ou famille sa de membre un'd ,assuré'l .préposés ses de
+BH ASSURANCE assure, dans les lieux indiqués dans le contrat, le contenu des coffres-forts contre les risques de vol et de destruction, en cas décrits aux Conditions Particulières, ou de leur effraction ou de leur enlèvement hors des locaux où ils se trouvent normalement, par toute personne ayant pénétré indûment dans ces locaux.
 
- ou biens les tous » Objet « par entend On Conditions aux mentionnées marchandises dans ,vol du lors ,trouvant se ,Particulières à appartenant et ,désignés locaux les il's ,tiers des à ou employés ses à ,assuré'l .régulier dépôt un'd justifié est
+Il n'y a donc pas d'assurance en cas de vol commis avec usage des clés des coffres-forts, en dehors des heures de travail, qui auraient été laissées dans les locaux occupés par l'assuré, même alors que ces clés auraient été déposées en meuble fermé.
 
- subordonnée expressément est garantie La ,fermeture de moyens les tous que ce à été auront protection de et sécurité de et jours des dehors en utilisés normalement .service de ou travail de heures
+Cette garantie est accordée sous réserve que les coffres-forts soient fermés au moyen de tous les dispositifs prévus par le constructeur (les serrures fermées par le nombre de clés voulus, les combinaisons et les mécanismes qui bloquent les mouvements de pênes ou serrures brouillées).
 
-#### : doit assuré'l ,garantie la de bénéficier Pour
+Pour l'assurance des titres et valeurs, l'assuré doit tenir à jour un état détaillé des titres et valeurs assurés, avec indication des séries et numéros. Cet état doit être renfermé dans un meuble séparé.
 
- dispositions aux conformer Se 1. tenue la à relatives ,légales et réglementaires ; comptabilité de registres des
+### EXCLUSIONS SPÉCIFIQUES AU VOL DES MARCHANDISES EN MAGASIN ET LOCAUX À USAGE PROFESSIONNEL ET AU VOL DU CONTENU DES COFFRES-FORTS ET CHAMBRES FORTES - ARTICLE 4
 
-: jour à régulièrement Tenir 2.
+Sont exclus de la garantie :
 
- avec ,valeurs et titres des détaillé état Un) a ; numéros et séries des indication
+1. Les vols commis ou tentés par ou avec la complicité :  
+   - Des représentants légaux de l'entreprise, si l'assuré est une personne morale ;  
+   - Des personnes habitant dans l'enceinte de l'entreprise, des locataires, sous-locataires ou autres personnes occupant tout ou partie des locaux renfermant les biens assurés ;  
+   - Des gérants, employés, préposés, ouvriers, ainsi que toute personne chargée de la garde ou de la surveillance de l'entreprise, à moins que les vols ne soient commis exclusivement avec effraction et en dehors des heures de travail ou de service des locaux.  
+   La charge de la preuve incombe à BH ASSURANCE.  
 
- sorties et entrées des spécial registre Un) b .reçues ou données marchandises de
+2. Les objets exposés dans les vitrines, fixes ou mobiles, extérieures ainsi que celles dans les vitrines s'ouvrant de l'extérieur, dans le hall d'entrée ou dans les magasins eux-mêmes, ainsi que les vitrines elles-mêmes.  
 
- ces ,sinistre de cas en ,Communiquer 3. .ASSURANCE BH à livres
+3. À défaut de gardiennage permanent des locaux assurés, il n'y a pas de garantie à partir du quarante-cinquième jour de fermeture des locaux, en une ou plusieurs périodes, dans une même année d'assurance. Toutefois, les périodes de fermeture n'excédant pas trois jours consécutifs ne seront pas décomptées dans la durée maximale de fermeture prévue ci-dessus.
 
-# CONTENU DU VOL – 3 ARTICLE CHAMBRES ET FORTS-COFFRES DES : FORTES
+### VOL AVEC EFFRACTION DES BIENS MOBILIERS DANS LES LOCAUX À USAGE D'HABITATION - ARTICLE 5
 
- indiqués lieux aux ,assure ASSURANCE BH forts-coffres des contenu le ,contrat le dans contre ,Particulières Conditions aux décrits cas en ,destruction de et vol de risques les leur de ou forts-coffres dits des effraction'd
+BH ASSURANCE garantit les pertes dont l'assuré peut être victime par suite de la disparition, détérioration ou destruction des objets mobiliers désignés aux Conditions Particulières, résultant de vols :
 
- trouvent se ils où locaux des hors enlèvement ayant personne toute par ,normalement .locaux ces dans indûment pénétré
+a) Commis avec effraction, escalade ou usage de fausses clés (Article 271 du Code Pénal), lorsqu'il sera établi que le voleur s'est introduit furtivement dans les locaux renfermant les objets assurés ;  
+b) Précédés ou suivis de meurtre, tentative de meurtre ou de violence sur la personne de l'assuré, d'un membre de sa famille ou de ses employés ou domestiques.
 
- vol de cas en assurance pas donc a y'n Il ,travail du heures des dehors en ,qui fortscoffres des clés des usage avec commis locaux les dans laissées été auraient ces que même alors ,assuré'l par occupés .fermé meuble en déposés été auraient clés
+### EXCLUSIONS SPÉCIFIQUES AU VOL AVEC EFFRACTION DES BIENS MOBILIERS DANS LES LOCAUX À USAGE D'HABITATION - ARTICLE 6
 
- que réserve sous accordée est garantie Cette de moyen au fermés soient forts-coffres les constructeur le par prévus dispositifs les tous de nombre le par fermées serrures les( ,combinaisons les et voulus clés de tours des mécanismes les bloquent ,brouillées .(pènes de mouvements les ou serrures
+À défaut de gardiennage permanent des locaux assurés, il n'y a pas de garantie à partir :  
+- Du 16ème jour d'inhabitation, depuis le début de l'année d'assurance, pour les espèces monnayées, billets de banque et objets précieux ;  
+- Du 46ème jour d'inhabitation, depuis le début de l'année d'assurance, pour les autres objets.
 
- assuré'l ,valeurs et titres des assurance'l Pour et titres des détaillé état un jour à tenir doit et séries des indication avec ,assurés valeurs un dans renfermé être doit état Cet .numéros .séparé meuble
+Pour l'application du présent contrat, il faut entendre par :  
+- **Inhabitation** : L'absence simultanée, pendant plus de trois jours consécutifs, de l'assuré et de toutes les personnes qui vivent habituellement avec lui dans le local ; les périodes d'inhabitation n'excédant pas trois jours n'étant pas considérées comme interrompant une habitation.  
+- **Objets précieux** : Tous les objets (bijoux, pierres précieuses, perles, fourrures, objets en argent, objets de collection, etc.) dont la valeur unitaire dépasse Huit Cent Dinars (800,000 Drs). Ne sont pas concernés par cette définition les meubles meublants et le matériel de cuisine.
 
- EXCLUSIONS – 4 ARTICLE DE VOL AU SPECIFIQUES ET MAGASIN EN MARCHANDISES PROFESSIONNEL USAGE A LOCAUX DES CONTENU DU VOL AU ET CHAMBRES ET FORTS -COFFRES : FORTES
+### VOL SUR LA PERSONNE ET PERTE PAR CAS DE FORCE MAJEURE - ARTICLE 7
 
-garantie la de exclus Sont
+BH ASSURANCE garantit à l'assuré le paiement d'une indemnité correspondant à la valeur des biens sur lesquels porte l'assurance, en cas de :
 
- la avec ou par tentés ou commis vols Les1- : complicité
+a) Vol, dûment prouvé, commis par agression sur le porteur des biens assurés, avec violence, tentative de meurtre ou menaces mettant en danger sa vie ou son intégrité physique ;  
+b) Perte due à un cas de force majeure, dûment prouvé, et provenant soit d'un accident de la circulation survenant sur la voie publique, soit du fait du porteur des biens précités (malaise, étourdissement), sous réserve que ce malaise ne résulte pas d'une maladie chronique ou d'une infirmité.
 
- si entreprise'l de légaux représentants Des- .morale personne une est assuré'l
+Cette garantie s'applique aux espèces monnayées, billets de banque, chèques, pièces, lingots en métaux, ainsi que toutes valeurs à caractère négociable. Elle peut également s'appliquer, lorsqu'il est fait mention aux Conditions Particulières, aux objets précieux, marchandises et autres biens.
 
- de enceinte'l dans habitant personnes Des locataires-sous ,locataires des ,entreprise'l
+#### Cette garantie est accordée selon les conditions et modalités ci-après :
 
- ou tout occupant personnes autres ou biens les renfermant locaux des partie .assurés
+a) L'assurance s'exerce, entre 8 et 20 heures, au cours des transports des biens sur lesquels porte la garantie, effectués par l'assuré lui-même ou par les personnes nominativement désignées aux Conditions Particulières, et ce dans le rayon de l'établissement de l'assuré stipulé aux Conditions Particulières, en cours de circulation à l'extérieur.
 
- ouvriers ,préposés ,employés ,gérants Des personne toute que ainsi ,entreprise'l de surveillance la de ou garde la de chargée soient ne vols les que moins à ,locaux des ou travail de heures des dehors en commis effraction avec exclusivement et service de .locaux des fermetures des
+Pendant le temps matériel nécessaire au retrait et/ou dépôt des fonds et valeurs dans les établissements bancaires, chez les fournisseurs, bureaux de poste, ainsi que pendant le trajet des clients de l'assuré, pour autant qu'il agisse en prolongement direct et ininterrompu à l'intérieur de l'établissement de l'assuré.
 
- BH à incombe preuve la de charge La .ASSURANCE
+La garantie s'exerce ainsi tout le temps où la personne chargée du transport détient les biens assurés, depuis le moment où elle les prend en charge jusqu'au moment où elle les dépose entre les mains de la personne habilitée à les recevoir à l'extérieur.
 
- vitrines les dans exposés objets Les2 que ainsi ,fixes ou mobiles ,extérieures extérieur'l de ouvrant's vitrines les dans ,entrée'd hall le dans ou ,magasins des .mêmes-elles vitrines les que ainsi
+Par contre, elle ne s'applique pas, notamment aux vols et pertes survenant pendant les transports de poste à poste ou à l'intérieur de l'établissement de l'assuré, pendant toute manipulation de fonds, tels que le décompte des recettes effectuées par les livreurs ou encaisseurs, la préparation ou la distribution de la paye.
 
- permanent gardiennage de défaut A3 de pas a y'n il ,assurés locaux des cinquième-quarante du partir à garantie une en ,locaux des fermeture la de jour même une dans ,périodes plusieurs ou périodes les ,Toutefois .assurance'd année jours trois pas excédant'n fermeture de dans décomptées pas seront ne consécutifs prévue ,fermeture de maximale durée la .dessus-ci
+b) Lorsque les porteurs ne sont pas nominativement désignés aux Conditions Particulières, seuls seront garantis les vols et pertes, tels que définis ci-dessus, subis par des personnes de sexe masculin, âgées de plus de 18 ans et de moins de 65 ans, qui ne sont pas atteintes d'une infirmité incompatible avec leur mission et à la connaissance du souscripteur. Les mêmes conditions sont exigées pour les accompagnateurs.
 
-# EFFRACTION AVEC VOL – 5 ARTICLE LES DANS MOBILIERS BIENS DES : HABITATION'D USAGE A LOCAUX
+c) Sous peine de non-garantie, en cas de sinistre, les conditions d'acheminement et d'accompagnement indiquées aux Conditions Particulières, que même celles visées à l'alinéa ci-après, doivent être strictement appliquées pendant le temps où le porteur détient les biens assurés.
 
- dont pertes les garantit ASSURANCE BH de suite par victime être peut assuré'l des destruction ou détérioration ,disparition Conditions aux désignés mobiliers objets : vols de résultant ,Particulières
+Lorsque les biens assurés sont destinés à être chargés dans un véhicule automobile, ils doivent être apportés directement au lieu de déchargement, sans discontinuité de la caisse.
 
-7
+Si, du fait des circonstances, les porteurs sont obligés d'attendre le véhicule, ils doivent se tenir à l'intérieur de l'établissement, dans un local fermé, sans se dessaisir à aucun moment des fonds et valeurs.
 
- ou escalade ,effraction avec Commis) a Code du 271 Article (clés fausses de usage voleur le que établi sera il'lorsqu ,)Pénal locaux les dans furtivement introduit est's .assurés objets les refermant
+Pendant toute la durée de l'opération, le nombre de porteurs et accompagnateurs doit être conforme à celui stipulé aux Conditions Particulières.
 
- violence ou meurtre de suivis ou Précédés) b membre un'd ,assuré'l de personne la sur ,employés ses de un'l de ou famille sa de .domestiques ou préposés
+d) En ce qui concerne les effets de commerce, BH ASSURANCE ne garantit que les frais de leur reconstitution, et l'indemnité ne sera réglée qu'au fur et à mesure de cette reconstitution et sur la production de mémoires dûment vérifiés.
 
-# EXCLUSIONS – 6 ARTICLE AVEC VOL AU SPECIFIQUES MOBILIERS BIENS DES EFFRACTION : HABITATION'D LOCAUX LES DANS
+Ne donneront lieu à indemnité que les frais afférents aux travaux terminés dans un délai maximum d'une année, sauf impossibilité matérielle justifiée avant l'expiration de ce délai.
 
- des permanent gardiennage de défaut A à garantie de pas a y'n il ,assurés locaux : partir
+Cependant, BH ASSURANCE indemnisera l'assuré de la perte subie, dans la limite de la valeur nominale de chaque effet de commerce, dans les cas suivants :  
+- Si, entre la date à laquelle l'effet de commerce venait à échéance et la date de reconstitution, le tiré et ses avalistes devenaient insolvables en tout ou partie ;  
+- Si l'impossibilité de cette reconstitution est dûment établie ;  
+- Si, avant opposition, les effets de commerce volés étaient payés à leur échéance par des débiteurs de bonne foi.
 
- le depuis inhabitation'd jour ème16 Du et ,cours en assurance'd année'l de début de billets ,monnayées espèces les pour ,ce .précieux objets et banque
+### EXCLUSIONS SPÉCIFIQUES À LA GARANTIE VOL SUR LA PERSONNE ET PERTE PAR CAS DE FORCE MAJEURE - ARTICLE 8
 
- le depuis inhabitation'd jours ème46 Du pour cours en assurance'd année'l de début .objets autres les
+BH ASSURANCE ne garantit pas :
 
- faut il ,contrat présent du application'l Pour : par entendre
+1. Les vols commis par le personnel chargé du transport ou de l'accompagnement des fonds et valeurs, ou avec sa complicité.  
+2. Les vols et pertes dont seraient victimes les préposés du souscripteur, lorsqu'il savait qu'ils étaient rendus coupables d'un acte d'infidélité antérieur ou non à la souscription du contrat.  
+3. Les vols commis lorsque les moyens de défense portatifs, ainsi que les conditions d'accompagnement fixées aux Conditions Particulières, ne sont pas respectées.  
+Il appartient à BH ASSURANCE de prouver que les dommages résultent de l'un de ces trois faits.
 
- ,simultanée absence'L : Inhabitation - ,consécutifs jours trois de plus pendant qui personnes les toutes de et assuré'l de local le dans lui avec habituellement vivent pas excédant'n inhabitation'd périodes les; comme considérées pas étant'n jours trois .habitation une interrompant
+### LES DÉTOURNEMENTS DES ESPÈCES, BILLETS DE BANQUE, TITRES ET VALEURS - ARTICLE 9
 
- objets les Tous : précieux Objets perles ,précieuses pierres ,bijoux ,fourrures( ,argent en objets ,collection de objets ,fines
+BH ASSURANCE garantit à l'assuré, dans les limites fixées aux Conditions Particulières, le paiement d'une indemnité en cas de détournement, abus de confiance, faux en écriture, escroquerie tombant sous le coup du Code Pénal, commis par ses préposés dans l'exercice de leurs fonctions, désignés aux Conditions Particulières.
 
-8
+Cette garantie est accordée selon les conditions et modalités ci-après :
 
- valeurs les dont…) etc plastique en ou or en Dinars Cent Huit dépassent unitaires par ,concernés pas sont Ne .)Drs800,000( le et meublants meubles les ,définition cette .cuisine de matériel
+a) Un détournement imputable à l'année d'assurance au cours de laquelle il est survenu, et le montant de l'indemnité ne peut excéder la somme assurée le jour où il a été commis.
 
-# ET PERSONNE LA SUR VOL – 7 ARTICLE : MAJEURE FORCE DE CAS PAR PERTE
+Une série de détournements commis par une même personne, ou plusieurs personnes complices, constitue un seul et même sinistre, imputable à l'année d'assurance au cours de laquelle le premier acte délictueux est survenu, soit que les délits commis dans les limites du délai indiqué ci-après, quel que soit le nombre d'années d'assurances sur lequel la garantie est échelonnée. Le montant de l'indemnisation ne peut excéder la somme assurée à la date du premier acte délictueux.
 
- le assuré'l à garantit ASSURANCE BH correspondant indemnité une'd paiement porte lesquels sur biens des valeur la à : de cas en ,assurance'l
+Ne sont garantis que les détournements survenus pendant la période de validité du contrat et découverts dans un délai maximum de 24 mois à partir du jour où ils se sont produits.
 
- agression par commis ,prouvé dûment Vol) a avec ,assurés biens des porteur le sur de tentative avec ,meurtre ou ,violence sa danger en mettant menaces ou meurtre ; physique intégrité son ou vie
+b) La garantie cesse de plein droit à l'égard du personnel ayant commis des détournements :  
+- Dès le moment où, pour un motif quelconque, ces préposés ont quitté le service du souscripteur ;  
+- Dès que le souscripteur a eu connaissance que des détournements ont été commis par le personnel assuré à son préjudice. Il demeure entendu que les détournements commis par ce même personnel, antérieurs, sont garantis ;  
+- Après huit jours à partir du moment où le souscripteur a eu connaissance que des actes de cette nature ont été commis par le personnel assuré à autrui'd préjudice. Il demeure entendu que les détournements commis par ce même personnel, antérieurs, sont garantis.
 
- ,majeure force de cas un à due Perte) b un'd soit provenant et prouvé dûment la sur survenant ,circulation de accident des porteur du fait du soit ,publique voie ,étourdissement ,subit malaise (précités biens ce dans réserve sous connaissance de perte pas résulte ne malaise ce que cas dernier .(chronique maladie une'd ou infirmité une'd
+### EXCLUSIONS SPÉCIFIQUES À LA GARANTIE CONTRE LES DÉTOURNEMENTS DES ESPÈCES, BILLETS DE BANQUE, TITRES ET VALEURS - ARTICLE 10
 
- espèces aux applique's garantie Cette et pièces ,banques de billets ,monnayées toutes que ainsi ,chèques ,métaux en lingots .négociable caractère à valeurs
+Sont exclus de la garantie :
 
- en il'lorsqu ,appliquer's également peut Elle ,Particulières Conditions aux mention fait est autres et marchandises ,précieux objets aux .biens
+1. Les détournements commis par des préposés faisant usage de leur pouvoir d'engager le souscripteur par leur seule décision et/ou par leur seule signature.  
+2. Les détournements dont le premier acte délictueux se situe plus de cinq années avant qu'il soit connu du souscripteur ; même si des actes délictueux postérieurs ont été commis au cours de la période de la garantie, les conséquences de ces derniers étant alors réputées hors assurances.  
+3. Les détournements dont seraient auteurs ou complices les associés, administrateurs ou gérants.  
+4. Les escroqueries commises par des clients ou des tiers au préjudice du souscripteur, même si elles ont été favorisées par la coopération consciente ou inconsciente d'un préposé du souscripteur.
 
-#### les selon accordée est garantie Cette : après-ci modalités et conditions
+La charge de la preuve pour les dommages découlant des exclusions prévues aux points 3 et 4 de cet article incombe à BH ASSURANCE.
 
- 20 et 8 entre ,exerce's assurance'L) a biens des transports des cours au ,heures effectués ,garantie la porte lesquels sur
+### EXTENSIONS DE GARANTIES - ARTICLE 11
 
- personnes les par ou même-lui assuré'l par Conditions aux désignées nominativement : ce et ,Particulières
+La garantie peut être étendue, moyennant primes spéciales et stipulations expresses aux Conditions Particulières :
 
- de extérieur'l à circulation de cours en rayon le dans ,assuré'l de établissement'l .Particulières Conditions aux stipulé
+a) Aux détériorations causées par les voleurs aux bâtiments et locaux renfermant les objets assurés.  
+b) Aux vols ou détériorations des coffres-forts renfermant les valeurs assurées.  
+c) Aux vols de vêtements du personnel.  
+d) Aux vols d'espèces monnayées, chèques, billets de banque, timbres postes et fiscaux, en meubles fermés ou par agression pendant les heures d'ouverture.  
+e) Aux reconstitutions d'archives et documents relatifs à l'activité de l'assuré, à l'exclusion des effets de commerce, ainsi que des cartes perforées, bandes magnétiques et mémoires externes des ordinateurs.  
 
- au nécessaire matériel temps le pendant valeurs et fonds des dépôt ou / et retrait les ,bancaires établissements les dans et fournisseurs les chez ,poste de bureaux trajet le pendant que ainsi ,assuré'l de clients ,assuré'l de établissement'l de intérieur'l à prolongement du agisse's il'qu autant pour à circulation la de ininterrompu et direct .extérieur'l
+En cas de sinistre, BH ASSURANCE ne remboursera que la valeur matérielle desdits dossiers, documents et archives, et le travail de leur reconstitution. Elle ne sera tenue au paiement qu'au fur et à mesure de ladite reconstitution et sur production de mémoires dûment vérifiés. Le travail de reconstitution devra être terminé dans un délai d'une année à partir de la date du sinistre, pouvant motiver une indemnité.
 
- le tout pendant ainsi exerce's garantie La transport du chargée personne la où temps moment le depuis ,assurés biens les détient les pour charge en prend les elle où moment au'jusqu ,extérieur'l à acheminer la de mains les entre dépose les elle où .recevoir les à habilitée personne
+f) Aux objets se trouvant dans les caves, débarras, dépendances, chambres de domestiques des locaux assurés.  
+g) À une inhabitation d'une durée supérieure à 45 jours, en une ou plusieurs périodes, dans une même année d'assurance.
 
- pas applique's ne elle ,contre Par survenant pertes et vols aux notamment à poste à poste de transports les pendant ou ,assuré'l de établissement'l de intérieur'l tels fonds de manipulation toute pendant par effectuées recettes des décompte le que préparation la ,encaisseurs ou livreurs les .paye la de distribution la ou
+#### Toutefois, la garantie est toujours suspendue, en cas d'inhabitation d'une durée supérieure à 15 jours par an, pour les espèces monnayées, billets de banque et objets précieux.
 
- pas seront ne porteurs les Lorsque) b Conditions aux nominativement désignés vols les garantis seront seuls ,Particulières subis ,dessus-ci définis que tels ,pertes et âgées ,masculin sexe de personnes des par ans 65 de moins de et ans 18 de plus de ,souscripteur du connaissance la à ,qui et
+Les absences d'une durée n'excédant pas trois jours n'interviennent pas dans le décompte de la période d'inhabitation.
 
- ,infirmité une'd atteintes pas sont ne .mission leur avec incompatible les pour exigées sont conditions mêmes Ces .accompagnateurs
+### EXCLUSIONS COMMUNES - ARTICLE 12
 
- de cas en garantie-non de peine-Sous) c acheminement'd conditions les ,sinistre aux indiquées accompagnement'd et que même de ,Particulières Conditions ,après-ci alinéa'l à visées conditions les pendant strictement appliquées être doivent biens les détient porteur le où temps le .assurés
+Sont exclus de la garantie du présent contrat :
 
- à destinés sont assurés biens les Lorsque ,automobile véhicule un dans chargés être la de directement apportés être doivent ils sans ,déchargement lieu au'jusqu caisse .discontinuité
+1. Les vols résultant de la faute intentionnelle ou dolosive de l'assuré ou avec sa complicité.  
+2. Les vols commis ou tentés par ou avec la complicité des membres de la famille de l'assuré (conjoint, ascendants et descendants de l'assuré et de son conjoint). La charge de la preuve incombe à BH ASSURANCE.  
+3. Les vols constatés après l'évacuation de l'immeuble où se trouvent les locaux assurés, ordonnés par les autorités civiles ou militaires.  
+4. Les vols commis ou tentés lorsque les moyens de protection suivants ne sont pas réunis :  
+   - Les portes sont munies de 2 serrures, dont au moins une de sécurité (blocus).  
+   - Les fenêtres et portes-fenêtres situées au rez-de-chaussée sont protégées par des barreaux de fer ou grillages à écartement maximum de 15 cm.  
+5. Les vols et détériorations résultant de guerre étrangère. Il appartient au souscripteur de prouver que le sinistre résulte d'un fait autre que la guerre étrangère.  
+6. Les vols et détériorations résultant de guerre civile, ainsi que de grève, d'émeutes, de mouvements populaires, d'actes de terrorisme et de sabotage. Il appartient à BH ASSURANCE de prouver que le dommage résulte de l'un de ces faits.  
+7. Les bris de glaces et vitres et les dommages résultant d'incendie/explosion, sauf en ce qui concerne le fait des voleurs, dans la mesure où les espèces, billets, titres et valeurs assurés ne seraient pas garantis par un autre assureur.  
+8. Les dommages subis pendant que les locaux renfermant les objets assurés sont occupés ou réquisitionnés, en tout ou partie, par des tiers quelconques, que les préposés de l'assuré, les membres de sa famille ou les personnes vivant habituellement avec lui.  
+9. Les vols et pertes subies en faveur des événements suivants :  
+   - Éruption de volcan, tremblement de terre, raz-de-marée, inondation, avalanche, ouragan, cyclone ou autre cataclysme, incendie/explosions.  
+   Toutefois, concernant la garantie vol sur la personne et perte par cas de force majeure, cette exclusion n'est pas applicable lorsque l'incendie ou l'explosion est la conséquence d'un accident de la circulation.  
+10. Les détériorations causées par les voleurs aux coffres-forts, bâtiments et locaux renfermant les objets assurés.  
+11. Les objets déposés dans les caves, cours et jardins, chambres de domestiques et les débarras, contenus dans les locaux indépendants des locaux assurés.
 
- porteurs les ,circonstances des fait du ,Si ,véhicule le attendre'd obligés sont de intérieur'l à tenir se doivent ils sans ,fermé local un dans ,établissement'l et fonds des moment aucun à dessaisir se .valeurs
+## FORMATION ET DURÉE DU CONTRAT - CHAPITRE II
 
- le ,opération'l de durée la toute Pendant accompagnateurs et porteurs de nombre aux stipulé celui à conforme être doit .Particulières Condition
+### FORMATION ET PRISE D'EFFET DU CONTRAT - ARTICLE 13
 
- de effets les concerne qui ce En) d que garantit ne ASSURANCE BH ,commerce indemnité'L .reconstitution leur de frais les de mesure à et fur au'qu réglée sera ne des production la sur et reconstitution cette .vérifiés dûment mémoires
+Le présent contrat est parfait dès sa signature par les parties ; BH ASSURANCE pourra, dès ce moment, poursuivre l'exécution. Toutefois, l'assurance ne produira ses effets qu'à compter du lendemain à midi du jour où la première prime aura été payée à BH ASSURANCE.
 
-frais les que indemnité à lieu donneront Ne
+Les mêmes dispositions s'appliquent à tout avenant au contrat.
 
- délai un dans terminés travaux aux afférents impossibilité sauf ,année une'd maximum ce de expiration'l avant justifiée matérielle .délai
+### DURÉE DU CONTRAT - ARTICLE 14
 
- indemnisera ASSURANCE BH ,Cependant limite la dans ,subie perte la de assuré'l de effet chaque de nominale valeur la de : suivants cas les dans ,commerce
+Le présent contrat peut être souscrit :
 
- de effet'l laquelle à date la entre ,Si date la et échéance à venait commerce avalistes ses et tiré le ,reconstitution de : partie ou tout en insolvables devenaient
+1. Pour une période temporaire ferme, inférieure à une année, mentionnée aux Conditions Particulières. Dans ce cas, le contrat cesse ses effets de plein droit à 24 heures du dernier jour de la période assurée.  
 
- est reconstitution cette de impossibilité'l Si - ; établie dûment
+2. Pour une période d'une année, renouvelable par tacite reconduction. Dans ce cas, le contrat est résiliable à la fin de chaque année d'assurance, à la charge de la partie qui en prend l'initiative, d'aviser l'autre, deux mois avant l'échéance, par voie d'huissier notaire, par lettre recommandée avec accusé de réception ou par notification faite contre récépissé au siège de BH ASSURANCE ou à l'agence émettrice du contrat.
 
- de effets les ,opposition avant ,Si leur à payés étaient volés commerce .foi bonne de débiteurs des par échéance
+L'échéance contractuelle qui détermine le point de départ d'une période d'assurance est indiquée aux Conditions Particulières.
 
-# EXCLUSIONS – 8 ARTICLE VOL GARANTIE LA A SPECIFIQUES CAS PAR PERTE ET PERSONNE LA SUR : MAJEURE FORCE DE
+### RÉSILIATION DU CONTRAT - ARTICLE 15
 
-: pas garantit ne ASSURANCE BH La
+Le contrat peut être résilié :
 
- chargé personnel le par commis vols Les 1 des accompagnement'l de ou transport du .complicité sa avec ou ,valeurs et fonds
+1. **Par le souscripteur et BH ASSURANCE** :  
+   À la fin de chaque année d'assurance, dans les conditions de délai et de forme prévues par l'article 14 du présent contrat.
 
- victimes seraient dont pertes et vols Les 2 coupables rendus étaient's ils'qu savait cicelui lorsque ,souscripteur du préposés les la à non ou antérieur ,infidélité'd acte un'd .contrat du souscription
+2. **Par BH ASSURANCE** :  
+   a) Si l'assuré ne paie pas la prime, dans les conditions de délai et de forme prévues par l'article 11 du Code des Assurances.  
+   b) En cas d'aggravation du risque en cours de contrat, si l'assuré n'accepte pas l'augmentation de prime proposée par BH ASSURANCE, dans les conditions de délai et de forme prévues par l'article 9 du Code des Assurances.  
+   c) En cas d'aggravation du risque en cours de contrat, si les circonstances nouvelles, telles qu'elles auraient existé à la souscription ou au renouvellement, n'auraient pas été envisagées par BH ASSURANCE (Article 9, alinéa 3, du Code des Assurances).
 
- de moyens les lorsque commis vols Les 3 conditions les que ainsi ,portatifs défense Conditions aux fixées accompagnement'd .respectées pas sont ne ,Particulières prouver de ASSURANCE BH à appartient Il  ces de un'l de résultent dommages les que .faits trois
+3. **Par l'assuré** :  
+   Si BH ASSURANCE ne consent pas la diminution de prime correspondant à la diminution des risques en cours de contrat, dans les conditions de délai et de forme prévues par l'article 9 du Code des Assurances.
 
-# DETOURNEMENTS LES – 9 ARTICLE ,BANQUE DE BILLETS ,ESPECES DES : VALEURS ET TITRES
+4. **De plein droit** :  
+   En cas de perte totale de la chose assurée, résultant d'un événement non prévu par le contrat (article 19 du Code des Assurances).  
 
- les dans ,assuré'l à garantit ASSURANCE BH ,Particulières Conditions aux fixées limites de cas en indemnité une'd paiement le en faux ,confiance de abus ,détournement coup le sous tombant escroquerie ,écriture préposés ses par commis Pénal Code du dans Particulières Conditions aux désignés .fonctions leurs de exercice'l
+En cas de résiliation au cours d'une période, la portion de prime afférente à la période postérieure à la résiliation n'est pas acquise à BH ASSURANCE ; elle doit être remboursée à l'assuré si elle a été perçue d'avance.
 
- les selon accordée est garantie Cette : après-ci conditions et modalités
+### TRANSFERT DE PROPRIÉTÉ - ARTICLE 16
 
- année'l à imputable est détournement Un) a est il laquelle de cours au assurance'd peut ne indemnité'l de montant le et ,survenu jour le où jour le assurée somme la excéder .commis été a il où
+En cas de décès de l'assuré ou d'aliénation de la chose assurée, l'assurance continue de plein droit, au profit de l'héritier ou de l'acquéreur, à charge pour ceux-ci d'exécuter toutes les obligations dont l'assuré était tenu vis-à-vis de BH ASSURANCE en vertu du contrat (Article 22 du Code des Assurances).
 
- une par commis détournements de série Une personnes plusieurs par ou ,personne même ,sinistre même et seul un constitue ,complices cours au assurance'd année'l à imputable acte premier le survenu est laquelle de délai du limites les dans commis délictueux soit que quel ,après-ci indiqué garantie de lequel sur assurances'd années'd nombre le de montant Le .sinistre le échelonnée est somme la excéder peut ne indemnisation'l .délictueux acte premier du date la à assurée
+## OBLIGATIONS DE L'ASSURÉ - CHAPITRE III
 
- détournements les que garantis sont Ne validité de période la pendant survenus délai un dans découverts et contrat du où jour du partir à mois 24 de maximum .produits sont se ils
+### DÉCLARATION À LA SOUSCRIPTION, EN COURS DE CONTRAT ET CONSÉQUENCES - ARTICLE 17
 
-à droit plein de cesse garantie La) b
+1. **À la souscription** :  
+   L'assuré doit répondre loyalement et avec précision à toutes les questions consignées dans le Formulaire de déclaration de risque par lequel BH ASSURANCE l'interroge, lors de la souscription du contrat, sur les circonstances qui sont de nature à lui faire apprécier les risques qu'elle prend en charge.
 
- des commis ayant personnel du égard'l : détournements
+   Le présent contrat est établi sur la base des déclarations de l'assuré figurant sur le Formulaire de déclaration de risque.
 
- motif un pour ,où moment le Dès le quitté ont préposés ces ,quelconque ; souscripteur du service
+2. **En cours de contrat** :  
+   L'assuré doit déclarer à BH ASSURANCE, en cours de contrat, les circonstances nouvelles rendant inexactes les réponses figurant sur le formulaire de déclaration de risque. Cette déclaration doit se faire par lettre recommandée, dans un délai de huit jours à partir du moment où l'assuré en a eu connaissance (Article 7, alinéa 3, du Code des Assurances).
 
- connaissance eu a souscripteur le que Dès à commis été ont détournements des que Il .assuré personnel le par préjudice son détournements les que entendu demeure même ce par commis ,antérieures ; garantis sont ,personnel
+3. **Conséquences** :  
+   a) **Nullité du contrat pour fausse déclaration intentionnelle** :  
+      Le présent contrat est nul en cas de réticence ou de fausse déclaration intentionnelle de la part de l'assuré, se rapportant aux indications portées sur le formulaire de déclaration de risque, quand cette réticence ou cette fausse déclaration a changé l'appréciation du risque assuré, même alors qu'elle n'a eu aucune influence sur le sinistre. Il demeure entendu que la réticence ou la fausse déclaration de la part de l'assuré n'entraîne la nullité que lorsque BH ASSURANCE prouve la mauvaise foi de l'assuré (Article 8, alinéas 1 et 2, du Code des Assurances).
 
- où moment du partir à jours huit Après des que connaissance eu a souscripteur le au commis été ont nature cette de actes .assuré personnel le par autrui'd préjudice détournements les que entendu demeure Il ,personnel même ce par commis ,antérieurs .garantis sont
+   b) **Résiliation du contrat pour fausse déclaration de bonne foi, constatée avant sinistre** :  
+      Dans tous les autres cas que ceux visés à l'alinéa a) ci-dessus, si BH ASSURANCE constate la réticence ou la fausse déclaration avant tout sinistre, elle a le droit de résilier le contrat dix jours après notification adressée à l'assuré par lettre recommandée avec accusé de réception, sauf si l'assuré accepte une majoration de la prime d'assurance en relation avec la réalité du risque assuré.
 
-## EXCLUSIONS – 10 ARTICLE GARANTIE LA A SPECIFIQUES DES DETOURNEMENTS LES CONTRE TITRES ,BANQUE DE BILLETS ,ESPECES : VALEURS ET
+      Si le contrat est résilié, BH ASSURANCE restituera à l'assuré la portion de prime afférente à la période pendant laquelle le risque n'a pas couru (Articles 8, alinéas 3 et 4, du Code des Assurances).
 
-: garantie la de exclus Sont
+   c) **Réduction de l'indemnité pour fausse déclaration constatée après sinistre** :  
+      Lorsque la constatation de la réticence ou de la fausse déclaration a lieu après sinistre, BH ASSURANCE aura le droit de réduire l'indemnité en proportion de la prime payée rapportée à la prime qui aurait dû être payée s'il n'y avait eu réticence ou fausse déclaration (Article 8, alinéa 5, du Code des Assurances).
 
- des par commis détournements Les 1 pouvoir leur de usage faisant préposés seule leur par souscripteur le engager'd .signature seule leur par ou/ et décision acte premier le dont détournements Les 2 années cinq de plus situe se délictueux ; souscripteur du connu soit il'qu avant postérieurs délictueux actes des si même de période la de cours au commis été ont derniers ces de conséquences les ; garantie .assurances hors réputées alors étant
+   Les dispositions du paragraphe c) et b) de l'article présent s'appliquent aux déclarations en cours de contrat, relatives aux circonstances nouvelles visées au paragraphe 2 du présent article.
 
- auteurs seraient dont détournements Les 3 administrateurs ,associés les complices ou .gérants ou
+### AGGRAVATION DU RISQUE - ARTICLE 18
 
- par commises escroqueries Les 4 préjudice au tiers des ou clients des été ont elles si même ,souscripteur du ou consciente coopération la par favorisées .souscripteur du préposé un'd inconsciente
+Pour l'application du présent contrat, il faut entendre par aggravation du risque, au sens de l'Article 9 du Code des Assurances, les circonstances définies aux Conditions Particulières.
 
- BH à incombe preuve la de charge La découlant dommages les pour ASSURANCE de 4 et 3 points aux prévues exclusions des .article cet
+### DIMINUTION DES RISQUES - ARTICLE 19
 
-# DE EXTENSIONS – 11ARTICLE : GARANTIES
+En cas de diminution des risques en cours de contrat, l'assuré a le droit de demander une diminution de la prime d'assurance. Lorsque BH ASSURANCE n'accepte pas la demande de diminution, l'assuré a le droit de résilier le contrat, trente jours à compter de la date de la notification de la demande de diminution, par lettre recommandée avec accusé de réception ou par déclaration faite contre récépissé aux bureaux de BH ASSURANCE. En cas de résiliation, BH ASSURANCE doit restituer à l'assuré la portion de prime d'assurance afférente à la période pendant laquelle le risque n'a pas couru (Article 9, alinéa 6, du Code des Assurances).
 
- moyennant ,étendue être peut garantie La expresses stipulations et spéciales primes : Particulières Conditions aux
+### AUTRES ASSURANCES - ARTICLE 20
 
- voleurs les par causées détériorations Aux) a objets les renfermant locaux et bâtiments aux .assurés
+Si les risques garantis par le présent contrat sont ou viennent à être couverts par une autre assurance, l'assuré doit le déclarer à BH ASSURANCE. L'assuré doit, lors de cette déclaration, faire connaître le nom de l'assureur avec lequel une autre assurance a été contractée et indiquer la somme assurée.
 
-.assurées valeurs les renfermant ,fortscoffres des détériorations ou vols Aux) b
+Quand plusieurs assurances sont contractées, soit à la même date, soit à des dates différentes, sans fraude, pour une somme totale supérieure à la valeur de la chose assurée, elles sont toutes valables en proportion de la part de chaque contrat dans la somme totale, sans que l'ensemble des indemnités dépasse la valeur de la chose assurée. Il peut être stipulé, aux Conditions Particulières du contrat, l'adoption de la règle de l'ordre des dates ou la solidarité des assureurs (Article 18 du Code des Assurances).
 
-.personnel du vêtements de vols Aux) c
+### PAIEMENT DE LA PRIME - ARTICLE 21
 
- ,chèques ,monnayées espèces'd vols Aux) d fiscaux et postes timbres ,banque de billets pendant agression par ou fermés meubles en .ouverture'd heures les
+La prime doit être acquittée d'avance, comme indiqué aux Conditions Particulières. Elle est payable au siège social de BH ASSURANCE ou à l'une de ses agences. Toutefois, elle peut être payable au domicile de l'assuré ou tout autre lieu convenu, dans les conditions fixées par arrêté du Ministère des Finances du 2 Janvier 1993 fixant les modalités d'application de l'article 6 du Code des Assurances.
 
- et archives'd reconstitutions Aux) e assuré'l de activité'l à relatifs documents commerce de effets des exclusion'l à ,magnétiques bandes des que ainsi et perforées cartes ,externes mémoires de cas En .ordinateurs des programmes
+Si une prime ou fraction de prime n'est pas acquittée :
 
- remboursera ne ASSURANCE BH ,sinistre ,dossiers desdits matérielle valeur la que leur de travail du et ,documents et archives payer de tenue sera ne Elle .reconstitution ladite de mesure à et fur au'qu indemnité'l mémoires de production sur et reconstitution reconstitution de travail Le .vérifiés dûment être devra ,indemnité une motiver pouvant partir à année une'd délai un dans terminé .sinistre du date la de
+BH ASSURANCE peut suspendre le contrat, si l'assuré ne paie pas la prime, à son échéance. La suspension ne prend effet que vingt jours après l'envoi à l'assuré, à son domicile connu par BH ASSURANCE, d'une mise en demeure de payer, par lettre recommandée avec accusé de réception.
 
- les dans trouvant se objets Aux) f ,domestiques de chambres ,dépendances locaux des indépendants ,débarras et caves .assurés
+BH ASSURANCE a le droit, dix jours à partir de l'expiration du délai de vingt jours fixé par l'alinéa ci-dessus, de résilier le contrat ou d'en poursuivre l'exécution en justice (Article 11 du Code des Assurances).
 
- supérieure durée une'd inhabitation une A) g ,périodes plusieurs ou une en ,jours 45 à .assurance'd année même une dans
+### OBLIGATIONS DE L'ASSURÉ EN CAS DE SINISTRE - ARTICLE 22
 
-### toujours est garantie la ,Toutefois une'd inhabitation'd cas en ,suspendue les pour ,an par jours 15 à supérieur durée et banque de billets ,monnayées espèces .précieux objets
+En cas de sinistre, l'assuré doit :
 
- pas excédant'n durée une'd absences Les le dans pas interviennent'n jours trois .inhabitation'd période la de décompte
+1. Donner avis par écrit à BH ASSURANCE, dès qu'il en a connaissance, au plus tard dans les 2 jours ouvrés. L'assuré qui ne respecte pas cette obligation est déchu du droit à indemnité, sauf s'il justifie qu'il a été mis dans l'impossibilité de faire sa déclaration dans le délai imparti, par suite d'un cas fortuit ou de force majeure (Article 7, alinéa 4, du Code des Assurances).  
 
-# EXCLUSIONS – 12 ARTICLE : COMMUNES
+2. User de tous les moyens en son pouvoir pour arrêter les aggravations, sauver les objets assurés et veiller à leur conservation.  
 
- présent du garantie la de exclus Sont : contrat
+3. Faire parvenir à BH ASSURANCE, dans les meilleurs délais, une déclaration indiquant les circonstances du sinistre, ses causes connues ou présumées, le montant approximatif des dommages, les garanties souscrites sur les mêmes risques auprès d'autres assureurs.  
 
- faute la de résultant vols Les1 ou assuré'l de dolosive ou intentionnelle .complicité sa avec
+4. Fournir, dans un délai de 20 jours, un état estimatif, signé et certifié par lui, des objets détruits et sauvés.  
 
- avec ou ,par tentés ou commis vols Les2 famille la de membres des complicité la
+5. Communiquer, sur simple demande de BH ASSURANCE, sans délai, tous documents nécessaires à l'expertise.  
 
- et ascendants ,conjoint (assuré'l de .(conjoint son de et assuré'l de descendants BH à incombe preuve la de charge La .ASSURANCE
+6. Transmettre à BH ASSURANCE, dès réception, tous avis, lettres, convocations, assignations, actes extrajudiciaires et pièces de procédure qui seraient adressés, signifiés ou remis à lui-même ou à ses préposés, concernant un sinistre susceptible d'engager la responsabilité de l'assuré.  
 
- évacuation'l après constatés vols Les3 locaux les trouvent se où immeuble'l de civiles autorités les par ordonnés ,assurés .militaires ou
+7. Porter plainte auprès de la Police ou la Garde Nationale dans un délai de 24 heures.  
 
- les lorsque tentés ou commis vols Les4 pas sont ne suivants protection de moyens : réunis
+8. Remplir toutes les formalités d'opposition sur les valeurs volées ou disparues, dans les quarante-huit heures suivant la survenance, auprès des organismes qualifiés.  
 
- dont ,serrures 2 de munies sont portes Les- .(blocus (sécurité de moins au une
+9. Prêter activement son concours à BH ASSURANCE, tant en vue de la recherche des malfaiteurs, la récupération des objets dérobés et prendre toute mesure utile en vue de la conservation et la sécurité des objets non volés.  
 
- au situées fenêtres-portes et fenêtres Les des par protégées sont chaussée-de-rez écartement à ,fer de barreaux ou grillages .cm 15 de maximum
+10. Dans les cinq jours qui suivent, adresser et remettre à BH ASSURANCE un état détaillé et estimatif, certifié par lui, des objets volés ou perdus, accompagné de la liste exacte des numéros et séries des valeurs, montant des espèces et billets de banque volés ou disparus.  
 
- résultant détériorations et vols Les5 au appartient Il .étrangère guerre de sinistre le que prouver de souscripteur guerre la que autre fait un'd résulte .étrangère
+11. Déposer une plainte au Parquet, si BH ASSURANCE l'exige.  
 
- de résultant détériorations et vols Les6 émeutes'd ,grève de que ainsi civile guerre de actes'd et populaires mouvements et appartient Il .sabotage de et terrorisme le que prouver de ASSURANCE BH à .faits ces de un'l de résulte dommage
+Faute, par l'assuré, de remplir les formalités précisées aux alinéas 2 à 11 du présent article, sauf cas fortuit ou de force majeure, BH ASSURANCE n'aura droit à indemnité que proportionnée au dommage que le respect de ces formalités pourrait lui causer.
 
- les et vitres et glaces de bris Les7 résultant explosion/incendie'd dommages concerne qui ce en sauf ,voleurs des fait du assurés valeurs et titres ,billets ,espèces les autre un par garantis pas seraient ne qui .assureur
+L'assuré qui, de mauvaise foi, exagère le montant des dommages, prétend des objets n'existant pas lors du sinistre, dissimule ou soustrait tout ou partie des objets assurés, emploie sciemment des moyens frauduleux, des documents inexacts ou ne déclare pas l'existence d'autres assurances portant sur les mêmes risques, est entièrement déchu de tout droit à indemnité sur l'ensemble des risques sinistrés, indépendamment des poursuites judiciaires que l'assureur pourrait engager, la déchéance étant indivisible entre les divers articles du contrat.
 
- les que pendant subis dommages Les8 sont assurés objets les renfermant locaux en ou tout en ,occupés ou réquisitionnés autres quelconques tiers des par ,partie membres les ,assuré'l de préposés les que vivant personnes les ou famille sa de .lui avec habituellement
+La charge de la preuve de la mauvaise foi de l'assuré incombe à BH ASSURANCE.
 
- faveur la à subies pertes les et vols Les9- : suivants événements des
+## OBLIGATIONS DE L'ASSUREUR - CHAPITRE IV
 
- ,terre de tremblement ,volcan de Eruption- ,marée-de-raz ,inondation ,avalanche cataclysme autre ou cyclone ,ouragan .explosions / Incendie-
+### DÉTERMINATION DE L'INDEMNITÉ EN CAS DE SINISTRE - ARTICLE 23
 
- la sur vol garantie la concernant ,Toutefois ,majeure force de cas par perte et personne lorsque ,applicable pas est'n exclusion cette conséquence la est explosion'l ou incendie'l .circulation de accident un'd
+Le présent contrat ne peut être cause de bénéfice pour l'assuré, il ne garantit que la réparation de ses pertes réelles ou celles dont il est responsable.
 
- les par causées détériorations Les10 et bâtiments ,forts-coffres aux voleurs .assurés objets les renfermant ,locaux
+La somme assurée ne pouvant être considérée comme preuve de l'existence, de la valeur au moment du sinistre, des biens sinistrés, l'assuré est tenu d'en justifier par tous les moyens et documents en son pouvoir, ainsi que de l'importance du dommage.
 
- ,caves les dans déposés objets Les11 les dans contenus ou ,jardins et cours ,débarras les et domestiques de chambres .assurés locaux des indépendants
+### EXPERTISE - SAUVETAGE - ARTICLE 24
 
-# **ET FORMATION – II CHAPITRE CONTRAT DU DUREE** PRISE ET FORMATION – 13 ARTICLE : CONTRAT DU EFFET'D
+Si les dommages ne sont pas fixés de gré à gré, une expertise amiable est toujours obligatoire, sous réserve des droits respectifs des parties.
 
- signature sa dès parfait est contrat présent Le pourra ASSURANCE BH ; parties les par .exécution'l ,moment ce dès ,poursuivre en effets ses produira ne assurance'l ,Toutefois la où jour du midi à lendemain le que à payée été aura prime première
+Chaque partie choisit un expert. Si les experts ainsi désignés ne sont pas d'accord, ils s'adjoignent un troisième expert.
 
-#### .ASSURANCE BH
+Les trois experts opèrent en commun et à la majorité des voix.
 
- tout à appliquent's dispositions mêmes Les .contrat au avenant
+À défaut, par l'une des parties, de nommer son expert, ou par les deux experts de s'entendre sur le choix du troisième, la désignation sera effectuée par le président du tribunal de première instance compétent, sur simple requête faite par l'une ou les deux parties, l'autre partie ayant été convoquée par lettre signée.
 
-# : CONTRAT DU DUREE – 14 ARTICLE
+L'expertise, après sinistre, s'effectue en cas d'assurance pour le compte des tiers, avec le souscripteur du contrat.
 
-: souscrit être peut contrat présent Le
+Chaque partie paye les frais et honoraires de son expert, et, s'il y a lieu, la moitié des honoraires du tiers expert et de sa nomination.
 
- ferme temporaire période une Pour 1 aux mentionnées ,année une à inférieure le ,cas ce Dans .Particulières Conditions à et droit plein de effets ses cesse contrat période la de jour dernier du heures 24 .assurée
+L'assuré ne peut faire aucun délaissement ; le sauvetage des objets garantis reste sa propriété, même en cas de contestation sur sa valeur.
 
- ,année une'd période une Pour2- Dans .reconduction tacite par renouvelable fin la à résiliable est contrat le ,cas ce charge à ,assurance'd année chaque de en'd initiative'l prend en qui partie la pour échéance'l avant mois deux ,autre'l aviser ,notaire huissier'd voie par ,contractuelle de accusé avec recommandée lettre par contre faite notification par ou réception à ou ASSURANCE BH de siège au récépissé .contrat du émettrice agence'l
+À défaut d'accord sur l'estimation, la vente amiable ou la vente aux enchères du matériel et marchandises, sur le sauvetage, chacune des parties peut demander, par simple requête au président du tribunal de première instance compétent, la désignation d'un expert pour procéder à l'estimation du sauvetage.
 
- le détermine qui contractuelle échéance'L ,assurance'd période une'd départ de point .Particulières Conditions aux indiquée est
+### INSUFFISANCE DE GARANTIE : APPLICATION DE LA RÈGLE PROPORTIONNELLE - ARTICLE 25
 
-# DU RESILIATION – 15 ARTICLE : CONTRAT
+S'il résulte, au jour du sinistre, des estimations que les valeurs des biens faisant l'objet de la garantie sont supérieures aux sommes garanties, l'assuré est considéré comme restant son propre assureur pour l'excédent et supporte une part proportionnelle des dommages, conformément à l'article 17, 1er alinéa, du Code des Assurances, et à la Notice explicative de la règle proportionnelle de capitaux, faisant partie intégrante du présent contrat.
 
-: résilié être peut contrat Le
+### LES DÉLAIS DE RÈGLEMENTS - ARTICLE 26
 
-### : ASSURANCE BH et souscripteur le Par1-
+Le paiement des indemnités doit être effectué dans les 30 jours de l'accord amiable. En cas d'opposition, ce délai ne court que du jour de la mainlevée.
 
- dans ,assurance'd année chaque de fin la A prévues forme de et délai de conditions les .contrat présent du 14 article'l par
+À défaut de paiement, les sommes non versées produisent des intérêts de plein droit, au taux de l'intérêt légal tel qu'il est fixé par la législation en vigueur, à compter de la date à laquelle ces sommes sont devenues exigibles, conformément à l'alinéa premier du présent article, jusqu'à paiement intégral.
 
-### : ASSURANCE BH la Par2-
+### RÉCUPÉRATION DES OBJETS VOLÉS - ARTICLE 27
 
- dans et prime la pas paie ne assuré'l Si) a prévues forme de et délai de conditions les .assurances des Code du 11 article'l par
+L'assuré s'engage à aviser immédiatement BH ASSURANCE, par lettre recommandée, de la récupération de tout ou partie des objets volés, à quelques époques que ce soit.
 
- en risque du aggravation'd cas En) b pas accepte'n assuré'l si ,contrat de cours proposée est lui qui prime de augmentation'l de conditions les dans ,ASSURANCE BH par du 9, Article'l par prévues forme de et délai .assurances des Code
+Si les objets volés sont récupérés, en tout ou partie, avant le paiement de l'indemnité, l'assuré devra reprendre possession et BH ASSURANCE ne sera tenue qu'au paiement des pertes définitives et éventuellement des détériorations subies.
 
- cours en risque du aggravation'd cas En) c circonstances les si ,que telle ,contrat de ou souscription la à existé avaient nouvelles aurait'n ASSURANCE BH ,renouvellement au alinéa 9, Article (contracter de envisagé pas .(assurances des Code du 3,
+Si les objets sont récupérés après paiement de l'indemnité, l'assuré aura la faculté de reprendre possession, moyennant le remboursement de l'indemnité, sous déduction des détériorations, dans un délai d'un mois à dater du jour où il aura été avisé de la récupération.
 
-### : assuré'l Par3-
+Le règlement des dommages effectué, BH ASSURANCE devient de plein droit propriétaire des objets récupérés.
 
- la pas consent ne ASSURANCE BH Si la à correspondant prime de diminution ,contrat de cours en risques de diminution forme de et délai de conditions les dans des Code du 9, article'l par prévues .assurances
+### SUBROGATION - RECOURS APRÈS SINISTRE - ARTICLE 28
 
-#### : droit plein De4-
+BH ASSURANCE, qui a payé l'indemnité, est subrogée, dans la concurrence de cette indemnité, dans les droits et actions de l'assuré contre les tiers qui, par leur fait, ont causé le dommage ayant donné lieu à la responsabilité de BH ASSURANCE. Toutefois, BH ASSURANCE n'a aucun recours contre les descendants, les alliés en ligne directe, les préposés, ouvriers, domestiques, et généralement toute personne vivant habituellement au foyer de l'assuré, sauf dans le cas de dommage intentionnel commis par l'une de ces personnes (Article 21 du Code des Assurances).
 
- ,assurée chose la de totale perte la de cas En le par prévu non événement un'd résultant .(assurances des Code du 19 article (contrat période une'd cours au résiliation de cas En
+BH ASSURANCE peut être déchargée, en tout ou partie, de sa responsabilité envers l'assuré, quand la subrogation ne peut plus s'opérer en faveur de l'assuré, par le fait de celui-ci (Article 21, alinéa 2, du Code des Assurances).
 
- afférente prime de portion la ,assurance'd résiliation la à postérieure période la à elle ; ASSURANCE BH à acquise pas est'n est elle si ,assurée'l à remboursée être doit .avance'd perçue
+### RECONSTITUTION DE LA GARANTIE - ARTICLE 29
 
-# DE TRANSFERT – 16 ARTICLE : PROPRIETE
+Par le seul fait du sinistre, les sommes assurées sur les articles sinistrés sont réduites de plein droit, jusqu'à la prochaine échéance.
 
- aliénation'd ou assuré'l de décès de cas En continue assurance'l ,assurée chose la de de ou héritier'l de profit au ,droit plein de à ,appartiendra il qui de ou acquéreur'l les toutes exécuter'd ci-ceux pour charge
+Tant que l'assuré n'aura pas, par lettre recommandée, demandé le rétablissement des sommes de garanties, soit antérieurement, en s'engageant à verser une prime proportionnelle, soit directement par imputation sur l'indemnité du sinistre, à capital à reconstituer et au temps restant à courir de la date du sinistre à celle de la prochaine échéance.
 
- contrat du vertu en ASSURANCE BH de visà-vis tenu était assuré'l dont obligations .(assurances des Code du 22, Article(
+### COMPÉTENCE ET PRESCRIPTION - ARTICLE 30
 
-### ASSURE'L DE OBLIGATIONS –III CHAPITRE LA A DECLARATION17- ARTICLE CONTRAT DE COURS EN ,SOUSCRIPTION : CONSEQUENCES ET
+1. **Compétence** :  
+   Pour les actions dérivant du contrat d'assurance :  
+   a) Si l'action est engagée par l'assureur, le tribunal compétent est celui du domicile de l'assuré.  
+   b) Si l'action est engagée par l'assuré, celui-ci peut saisir soit le tribunal du lieu de son domicile, soit celui du lieu du domicile de l'assureur, soit le tribunal du lieu où se trouvent les meubles objets du contrat, soit le tribunal du lieu où le dommage s'est produit.  
+   c) En matière d'immeuble, l'action est portée devant le tribunal du lieu de la situation des immeubles concernés (article 13 du Code des Assurances).
 
-#### : souscription la A1-
+2. **Prescription** :  
+   Les actions dérivant du présent contrat sont prescrites dans un délai de deux ans à compter de l'événement qui y donne naissance, dans les conditions déterminées par les articles 14 et 15 du Code des Assurances.
 
- avec et loyalement répondre doit assuré'L consignées questions les toutes à précision déclaration la de Formulaire le dans ASSURANCE BH lequel par ,risque du ,contrat du souscription la de lors ,interroge'l lui à nature de sont qui circonstances les sur en prend elle'qu risques les apprécier faire .charge
-
- base la sur établi est contrat présent Le le sur figurant assuré'l de déclarations des .risque du déclaration de Formulaire
-
-#### : contrat de cours En –2
-
- ,ASSURANCE BH à déclarer doit Assuré'L circonstances les ,contrat de cours en réponses les inexactes rendant nouvelles du déclaration de formulaire le sur figurant par faire se doit déclaration Cette .risque huit de délai un dans ,recommandée lettre eu a en assuré'l où moment du partir à jours Code du 3, alinéa 7, Article (connaissance .(assurances des
-
-#### : Conséquences3-
-
- fausse pour contrat du Nullité) a : intentionnelle déclaration
-
- de cas en nul est contrat présent Le déclaration fausse de ou réticence se ,assuré'l de part de ,intentionnelle le sur portées indications aux rapportant
-
- quand ,risque du déclaration de formulaire déclaration fausse cette ou réticence cette ,assuré risque du appréciation'l changé a influence sans été a elle'qu même alors la que entendu demeure Il .sinistre le sur la de déclaration fausse la ou réticence du nullité la entraîne'n assuré'l de part prouve ASSURANCE BH lorsque que contrat 8, Article (assuré'l de foi mauvaise la .(Assurances des Code du 2, et1 alinéas fausse pour contrat du Résiliation) b avant constatée ,foi bonne de déclaration : sinistre
-
- à visés ceux que autres cas les tous Dans ASSURANCE BH si ,dessus-ci) a (alinéa'l fausse la ou réticence la constate le a elle ,sinistre tout avant déclaration après jours dix contrat le résilier de droit lettre par assuré'l à adressée notification ,réception de accusé avec recommandée de majoration une accepte assuré'l si sauf la avec relation en assurance'd prime la .assuré risque du réalité
-
- ASSURANCE BH la ,résilié est contrat le Si prime de portion la assuré'l à restituera le laquelle pendant période la à afférente 3 alinéas 8, Articles (couru pas a'n risque .(Assurances des Code du 4, et
-
- fausse pour indemnité'l de Réduction)c : sinistre après constatée déclaration de ou réticence la de constatation la Lorsque ,sinistre après lieu a déclaration fausse la
-
- réduire de droit le aura ASSURANCE BH prime la de proportion en indemnité'l dû aurait qui prime la à rapportée payée  ou réticence eu pas avait y'n il's payée être du 5, alinéa 8, Article (déclaration fausse .(Assurances des Code
-
- alinéa 3, paragraphe du dispositions Les appliquent's ,article présent du) c (et) b (,)a( contrat de cours en déclarations aux visées ,nouvelles circonstances aux relatives .article présent du 2 paragraphe au
-
-#### : RISQUE DU AGGRAVATION – 18 ARTICLE
-
- faut il ,contrat présent du application'l Pour au ,risque du aggravation par entendre ,Assurances des Code du 9 Article'l de sens Conditions aux définies circonstances les .Particulières
-
-#### : RISQUES DES DIMINUTION – 19 ARTICLE
-
- cours en risques des diminution de cas En demander de droit le a assuré'l ,contrat de .assurance'd prime la de diminution une la pas accepte'n ASSURANCE BH Lorsque droit le a assuré'l ,diminution de demande compter à jours trente ,contrat le résilier de demande la de notification la de date la de recommandée lettre par ,diminution de déclaration par ou réception de accusé avec BH de bureaux aux récépissé contre faite BH ,résiliation de cas En .ASSURANCE la assuré'l à restituer doit ASSURANCE à afférente assurance'd prime de portion a'n risque le laquelle pendant période la des Code du 6, alinéa 9, Article (couru pas .(Assurances
-
-# : ASSURANCES AUTRES - 20 ARTICLE
-
- contrat présent le par garantis risques les Si une par couverts être à viennent ou sont déclarer le doit assuré'l ,assurance autre de lors ,doit Assuré'L .ASSURANCE BH à
-
- de nom le connaître faire ,déclaration cette a assurance autre une lequel avec assureur'l .assurée somme la indiquer et contractée été
-
- contractées sont assurances plusieurs Quand des à soit ,date même la à soit ,fraude sans totale somme une pour ,différentes dates ,assurée chose la de valeur la à supérieure de proportion en valables toutes sont elles somme la dans contrat chaque de part la indemnités des ensemble'l que sans ,totale .assurée chose la de valeur la dépasse Conditions aux ,stipulé être peut Il la de adoption'l ,contrat du Particulières solidarité la ou dates des ordre'l de règle des Code du 18 Article (assureurs des .(Assurances
-
-#### : PRIME LA DE PAIEMENT –21 ARTICLE
-
- comme ,avance'd acquitté être doit prime La est Elle .Particulières Conditions aux indiqué ASSURANCE BH de social siège au payable elle ,Toutefois .agences ses de une'l à ou assuré'l de domicile au payable être peut cas les dans ,convenu lieu autre tout à ou Ministère du arrêté par fixés conditions et les fixant 1993 Janvier 2 du Finances des du 6 article'l de application'd modalités .Assurances des Code
-
- pas est'n prime de fraction ou prime une Si : acquittée
-
-### contrat le suspendre peut ASSURANCE BH la ,échéance son à pas paie ne assuré'l si .prime de fraction une ou prime
-
- vingt que effet prend ne suspension La dernier son à ,assuré'l à envoi'l après jours et ASSURANCE BH par connu domicile de accusé avec recommandée lettre par à avoir'd demeure en mise une'd ,réception .payer
-
- partir à jours dix ,droit le a ASSURANCE BH fixé jours vingt de délai du expiration'l de contrat le résilier de ,dessus-ci alinéa'l par justice en exécution'l poursuivre en'd ou .(Assurances des Code du 11 Article(
-
-### ASSURE'L DE OBLIGATIONS – 22 ARTICLE : SINISTRE DE CAS EN
-
-: doit assuré'l ,sinistre de cas En
-
- et connaissance a en il'qu dès ,Donner1 avis ,ouvrés jours 2 les dans tard plus au .ASSURANCE BH à écrit par sinistre de obligation cette pas respecte ne qui assuré'L il's sauf ,indemnité à droit du déchu est un'd suite par ,mis été a il'qu justifie dans ,majeure force de ou fortuit cas dans déclaration sa faire de impossibilité'l du 4, alinéa 7, Article (imparti délai le .(Assurances des Code
-
- pouvoir son en moyens les tous de User2 les sauver ,aggravations les arrêter en pour .conservation leur à veiller et assurés objets
-
- ,ASSURANCE BH à parvenir Faire3 déclaration une ,délais meilleurs les dans
-
- ses ,sinistre du circonstances les indiquant et nature la ,présumées ou connues causes les ,dommages des approximatif montant le risques mêmes les sur souscrites garanties .assureurs autres'd auprès
-
- état un ,jours 20 de délai un dans Fournir4 objets des ,lui par signé et certifié ,estimatif .sauvés et détruits
-
- BH de demande simple sur ,Communiquer5 documents tous ,délai sans et ASSURANCE .expertise'l à nécessaires
-
-dès ,ASSURANCE BH à Transmettre6-
-
- ,convocations ,lettres ,avis tous ,réception pièces et extrajudiciaires actes ,assignations remis ,adressés seraient qui procédure de ,préposés ses à ou même-lui à signifiés ou engager'd susceptible sinistre un concernant .assuré'l de responsabilité la
-
- ou Police la de auprès plainte Porter7- 24 de délai un dans Nationale Garde la .heures
-
- opposition'd formalités les toutes Remplir8 suivant heures huit-quarante les dans ou volées valeurs les sur survenance la .qualifiés organismes des auprès ,disparues
-
- la à tant concours son activement Prêter9 de vue en ,ASSURANCE BH à'qu Police la ,malfaiteurs des recherche la faciliter prendre et dérobés objets des récupération de et sécurité la de vue en utile mesure toute .volés non objets des conservation la
-
- remettre ,suivent qui jours cinq les Dans10 un ASSURANCE BH à adresser et Police la à des ,lui par certifié ,estimatif et détaillé état la de accompagné ,volés ou perdus objets valeurs des numéros et séries des exacte liste billets et espèces des montant du et titres et .disparus ou volés banque de
-
- BH si ,Parquet au plainte une Déposer11- .exige'l ASSURANCE
-
- formalités les remplir de ,assuré'l par ,Faute présent du 11 à 2 alinéas aux précisées ,majeure force de ou fortuit cas sauf ,article indemnité à droit aura ASSURANCE BH non le que dommage au proportionnée .causer lui pourrait formalités ces de respect
-
- le exagère ,foi mauvaise de ,qui Assuré'L détruits prétend ,dommages des montant ,sinistre du lors pas existant'n objets des
-
- des partie ou tout soustrait ou dissimule comme ,sciemment emploie ,assurés objets ou frauduleux moyens des ,justification pas déclare ne ,inexacts documents des sur portant assurances autres'd existence'l déchu entièrement est ,risques mêmes les ensemble'l sur indemnité à droit tout de indépendamment sinistrés risques des assureur'l que judiciaires poursuites des étant déchéance la ,engager pourrait du articles divers les entre indivisible .contrat
-
- de foi mauvaise de preuve la de charge La .ASSRANCE BH à incombe assuré'l
-
-### DE OBLIGATIONS LES – IV CHAPITRE ASSUREUR'L
-
-#### DE DETERMINATION – 23 ARTICLE : SINISTRE DE CAS EN INDEMNITE'L
-
- cause une être peut ne contrat présent Le garantit lui ne il ,assuré'l pour bénéfice de de ou réelles pertes ses de réparation la que .responsable est il dont celles
-
- être pouvant ne assurée somme La existence'l de preuve comme considérée des ,sinistre du moment au ,valeur la de justifier en'd tenu est assuré'l ,sinistrés biens son en documents et moyens les tous par du importance'l de que ainsi ,pouvoir .dommage
-
-### : SAUVETAGE – EXPERTISE – 24 ARTICLE
-
- gré de fixés pas sont ne dommages les Si toujours est amiable expertise une ,gré à respectifs droits des réserve sous ,obligatoire .parties des
-
-les Si .expert un choisit partie Chaque
-
- ,accord'd pas sont ne désignés ainsi experts .expert troisième un adjoignent's ils
-
- la à et commun en opèrent experts trois Les .voix des majorité
-
- nommer de ,parties des une'l par ,Faute de experts deux les par ou ,expert son la ,troisième du choix le sur entendre's président le par effectuée sera désignation .compétent instance première de tribunal du requête simple sur faite est nomination Cette ,seulement une'd ou parties deux des signée lettre par convoquée été ayant partie autre'l .recommandée
-
- cas en ,effectue's sinistre après expertise'L le avec ,tiers des compte le pour assurance'd .contrat du souscripteur
-
- honoraires et frais les paye partie Chaque des moitié la ,lieu a y il's ,et expert son de sa de frais des et expert tiers du honoraires .nomination
-
- délaissement aucun faire peut ne assuré'L sa reste sauvetage le ; garantis objets des sur contestation de cas en même ,propriété .valeur sa
-
- vente la ,estimation'l sur accord'd Faute du enchères aux vente la ou amiable ,marchandises et matériel sur sauvetage par ,demander peut parties des chacune de tribunal du président au requête simple désignation la ,compétent instance première du estimation'l à procéder pour expert un'd .sauvetage
-
-### DE INSUFFISANCE – 25 ARTICLE REGLE LA DE APPLICATION : GARANTIE : PROPORTIONNELLE
-
- des résulte il ,sinistre du jours au ,Si faisant biens des valeurs les que estimations  aux supérieures sont garantie la de objet'l considéré est assuré'l ,garanties sommes excédent'l pour assureur propre son comme des proportionnelle part une supporte et 17, article'l à conformément ,dommages la à et assurances des Code du ,er1 alinéa proportionnelle règle la de explicative Notice du intégrante partie faisant ,capitaux de .contrat présent
-
-#### : REGLEMENTS DE DELAIS LES– 26 ARTICLE
-
- effectué être doit indemnités des paiement Le Ce .amiable accord'l de jours 30 les dans du que court ne ,opposition'd cas en ,délai .mainlevée la de jour
-
- non sommes les ,paiement de défaut A au droit plein de intérêts produisent versées la par fixé est il'qu tel ,légal intérêt'l de taux à date la de compter à vigueur en législation ,exigibles devenues sont sommes ces laquelle présent du premier alinéa'l à conformément .intégral paiement au'jusqu ,article
-
-### OBJETS DES RECUPERATION27- ARTICLE : VOLES
-
- immédiatement aviser à engage's assuré'L ,recommandée lettre par ,ASSURANCE BH des partie ou tout de récupération la de .soit ce que époques quelques à ,volés objets tout en ,récupérés sont volés objets les Si ,indemnité'l de paiement le avant ,partie ou BH et possession reprendre en devra assuré'l
-
- paiement au'qu tenue sera ne ASSURANCE des éventuellement et définitives pertes des .subies détériorations
-
- paiement après récupérés sont objets les Si faculté la aura assuré'l ,indemnité'l de moyennant possession reprendre en'd sous indemnité'l de remboursement
-
- conditions à ,détériorations des déduction un'd délai le dans demande la faire en'd de avisé été aura il où jour du dater à mois .récupération la
-
- ,effectué dommages des règlement Le droit plein de devient ASSURANCE BH .récupérés objets des propriétaire
-
-#### RECOURS -SUBROGATION – 28 ARTICLE : SINISTRE APRES
-
- indemnité'l payé a qui ASSURANCE BH à'jusqu ,subrogée est assurance'd les dans ,indemnité cette de concurrence tiers les contre assuré'l de actions et droits dommage le causé ont ,fait leur par ,qui BH de responsabilité la à lieu donné ayant ASSURANCE BH ,Toutefois .ASSURANCE ,descendants les contre recours aucun a'n ou ouvriers ,préposés ,directe ligne en alliés personne toute généralement et ,domestiques ,assuré'l de foyer au habituellement vivant commis intentionnel dommage de cas le sauf du 21 Article (personnes ces des une'l par .(assurances des Code
-
- en ,déchargée être peut ASSURANCE BH envers responsabilité sa de ,partie en ou tout ,plus peut ne subrogation la quand ,assuré'l de faveur en opérer's ,assuré'l de fait le par du 2,alinéa 21, Article (ASSURANCE BH .(assurances des Code
-
-#### LA DE RECONSTITUTION – 29 ARTICLE : GARANTIE
-
- sommes les ,sinistre du fait seul le Par sont sinistrés articles les sur assurées prochaine la à'jusqu ,droit plein de réduites
-
-# SOUSCRIPTEUR LE
-
- ce de montant du ,prime de échéance pas aura'n assuré'l que tant ,sinistre le ,recommandée lettre par ,demandé garanties sommes des rétablissement soit ,verser à engageant's en ,antérieurement ,sinistre du indemnité'l sur imputation par proportionnelle prime une ,directement soit restant temps au et reconstituer à capital au la de celle à sinistre du date la de courir à .échéance prochaine
-
-### ET COMPETENCE – 30 ARTICLE : PRESCRIPTION
-
- du dérivant actions les Pour : Compétence) 1 : assurance'd contrat
-
- le ,assureur'l par engagée est action'l Si) a de domicile du celui est compétent tribunal .assuré'l
-
- ,assuré'l par engagée est action'l Si) b de lieu du tribunal le soit saisir peut ci-celui domicile du lieu du celui soit ,domicile son où lieu du tribunal le soit ,assureur'l de contrat du objets meubles les trouvent se est's où lieu du tribunal le soit ,assurance'd .dommage le produit
-
- portée est action'l ,immeuble'd matière En) c des situation la de lieu du tribunal le devant des code du 13 article (concernés immeubles .(assurances
-
- du dérivant actions Les : Prescription) 2 délai un dans prescrites sont contrat présent événement'l de compter à ans deux de conditions les dans naissance donne y qui du 15 et 14 articles les par déterminées .assurances des code
-
-# ASSURANCE BH
+# BH ASSURANCE
 
 ![](_page_19_Picture_0.jpeg)
 
-#### NOTICE DE LA REGLE PROPORTIONNELLE DE CAPITAUX
+## NOTICE DE LA RÈGLE PROPORTIONNELLE DE CAPITAUX
 
-Cher Client.
+Cher Client,
 
 Afin de respecter l'article 17 du Code des Assurances, nous attirons votre aimable attention que votre contrat comporte la règle proportionnelle de capitaux.
 
-### QU'EST-CE QUE LA REGLE PROPORTIONNELLE DE CAPITAUX ?
+### QU'EST-CE QUE LA RÈGLE PROPORTIONNELLE DE CAPITAUX ?
 
-C'est le principe en vertu duquel, s'il résulte de l'estimation des experts que la valeur, telle que définie aux Conditions Générales, de la chose assurée excède, au jour du sinistre, la somme garantie, vous seriez considéré comme restant votre propre assureur pour l'excèsdent et supporterez une part proportionnelle du dommage. C'est-à-dire : Si vous garantissez les biens assurés pour une somme inférieure à sa valeur réelle, vous ne serez indemnisé, en cas de sinistre couvert, que dans le rapport :
+C'est le principe en vertu duquel, s'il résulte de l'estimation des experts que la valeur, telle que définie aux Conditions Générales, de la chose assurée excède, au jour du sinistre, la somme garantie, vous seriez considéré comme restant votre propre assureur pour l'excédent et supporterez une part proportionnelle du dommage. C'est-à-dire : Si vous garantissez les biens assurés pour une somme inférieure à sa valeur réelle, vous ne serez indemnisé, en cas de sinistre couvert, que dans le rapport :
 
-### VALEUR ASSUREE SUR LE BIEN
-
-#### VALEUR REELLE DU BIEN
+**VALEUR ASSURÉE SUR LE BIEN / VALEUR RÉELLE DU BIEN**
 
 ### EXEMPLE D'APPLICATION DE LA RÈGLE PROPORTIONNELLE DE CAPITAUX
 
-Supposons un bien d'une valeur de cinq cent mille dinars (500.000 Drs), assurées pour une somme insuffisante de deux cent cinquante mille dinars (250.000 Drs).
+Supposons un bien d'une valeur de cinq cent mille dinars (500.000 Drs), assuré pour une somme insuffisante de deux cent cinquante mille dinars (250.000 Drs).
 
-#### A / HYPOTHESE DE SINISTRE PARTIEL AYANT
+#### A / HYPOTHÈSE DE SINISTRE PARTIEL AYANT CAUSÉ DES DOMMAGES ESTIMÉS, PAR EXEMPLE, À 100.000 Drs :
 
-CAUSE DES DOMMAGES ESTIMES, PAR FXFMPIF A 100,000 Drs: L'indemnité est calculée comme suit :
+L'indemnité est calculée comme suit :  
+Dommages × Capital assuré / Valeur réelle  
+Soit : 100.000 Drs × 250.000 Drs / 500.000 Drs = 50.000 Drs  
+D'où une perte non indemnisée de 50.000 Drs
 
-Dommages X <u>Capital assuré</u><br>Valeur réelle Soit :100.000 Drs X 250.000 Drs <br>500.000 Drs D'où une perte non indemnisée de 50.000 Drs
+#### B / HYPOTHÈSE DE SINISTRE TOTAL
 
-### LE SOUSCRIPTEUR
-
-### B / HYPOTHESE DE SINISTRE TOTAL
-
-[les dommages s'élèvent donc à 500.000Drs] Indemnité :
-
-Soit : 500.000 Drs X 250.000 Drs <br>500.000 Drs
-
-D'où une perte non indemnisée de 250.000Drs
+[Les dommages s'élèvent donc à 500.000 Drs]  
+Indemnité :  
+Soit : 500.000 Drs × 250.000 Drs / 500.000 Drs = 250.000 Drs  
+D'où une perte non indemnisée de 250.000 Drs
 
 ### BH ASSURANCE
 
-#### CONSENTEMENT DE CLAUSE
+## CONSENTEMENT DE CLAUSE
 
- données mes de traitement du informé être déclare je ,personnel caractère à données des protection la sur portant 2004, juillet 27 du °2004-63n organique loi la à Conformément .Assurance BH par établi assurance'd contrat un'd souscription la de cadre le dans formulaire présent du niveau au renseignées personnelles
+Conformément à la loi organique n°2004-63 du 27 juillet 2004 portant sur la protection des données à caractère personnel, je déclare être informé du traitement de mes données personnelles renseignées au niveau du présent formulaire dans le cadre de la souscription d'un contrat d'assurance établi par BH Assurance.
 
- pour inutiles deviennent elles'lorsqu ou collectées été ont elles lesquelles pour finalités des réalisation de cas en et personnelles données mes de traitement au expressément consens Je .détruites verront se dernières ces ,Assurance BH de activité'l
+Je consens expressément au traitement de mes données personnelles et, en cas de réalisation des finalités pour lesquelles elles ont été collectées ou lorsqu'elles deviennent inutiles pour l'activité de BH Assurance, ces dernières verront se détruites. De même, je déclare être informé de mon droit d'accès, de rectification de mes données personnelles et de mon droit d'opposition au traitement de ces dernières, ainsi que de porter plainte auprès de l'INPDP pour toute violation constatée.
 
- droit mon que ainsi dernières ces de traitement au opposition'd droit mon de et personnelles données mes de rectification de ,accès'd droit mon de informé être déclare je ,même De .constatée violation toute pour INPDP'l de auprès plainte porter de
-
-عمال بأحكام القانون األساسي عدد 63ـ2004 املؤرخ يف 27 جويلية 2004 واملتعلق بحماية املعطيات الشخصية أصرح بعلمي التام بعملية معالجة معطياتي الشخصية املذكورة يف هذه املطبوعة يف إطار اكتتاب عقد تأمين من طرف BH تأمين.
-
-أوافق صراحة ىلع معالجة معطياتي الشخصية ويف صورة تحقق الغرض الذي جمعت من أجله أو يف صورة ما إذا لم تعد ضرورية لنشاط شركة BH تأمين، يتم القيام بإتالفها. كما أصرح بأني ىلع علم بحقي يف النفاذ إلى معطياتي الشخصية وتصحيحها وحقي يف االعتراض ىلع معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية املعطيات الشخصية يف صورة عدم حمايتها.
-
-ASSURANCE BH
+# BH ASSURANCE
 
 # SOUSCRIPTEUR APPROUVÉ ET LU
 
 - Assurance BH
 - Assurance BH
-- com.assurance-bh.www
+- www.assurance-bh.com

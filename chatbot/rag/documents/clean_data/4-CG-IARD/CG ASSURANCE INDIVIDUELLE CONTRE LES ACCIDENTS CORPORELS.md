@@ -1,372 +1,271 @@
 ![](_page_0_Picture_0.jpeg)
 
-# INDIVIDUELLE ASSURANCE ACCIDENTS LES CONTRE CORPORELS **GÉNÉRALES CONDITIONS**
+# CONDITIONS GÉNÉRALES DE L'ASSURANCE INDIVIDUELLE CONTRE LES ACCIDENTS CORPORELS
 
-05/11/1997 DU 353/15 °N MF :Visa
+Visa : MF N° 353/15 du 05/11/1997
 
 ## **SOMMAIRE**
 
-| Définitions                                                                | ARTICLE<br>1  |
-|----------------------------------------------------------------------------|---------------|
-| Objet<br>la de<br>garantie                                                 | ARTICLE<br>2  |
-| Définition<br>des<br>garanties                                             | ARTICLE<br>3  |
-| Etendue<br>des<br>garanties                                                | ARTICLE<br>4  |
-| Risque<br>exclus                                                           | ARTICLE<br>5  |
-| Déclaration<br>du<br>risque<br>'l par<br>assuré                            | ARTICLE<br>6  |
-| Conséquences<br>la de<br>réticence<br>ou<br>la de<br>fausse<br>déclaration |               |
-| Déclaration<br>de<br>sinistre                                              | ARTICLE<br>7  |
-| Expertise                                                                  | ARTICLE<br>8  |
-| Règlement<br>des<br>indemnités                                             | ARTICLE<br>9  |
-| Subrogation<br>-<br>recours<br>après<br>sinistre                           | ARTICLE<br>10 |
-| Prise<br>effet'd<br>du<br>contrat                                          | ARTICLE<br>11 |
-| Durée<br>du<br>contrat                                                     | ARTICLE<br>12 |
-| Paiement<br>des<br>primes                                                  | ARTICLE<br>13 |
-| Résiliation                                                                | ARTICLE<br>14 |
-| Compétence<br>et<br>prescription                                           | ARTICLE<br>15 |
-|                                                                            |               |
+| Définitions                                                                | ARTICLE 1  |
+|----------------------------------------------------------------------------|------------|
+| Objet de la garantie                                                       | ARTICLE 2  |
+| Définition des garanties                                                   | ARTICLE 3  |
+| Étendue des garanties                                                      | ARTICLE 4  |
+| Risques exclus                                                             | ARTICLE 5  |
+| Déclaration du risque par l’assuré – Conséquences de la réticence ou de la fausse déclaration | ARTICLE 6  |
+| Déclaration de sinistre                                                    | ARTICLE 7  |
+| Expertise                                                                  | ARTICLE 8  |
+| Règlement des indemnités                                                   | ARTICLE 9  |
+| Subrogation - Recours après sinistre                                       | ARTICLE 10 |
+| Prise d’effet du contrat                                                   | ARTICLE 11 |
+| Durée du contrat                                                           | ARTICLE 12 |
+| Paiement des primes                                                        | ARTICLE 13 |
+| Résiliation                                                                | ARTICLE 14 |
+| Compétence et prescription                                                 | ARTICLE 15 |
 
 ![](_page_4_Picture_0.jpeg)
 
-### 05/11/1997 DU 353/15 °N MF :Visa GÉNÉRALES CONDITIONS
+### CONDITIONS GÉNÉRALES
 
-9 du 24-92°n loi la par promulgué Assurances des Code le par régi est contrat présent Le ,suivent qui Générales Conditions les par que ainsi ,Code le dénommé après-ci 1992 Mars les sur ,risque du déclaration de Formulaire le et annexées-ci Particulières Conditions les par régi est contrat présent le .intégrante partie fait en qui et basé est il duquel réponses dénommé après-ci 1992 Mars 9 du 24-92 °n loi la par promulgué assurances des Code le Particulières Conditions les ,suivent qui Générales Conditions les par que ainsi ,Code le et basé est il duquel réponses les sur risque du déclaration de Formulaire le et annexées-ci .intégrante partie fait en qui
+Visa : MF N° 353/15 du 05/11/1997
 
-### **DÉFINITIONS - 1 ARTICLE**
+Le présent contrat est régi par le Code des Assurances, promulgué par la loi n° 92-24 du 9 mars 1992, ainsi que par les Conditions Générales qui suivent, les Conditions Particulières ci-annexées et le Formulaire de déclaration du risque sur les réponses duquel il est basé et qui fait partie intégrante.
 
- on contrat présent du application'l Pour : par entend
+### **ARTICLE 1 : DÉFINITIONS**
 
-#### Souscripteur) A
+Pour l’application du présent contrat, on entend par :
 
- désignée ,morale ou physique personne La Particulières Conditions aux nom ce sous .contrat le signe qui et
+**A) Souscripteur**  
+La personne physique ou morale désignée sous ce nom aux Conditions Particulières et qui signe le contrat.
 
-#### Assuré) B
+**B) Assuré**  
+Les personnes physiques, spécialement désignées aux Conditions Particulières et sur qui porte l’assurance.
 
- spécialement ,physiques personnes les ou La et Particulières Conditions aux désignées .assurance'l porte qui sur
+**C) Accident corporel**  
+Toute atteinte corporelle, non intentionnelle de la part de l’assuré et du bénéficiaire, provenant de l’action soudaine et irrésistible d’une cause extérieure.
 
-#### corporel Accident) C
+### **ARTICLE 2 : OBJET DE LA GARANTIE**
 
- intentionnelle non ,corporelle atteinte Toute ,bénéficiaire du et assuré'l de part la de et soudaine action'l de provenant .extérieure cause une'd irrésistible
+Par le présent contrat, BH Assurance s’engage à payer les indemnités et les capitaux fixés dans les Conditions Particulières, en cas de décès, d’incapacité permanente ou d’incapacité temporaire de l’assuré, et, éventuellement, à rembourser les frais de traitement engagés par ce dernier à la suite d’un accident survenu dans l’exercice de sa profession déclarée à BH Assurance ou au cours de sa vie privée.
 
-### **LA DE OBJET - 2 ARTICLE GARANTIE**
+### **ARTICLE 3 : DÉFINITION DES GARANTIES**
 
- Assurance BH ,contrat présent le Par les et capitaux les payer à engage's Conditions les dans fixés indemnités incapacité'd ,décès de cas en ,Particulières de temporaire incapacité'd ou permanente rembourser à ,éventuellement et ,assuré'l ce par engagés traitement de frais les accident un'd suite la à ,ce et dernier profession sa de exercice'l dans survenu de cours au ou ,Assurance BH à déclarée .privée vie sa
+**A) La garantie décès**  
+BH Assurance s’engage à verser le capital aux bénéficiaires stipulés aux Conditions Particulières, sous réserve que le décès soit survenu au plus tard dans les dix-huit mois qui suivent la date de l’accident qui en a été la cause.
 
-### **DES DÉFINITIONS - 3 ARTICLE GARANTIES**
+**B) La garantie invalidité totale ou partielle permanente**  
+BH Assurance s’engage à verser à l’assuré, victime, le capital obtenu en multipliant le capital stipulé aux Conditions Particulières par le taux d’incapacité subi par l’assuré, conformément au barème d’incapacité faisant partie intégrante du présent contrat.
 
-7
+**C) L’incapacité temporaire**  
+En cas d’incapacité temporaire de l’assuré, le mettant dans l’impossibilité de se livrer à ses occupations professionnelles ou de s’occuper de la gestion de ses affaires, BH Assurance lui verse une indemnité journalière dont le montant, ainsi que la franchise, sont indiqués aux Conditions Particulières.  
+L’indemnité journalière est servie pour une durée maximum de trois cents (300) jours.  
+L’indemnité cesse d’être due dès que l’assuré est en mesure de reprendre ses occupations ou dès la consolidation médicale de son état de santé.
 
-décès garantie La) A
+**D) Les frais de traitement**  
+Moyennant stipulation aux Conditions Particulières, BH Assurance remboursera, dans les limites et selon les modalités indiquées, les frais de transport par ambulance, les frais médicaux, pharmaceutiques, chirurgicaux, d’hospitalisation, exclusivement nécessités par un accident garanti.  
+Le montant des dépenses prises en charge par BH Assurance ne pourra dépasser celui des débours réels, définitivement fixé au jour de la consolidation de l’état d’incapacité permanente de l’assuré, les prestations de même nature versées par la sécurité sociale ou tout autre régime de prévoyance collective, ou reçues en exécution d’un contrat d’assurance souscrit antérieurement au présent contrat, restant à la charge de ce dernier.
 
- aux verser à engage's Assurance BH capital le ,décès de cas en ,bénéficiaires sous ,Particulières Conditions aux stipulé plus au survenu soit décès le que réserve la suivent qui mois huit dix les dans tard .cause la été a en qui accident'l de date
+**E) L’assurance recours**  
+Moyennant stipulation aux Conditions Particulières, BH Assurance s’engage, en cas de décès ou d’incapacité permanente de l’assuré, résultant d’un accident garanti, à réclamer aux personnes responsables de cet accident, à condition que ces personnes soient identifiées, la réparation pécuniaire du préjudice éprouvé par l’assuré (ou ses ayants droit), soit à l’amiable, soit judiciairement, sous les réserves ci-après :  
+Cet engagement ne s’étend pas aux recours exercés :  
+1. Pour obtenir la réparation des dommages matériels.  
+2. Contre les ascendants, les descendants, le conjoint ou les ayants droit de l’assuré, le bénéficiaire du capital prévu en cas de décès ou le souscripteur.  
 
-#### ou totale invalidité garantie La) B permanente partielle
+En outre, en cas d’impossibilité d’un règlement amiable, BH Assurance ne sera tenue, que devant les seules juridictions de Tunisie, d’engager une procédure judiciaire et de supporter les frais dans la limite prévue ci-dessous.  
+Si, après examen du dossier, BH Assurance estime qu’en droit ou en fait, les prétentions de l’assuré (ou de ses ayants droit) ne sont pas fondées ou que les offres transactionnelles adverses sont satisfaisantes, le désaccord sur l’opportunité d’engager ou de poursuivre une action judiciaire sera soumis à deux experts choisis, l’un par BH Assurance, l’autre par l’assuré (ou ses ayants droit).  
+Si les deux experts ne peuvent trouver un terrain d’entente, ils seront départagés par un troisième expert nommé par eux ou, à défaut, par le président du tribunal compétent de première instance. Chaque partie supporte les frais et honoraires de son médecin et la moitié de ceux du troisième médecin ainsi que les frais de sa nomination.  
+Malgré l’avis défavorable des experts, si l’assuré (ou ses ayants droit) plaide à son compte et obtient une solution plus favorable que celle proposée par les experts, BH Assurance devra lui rembourser les frais qu’il a exposés.  
+Au titre de cette assurance « Recours », BH Assurance prend à sa charge, jusqu’à concurrence de cinq cents dinars, les frais d’enquête, d’instruction, d’expertise, de consultation et d’assistance d’avocat par victime et par accident.
 
- assuré'l à ,verser à engage's Assurance BH le multipliant en obtenu capital le ,victime Particulières Conditions aux stipulé capital et assuré'l par subi incapacité'd taux le par incapacité'd barème au conformément ,ce .contrat présent du intégrante partie faisant
+### **ARTICLE 4 : ÉTENDUE DES GARANTIES**
 
-### temporaire incapacité'L) C
+L’assurance produit ses effets dans le monde entier. Toutefois, les accidents survenus dans un pays autre que la Tunisie ne sont couverts que pour les séjours ou voyages dont la durée n’excède pas 90 jours consécutifs ; la garantie cessant après le 90ème jour si ces voyages ou séjours excèdent cette durée. Les indemnités, ainsi que les frais de traitement, ne sont remboursables qu’en dinars tunisiens en Tunisie.
 
- ,assuré'l de temporaire incapacité'd cas En livrer se de impossibilité'l dans mettant le de ou professionnelles occupations ses à ,affaires ses de gestion la de occuper's indemnité une verse lui Assurance BH ,décompte de bases les dont ,journalière sont franchise la que ainsi montant le .Particulières Conditions aux indiqués
+### **ARTICLE 5 : RISQUES EXCLUS**
 
- une pour servie est journalière indemnité'L .jours) 300 (cent trois de maximum durée
+Sont exclus de la garantie les suites et conséquences de :  
+- La guerre civile ou étrangère, les émeutes, la grève et les actes de terrorisme ou de sabotage commis dans le cadre d’actions concertées.  
+- La participation à une rixe, sauf en cas de légitime défense.  
+- La faute intentionnelle ou dolosive de l’assuré, du souscripteur ou du bénéficiaire, l’ivresse, l’éthylisme, l’usage de drogues, de stupéfiants ou de tranquillisants non prescrits par une autorité médicale agréée.  
+- La désintégration du noyau atomique.  
+- La pratique d’un sport à titre professionnel.  
+- La participation à des compétitions comportant l’utilisation de véhicules à moteur.  
+- La pratique de sports aériens.  
+- Les accidents dont seraient victimes, dans l’exercice de leurs fonctions, les membres du personnel des sociétés d’aviation, ainsi que les membres du personnel navigant des armées.  
+- Le tremblement de terre, l’éruption volcanique, l’inondation, le raz-de-marée.  
+- La pratique, par l’assuré, de la motocyclette d’une cylindrée supérieure à 50 cm³.  
+- La pratique, par l’assuré, des sports suivants : escalade de hautes cimes, spéléologie, bobsleigh.  
+- Le service militaire effectué par l’assuré pendant le temps où il est sous l’autorité militaire ou la dépendance de celle-ci.  
+- La détention ou la manipulation volontaire, par l’assuré, d’engins de guerre.  
+- Les insolations et autres effets de la température, sauf s’il s’agit de la conséquence directe d’un accident garanti.  
+- L’érysipèle, l’eczéma, les dermatoses, les hernies de toutes natures, les tours de reins, les lumbagos, les sciatiques, les durillons, les rhumatismes, l’écorchure des pieds par la marche ou le frottement des chaussures, même lorsque ces affections sont d’origine traumatique.  
+- Une syncope, l’épilepsie, l’apoplexie, une aliénation mentale, une maladie du cerveau ou de la moelle épinière, une affection cardiaque.  
+- Une infirmité antérieure à la souscription et non déclarée aux Conditions Particulières.
 
- que dès due être'd cesse indemnité'L ses reprendre de mesure en est assuré'l consolidation la dès ou occupations .santé de état son de médicale
+### **ARTICLE 6 : DÉCLARATION DU RISQUE PAR L’ASSURÉ – CONSÉQUENCES DE LA RÉTICENCE OU DE LA FAUSSE DÉCLARATION**
 
-#### traitement de Frais Les) D
+Le présent contrat est établi après les déclarations de l’assuré figurant sur le Formulaire de déclaration du risque, dûment rempli par l’assuré lors de la conclusion du contrat (article 7, alinéa 3 du Code des Assurances).
 
- Conditions aux stipulation Moyennant ,remboursera Assurance BH ,Particulières modalités les selon et limites les dans
+En cours de contrat, l’assuré doit déclarer à BH Assurance les nouvelles circonstances rendant inexactes les réponses figurant sur le Formulaire de déclaration du risque. Cette déclaration doit se faire par lettre recommandée dans un délai de huit jours à partir du moment où l’assuré en a eu connaissance (article 7, alinéa 3 du Code des Assurances).
 
- par transport de frais les ,indiquées y traitement de frais les et ambulance ,pharmaceutiques ,médicaux frais( directement ,)hospitalisation ,chirurgicaux accident un par nécessités exclusivement et .garanti
+**Conséquences de la réticence ou de la fausse déclaration :**
 
- charge en prises dépenses des montant Le dépasser pourra ne ,Assurance BH par définitivement (réels débours des celui état'l de consolidation la de jour au fixé ,(assuré'l de permanente incapacité'd après dernier ce de charge la à restant prestations des ,lieu a y il's ,déduction sécurité la par versées nature même de prévoyance de régime autre tout ou sociale un'd exécution en reçues ou ,collective souscrit assurance'd contrat autre .contrat présent au antérieurement
+- **Nullité du contrat pour fausse déclaration intentionnelle :**  
+  Le présent contrat est nul en cas de réticence ou de fausse déclaration intentionnelle de la part de l’assuré, se rapportant aux indications portées sur le Formulaire de déclaration du risque, quand cette réticence ou cette fausse déclaration a changé l’appréciation du risque assuré, même si elle n’a eu aucune influence sur le sinistre. Il demeure entendu que la réticence ou la fausse déclaration de la part de l’assuré n’entraîne la nullité du contrat que lorsque BH Assurance prouve la mauvaise foi de l’assuré (article 8, alinéas 1 et 2 du Code des Assurances).
 
-#### recours assurance'L) E
+- **Résiliation du contrat pour fausse déclaration de bonne foi constatée avant sinistre :**  
+  Dans tous les cas autres que ceux visés à l’article ci-avant, si BH Assurance constate la réticence ou la fausse déclaration avant tout sinistre, elle a le droit de résilier le contrat dix (10) jours après notification adressée à l’assuré par lettre recommandée avec accusé de réception, sauf si l’assuré accepte une majoration de la prime d’assurance en relation avec la réalité du risque assuré. Si le contrat est résilié, BH Assurance restituera à l’assuré la portion de prime afférente à la période pendant laquelle le risque n’a pas couru (article 8, alinéas 3 et 4 du Code des Assurances).
 
- conditions aux stipulation Moyennant en ,engage's Assurance BH ,particulières permanente incapacité'd ou décès de cas ,garanti accident un'd résultant ,assuré'l de de responsables personnes aux réclamer à personnes ces que condition à accident cet soit ,amiable'l à soit identifiées soient pécuniaire réparation la judiciairement ses ou (assuré'l par éprouvé préjudice du : aprèsci réserves les sous ,ce et ,)droit-ayants
+- **Réduction du capital ou de l’indemnité pour fausse déclaration constatée après sinistre :**  
+  Lorsque la constatation de la réticence ou de la fausse déclaration a lieu après sinistre, BH Assurance aura le droit de réduire le capital ou l’indemnité en proportion de la prime payée rapportée à la prime qui aurait dû être payée s’il n’y avait pas eu de réticence ou de fausse déclaration (article 8, alinéa 5 du Code des Assurances).
 
- aux pas étend's ne engagement Cet : exercés recours
+Les dispositions du présent article, ainsi que celles des articles précédents, s’appliquent aux déclarations en cours de contrat, relatives à de nouvelles circonstances.
 
-des réparation la obtenir Pour) 1
+### **ARTICLE 7 : DÉCLARATION DE SINISTRE**
 
-; matériels dommages
+Sous peine de déchéances, l’assuré ou ses ayants droit doivent aviser BH Assurance dès qu’ils en ont eu connaissance et dans un délai n’excédant pas cinq (5) jours ouvrables de tout sinistre. Toutefois, cette déchéance n’est pas opposable à l’assuré ou à ses ayants droit qui justifient qu’ils ont été mis dans l’impossibilité de faire leur déclaration dans le délai imparti, par suite d’un cas fortuit ou de force majeure.
 
- ,descendants les ,ascendants les Contre) 2 ,assuré'l de droit-ayants les ou conjoint le de cas en prévu capital du bénéficiaire le .souscripteur le ou décès
+Par ailleurs, l’assuré doit :  
+1. Indiquer à BH Assurance, dans le plus bref délai, les circonstances et les causes connues ou présumées de l’accident, ainsi que, si possible, les noms et adresses des témoins et du responsable de l’accident, s’il y a lieu.  
+2. Faire parvenir à BH Assurance, dans un délai de dix jours sauf cas fortuit ou de force majeure, un certificat médical indiquant la nature des lésions et leurs conséquences probables.
 
- en ,tenue sera ne Assurance BH ,outre En ,amiable règlement de impossibilité'd cas en'd et judiciaire procédure une engager'd juridictions seules les devant que ,dessousci prévue limite la dans frais les supporter .Tunisie de
+En cas de retard apporté dans l’exécution des obligations prévues aux alinéas 1 et 2 ci-dessus, sauf cas fortuit ou de force majeure, BH Assurance peut réclamer une indemnité proportionnée au dommage que ce retard aura causé.
 
- BH ,dossier du examen après ,Si fait en ou droit en'qu estime Assurance ses des ou (assuré'l de prétentions les ou fondées pas sont ne) droit-ayants adverses transactionnelles offres les que sur désaccord le ,satisfaisantes sont poursuivre de ou engager'd opportunité'l deux à soumis sera judiciaire action une ,Assurance BH par un'l ,choisis experts .(droit-ayants ses ou (assuré'l par autre'l
+Si l’assuré (ou le bénéficiaire) fait sciemment de fausses déclarations sur les circonstances, causes ou conséquences de l’accident ou use de moyens frauduleux, il sera déchu de tout droit à la garantie pour cet accident.
 
- trouver peuvent ne ils's ,experts deux Les départagés sont ,entente'd terrain un ou ,eux par nommé expert tiers un par du président le par ,accord'd défaut à ; compétent instance première de tribunal de honoraires les supporte partie chaque du ceux de moitié la que ainsi expert son .nomination sa de frais des et expert tiers
+### **ARTICLE 8 : EXPERTISE**
 
- ,experts des défavorable avis'l malgré ,Si plaide) droit-ayants ses ou (assuré'l solution une obtient et compte son à
+Lorsque les conséquences d’un accident garanti seront aggravées par l’existence d’un état pathologique ou d’une infirmité antérieure ou postérieure à l’accident, indépendamment de celui-ci, par manque de soins ou un traitement empirique, l’indemnité due par BH Assurance sera calculée uniquement après les suites qu’une même blessure aurait causé chez un sujet présentant une santé normale et soumis à un traitement médical approprié.
 
-8
+Les causes du décès et de l’incapacité, ainsi que l’existence et le taux de cette dernière, sont constatés d’un commun accord entre les parties ; le taux d’incapacité ne sera établi qu’après la consolidation médicale de l’assuré et sur les bases du barème d’incapacité faisant partie intégrante du présent contrat.
 
- par proposée celle que favorable plus lui devra Assurance BH ,experts les .exposés a il'qu frais les rembourser
+En cas de contestation, il sera fait appel à deux médecins désignés, l’un par l’assuré, l’autre par BH Assurance. S’ils ne peuvent trouver un terrain d’entente, ces deux médecins seront départagés par un troisième nommé par eux ou, à défaut, par le président du tribunal compétent.
 
- BH , »Recours « assurance cette de titre Au à'jusqu ,charge sa à prend Assurance
+Chaque partie supporte les frais et honoraires de son médecin et la moitié de ceux du troisième médecin ainsi que les frais de sa nomination.
 
- par Dinars cents cinq de concurrence frais les ,victime assuré par et accident de ,expertise'd ,instruction'd ,enquête'd de et avocat'd assistance'd et consultation .procédure
+### **ARTICLE 9 : RÈGLEMENT DES INDEMNITÉS**
 
-### **DES ETENDUE - 4 ARTICLE GARANTIES**
+L’indemnité pour l’incapacité temporaire, ainsi que le remboursement des frais de traitement, s’ajoutent éventuellement au capital dû pour le décès ou l’incapacité permanente.
 
- le dans effets ses produit assurance'L accidents les ,Toutefois .entier monde ,Tunisie la que autre pays un dans survenus voyages de cours au'qu couverts sont ne 90 pas excède'n durée la dont séjours ou après cessant garantie la ; consécutifs jours séjours ou voyages ces si ,jour ème 90 le ainsi indemnités Les .durée cette excédent à effectués ,traitement de frais les que Tunisie en remboursables sont ,étranger'l .Tunisiens Dinars en
+Par contre, un même accident ne peut donner droit qu’à l’un des capitaux prévus pour le décès ou l’incapacité permanente. Toutefois, dans le cas où l’assuré ayant déjà bénéficié de l’indemnité prévue pour l’incapacité permanente décède dans les 18 mois qui suivent le jour du sinistre, des suites de l’accident, BH Assurance versera la différence éventuelle entre le capital prévu pour le décès et le montant du capital déjà perçu.
 
-### **EXCLUS RISQUES - 5 ARTICLE**
+Le paiement des capitaux ou des indemnités est effectué au siège de BH Assurance ou à l’agence émettrice du contrat dans les quinze jours de l’accord amiable, soit de la décision judiciaire exécutoire. En cas d’opposition, ce délai ne court que du jour de la mainlevée.
 
- et suites les garantie la de exclus Sont : de conséquences
+Les sommes non versées produisent, de plein droit, des intérêts au taux de l’intérêt légal tel qu’il est fixé par la législation en vigueur, à compter de la date à laquelle ces sommes sont devenues exigibles jusqu’au paiement intégral (article 10, alinéa 2 du Code des Assurances).
 
- ,grève la ,étrangère ou civile guerre La de et terrorisme de actes les ,émeutes les actions'd cadre le dans commis sabotage .concertées
+### **ARTICLE 10 : SUBROGATION – RECOURS APRÈS SINISTRE**
 
- de cas sauf ,rixe une à participation La- .défense légitime
+En ce qui concerne exclusivement la garantie des frais de traitement, BH Assurance est subrogée, conformément à l’article 21 du Code des Assurances, jusqu’à concurrence du montant des frais de traitement remboursés par cette dernière, dans les droits de l’assuré contre tout responsable du sinistre.
 
-9
+Toutefois, BH Assurance n’a aucun recours contre les descendants, ascendants, alliés en ligne directe, préposés, ouvriers, domestiques ou toute personne vivant habituellement au foyer de l’assuré, sauf en cas de dommage intentionnel commis par l’une de ces personnes (article 21 du Code des Assurances).
 
- du dolosive ou intentionnelle faute La bénéficiaire du ou assuré'l de ,souscripteur ,drogues de usage'l ,éthylisme'l ,ivresse'L non tranquillisants de ou stupéfiants de médicale autorité une par prescrits .agréée
+BH Assurance peut être déchargée, en tout ou en partie, de sa responsabilité envers l’assuré, quand la subrogation ne peut plus s’opérer en faveur de BH Assurance, par le fait de l’assuré (article 21, alinéa 2 du Code des Assurances).
 
-.atomique noyau du désintégration La-
+### **ARTICLE 11 : PRISE D’EFFET DU CONTRAT**
 
- titre à sport un'd pratique La- .professionnel
+Le contrat est parfait dès sa signature. Il produit ses effets à la date fixée aux Conditions Particulières, mais pas avant le lendemain à zéro heure du jour du paiement de la première prime. Ces dispositions s’appliquent également à tout avenant au contrat.
 
- compétitions des à participation La à véhicules de utilisation'l comportant .moteur
+### **ARTICLE 12 : DURÉE DU CONTRAT**
 
-.aériens sports des pratique La-
+Le présent contrat peut être souscrit :  
 
- dans ,victimes seraient dont accidents Les membres les ,fonctions leurs de exercice'l ,aviation'd sociétés des personnel du personnel du membres les que ainsi .armées des navigant
+1. Pour une période temporaire ferme, inférieure à une année, mentionnée aux Conditions Particulières. Dans ce cas, le contrat cesse ses effets de plein droit à 24 heures du dernier jour de la période assurée.  
+2. Pour une période d’une année, renouvelable par tacite reconduction. Dans ce cas, le contrat est résiliable à la fin de chaque année d’assurance, à la charge pour la partie qui en prend l’initiative d’aviser l’autre, deux mois avant l’échéance contractuelle, par lettre recommandée avec accusé de réception, par voie d’huissier-notaire ou par notification faite contre récépissé au siège de BH Assurance ou à l’agence émettrice du contrat.
 
- éruption ,terre de Tremblement- .inondation ,marée-de-raz ,volcanique
+### **ARTICLE 13 : PAIEMENT DES PRIMES**
 
- motocyclette la de ,assuré'l par ,Pratique - 3.cm 50 à supérieure cylindrée une'd
+La prime (taxes comprises) doit être acquittée d’avance, comme indiquée aux Conditions Particulières. Elle est payable au siège social de BH Assurance ou à l’une de ses agences.  
 
- sports des ,assuré'l par ,Pratique- ,cimes hautes de escalade : suivants .spéléologie ,bobsleigh
+Toutefois, elle peut être payable au domicile de l’assuré ou à tout autre lieu convenu, dans les cas et conditions fixés par l’arrêté du ministre des Finances n° 93-1-2.  
 
- assuré'l par effectué militaire Service la sous est il où temps le pendant ou .militaire autorité'l de dépendance
+À défaut de paiement d’une prime à son échéance, BH Assurance peut résilier le présent contrat trente (30) jours après l’envoi à l’assuré, à son dernier domicile connu par BH Assurance, par lettre recommandée avec accusé de réception, d’une mise en demeure de payer.
 
- manipulation la ou détention La de engins'd ,assuré'l par ,volontaire .guerre
+### **ARTICLE 14 : RÉSILIATION**
 
-de effets autres et insolations Les-
+Le contrat peut être résilié :  
 
- la de agit's il's sauf ,température la accident un'd directe conséquence .garanti
+**Par le souscripteur et BH Assurance :**  
+À la fin de chaque année d’assurance, dans les conditions de délai et de forme prévues par l’article 12 du présent contrat.
 
- autres et eczéma'l ,érysipèle'L- ,natures toutes de hernies les ,dermatoses ,lumbagos ,reins de tours ,efforts les ,durillons ,rhumatismes ,sciatiques le ou marche la par pieds des écorchure'l lorsque même ,chaussures des frottement .traumatique origine'd sont affections ces : par occasionnés accidents les Tous
+**Par l’assuré :**  
+Si BH Assurance ne consent pas la diminution de prime correspondant à la diminution des risques en cours de contrat (article 9, alinéa 6 du Code des Assurances).
 
- ,épilepsie'l ,apoplexie'l ,syncope Une du maladie une ,mentale aliénation'l une ,épinière moelle la de ou cerveau .cardiaque affection
+**Par BH Assurance :**  
+- Si l’assuré ne paie pas les primes.  
+- En cas d’aggravation des risques en cours de contrat, si l’assuré n’accepte pas l’augmentation de prime proposée par BH Assurance (article 9, alinéa 1er du Code des Assurances).  
+- En cas d’aggravation des risques en cours de contrat, si les nouvelles circonstances, telles qu’elles avaient existé à la souscription ou au renouvellement, n’auraient pas envisagé de contracter (article 9, alinéa 3 du Code des Assurances).
 
- souscription la à antérieure infirmité Une - Conditions aux déclarée non et
+### **ARTICLE 15 : COMPÉTENCE ET PRESCRIPTION**
 
-.Particulières
+**1) Compétence**  
+Les tribunaux tunisiens sont seuls compétents pour statuer sur les différends qui peuvent s’élever à propos du présent contrat. Le tribunal compétent est celui du lieu du domicile de l’assuré.
 
-#### **DÉCLARATION - 6 ARTICLE - ASSURÉ'L PAR RISQUE DU RÉTICENCE LA DE CONSÉQUENCES DÉCLARATION FAUSSE LA DE OU**
+**2) Prescription**  
+Les actions dérivant du présent contrat sont prescrites après un délai de deux ans à compter de l’événement qui y donne naissance, dans les conditions déterminées par les articles 14 et 15 du Code des Assurances.
 
- les après'd établi est contrat présent Le le sur figurant assuré'l de déclarations risque du déclaration de Formulaire la de lors assuré'l par rempli dûment déclarer doit assuré'L .contrat du conclusion les ,contrat du cours en ,Assurance BH à inexactes rendant nouvelles circonstances de formulaire le sur figurant réponses les déclaration Cette .risque du déclaration dans ,recommandée lettre par faire se doit moment du partir à jours huit de délai un  article (connaissance eu a en assuré'l où .(Assurances des Code du 3, alinéa 7,
+### **BARÈME SERVANT DE BASE AU CALCUL DU TAUX D’INCAPACITÉ PERMANENTE**
 
- de ou réticence la de conséquences Les : suivantes les sont déclaration fausse la déclaration fausse pour contrat du Nullité - : intentionnelle
+| Perte totale des deux bras ou des deux mains                                  | 100% |
+|-------------------------------------------------------------------------------|------|
+| Perte totale des deux jambes ou des deux pieds                                | 100% |
+| Perte totale d’un bras et d’une jambe ou d’un bras et d’un pied               | 100% |
+| Perte totale d’une main et d’une jambe ou d’une main et d’un pied             | 100% |
+| Perte totale des deux yeux                                                    | 100% |
+| Troubles cérébraux incurables excluant définitivement toute possibilité de travail | 100% |
 
- de cas en nul est contrat présent Le déclaration fausse de ou réticente se ,assuré'l de part la de intentionnelle sur protées indications aux rapportant ,risque du déclaration de Formulaire le fausse cette ou réticence cette quand du appréciation'l changé a déclaration été a elle'qu même alors ,assuré risque .sinistre le sur influence sans
+|                                                                               | Droite | Gauche |
+|-------------------------------------------------------------------------------|--------|--------|
+| Perte totale du bras ou de la main                                            | 60%    | 50%    |
+| Perte totale du mouvement de l’épaule                                         | 25%    | 20%    |
+| Perte totale du mouvement du coude                                            | 20%    | 15%    |
+| Perte totale du mouvement du poignet                                          | 20%    | 15%    |
+| Perte totale du pouce et de l’index                                           | 30%    | 25%    |
+| Perte totale de 3 doigts, y compris le pouce ou l’index                       | 30%    | 25%    |
+| Perte totale de 3 doigts autres que le pouce ou l’index                       | 25%    | 20%    |
+| Perte totale de l’index et d’un autre doigt que le pouce                      | 20%    | 15%    |
+| Perte totale du pouce seul                                                    | 20%    | 17%    |
+| Perte totale de l’index seul                                                  | 15%    | 12%    |
+| Perte totale du médius, de l’annulaire ou de l’auriculaire                    | 08%    | 06%    |
+| Perte totale de deux de ces derniers doigts                                   | 15%    | 12%    |
+| Perte totale d’une jambe au-dessus du genou                                   | 50%    |        |
+| Perte totale d’une jambe au-dessus du genou ou d’un pied                      | 40%    |        |
+| Amputation sous-astragalienne                                                 | 30%    |        |
+| Partielle (médico-tarsienne)                                                  | 25%    |        |
+| Perte totale d’un pied (tarso-tarsienne)                                      | 20%    |        |
+| Perte totale des mouvements de la colonne cervicale                           | 15%    |        |
+| Perte totale des mouvements de la colonne dorsolombaire                       | 25%    |        |
+| Perte totale d’un gros orteil                                                 | 07%    |        |
+| Perte totale d’un autre orteil                                                | 02%    |        |
+| Perte totale des cinq orteils                                                 | 18%    |        |
+| Perte totale des mouvements du pied                                           | 12%    |        |
+| Fracture non consolidée d’une jambe ou d’un pied                              | 25%    |        |
+| Fracture non consolidée d’une rotule                                          | 20%    |        |
+| Perte totale du mouvement d’une hanche ou d’un genou                          | 20%    |        |
+| Raccourcissement d’au moins 5 cm d’un membre inférieur                        | 15%    |        |
+| Raccourcissement d’au moins 3 cm d’un membre inférieur                        | 10%    |        |
+| Ablation de la mâchoire inférieure                                            | 30%    |        |
+| Surdité totale incurable des deux oreilles                                    | 40%    |        |
+| Surdité totale incurable d’une oreille                                        | 10%    |        |
+| Perte totale d’un œil                                                         | 25%    |        |
+| Perte de substance du crâne dans toute son épaisseur (3 à 6 cm²)              | 15%    |        |
+| Syndrome subjectif des traumatisés du crâne sans symptômes neurologiques       | 05%    |        |
 
- la ou réticence la que entendu demeure Il assuré'l de part la de déclaration fausse lorsque que contrat du nullité la entraîne'n de foi mauvaise la prouve Assurance BH Code du 2, et 1 alinéa 8, article (assuré'l .(Assurances des
+#### CAS PARTICULIERS
 
- fausse pour contrat du Résiliation- : constatée foi bonne de déclaration
-
- visés ceux que autres cas les tous Dans Assurance BH si ,avant-ci article'l à fausse la ou réticence la constate le a elle ,sinistre tout avant déclaration jours) 10 (dix contrat le résilier de droit par assuré'l à adressée notification après de accusé avec recommandée lettre une accepte assuré'l si sauf ,réception en assurance'd prime la de majoration .assuré risque du réalité la avec relation
-
- Assurance BH résilié est contrat le Si prime de portion la assuré'l à restituera laquelle pendant période la à afférente alinéas 8, article (couru pas a'n risque le .(Assurances des Code du 4, et 3
-
- capital du ou indemnité'l de Réduction après constatée déclaration fausse pour : sinistre
-
- réticence la de constatation la Lorsque après lieu a déclaration fausse la de ou de droit le aura Assurance BH ,sinistre en indemnité'l ou capital le réduire rapportée payée prime la de proportion il's payée être dû aurait qui prime la à fausse ou réticence eu pas avait y'n Code du 5, alinéa 8, article (déclaration .(Assurances des
-
- ainsi ,article présent du dispositions Les ,précédents articles 2 des celles que
-
- cours en déclarations aux appliquent's circonstances aux relatives ,contrat de .nouvelles
-
-### **DE DÉCLARATION - 7 ARTICLE SINISTRE**
-
- assuré'l ,déchéances des peine Sous aviser doivent droit-ayants ses ou eu ont en ils'qu dès ,Assurance BH ne délai un dans et connaissance de ouvrables jours) 5 (cinq pas dépassant déchéance cette ,Toutefois .sinistre tout ses à ou assuré'l à opposable pas est'n été ont ils'qu justifient qui droit ayants
-
-11
-
-#### force de ou fortuit cas un'd suite par ,mis leur faire de impossibilité'l dans ,majeure .imparti délai le dans déclaration
-
-: doit assuré'l ,ailleurs Par
-
- plus le dans ,Assurance BH à Indiquer) 1 causes les et circonstances les ,délai bref ainsi ,accident'l de présumées ou connues des adresses et noms les ,possible si ,que accident'l de responsable du et témoins .lieu a y il's
-
- le dans ,Assurance BH à parvenir Faire) 2 de ou fortuit cas sauf ,jours dix de délai un accident'l de compter à ,majeure force des nature la indiquant médical certificat .probables conséquences leurs et lésions
-
- exécution'l dans apporté retard de cas En et 1 alinéas aux prévues obligations des force de ou fortuit cas sauf ,dessus-ci 2 une réclamer peut Assurance BH ,majeure dommage au proportionnée indemnité .causé aura lui retard ce que
-
- fait) bénéficiaire le ou (assuré'l Si les sur déclarations fausses de sciemment de conséquences ou causes ,circonstances ,frauduleux moyens de use ou ,accident'l garantie la à droit tout de déchu sera il .accident cet pour
-
-### **EXPERTISE – 8 ARTICLE**
-
- accident un'd conséquences les Lorsque existence'l par aggravées seront garanti infirmité une'd ou pathologique état un'd accident'l à postérieure ou antérieure
-
- manque par ,ci-celui de indépendamment assuré'l de négligence la à dû soins de indemnité'l ,empirique traitement un ou calculée sera Assurance BH par due aurait'qu suites les après'd uniquement
-
- sujet un chez blessure même une causé aucune présentant ne normale santé de médical traitement un à soumis et infirmité .approprié
-
- ainsi ,incapacité'l de et décès du causes Les ,dernière cette de taux le et existence'l que entre accord commun un'd constatés sont sera ne incapacité'd taux le ; parties les médicale consolidation après'qu établi barème du bases les sur et assuré'l de du intégrante partie faisant incapacité'd .contrat présent
-
- à appel fait sera il ,contestation de cas En ,assuré'l par un'l ,désignés médecins deux .Assurance BH par autre'l
-
- ,entente'd terrain un trouver peuvent ne ils'S par départagés seront médecins deux ces ,défaut à ,ou ,eux par nommé troisième un .compétent tribunal du président le par
-
- et frais les supporte partie Chaque la que ainsi ,médecin son de honoraires .médecin troisième du ceux de moitié
-
-### **DES RÈGLEMENT - 9 ARTICLE INDEMNITÉS**
-
- ,temporaire incapacité'l pour indemnité'L de frais des remboursement le que ainsi éventuellement cumulent se ,traitement ou décès le pour dû capital le avec .permanente incapacité'l
-
- peut ne accident même un ,contre Par prévus capitaux des un'l à'qu droit donner .permanente incapacité'l ou décès le pour ayant assuré'l où cas le dans ,Toutefois pour prévue indemnité'l de bénéficié déjà les dans décède ,permanente incapacité des sinistre du jour le suivent qui mois 18 versera Assurance BH ,accident'l de suites capital le entre éventuelle différence la capital du montant le et décès le pour prévu ou capitaux des paiement Le .perçu déjà de siège au effectué est indemnités des émettrice agence'l à ou Assurance BH de soit jours quinze les dans contrat du décision la de soit ,amiable accord'l
-
- cas en ,délai Ce .exécutoire judiciaire la de jour du que court ne ,opposition'd .mainlevée
-
- produisent versées non sommes Les intérêt'd taux au ,droit plein de ,intérêts il'qu tel ,légal
-
- à ,vigueur en législation la par fixé est sommes ces laquelle à date la de compter paiement au'jusqu exigibles devenues sont des Code du 2, alinéa 10, Article (intégral .(Assurances
-
-### **SINISTRE APRÈS RECOURS-SUBROGATION - 10 ARTICLE**
-
- la exclusivement concerne qui ce En Assurance BH traitement de frais garantie article'l à conformément ,subrogée est à'jusqu ,Assurances des Code du 21
-
- de frais des montant du concurrence ,dernière cette par remboursé traitement tout contre assuré'l de droits les dans .sinistre du responsable
-
- recours aucun a'n Assurance BH ,Toutefois alliés ,ascendants ,descendants les contre ou ouvriers ,préposés ,directe ligne en toute ,généralement ,et domestiques foyer au habituellement vivant personne dommage de cas le sauf ,assuré'l de ces de une'l par commis intentionnel .personnes
-
- tout en ,déchargée être peut Assurance BH envers responsabilité sa de ,partie en ou
-
- peut ne subrogation la quand ,assuré'l opérer's ,assuré'l de fait le par ,plus être 21, Article (Assurance BH de faveur en .(Assurances des Code du 2, alinéa
-
-#### **DU EFFET'D PRISE - 11 ARTICLE CONTRAT**
-
- .signature sa dès parfait est contrat Le aux fixée date la à effets ses produit Il avant pas mais ,Particulières Conditions du jour du heure zéro à lendemain le Ces .prime première la de paiement tout à également appliquent's dispositions .contrat au avenant
-
-#### **CONTRAT DU DURÉE - 12 ARTICLE**
-
-: souscrit être peut contrat présent Le
-
- ferme temporaire période une Pour1 aux mentionnée ,année une à inférieure le ,cas ce Dans .Particulières Conditions
-
-13
-
- à et droit plein de effets ses cesse contrat période la de jour dernier du heures 24 .assurée
-
- ,année une'd période une Pour2- .reconduction tacite par renouvelable la à ,résiliable est contrat le ,cas ce Dans charge à ,assurance'd année chaque de fin en'd initiative'l prend en qui partie la pour échéance'l avant mois deux autre'l aviser ,notaire huissier'd voie par contractuelle de accusé avec recommandée lettre par contre faite notification par ou réception ou Assurance BH de siège au récépissé .contrat du émettrice agence'l
-
-#### **DES PAIEMENT - 13 ARTICLE PRIMES**
-
- être doit) comprises taxes (prime La aux indiquée comme ,avance'd acquittée payable est Elle .Particulières Conditions à ou Assurance BH de social siège au .agences ses de une'l
-
- au payable être peut elle ,Toutefois lieu autre tout à ou assuré'l de domicile fixés conditions et cas les dans ,convenu du finances des ministre du arrêté'l par prime une'd paiement de défaut A 2-1-93 résilier peut Assurance BH ,échéance son à après jours) 30 (trente contrat présent le domicile dernier son à ,assuré'l à envoi'l lettre par et Assurance BH par connu ,réception de accusé avec recommandée .payer à avoir'd demeure en mise une'd
-
-### **RÉSILIATION – 14 ARTICLE**
-
-: résilié être peut contrat Le
-
-#### Assurance BH et Souscripteur le Par -
-
- ,assurance'd année chaque de fin la A forme de et délai de conditions les dans .contrat présent du 12 article'l par prévues
-
-#### « assuré'l « Par -
-
- la pas consent ne Assurance BH Si à correspondant ,prime de diminution de cours en risques de diminution la des code du 6 alinéa 9, Article (contrat .(Assurances
-
-#### « Assurance BH « Par -
-
-.primes les pas paie ne assuré'l Si•
-
- cours en risques de aggravation'd cas En• pas accepte'n assuré'l si ,contrat de
-
- proposé est lui qui prime de augmentation'l ,er1 alinéa 9, Article (Assurance BH par .(Assurances des Code du
-
- cours en risque du aggravation'd cas En• circonstances les si ,que telle ,contrat de souscription la à existé avaient nouvelles Assurance BH ,renouvellement au ou Article (contracter de envisagé pas aurait'n .(Assurances des Code du 3, alinéa 9,
-
-#### **ET COMPÉTENCE - 15 ARTICLE PRESCRIPTION**
-
-#### Compétence) 1
-
- seuls sont Tunisiens Tribunaux Les différends les sur statuer pour compétents présent du propos à élever's peuvent qui du celui est compétent tribunal Le .contrat .assuré'l de domicile du lieu
-
-#### Prescription) 2
-
- contrat présent du dérivant actions Les ans deux de délai un après prescrites sont donne y qui événement'l de compter à déterminées conditions les dans ,naissance des Code du 15 et 14 articles les par .Assurances
-
-#### PERMANENTE INCAPACITE'D TAUX DU CALCUL AU BASE DE SERVANT BAREME
-
-| Perte<br>totale<br>des<br>deux<br>bras<br>des ou<br>deux<br>mains                                  | 100% |
-|----------------------------------------------------------------------------------------------------|------|
-| Perte<br>totale<br>des<br>deux<br>jambes<br>des ou<br>deux<br>pieds                                | 100% |
-| Perte<br>totale<br>un'd<br>et bras<br>une'd<br>jambe<br>ou<br>un'd<br>bras<br>un'd et<br>pied      | 100% |
-| Perte<br>totale<br>une'd<br>main<br>et<br>une'd<br>jambe<br>ou<br>une'd<br>main<br>un'd et<br>pied | 100% |
-| Perte<br>totale<br>des<br>deux<br>yeux                                                             | 100% |
-| Troubles<br>cérébraux<br>incurables<br>excluant<br>définitivement<br>toute<br>possibilité          | 100% |
-| de<br>travail                                                                                      |      |
-
-|                                                                                               | Droite | Gauche |
-|-----------------------------------------------------------------------------------------------|--------|--------|
-| Perte<br>totale<br>du<br>bras<br>ou<br>la de<br>main                                          | 60%    | 50%    |
-| Perte<br>totale<br>du<br>mouvement<br>l de<br>épaule'                                         | 25%    | 20%    |
-| Perte<br>totale<br>du<br>mouvement<br>du<br>coude                                             | 20%    | 15%    |
-| Perte<br>totale<br>du<br>mouvement<br>du<br>poignet                                           | 20%    | 15%    |
-| Perte<br>totale<br>du<br>pouce<br>de et<br>index'l                                            | 30%    | 25%    |
-| Perte<br>totale<br>3 des<br>doigts<br>y ,<br>compris<br>le<br>pouce<br>ou<br>index'l          | 30%    | 25%    |
-| Perte<br>totale<br>3 des<br>doigts<br>autres ,<br>le que<br>pouce<br>ou<br>index'l            | 25%    | 20%    |
-| Perte<br>totale<br>de<br>index'l<br>un'd et<br>doigt<br>autre<br>le que<br>pouce              | 20%    | 15%    |
-| Perte<br>totale<br>du<br>pouce<br>seul                                                        | 20%    | 17%    |
-| Perte<br>totale<br>du<br>index'l<br>seul                                                      | 15%    | 12%    |
-| Perte<br>totale<br>du<br>médius<br>ou ,<br>'l de<br>annulaire<br>ou ,<br>'l de<br>auriculaire | 08%    | 06%    |
-| Perte<br>totale<br>de<br>deux<br>ces de<br>derniers<br>doigts                                 | 15%    | 12%    |
-| Perte<br>totale<br>une'd<br>jambe<br>au<br>dessus-<br>du<br>genou                             | 50%    |        |
-| Perte<br>totale<br>une'd<br>jambe<br>au<br>dessus-<br>du<br>genou<br>ou ,<br>un'd<br>pied     | 40%    |        |
-| Amputation<br>-sous (<br>astragalienne<br>(                                                   | 30%    |        |
-| Partielle<br>(<br>médico<br>-<br>tarsienne<br>(                                               | 25%    |        |
-| un'D<br>pied<br>-tarso (<br>tarsienne<br>(                                                    | 20%    |        |
-| Perte<br>totale<br>des<br>mouvements<br>la de<br>colonne<br>cervicale                         | 15%    |        |
-| Perte<br>totale<br>des<br>mouvements<br>la de<br>colonne<br>dorsolombaire                     | 25%    |        |
-| Perte<br>totale<br>un'd<br>gros<br>orteil                                                     | 07%    |        |
-|                                                                                               |        |        |
-
-15
-
-| Perte<br>totale<br>un'd<br>autre<br>orteil                                                            | 02% |
-|-------------------------------------------------------------------------------------------------------|-----|
-| Perte<br>totale<br>des<br>cinq<br>orteils                                                             | 18% |
-| Perte<br>totale<br>des<br>mouvements<br>du<br>pied                                                    | 12% |
-| Fracture<br>non<br>consolidée<br>une'd<br>jambe<br>ou<br>un'd<br>pied                                 | 25% |
-| Fracture<br>non<br>consolidée<br>une'd<br>rotule                                                      | 20% |
-| Perte<br>totale<br>du<br>mouvement<br>une'd<br>hanche<br>ou<br>un'd<br>genou                          | 20% |
-| Raccourcissement<br>au'd<br>moins<br>cm5<br>un'd<br>membre<br>inférieur                               | 15% |
-| Raccourcissement<br>au'd<br>moins<br>cm3<br>un'd<br>membre<br>inférieur                               | 10% |
-| Ablation<br>la de<br>mâchoire<br>inférieure                                                           | 30% |
-| Surdité<br>totale<br>incurable<br>des<br>deux<br>oreilles                                             | 40% |
-| Surdité<br>totale<br>incurable<br>une'd<br>oreille                                                    | 10% |
-| Perte<br>totale<br>d<br>œil un'                                                                       | 25% |
-| Perte<br>de<br>substance<br>du<br>crâne<br>dans<br>toute<br>son<br>épaisseur<br>de (<br>6 à 3<br>(2cm | 15% |
-| Syndrome<br>subjectif<br>des<br>traumatisés<br>du<br>crâne<br>sans ,<br>symptômes                     |     |
-| neurologiques                                                                                         | 05% |
-
-#### PARTICULIERS CAS
-
- en fixé est permanente incapacité'd taux le ,tableau au prévus non cas les Pour) 1 .énumérés cas des celle à comparée incapacité'l de gravité la de proportion
-
-sont supérieurs membres les pour prévus incapacité'd taux les ,gaucher est assuré'l Si) 2 .intervertis
-
- taux les ,organe ou membre même un atteignent infirmités ou lésions plusieurs Si) 3 concurrence à'jusqu cumuleront se infirmité ou lésion chaque pour prévus incapacité'd .organe ou membre dudit perte la pour accordé être pourrait qui incapacité'd taux du taux les ,accident même le par atteints sont organes ou membres plusieurs Si) 4 100%. dépasser pouvoir sans ,cumuleront se incapacité'd
+1. Pour les cas non prévus au tableau, le taux d’incapacité permanente est fixé en proportion de la gravité de l’incapacité comparée à celle des cas énumérés.  
+2. Si l’assuré est gaucher, les taux d’incapacité prévus pour les membres supérieurs sont intervertis.  
+3. Si plusieurs lésions ou infirmités atteignent le même membre ou organe, les taux d’incapacité prévus pour chaque lésion ou infirmité se cumuleront jusqu’à concurrence du taux d’incapacité qui pourrait être accordé pour la perte dudit membre ou organe.  
+4. Si plusieurs membres ou organes sont atteints par le même accident, les taux d’incapacité se cumuleront sans pouvoir dépasser 100%.
 
 #### CONSENTEMENT DE CLAUSE
 
- données mes de traitement du informé être déclare je ,personnel caractère à données des protection la sur portant 2004, juillet 27 du °2004-63n organique loi la à Conformément .Assurance BH par établi assurance'd contrat un'd souscription la de cadre le dans formulaire présent du niveau au renseignées personnelles pour inutiles deviennent elles'lorsqu ou collectées été ont elles lesquelles pour finalités des réalisation de cas en et personnelles données mes de traitement au expressément consens Je
+Conformément à la loi organique n°2004-63 du 27 juillet 2004 portant sur la protection des données personnelles, je déclare être informé du traitement de mes données personnelles renseignées au niveau du présent formulaire dans le cadre de la souscription d’un contrat d’assurance établi par BH Assurance.
 
-.détruites verront se dernières ces ,Assurance BH de activité'l droit mon que ainsi dernières ces de traitement au opposition'd droit mon de et personnelles données mes de rectification de ,accès'd droit mon de informé être déclare je ,même De .constatée violation toute pour INPDP'l de auprès plainte porter de
+Je consens expressément au traitement de mes données personnelles et, en cas de réalisation des finalités pour lesquelles elles ont été collectées ou lorsqu’elles deviennent inutiles pour l’activité de BH Assurance, ces dernières seront détruites. De même, je déclare être informé de mon droit d’accès, de rectification de mes données personnelles et de mon droit d’opposition au traitement de ces dernières, ainsi que de porter plainte auprès de l’INPDP pour toute violation constatée.
 
-عمال بأحكام القانون األساسي عدد 63ـ2004 املؤرخ يف 27 جويلية 2004 واملتعلق بحماية املعطيات الشخصية أصرح بعلمي التام بعملية معالجة معطياتي الشخصية املذكورة يف هذه املطبوعة يف إطار اكتتاب عقد تأمين من طرف BH تأمين.
+### SOUSCRIPTEUR APPROUVÉ ET LU
 
-أوافق صراحة ىلع معالجة معطياتي الشخصية ويف صورة تحقق الغرض الذي جمعت من أجله أو يف صورة ما إذا لم تعد ضرورية لنشاط شركة BH تأمين، يتم القيام بإتالفها. كما أصرح بأني ىلع علم بحقي يف النفاذ إلى معطياتي الشخصية وتصحيحها وحقي يف االعتراض ىلع معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية املعطيات الشخصية يف صورة عدم حمايتها.
+ASSUREUR
 
-### Souscripteur Approuvé et Lu
-
-Assureur
-
-17
-
-Assurance BH Assurance BH com.assurance-bh.www
+Assurance BH  
+www.assurance-bh.com

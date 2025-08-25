@@ -1,527 +1,326 @@
-![](_page_0_Picture_0.jpeg)
+# CONDITIONS GÉNÉRALES
+
+**CONTRAT D’ASSURANCE RESPONSABILITÉ CIVILE**
+
+**Visa : MF N° 361/5 du 27/11/1997**
+
+## SOMMAIRE
+
+### TITRE I - DISPOSITIONS GÉNÉRALES
+| Définitions | ARTICLE 1 |
+| Objet et étendue de la garantie | ARTICLE 2 |
+| Limites de garantie | ARTICLE 3 |
+| 1. Territorialité | |
+| 2. Période de garantie | |
+| 3. Franchise | |
+| 4. Exclusions | |
+
+### TITRE II - DÉCLARATION CONCERNANT LE RISQUE
+| Souscription | ARTICLE 4 |
+| Modifications | ARTICLE 5 |
+| Aggravation | ARTICLE 6 |
+| Diminution | ARTICLE 7 |
+
+### TITRE III - OBLIGATIONS DE L’ASSURÉ
+| Paiement des primes | ARTICLE 8 |
+| Déclaration des sinistres | ARTICLE 9 |
+| Sauvegarde des droits de la société et subrogation | ARTICLE 10 |
+
+### TITRE IV - OBLIGATIONS DE L’ASSUREUR
+| Montant de la garantie | ARTICLE 11 |
+| Procédure | ARTICLE 12 |
+| Compétence | ARTICLE 13 |
+
+### TITRE V - DISPOSITIONS DIVERSES
+| Formation, date de prise d’effet du contrat, durée, résiliation | ARTICLE 14 |
+| Pluralité d’assurances, coassurance | ARTICLE 15 |
+| Prescription | ARTICLE 16 |
+
+Le présent contrat est régi par le Code des Assurances, promulgué par la loi n° 24/92 du 9 mars 1992, ci-après dénommé « le Code », ainsi que par les Conditions Générales qui suivent, les Conditions Particulières ci-annexées, et le formulaire de déclaration du risque, sur les réponses duquel il est basé et qui en fait partie intégrante.
+
+## TITRE I - DISPOSITIONS GÉNÉRALES
+
+### ARTICLE 1 : DÉFINITIONS
+
+Pour l’application du présent contrat, il faut entendre par :
+
+1. **Souscripteur** : La personne physique ou morale désignée comme telle aux Conditions Particulières, ainsi que toute personne qui lui serait légalement substituée par accord des parties. Le souscripteur signe et s’engage au contrat, établi sur la base de ses déclarations, et est tenu au paiement des primes.
+2. **Assuré** : Le souscripteur ou toute personne qui serait substituée à lui par suite de son décès ou de l’aliénation des biens assurés, ainsi que toute personne pour le compte de laquelle l’assurance est souscrite, suivant mention expresse aux Conditions Particulières.
+3. **Tiers** : Toute personne autre que :
+   - L’Assuré et son conjoint ;
+   - Les ascendants et descendants de l’Assuré et de son conjoint vivant habituellement sous leur toit ;
+   - Les préposés et salariés de l’Assuré dans l’exercice de leurs fonctions.
+   De plus, lorsque le contrat a pour objet de garantir la responsabilité civile encourue par l’Assuré en raison des dommages causés à l’occasion ou au cours d’une activité professionnelle, les personnes suivantes ne seront pas considérées comme tiers :
+   - Les frères et sœurs de l’Assuré et leurs conjoints, à l’occasion de leur participation à cette activité professionnelle ;
+   - Si l’assurance est souscrite au profit d’une société, les personnes physiques appartenant à cette société en qualité de dirigeants, administrateurs statutaires, gérants ou associés, dans le cas où ils seraient victimes d’un accident à l’occasion de leurs activités au sein de la société.
+4. **Accident** : Tout événement soudain, imprévu et extérieur à la victime ou à la chose endommagée, non intentionnel, constituant la cause de dommages corporels, matériels et immatériels consécutifs.
+5. **Sinistre** : Toutes les conséquences dommageables d’un accident ou d’un fait générateur, susceptibles d’engager la responsabilité civile de l’Assuré, à la suite d’une réclamation formulée par un tiers, amiable ou judiciaire, conformément à la garantie de l’assureur et aux Conditions Générales et Particulières.
+6. **Dommage** :
+   - **Dommage corporel** : Toute atteinte corporelle subie par une personne physique ou un animal.
+   - **Dommage immatériel** : Tout préjudice pécuniaire occasionnant la privation de la jouissance d’un droit, l’interruption d’un service par une personne, ou par un bien meuble ou immeuble, résultant directement de la survenance de dommages corporels ou matériels garantis par le présent contrat.
+
+### ARTICLE 2 : OBJET ET ÉTENDUE DE LA GARANTIE
+
+#### A) Objet de la garantie
+**a. Base de la garantie**  
+Conformément aux dispositions des articles 23, 24, 25 et 26 du Code des Assurances, le présent contrat garantit, à concurrence des montants indiqués aux Conditions Particulières, les conséquences pécuniaires de la responsabilité civile pouvant incomber à l’Assuré par application des articles 82, 83, 93, 94, 96 et 97 du Code des obligations et des contrats, à la suite d’accidents causant des dommages à des tiers, provenant des risques définis aux Conditions Particulières.
+
+**b. Garanties accessoires**  
+Lorsque mention en est faite aux Conditions Particulières ou à un avenant au contrat, la garantie, à la demande de l’Assuré et moyennant une prime additionnelle, s’étend précisément aux dommages corporels et matériels occasionnés par un incendie ou une explosion consécutive à un accident couvert par le contrat.
+
+#### B) Étendue de la garantie
+Les garanties du présent contrat sont accordées à concurrence des montants indiqués aux Conditions Particulières, sous réserve des limitations, franchises et exclusions prévues par les Conditions Générales et Particulières qui l’accompagnent.
+
+### ARTICLE 3 : LIMITES DE GARANTIE
+
+Les limitations de l’application des garanties concernent l’espace (territorialité) et le temps (période de garantie).
+
+#### 1. Territorialité
+Sauf stipulation contraire aux Conditions Particulières, la garantie du présent contrat s’exerce exclusivement sur le territoire de la République tunisienne. Toutefois, lorsque la garantie est étendue à l’étranger moyennant une stipulation expresse aux Conditions Particulières, l’indemnité pouvant être mise à la charge de l’Assuré sera remboursée par l’assureur en Tunisie, à concurrence de sa valeur en dinars tunisiens au cours officiel du jour du remboursement.
+
+#### 2. Période de garantie
+Les sinistres pris en charge au titre du présent contrat sont ceux constitués par :
+- Les réclamations faites par les tiers à l’encontre de l’Assuré ou directement à l’encontre de l’assureur en vertu de l’action directe prévue par la loi, pendant la période de validité du contrat.
+- Les réclamations formulées par les tiers, comme précisé dans le paragraphe précédent, mais rattachées exclusivement à un fait générateur dont la survenance est comprise dans la période de validité du contrat.
+
+#### 3. Franchise
+Pour la garantie des dommages purement matériels, les Conditions Particulières peuvent prévoir une franchise.
+
+#### 4. Exclusions
+**a) Exclusions relatives**  
+Sauf dérogations et stipulations expresses aux Conditions Particulières et paiement d’une surprime, sont exclus de la garantie du présent contrat :
+1. Les sinistres causés par les ascenseurs, grues, wagons, tracteurs, et tous engins ou véhicules aériens, maritimes, fluviaux ou lacustres.
+2. Les dégâts matériels provenant d’incendies, d’explosions non consécutifs à un accident, ainsi que ceux occasionnés par les dégâts des eaux, le vol, la suie, la fumée, la vapeur ou les poussières.
+3. Les conséquences pécuniaires de la responsabilité civile encourue par l’Assuré en vertu d’obligations contractuelles.
+4. Les dommages spécifiques aux activités telles que les travaux souterrains, les mines, les travaux dans les ports ou rades, les ponts roulants, les constructions, les digues, ou l’entretien d’engins de remontée mécanique.
+**Sont également exclus, sauf dérogation et convention spéciale :**
+5. Les dommages occasionnés par l’extraction, la fabrication, la manutention, le transport, le traitement, la distribution ou le stockage de combustibles gazeux ou liquides, ainsi que les risques de recherches, forages et raffinages.
+6. Tous travaux entrepris dans les laboratoires relevant du domaine de la transfusion sanguine ou de la recherche génétique.
+7. Les dommages occasionnés par la vente de matériel informatique.
+8. Toute responsabilité professionnelle des professions libérales et, en général, de tout prestataire de services.
+9. Les dommages causés aux marchandises, produits, objets ou animaux confiés à l’Assuré à quelque titre que ce soit, pour dépôt ou usage, même lorsque la responsabilité de l’Assuré serait retenue.
+10. Les dommages corporels causés par les intoxications alimentaires et les empoisonnements.
+11. Les dommages causés par la pollution de l’atmosphère, des eaux ou du sol, ainsi que leurs conséquences dommageables aux personnes, animaux, choses, plantes et, en général, à l’environnement.
+12. Les troubles de voisinage et nuisances non consécutifs à un accident, tels que le rejet ou dépôt de substances solides, liquides ou gazeuses, l’émission, la production de bruits, odeurs, vibrations, radiations, ondes ou modification de température.
+13. Lorsque la mention « TRANSPORT » figure aux Conditions Particulières, elle signifie que l’assurance s’étend simplement aux accidents corporels causés à des tiers par le fait du chargement, du déchargement ou de la manutention à mains d’homme de marchandises ou de matériaux.
+14. Lorsque les travaux d’excavation relèvent de l’activité assurée, les dommages causés accidentellement aux câbles, canalisations ou installations souterraines ne sont assurés que sous les conditions suivantes :
+    - Les dommages ne doivent pas résulter d’un travail ou d’une fourniture de service de façon inéluctable et prévisible dans le cadre des activités habituelles de l’Assuré définies au contrat.
+    - Les dommages ne doivent pas résulter de l’inobservation des règles de l’art reconnues dans l’exercice des activités assurées.
+    - L’Assuré doit être en possession des plans et des renseignements nécessaires au repérage des câbles, canalisations et installations souterraines. Il doit en faire la demande par écrit, par lettre recommandée avec accusé de réception, aux organismes concernés.
+    - À défaut d’obtention des plans et des renseignements précités au moins huit jours avant d’entamer les travaux, l’Assuré doit, par une deuxième lettre recommandée avec accusé de réception, aviser les organismes concernés de la date et du lieu du début des travaux, déclinant toute responsabilité en cas de dommages causés aux installations souterraines ou de dommages indirects causés à des tiers.
 
-# ASSURANCE'D CONTRAT RESPONSABILITÉS DES CIVILES **GÉNÉRALES CONDITIONS**
+**b) Exclusions absolues**  
+Sont toujours exclus de l’assurance :
+1. Les dommages occasionnés par la faute intentionnelle de l’Assuré ou par les personnes dont il répond légalement, même avec sa complicité.
+2. Les accidents survenus au conjoint, aux ascendants, descendants, associés, salariés, et toute personne vivant habituellement au foyer de l’Assuré.
+3. Les dommages subis par les animaux, substances et choses dont l’Assuré, les personnes énoncées au paragraphe 3 de l’article 1 des présentes Conditions Générales (propriétaires, locataires, gardiens, usagers ou détenteurs à titre habituel) sont responsables.
+4. Les dommages causés par les vibrations et toute autre nuisance, lorsqu’elles ne sont pas la conséquence directe d’un dommage matériel consécutif à un accident garanti.
+5. Les dommages corporels tels que les empoisonnements ou intoxications alimentaires consécutifs à l’emploi, au su de l’Assuré, de produits avariés, contaminés, irradiés ou impropres à la consommation.
+6. Les dommages consécutifs à l’usage d’une information déloyale sur un produit, aux déficiences de l’étiquetage, du conditionnement, ou à l’insuffisance d’information de l’utilisateur, ou au manque de sécurité d’un produit qui recèle un danger intrinsèquement.
+7. Les sinistres occasionnés par la guerre étrangère. Il appartient à l’Assuré de prouver que le dommage résulte d’un fait autre que celui de la guerre étrangère.
+8. Les sinistres occasionnés, soit par la guerre civile, soit par des grèves, lock-out, émeutes, mouvements populaires, attentats, actes de terrorisme ou de sabotage commis dans le cadre de ces évènements. Il appartient à la société de prouver que les dommages résultent de l’un de ces évènements.
+9. Les sinistres occasionnés par les tremblements de terre, typhons, inondations, cyclones, tornades, ouragans, éruptions volcaniques, sécheresse ou tout autre cataclysme ou phénomènes atmosphériques relevant de la force majeure.
+10. Les sinistres dus aux effets directs ou indirects d’explosion, de dégagement de chaleur provenant de la transmutation de noyaux d’atomes ou de la radioactivité, ainsi que les sinistres dus aux effets de radiations provoquées par l’accélération artificielle des particules.
+11. Les dommages imputables à la vie privée de l’Assuré ou à l’exercice par lui d’une activité professionnelle autre que celle définie aux Conditions Particulières.
+12. Les dommages résultant de façon prévisible et inéluctable :
+    - Soit des modalités d’exécution d’un travail, d’un service ou d’une fourniture que l’Assuré est appelé à réaliser dans le cadre de ses activités habituelles définies aux Conditions Particulières, et qui s’analysent comme étant inhérentes à l’accomplissement normal de ces tâches.
+    - Soit de l’inobservation des règles de l’art reconnues dans l’exercice des activités de l’Assuré.
+13. Les dommages résultant de la participation de l’Assuré à des courses, paris, essais de chevaux, bicyclettes ou véhicules, ainsi qu’aux essais qui précèdent.
+14. Les dommages occasionnés par les produits destinés à l’industrie aéronautique et spatiale.
+15. Les dommages trouvant leur origine dans la fourniture de produits ou services spécialement destinés à la technologie pétrolière.
+16. Les dommages causés par les explosifs utilisés par l’Assuré ou toute personne dont il est civilement responsable.
+17. Toutes les conséquences des risques découlant de l’usage de véhicules terrestres à moteur.
 
-![](_page_0_Picture_2.jpeg)
+## TITRE II - DÉCLARATION CONCERNANT LE RISQUE
 
-27/11/1997 DU 361/5 °N MF :Visa
+### ARTICLE 4 : SOUSCRIPTION
 
-## **SOMMAIRE**
+À la souscription, l’Assuré doit, sous peine des sanctions prévues aux articles 8 et 9 du Code des Assurances, déclarer exactement tous les éléments d’information lui connus permettant à l’assureur d’apprécier le risque, conformément à l’article 7 du Code des Assurances.
 
-| - I<br>DISPOSITIONS<br>GENERALES                                                                |               |
-|-------------------------------------------------------------------------------------------------|---------------|
-| Définitions                                                                                     | ARTICLE<br>1  |
-| Objets<br>et<br>étendue<br>la de<br>garantie                                                    | ARTICLE<br>2  |
-| Limites<br>de<br>garantie                                                                       | ARTICLE<br>3  |
-| 1.<br>Territorialité                                                                            |               |
-| 2.<br>Période<br>de<br>garantie                                                                 |               |
-| 3.<br>Franchise                                                                                 |               |
-| 4.<br>Exclusions                                                                                |               |
-| LE - II<br>RISQUE                                                                               |               |
-| Souscription                                                                                    | ARTICLE<br>4  |
-| Modifications                                                                                   | ARTICLE<br>5  |
-| Aggravations                                                                                    | ARTICLE<br>6  |
-| Diminutions                                                                                     | ARTICLE<br>7  |
-| - III<br>OBLIGATIONS<br>'L DE<br>ASSURÉ                                                         |               |
-| Paiement<br>des<br>primes                                                                       | ARTICLE<br>8  |
-| Déclaration<br>des<br>sinistres                                                                 | ARTICLE<br>9  |
-| Sauvegarde<br>des<br>droits<br>la de<br>société<br>et<br>subrogation                            | ARTICLE<br>10 |
-| - IV<br>OBLIGATION<br>'L DE<br>ASSREUR                                                          |               |
-| Montant<br>la de<br>garantie                                                                    | ARTICLE<br>11 |
-| Procédure                                                                                       | ARTICLE<br>12 |
-| Compétence                                                                                      | ARTICLE<br>13 |
-| -V<br>DISPOSITIONS<br>DIVERSES                                                                  |               |
-| Formation<br>Date-<br>de<br>Prise<br>Effet'd<br>du<br>Contrat<br>-<br>Durée<br>–<br>Résiliation | ARTICLE<br>14 |
-| Pluralité<br>'d<br>Assurances<br>-Co ,<br>Assurance                                             | ARTICLE<br>15 |
-| Prescription                                                                                    | ARTICLE<br>16 |
-|                                                                                                 |               |
+L’Assuré doit, par conséquent, répondre loyalement et exactement à toutes les questions consignées dans le formulaire de déclaration du risque, par lequel l’assureur l’interroge lors de la conclusion du contrat.
 
-![](_page_3_Picture_0.jpeg)
+### ARTICLE 5 : MODIFICATIONS
 
-## CONDITIONS GÉNÉRALES
+L’Assuré doit déclarer à l’assureur, par lettre recommandée, les circonstances nouvelles intervenues en cours de contrat rendant inexactes les déclarations consignées dans le formulaire de déclaration du risque. Cette déclaration doit être faite préalablement si la modification résulte du fait de l’Assuré, et dans un délai de huit jours à dater du moment où il en a eu connaissance dans les autres cas.
 
-Visa : MF N° 361/5 DU 27/11/1997
+Indépendamment des causes ordinaires de nullité, le contrat d’assurance est nul en cas de réticence ou de fausse déclaration intentionnelle de la part de l’Assuré, se rapportant aux indications portées sur le formulaire de déclaration du risque, lorsque cette réticence ou cette fausse déclaration a changé l’appréciation du risque assuré, même si elle n’a pas eu d’influence sur le sinistre. La nullité du contrat n’est prononcée que lorsque l’assureur prouve la mauvaise foi de l’Assuré.
 
-Le présent contrat est régi par le code des assurances promulgué par la loi n24/92° du 9 Mars 1992 ci-après dénommé le code, ainsi que les Conditions Générales qui suivent, les Conditions Particulière ci-annexées et le formulaire de déclaration du Risque, sur les réponses duquel il est basé et qui en fait partie Intégrante.
+Dans tous les autres cas, si l’assureur constate la réticence ou la fausse déclaration avant tout sinistre, il a le droit de résilier le contrat dix jours après la date de la notification adressée à l’Assuré par lettre recommandée avec accusé de réception, sauf si l’Assuré accepte une majoration de la prime d’assurance en rapport avec la réalité du risque assuré.
 
-### GENERALES DISPOSITIONS - I **DÉFINITIONS 1- ARTICLE**
+Toute réticence ou fausse déclaration non intentionnelle dans les déclarations du risque entraîne une réduction proportionnelle de l’indemnité du sinistre.
 
- faut il contrat présent du application'l Pour :par entendre
+### ARTICLE 6 : AGGRAVATION
 
-#### :Souscripteur Le1-
+Lorsque la modification constitue une aggravation telle que, si le nouvel état des choses avait existé à la souscription ou au renouvellement du contrat, l’assureur n’aurait pas contracté ou n’aurait contracté qu’à une prime plus élevée, l’assureur a la faculté de proposer un nouveau taux de prime. Si l’Assuré refuse cette augmentation, l’assureur peut résilier le contrat trente jours à dater de la notification de la demande d’augmentation faite à l’Assuré par lettre recommandée avec accusé de réception, conformément à l’article 9 du Code des Assurances.
 
- désignée morale ou physique personne La que ainsi ,Particulières Conditions aux ainsi légalement substituée lui qui personne toute .parties des accord par ou
+### ARTICLE 7 : DIMINUTION
 
- établissement'l demande souscripteur Le de base la sur établi est lequel ,contrat du au engage's et signe le Il .déclarations ses .primes des paiement
+Si, pour la fixation de la prime, il a été tenu compte de circonstances spéciales aggravant les risques mentionnées dans le contrat, et si ces circonstances viennent à disparaître au cours de l’assurance, l’Assuré a le droit de demander une diminution de la prime d’assurance.
 
-#### :Assuré'L2-
+Lorsque l’assureur n’accepte pas cette diminution, l’Assuré a le droit de résilier le contrat trente jours à compter de la date de la notification de la demande de diminution, par lettre recommandée avec accusé de réception ou par déclaration faite contre récépissé aux bureaux de l’assureur. En cas de résiliation, l’assureur doit restituer à l’Assuré la portion de prime d’assurance afférente à la période pendant laquelle le risque n’a pas couru, conformément à l’article 9 du Code des Assurances.
 
- lui qui personne toute ou souscripteur Le ou décès son de suite par substituée serait .assurés biens des aliénation'd
+## TITRE III - OBLIGATIONS DE L’ASSURÉ
 
- laquelle de compte le pour personne Toute mention suivant ,stipulé a souscripteur le .Particulières Conditions aux expresse
+### ARTICLE 8 : PAIEMENT DES PRIMES
 
-### :Tiers3-
+#### a) Modalités de calcul de la prime
+1. Lorsque la prime est fixée à forfait, elle est payable d’avance aux échéances précisées aux Conditions Particulières.
+2. Lorsque la prime est déterminée en fonction des paramètres convenus dans les Conditions Particulières, elle se décompose en deux fractions :
+   - **a)** La première, constituant un minimum irréductible, doit être payée d’avance aux échéances fixées aux Conditions Particulières.
+   - **b)** La seconde, variable, est déterminée à la fin de chaque année d’assurance par application du taux indiqué aux Conditions Particulières.
+3. La prime peut enfin être calculée sur le montant des salaires payés par l’Assuré au cours de chaque trimestre calendrier. Elle est alors payable au plus tard le quinzième jour qui suit l’expiration du trimestre, c’est-à-dire le 15 janvier, 15 avril, 15 juillet et 15 octobre de chaque année. Dès la signature du contrat, l’Assuré doit verser à BH Assurance une prime provisionnelle représentant le quart de la prime annuelle calculée sur les salaires payés au cours de l’année précédente, ou, si l’entreprise est de création récente, une somme fixée de gré à gré entre les parties.
+   À la fin de chaque année d’assurance, dans les quinze jours qui suivent l’expiration, si la prime est révisable partiellement (alinéa 2) ou payable trimestriellement à terme échu (alinéa 3), l’Assuré doit adresser à BH Assurance le relevé des salaires, appointements et rémunérations de toutes natures payés ou alloués à son personnel au cours de l’année ou du trimestre précédent. Si l’importance de ces rémunérations dépasse le montant des prévisions ayant servi de base au calcul de la provision, l’Assuré est tenu de payer à BH Assurance le supplément proportionnel correspondant.
+4. L’Assuré devra tenir une comptabilité régulière et des livres ou feuilles de paie, sur lesquels il inscrira régulièrement les noms, prénoms, âges, professions, date d’entrée, salaires et rémunérations de toutes natures (salaires en espèces, gratifications, pourboires, indemnités de déplacement, allocations familiales, logement, nourriture), sans exception, de son personnel. Si ces livres ou feuilles de paie ne comportent pas ces renseignements, ils seront portés sur le livre de paie spécial que la société remettra à l’Assuré à sa première demande.
+   Il doit être tenu compte de la totalité des rémunérations allouées à tout le personnel de l’Assuré, dans quelque lieu qu’il exerce son activité, dans les limites définies à l’article 2 des présentes Conditions Générales.
+   Le salaire des apprentis, des jeunes travailleurs ou des élèves de l’enseignement professionnel ou technique devra être élevé, le cas échéant, au niveau du salaire le plus bas de la catégorie professionnelle pour laquelle la formation ou l’enseignement est donné.
+   L’Assuré et chacun des membres de sa famille occupés dans l’entreprise seront considérés comme ayant un salaire au moins égal aux appointements du mieux payé des salariés de l’entreprise.
+5. Si, en raison de la nature du risque, la prime est révisable en fonction d’un ou plusieurs éléments désignés aux Conditions Particulières, et que le salaire et les déclarations de l’Assuré portant sur tout ou partie de ces éléments font partie du risque assuré, l’assureur a toujours le droit de contrôler, à toute époque et pendant les deux années qui suivent la résiliation ou l’expiration du contrat, par les inspecteurs ou agents de son choix, les livres de paie et la comptabilité de l’Assuré, afin de vérifier si ces derniers sont régulièrement tenus et si les déclarations de l’Assuré sont sincères et exactes. En conséquence, l’Assuré s’oblige à communiquer ses livres de paie ou sa comptabilité à toute réquisition des inspecteurs, agents ou délégués de BH Assurance.
+   En cas de réticence ou de déclarations intentionnelles se rapportant au montant des salaires, si l’assureur constate la réticence ou la fausse déclaration avant tout sinistre, il a le droit de résilier le contrat dix jours à partir de la date de la notification adressée à l’Assuré par lettre recommandée avec accusé de réception, sauf si l’Assuré accepte une majoration de la prime en rapport avec la réalité du risque assuré. Lorsque la constatation de la réticence ou de la fausse déclaration a lieu après un sinistre, l’assureur a le droit de réduire l’indemnité en proportion du taux de la prime qui aurait dû être payée s’il n’y avait pas eu de réticence ou de fausse déclaration.
 
-:que autre personne Toute
+#### b) Modalité de paiement
+La prime ou une fraction de prime d’assurance est payable au domicile de l’assureur ou du mandataire désigné par lui à cet effet. Elle peut toutefois être payable au domicile de l’Assuré ou à tout autre lieu convenu, dans les cas et conditions fixés par l’arrêté du Ministère des Finances, conformément à l’article 6 du Code des Assurances.
 
-; conjoint son et Assuré'L-
+Les modalités et délais de paiement sont fixés dans les Conditions Particulières ci-annexées.
 
- et assuré'l de descendants et ascendants Les son sous habituellement vivant conjoint leur ; toit
+#### c) Sanctions du non-paiement de la prime
+À défaut de paiement d’une prime ou d’une fraction de celle-ci à son échéance, l’assureur peut suspendre le contrat dans les conditions prévues à l’article 11 du Code des Assurances, sans préjudice du droit de BH Assurance de résilier le contrat ou d’en poursuivre l’exécution en justice.
 
- dans assuré'l de salariés et préposés les- .fonctions leurs de exercice'l
+La suspension ne peut intervenir que vingt jours après l’envoi, par l’assureur, d’une mise en demeure de payer par lettre recommandée avec accusé de réception au dernier domicile connu de l’Assuré.
 
- de objet pour a contrat le lorsque ,plus De encourue civile responsabilité la garantir causés dommages des raison en assuré'l par activité une'd occasion'l à ou cours au
+L’assureur a le droit, dix jours à dater de l’expiration du délai de vingt jours fixé par l’alinéa précédent, de résilier le contrat ou d’en poursuivre l’exécution en justice.
 
-5
+Les effets de la suspension et de la résiliation sont fixés par l’article 11 du Code des Assurances.
 
- plus non pas seront ne ,professionnelle :tiers comme considérés
+## TITRE IV - OBLIGATIONS DE L’ASSUREUR
 
- leurs et assuré'l de sœurs et frères Les à participation leur de occasion'l à ,conjoints ; professionnelle activité cette
+### ARTICLE 9 : DÉCLARATION DES SINISTRES
 
- une'd profit au souscrite est assurance'l si appartenant physiques personnes les :société dirigeants de qualité en société cette à ou gérant ,administrateurs ,statutaires un'd victimes seraient ils où cas au ,associés sein au activités leurs de occasion'l à accident .société la de
+Sous peine de déchéance, l’Assuré doit, dans les cinq jours ouvrés à dater du moment où il a eu connaissance du sinistre, sauf cas fortuit ou de force majeure, faire une déclaration écrite ou verbalement contre récépissé au siège de BH Assurance ou auprès du mandataire désigné à cet effet.
 
-### :Accident4-
+L’Assuré doit notamment indiquer :
+- La date, l’heure, le lieu, la nature, les circonstances de l’accident, ainsi que ses conséquences connues ou présumées ;
+- Le numéro du contrat d’assurance, le nom, le domicile des victimes, des lésés et des témoins éventuels.
 
- non ,imprévu soudain événement Tout ou à ou victime la à extérieur et intentionnel la constituant et ,endommagée chose la à et matériels ,corporels dommages de cause .consécutifs immatériels
+En outre, l’Assuré a l’obligation de fournir à BH Assurance tout renseignement complémentaire qu’elle jugera utile de demander.
 
-#### :Sinistre5-
+### ARTICLE 10 : SAUVEGARDE DES DROITS DE LA SOCIÉTÉ ET SUBROGATION
 
- un'd dommageables conséquences les Toutes susceptibles accident ou générateur fait même réclamation une'd suite la à engager'd un par formulée judiciaire ou amiable et assuré'l de civile responsabilité la ,tiers aux conformément assureur'l de garantie la .Particulières et Générales Conditions
+En cas de sinistre, l’Assuré est tenu de prendre toutes les mesures conservatoires et mesures destinées à prévenir ou limiter le dommage.
 
-### :Dommage6-
+L’Assuré doit transmettre immédiatement à BH Assurance tous les avis, lettres, convocations, assignations, actes extrajudiciaires ou judiciaires qui lui seraient remis personnellement ou à ses préposés, afin que BH Assurance puisse y répondre en temps utile. Sous peine de devoir supporter, en cas de retard, toutes les conséquences et notamment tous les dommages qui pourraient en résulter pour BH Assurance.
 
-#### CORPOREL DOMMAGE-
+BH Assurance a seule la direction du procès et le droit de transiger avec le tiers lésé en cas de dommages causés à des tiers.
 
- une par subie corporelle atteinte Toute .animal un à physique personne
+Aucune transaction faite sans son autorisation ou reconnaissance de responsabilité ne sera opposable à l’Assuré.
 
-#### IMMATERIEL DOMMAGE-
+Conformément à l’article 21 du Code des Assurances, BH Assurance est subrogée dans les droits et actions de l’Assuré contre les tiers responsables des dommages.
 
- occasionnant pécuniaire préjudice Tout ,droit un'd jouissance de privation la ,personne une par service un'd interruption'l directement résultant ,immeuble bien un par ou corporels dommages de survenance la de
+La subrogation ne peut plus s’opérer en faveur de BH Assurance, du fait de l’Assuré, si celui-ci entraîne, en tout ou en partie, le déchargement de la garantie de BH Assurance envers l’Assuré.
 
-.contrat présent le par garantis matériels
+Toutefois, la subrogation ne peut s’opérer à l’encontre des descendants, ascendants, alliés en ligne directe, préposés, ouvriers, domestiques, et généralement toute personne vivant habituellement au foyer de l’Assuré, sauf en cas de dommages intentionnels commis par l’une de ces personnes.
 
-### **ETENDUE ET OBJET - 2 ARTICLE GARANTIE LA DE**
+### ARTICLE 11 : MONTANT DE LA GARANTIE
 
-#### Garantie la de Objet) A
+Le montant de la garantie est fixé aux Conditions Particulières. Il constitue le maximum que BH Assurance accepte de garantir, soit par sinistre, par événement, ou par année d’assurance.
 
-#### base de Garantie-a
+Les frais de procès, de quittances, ne viendront pas en déduction de ce montant.
 
- aux conformément et ,contrat présent le Par du 26 et23,24,25, articles des dispositions garantit Assurance BH ,assurances des code indiqués montants des concurrence à Assuré'l les contre Particulières Conditions aux responsabilité la de pécuniaires conséquences application par incomber lui peut qui civile code du 97 et 82 ,83,93,94,96 articles des suite la à contrats des et obligations des tiers aux dommages des causant accidents'd aux définis que tels risques des provenant et .Particulières Conditions
+Lorsque le montant de la garantie est épuisé, les frais seront supportés par l’Assuré proportionnellement dans la proportion de l’excédent.
 
-#### accessoires Garanties-b
+Les dépenses résultantes de toute action en responsabilité dirigée contre l’Assuré sont à la charge de l’assureur.
 
- conditions aux faite est en mention Lorsque le contrat au avenant un'qu ou particulières garantie la ,Assuré'l de demande la à précise étend's ,additionnelle prime une moyennant et corporels dommages aux également une ou incendie un par occasionnés matériels couvert accident un à consécutive explosion .contrat le par
+Ne sont pas opposables aux victimes lésées ou à leurs ayants droit :
+- Les déchéances, à l’exception de la suspension du contrat pour non-paiement des primes (article 11 du Code des Assurances).
+- La réduction de l’indemnité consécutive à une non-déclaration d’une des modifications survenant en cours de contrat, prévues à l’article 5 des présentes Conditions Générales.
 
-#### Garantie la de Etendue) B
+Une amende, étant une peine, ne peut être à la charge de BH Assurance.
 
- accordées sont contrat présent du garanties Les aux indiqués montants des concurrence à des réserve sous et particulières conditions prévues exclusions et franchises ,limitations que Générales Conditions les par tant .accompagnent'l qui Particulières
+### ARTICLE 12 : PROCÉDURE
 
-### **GARANTIE DE LIMITES – 3 ARTICLE**
+En cas d’actions portées devant les juridictions civiles, commerciales ou administratives, dirigées contre l’Assuré, BH Assurance assure sa défense et dirige le procès dans la limite de sa garantie.
 
- dans garanties des application'd Limitations temps le dans et) territorialité (espace'l .(garantie de période(
+En cas d’actions portées devant les juridictions pénales, si les victimes n’ont pas été désintéressées, BH Assurance se réserve la faculté de diriger le procès ou de s’y associer, en ce qui concerne les voies de recours, au nom de son assuré civilement responsable.
 
-#### Territorialité1.
+- **Devant les juridictions premières** : BH Assurance a le libre exercice.
+- **Devant les juridictions pénales** : BH Assurance a la faculté, au nom de son assuré civilement responsable, d’exercer toutes voies de recours, sauf si l’Assuré a été cité comme prévenu, auquel cas BH Assurance ne pourra exercer lesdites voies de recours qu’avec son accord, sauf lorsque le pourvoi en cassation est limité aux intérêts civils.
 
- Conditions au contraire stipulation Sauf contrat présent du garantie la ,Particulières la de territoire le sur exclusivement exercice's la lorsque ,Toutefois .Tunisienne République moyennant étranger'l à étendue est garantie Conditions aux expresse stipulation mise être pouvant indemnité'l ,Particulières remboursée sera lui Assuré'l de charge la à de concurrence à et Tunisie en assureur'l par cours au Tunisiens Dinars en valeur-contre sa .remboursement du jour au officiel
+### ARTICLE 13 : COMPÉTENCE
 
-#### Garantie de Période2.
+Seuls les tribunaux tunisiens sont compétents pour statuer sur les litiges qui peuvent s’élever à propos du présent contrat.
 
- présent du titre au charge en pris sinistres Les :par constitués ceux sont contrat
+Pour les actions dérivant du présent contrat :
+- Lorsque l’action est engagée par l’assureur, le tribunal compétent est celui du domicile de l’Assuré.
+- Si l’action est engagée par l’Assuré, celui-ci peut saisir soit le tribunal du lieu de son domicile, soit celui du lieu du domicile de l’assureur, soit le tribunal du lieu où se trouvent les meubles objet du contrat d’assurance, soit enfin le tribunal du lieu où le dommage s’est produit.
+- En matière d’immeuble, l’action est portée devant le tribunal du lieu de la situation des immeubles concernés, conformément à l’article 13 du Code des Assurances.
 
- à tiers les par faites réclamations Les action'l de vertu en assureur'l de encontre'l à directement ou loi la par prévue directe du validité de période la pendant Assuré'l .contrat
+## TITRE V - DISPOSITIONS DIVERSES
 
- ,tiers les par formulées réclamations Les paragraphe le dans précise comme rattachés exclusivement mais ,précédent de date la dont ,générateur fait un à même la dans comprise est survenance .contrat du validité de période
+### ARTICLE 14 : FORMATION, DATE DE PRISE D’EFFET DU CONTRAT, DURÉE, RÉSILIATION
 
-#### Franchises3.
+#### Date de prise d’effet du contrat
+Le présent contrat prend effet aux dates et heures indiquées aux Conditions Particulières. Toutefois, il n’est valable qu’après la signature des parties et le paiement de la première prime.
 
- purement dommages des garantie la Pour peuvent Particulières Conditions les ,matériels .franchise une prévoir
+#### Durée du contrat
+Le contrat est conclu pour la durée prévue aux Conditions Particulières.
 
-#### Exclusions4.
+Cette durée peut être fixée de date à date. Dans ce cas, le contrat cesse ses effets de plein droit à minuit du jour indiqué, sans avis d’expiration.
 
-#### relatives Exclusions) a
+Si les Conditions Particulières comportent la mention « reconduction tacite », le contrat est reconduit automatiquement d’année en année, sauf résiliation par l’une ou l’autre des parties, notifiée au moins deux mois avant l’échéance annuelle de la prime, dans l’une des formes prévues au dernier alinéa de l’article 5 du Code des Assurances.
 
- expresses stipulations et dérogations Sauf paiement et Particulières Conditions aux la de exclus sont ,surprime une'd
+#### Résiliation du contrat
+Le contrat peut être résilié dans les cas et conditions suivants :
+1. **Par l’Assuré ou l’assureur** : À chaque échéance annuelle du contrat, moyennant un préavis de deux mois (article 5 du Code des Assurances).
+2. **Par l’assureur, d’une part, ou l’héritier ou l’acquéreur, d’autre part** : En cas de décès de l’Assuré ou d’aliénation des biens assurés, l’assurance continuera de plein droit au profit de l’héritier ou de l’acquéreur, à charge pour ceux-ci d’exécuter toutes les obligations dont l’Assuré initial était tenu vis-à-vis de l’assureur en vertu du contrat (article 22 du Code des Assurances).
+3. **Par l’assureur** :
+   - En cas de non-paiement de la prime par l’Assuré (article 11 du Code des Assurances).
+   - En cas de réticence ou de fausse déclaration intentionnelle de la part de l’Assuré, dans la déclaration du risque à la souscription ou en cours de contrat (article 8 du Code des Assurances).
+   - En cas d’aggravation du risque, si l’Assuré n’accepte pas l’augmentation de prime conséquente (article 9 du Code des Assurances).
+4. **Par l’Assuré** : En cas de diminution ou de disparition des circonstances aggravantes mentionnées dans le contrat, après demande de diminution de la prime, si l’assureur refuse de réduire la prime (article 9 du Code des Assurances).
+5. **De plein droit** :
+   - À l’expiration du terme fixé au contrat, dans le cas d’une durée ferme excédant un an, et au plus tard à la date précisée aux Conditions Particulières pour le début des travaux.
+   - En cas de transfert de portefeuille, fusion, liquidation de l’entreprise d’assurance, ou retrait total de l’agrément de BH Assurance, la gestion des contrats en cours se fera conformément aux dispositions des articles 51 et 62 et suivants du Code des Assurances et de la législation en vigueur.
 
-6
+Lorsque l’Assuré a la faculté de demander la résiliation, il peut le faire à son choix, soit par lettre recommandée avec accusé de réception, soit par voie d’huissier-notaire, soit par déclaration faite contre récépissé au siège social de la société ou chez la société auprès de laquelle le contrat a été souscrit.
 
-:contrat présent du garantie
+La résiliation par l’assureur doit être notifiée par lettre recommandée avec accusé de réception ou par voie d’huissier-notaire (alinéas 3, 4 et 5 de l’article 5 du Code des Assurances).
 
- ,ascenseurs les par causés sinistres Les1 tous général en et tracteurs wagons grues ,aériens ,flottants véhicules ou engins les .lacustres ou fluviaux ,maritimes
+Si le contrat est résilié, l’assureur est tenu de restituer à l’Assuré le reliquat de la prime d’assurance perçue d’avance afférent à la période postérieure à la résiliation.
 
- incendies'd provenant matériels dégâts Les2 accident un à consécutifs non explosions ou les par occasionnés ceux que ainsi ,eau'd dégâts ,vol :que telles circonstances .poussières ,fumée ,suie ,vapeur
+### ARTICLE 15 : PLURALITÉ D’ASSURANCES, COASSURANCE
 
- la de pécuniaires conséquences Les3- Assuré'l par encourue civile responsabilité .contractuelles obligations'd vertu en
+#### a) Cumul d’assurances multiples ou cumulées
+Conformément à l’article 18 du Code des Assurances :
+Lorsque plusieurs assurances sont contractées sans fraude, soit à des dates différentes, soit pour une somme totale supérieure à la valeur de la chose assurée, toutes sont valables dans la proportion de la part de chaque contrat, sans que la somme totale des indemnités dépasse la valeur de la chose assurée, en adoptant la règle de l’ordre des dates.
 
- activités aux spécifiques dommages Les4- ,mines de souterrains travaux : que telles roulants ponts ,rades ou ports les dans travaux et constructions ,digues ,ferroviaires ou .mécanique remontée de engins'd entretien
+L’Assuré doit communiquer immédiatement à la société le nom de l’assureur avec lequel une autre assurance a été contractée et indiquer la somme assurée.
 
- SAUF EXCLUS EGALEMENT SONT CONVENTION ET DEROGATION
+#### b) Coassurance
+Lorsque les garanties du présent contrat sont assurées en coassurance, les règles suivantes sont applicables :
+- Il n’y a pas de solidarité juridique entre les coassureurs. Chaque société est donc engagée à concurrence de sa participation indiquée aux Conditions Particulières.
+- La société apéritrice a mandat des autres sociétés pour :
+  - Encaisser la totalité de la prime et la répartir sur les coassureurs.
+  - Recevoir toutes les déclarations que l’Assuré est tenu de faire, lesquelles sont, de ce fait, opposables à tous les coassureurs. Chaque coassureur peut, toutefois, faire visiter le risque par un représentant dûment accrédité.
+  - Centraliser le montant de l’indemnité due par chaque coassureur en vue de la verser à l’Assuré.
+  - Représenter, en cas de litige, les coassureurs.
 
-#### :SPECIALES
+### ARTICLE 16 : PRESCRIPTION
 
- par occasionnés dommages Les5- ,manutention la ,fabrication la ,extraction'l distribution la ,transport le ,traitement le ou gazeux combustibles de stockage le et ,recherches de risque les que ainsi liquides .raffinages et forages
+Toutes les actions dérivant du présent contrat sont prescrites par deux ans à compter de l’événement qui y donne naissance, dans les conditions prévues aux articles 14 et 15 du Code des Assurances.
 
- laboratoires les dans entrepris travaux Tous6 la de domaine du relevant institutions ou et recherche la de ou sanguine transfusion .génétique technique la de
+### CLAUSE DE CONSENTEMENT
 
- vente la par occasionnés dommages Les7- .informatique matériel de
+Conformément à la loi organique n° 2004-63 du 27 juillet 2004 portant sur la protection des données à caractère personnel, je déclare être informé du traitement de mes données personnelles renseignées dans le présent formulaire dans le cadre de la souscription d’un contrat d’assurance établi par BH Assurance.
 
-des professionnelle responsabilité Toute8-
+J’accepte expressément le traitement de mes données personnelles. En cas de réalisation des finalités pour lesquelles elles ont été collectées ou lorsqu’elles deviennent inutiles pour l’activité de BH Assurance, ces dernières seront détruites. De même, je déclare être informé de mon droit d’accès, de rectification de mes données personnelles, de mon droit d’opposition à leur traitement, et de mon droit de porter plainte auprès de l’Instance Nationale de Protection des Données Personnelles (INPDP) en cas de violation constatée.
 
-7
+**بالنسبة لأحكام القانون الأساسي عدد 63-2004 المؤرخ في 27 جويلية 2004 المتعلق بحماية المعطيات الشخصية، أصرح بعلمي التام بعملية معالجة معطياتي الشخصية المذكورة في هذه المطبوعة في إطار اكتتاب عقد تأمين من طرف تأمين BH.**
 
- tout de général en et libérales professions .services de prestataire
+**أوافق صراحة على معالجة معطياتي الشخصية، وفي صورة تحقق الغرض الذي جمعت من أجله أو إذا لم تعد ضرورية لنشاط شركة تأمين BH، يتم إتلافها. كما أصرح بأني على علم بحقي في النفاذ إلى معطياتي الشخصية وتصحيحها وحقي في الاعتراض على معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية المعطيات الشخصية في صورة عدم حمايتها.**
 
- ,marchandises aux causés dommages Les9- Assuré'l à confiés produits ou objets animaux que titre quelque à dépôt en ou usage pour responsabilité la même bien quand soit ce .retenue serait assuré'l de
+### LU ET APPROUVÉ
 
- causés corporels dommages Les10 et alimentaires intoxications les par .empoisonnements
+**LE SOUSCRIPTEUR**
 
- la par occasionnés dommages Les11 sol du ,eaux des ,atmosphère'l de pollution dommageables conséquences leurs que ainsi et plantes ,choses ,animaux ,personnes aux .général en environnement'l
-
- voisinage de nuisances et troubles Les12- : que tels accident un à consécutifs non de dépôt ou rejet ,suspension ,émission ,gazeuses ou liquides ,solides substances vibrations odeurs ,bruits de production la ou rayonnement ,radiations de ,ondes'd
-
-.température de modification
-
- elle'lorsqu » TRANSPORT «mention La13 signifie particulières conditions aux figure aux étend's assurance'l que simplement le par tiers aux causés corporels accidents ou déchargement du ,chargement du fait de homme'd mains à manutention la de .matériaux de ou marchandises
-
- relèvent excavation'd travaux les Lorsque14 causés dommages les ,assurée activité'l de canalisations ,câbles aux accidentellement assurés sont ne souterraines installations et :suivantes conditions aux'qu
-
-de résulter pas doivent ne dommages Les-)1
-
- ,travail un'd prévisible et inéluctable façon Assuré'l que fourniture une'd ou service un'd ses de cadre le dans réaliser à appelé est .contrat au définies habituelles activités
-
- de résulter par doivent ne dommages Les-)2 reconnues ,art'l de règles des inobservation'l activités des exercice'l dans telles comme .assurées
-
- plans des possession en être doit assuré'L-)3 repérage au nécessaires renseignements et installations et canalisations ,câbles des demande la faire en doit Il ; souterraines accusé avec recommandée lettre par écrite .concernés organismes aux réception de
-
- et plans des obtention'd défaut A-)4 huit et précisés dessus-ci renseignements travaux les entamer'd avant moins au jours lettre deuxième une par doit Assuré'l ,requis réception de accusé avec recommandée de et lieu du concernés organismes les aviser déclinant en ,travaux des début du date la dommages cas en responsabilité toute de ou souterraines installations aux causés .tiers des à causés indirects dommages
-
-absolues Exclusions) b
-
-:assurance'l de exclus toujours Sont
-
- faute la par occasionnés dommages Les1 avec même-lui Assuré'l de intentionnelle il dont personnes les par ou complicité sa .légalement répond
-
- ,conjoint : aux survenus accidents Les2 salariés ,associés ,descendants ,ascendants vivant personne toute à et Assuré'l de .Assuré'l de foyer au habituellement
-
-,animaux les par subis dommages Les3-
-
- assuré'l dont choses et substances ,meubles er 1 article'l à énoncées personnes les et Conditions présentes des 3 paragraphe( ,locataires ,propriétaires sont) Générales titre à détenteurs ou usagers ,gardiens .habituel
-
- ,vibrations par causés dommages Les4 elles'lorsqu nuisance autre toute et radiations un'd directe conséquence la pas sont ne accident un à consécutif matériel dommage .garanti
-
- tels corporels dommages Les5 intoxications ou empoisonnements'qu la à ,emploi'l à consécutifs ,alimentaires produits de Assuré'l de su au vente en mise sait il'qu irradiés contaminés ,avariés .consommation la à impropres
-
- usage'l à consécutifs dommages Les6- ,produit un sur déloyale information une'd du ou étiquetage'l de déficiences des à de insuffisances des à conditionnement manque un'd résultant produit du sécurité danger de ou utilisateur'l de information'd .intrinsèquement recèle marchandise la que
-
- guerre la par occasionnés sinistres Les7 de faveur la à commis ceux et étrangère prouver de Assuré'l à appartient il (,ci-celle que autre fait un'd résulte dommage le que .(étrangère guerre de fait le
-
- guerre la par soit occasionnés sinistres Les8 émeutes ,lockout ,grèves des par soit ,civile actes ,attentats ,populaires mouvements ou à commis ceux et sabotage de terrorisme de appartient il ( :évènements ces de faveur la dommages les que prouver de société la à .(événements ces de un'l de résultent
-
-8
-
- les par occasionnés sinistres Les9 éruptions ,terres de tremblements ,typhons ,inondations ,volcaniques ,cyclones ,tornades ,ouragans ,sécheresse phénomènes ou cataclysme autre tout ou .majeure force la de relevant atmosphériques ou directs effets aux dus sinistres Les10 dégagement de ,explosion'd indirects de provenant irradiations'd ,chaleur de de ou atomes'd noyaux de transmutation dûs sinistres les que ainsi ,radioactivité la par provoquées radiations de effets aux .particules de artificielle accélération'l
-
- vie la à imputables dommages Les11 lui par exercice'l à ou Assuré'l de privée celle que autre professionnelle activité une'd .Particulières Conditions aux définie
-
- façon de résultant dommages Les12- :prévisible et inéluctable
-
- ,travail un'd exécution'd modalités des Soit\* que fourniture une'd ou ,service un'd cadre le dans réaliser à appelé est Assuré'l analysent's qui et habituelles activités ses de de normal accomplissement'l étant comme activités aux inhérentes tâches
-
-.Particulières Conditions aux définies
-
- ,art'l de règles des inobservation'l de Soit\* des exercice'l dans telles comme reconnues .Assuré'l de activités
-
- la de résultant dommages Les13 courses ,paris des à Assuré'l de participation ainsi ,véhicules ou bicyclettes ,chevaux de .précédents les qui essais aux'qu
-
-les par occasionnés dommages Les14-
-
-9
-
- aéronautique industrie'l à destinés produits .spatiale et
-
- origine leur trouvant dommages Les15 services de ou produits de fourniture la dans technologie la à destinés spécialement .pétrolière
-
- explosifs les par causés dommages les16 dont personne toute ou Assuré'l par utilisés .responsable civilement est il
-
- risques tous de conséquences Les17 terrestres véhicules des usage'l de découlant .moteur à
-
-### **CONCERNANT DECLARATION -II :RISQUE LE**
-
- déclarations les après'd établi est contrat Le prime la déterminent lesquelles Assuré'l de et assureur'l par acceptées obligations les et .Particulières Conditions les dans précisées
-
-### **SOUSCRIPTION – 4 ARTICLE**
-
- peine sous ,souscription la à doit assuré'L du 9 et 8 article aux prévues sanctions des exactement déclarer ,assurances des code les toutes ,information'd éléments les tous à permettant lui connues circonstances article (risque du appréciation'l assureur'l .(assurances des code du7
-
- répondre conséquent par doit assuré'L questions les toutes à exactement et loyalement déclaration de formulaire le dans consignées lors interroge'l assureur'l lequel par risque du .contrat du conclusion la de
-
-### **MODIFICATIONS – 5 ARTICLE**
-
- lettre par assureur'l à déclarer doit Assuré'L nouvelles circonstances les recommandée rendant et contrat de cours en intervenues le dans consignées déclarations les inexactes
-
-.risque du déclaration de formulaire
-
- préalablement faite être doit déclaration Toute de fait du résulte ci-celle si modification la à délai un dans ,cas autres les dans et Assuré'l eu a en il où montant du dater à jours huit de .connaissance
-
- ordinaires causes des Indépendamment en nul est assurance'd contrat le nullité de déclaration fausse de ou réticence de cas se assuré'l de part la de intentionnelle le sur portées indications aux rapportant quant risque du déclaration de formulaire déclaration fausse cette ou réticence cette assuré risque du application'l chargé a influence sans été a elle'qu même alors .sinistre le sur
-
- de déclaration fausse la ou réticence La du nullité la entraine'n assuré'l de part la la prouve assureur'l lorsque que contrat .assuré'l de foi mauvaise
-
- il's ,assureur'l ,cas autres les tous Dans déclaration fausse la ou réticence la constate résilier de doit le a ,sinistre tout avant la de date la après jours dix contrat le lettre par assuré'l à adressée notification ,réception de accusé avec recommandée la de majoration une accepte assuré'l si sauf réalité la avec rapport en assurance'd prime .assuré risque du
-
- déclaration fausse ou réticence Toute déclarations les dans intentionnelle non réduction une entraîne risque du .sinistre du indemnité'l de proportionnelle
-
-### **AGGRAVATION – 6 ARTICLE**
-
-une constitue modification la Lorsque
-
- des état nouvel le si ,que telle aggravation ou souscription la à existé avait choses assureur'l ,contrat du renouvellement au que fait aurait'l ne ou contracté pas aurait'n assureur'l ,élevée plus prime une moyennant de taux nouveau un proposer de faculté la a ,augmentation cette refuse assuré'l si prime jour trente contrat le résilier peut assureur'l demande la de notification la de dater à lettre par Assuré'l à faite augmentation'd réception de accusé avec recommandée .(Assurances des code du 8 article(
-
-### **DIMINUTION 7- ARTICLE**
-
- été a il ,prime la de fixation la pour Si spéciales circonstances de compte tenu les aggravant contrat le dans mentionnées à viennent circonstances ces si et risques assuré'l ,assurance'l de cours au disparaître la de diminution une demander de doit le a .Assurance'd prime
-
- cette pas accepte'n Assureur'l Lorsque le résilier de doit le a assuré'l ,diminution la de date la de compter à jours trente contrat par diminution de demande la de notification réception de accusé avec recommandée lettre aux récépissé contre faite déclaration par ou .assureur'l de bureaux
-
- restituer doit Assureur'l ,résiliation de cas En assurance'd prime de portion la ,assuré'l à le laquelle pendant période la à afférente .couru pas a'n risque
-
-### ASSURE'L DE OBLICATIONS – III
-
-#### **PRIMES DES PAIEMENT – 8 ARTICLE**
-
- la payer de tenu est assuré'l échéance'l A impôts et taxes accessoires ,frais les ,prime
-
- la par interdit pas est'n recouvrement le dont prévues conditions aux vigueur en législation .contrat présent le par
-
-Prime la de Calcul de Modalités) a
-
- est elle ,forfait à fixée est prime la Lorsque1 précisées échéances aux avance'd payable .Particulières Conditions aux
-
- fonction en déterminée est prime la Lorsque2- Conditions les dans convenus paramètres des deux en décompose se elle ,Particulières :fractions
-
- minimum un constituant première La) a aux avance'd payée être doit irréductible .Particulières Conditions aux fixées échéances
-
- fin la à déterminée est variable seconde La) b application par assurance'd année chaque de .Particulières Conditions aux indiqué taux du
-
- le sur calculée être enfin peut prime La3 au assuré'l par payés salaires des montant Elle .calendrier trimestre chaque de cours plus au jour quinzième le payable alors est ,trimestre dit du expiration'l suit qui ,tard JUILLET ,AVRIL ,JANVIER 15 le dire-à-est'c la dès et année chaque de OCTOBRE et à verser doit assuré'l ,contrat du signature
-
- provisionnelle prime une ,Assurance BH une'd quart le représentant irréductible et salaires les sur calculée annuelle prime lui par payés ordres tous de appointements son si ,ou précédente année'l de cours au somme une ,création récente de est entreprise .parties les entre gré à gré de fixée
-
- ,assurance'd année chaque de fin la A toute de rémunérations des importance'l si personnel son à payées ou allouées ,nature ont qui prévisions des montant le dépasse ,provision la de calcul au base de servi
-
-11
-
- le Assurance BH à payer de tenu est assuré'l .correspondant proportionnel supplément
-
- expiration'l suivent qui jours quinze les Dans est prime la si ,assurance'd année chaque de (dessus -ci 2 alinéa (révisable partiellement OCTOBRE et JUILLET ,AVRIL ,JANVIER er 1 les payable est prime la et année chaque de ,(3 alinéa (échu terme à trimestriellement relevé le Assurance BH à adresser doit assuré'l rémunérations et appointements ,salaires des son à alloués ou payés natures toutes de trimestre du ou année'l de cours au personnel .précédent
-
- régulière comptabilité une tenir devra assuré'L oblige's il et ,paie de feuilles ou livres des avec les dernières ces sur régulièrement inscrire à date et professions ,âges ,prénoms ,noms toutes de rémunérations et salaires ,entrée'd ,gratifications ,espèces en salaires (natures ,pourboires ,déplacement de indemnités (familiales allocations ,nourriture ,logement .exception sans ,personnel son de
-
- comportent ne paie de feuilles ou livres ces Si portés seront ci-ceux ,renseignements des pas lui société la que spécial paie de livre le sur .demande première sa à remettre
-
- des calcul le pour ,compte tenu être doit Il rémunérations des totalité la de ,primes en ,assuré'l de personnel le tout à allouées dans ,activité son exerce il'qu lieu quelque présentes des 2 article'l à définies limites les .Générales Conditions
-
- jeunes des ,apprentis des salaire Le enseignement'l de élèves des ou travailleurs élevé être devra ,professionnel ou technique bas plus le salaire du niveau au échéant cas le laquelle pour professionnelle catégorie la de
-
-.enseignement'l ou formation la donnée est
-
- famille sa de membres des chacun et assuré'L considérés seront entreprise'l dans occupés aux égal moins au salaire un ayant comme de payés mieux salarié du appointements .entreprise'l
-
- prime la ,risque du nature la de raison en Si4 plusieurs de ou un'd fonction en révisable est aux désignés et salaire le que autres éléments de déclarations les ,Particulières Conditions la et Assurance BH de garantie la ,assuré'l éléments ces de ceux tout sur portant prime importe'n à assuré risque du partie font qui .contrat du durée la de moment quel
-
- faire de droit le toujours a Assurance BH les pendant et époque toute à contrôler ou résiliation la suivent qui années deux ou agents les par ,contrat du expiration'l paie de livres les ,choix son de inspecteurs afin ,assuré'l de comptabilité la que ainsi si et tenus régulièrement sont ils's vérifier de et sincères sont assuré'l de déclarations les à oblige's assuré'l ,conséquence En .exactes sa que ainsi paie de livres ses communiquer ou agents des réquisition toute à comptabilité .Assurance BH de délégués inspecteurs
-
- fausses de ou réticence de cas En5 ou rapportant se intentionnelles déclarations la constate il's assureur'l ,salaires des montant tout avant déclaration fausse la ou réticence jours dix contrat le résilier de droit le a sinistre adressée notification la de date la de partir à avec recommandée lettre par assuré'l à accepte assuré'l si Sauf .réception de accusé en assurance'd prime la de majoration une .assuré risque du réalité la avec rapport
-
- de ou réticence la de constatation la Lorsque ,sinistre ,après lieu eu a déclaration fausse la  en indemnité'l réduire de droit le a assureur'l été aurait qui prime la de taux du proportion fausse ou réticence eu pas avait y'n il's dû .déclaration
-
-#### Paiement de Modalité) a
-
- assurance'd prime de fraction ou prime La du ou assureur'l de domicile au payable est .effet cet à lui par désigné mandataire
-
- domicile au payable être peut elle ,Toutefois convenu lieu autre tout à ou assuré'l de du arrêté par fixés conditions et cas les dans des code du 6 article (Finances des Ministre .(Assurances
-
- fixés sont paiement de délais et modalités Les .annexées-ci Particulières Conditions les dans
-
-#### Prime de Paiement-non de Sanctions) b
-
- une'd ou prime une'd paiement de défaut A assureur'l; échéance son à ci-celle de fraction effets ses tous dans contrat le suspendre peut article'l à prévues conditions les dans ,ce et préjudice sans Assurances des Code du 11 le résilier de Assurance BH pour droit du en exécution'l poursuivre en'd ou contrat .justice
-
- vingt que intervenir peut ne suspension La une'd assureur'l par envoi'l après jours lettre par ,payer à avoir'd demeure en mise au réception de accusé avec recommandée .assuré'l de connu domicile dernier
-
- de dater à jours dix ,droit le a assureur'L par fixés jours vingt de délai du expiration'l ou contrat le résilier de ,précédent alinéa'l .justice en exécution'l poursuivre en'd
-
- résiliation la de et suspension la de effets Les des code du 11 article'l par fixés sont .Assurances
-
-### **DES DÉCLARATION – 9 ARTICLE SINISTRES**
-
- dans doit assuré'l ,déchéance de peine Sous laquelle à date la de ouvrés jours cinq les cas sauf ,sinistre du connaissance eu a il par faire en ,majeure force de ou fortuit la ,récépissé contre verbalement ou écrit de ou Assurance BH de siège au déclaration .effet cet à désigné mandataire son
-
-:indiquer notamment ,doit assuré'L
-
- les ,nature la ,lieu le ,heure'l ,date La ses que ainsi accident'l de circonstances .présumées ou connues conséquences
-
- mentionner également doit déclaration Cette ,nom le ,assurance'd contrat du numéro le témoins de et lésés des ,victimes des domicile .éventuels
-
- fournir de obligation'l a Assuré'l ,outre En renseignement tout Assurance BH à lui de utile jugera elle'qu complémentaire .demander
-
-### **SAUVEGARDE – 10 ARTICLE ET SOCIÉTÉ LA DE DROITS DES SUBROGATION**
-
- prendre de tenu est assuré'l ,sinistre de cas En mesures et conservatoires mesures les toutes .dommage le limiter ou prévenir à destinées
-
- immédiatement transmettre doit assuré'L ,lettres ,avis les tous Assurance BH la à soit ce que requête quelque et judiciairesextra actes ,assignations ,convocations à ou personnellement remis seraient lui qui puisse Assurance BH que pour préposés ses pour peine sous ,utile temps en répondre supporter en'd ,retard de cas en assuré'l
-
- tous notamment et conséquences les toutes la pour résulter en pourraient qui dommages .Assurance BH
-
- procès du direction la seule a Assurance BH cas en lésé tiers le avec transiger de droit le et .tiers aux causés dommages de
-
- son sans faite transaction Aucune de reconnaissance ou autorisation .opposables seront lui ne responsabilité
-
- conformément ,subrogée est Assurance BH dans Assurances des Code du 21 article'l à tiers les contre assuré'l de actions et droits les .dommages des responsables
-
- de fait du plus peut ne subrogation la Si ,Assurance BH de faveur en opérer's ,assuré'l de partie ou tout en déchargement est ci-celle .assuré'l envers garantie sa
-
- opérer's peut ne subrogation la Toutefois ascendants ,descendants des encontre'l à ,ouvriers ,préposés directe ligne en alliés généralement et assuré'l de domestiques au habituellement vivant personne toute dommages de cas le sauf ,assuré'l de foyer ces de une'l par commis intentionnels .personnes
-
-#### **LA DE MONTANT – 11 ARTICLE GARANTIE**
-
- aux fixé est garantie la de montant Le montant le constitue il ,Particulières Conditions de accepte Assurance BH que maximum accordé être peut engagement cet ,garantir année par ou événement par ,sinistre par soit .assurance'd
-
- viendront ne quittances de ,procès de frais Les .montant ce de déduction en pas
-
- garantie la de montant le lorsque ,Toutefois supportés seront frais les ,épuisé est
-
- la dans assuré'l par proportionnément .excédent'l de proportion
-
- en action toute de résultantes dépenses Les à sont Assuré'l contre dirigée responsabilité .assureur'l de charge la
-
- lésées victimes aux opposables pas sont Ne :droit-ayants leurs à ou
-
- la de exception'l à ,déchéances Les de paiement -non pour contrat du suspension .(Assurances des code du 11 article (primes
-
- la à consécutive indemnité'l de réduction La modifications des une'l de déclaration-non ,contrat de cours en survenant risque de Conditions présentes des 6 article'l à prévues .Générales
-
- la à être peut ne peine une étant amende'L- .Assurance BH de charge
-
-### **PROCÉDURE –12 ARTICLE**
-
- les devant portées actions'd cas En ou commerciales ,civiles juridictions ,assuré'l contre dirigées et administratives garantie sa de limite la dans Assurance BH .procès le dirige et défense sa assure
-
- juridictions les devant protées actions'd cas En été pas ont'n victimes les ou la si pénales la réserve se Assurance BH ,désintéressées associer y's de ou procès le diriger de faculté responsable civilement assuré son de nom au .recours de voies les concerne qui ce en
-
- BH : juridictions premières les Devant- .exercice libre le a en Assurance
-
- Assurance BH ,pénales juridictions les Devant civilement assuré son de nom au ,faculté la a de voies toutes exercer'd ,responsable .recours
-
- ,prévenu comme cité été a Assuré'l Si exercer toutefois pourra ne Assurance BH  ,accord son avec'qu recours de voies lesdites cassation en pourvoi du faite exception .civils intérêts aux limité est il'lorsqu
-
-### **COMPÉTENCE – 13 ARTICLE**
-
- compétents seuls sont Tunisiens tribunaux Les élever's peuvent qui litiges les sur statuer pour .contrat présent du propos à
-
- ,contrat présent du dérivant actions les Pour du lieu du celui est compétent tribunal le est action'l lorsque assuré'l de domicile .assureur'l par engagée
-
- son de lieu du tribunal le soit saisir peut cicelui ,assuré'l par engagée est action'l Si de domicile du lieu du celui soit ,domicile trouvent se où lieu du tribunal le soit ,assureur'l soit ,assurance'd contrat du objet meubles les le produit est's où lieu du tribunal le enfin .dommage
-
- portée est action'l ,immeuble'd matière En des situation la de lieu du tribunal le devant des Code du 13 article (concernés immeubles .(Assurances
-
-### DIVERES DISPOSITIONS-V
-
-### **DATE-FORMATION – 14 ARTICLE CONTRAT DU EFFET'D PRISE DE RÉSILIATION-DURÉE–**
-
-#### Contrat du Effet'd Prise de Date
-
- et dates aux effet prend contrat présent Le .Particulières Conditions aux indiquées heures signature sa après'qu valable est'n il Toutefois la de paiement après et parties les par .prime première
-
-#### Contrat du Durée
-
- prévue durée la pour conclu est contrat Le .Particulières Conditions aux
-
- ,date à date de fixée être peut durée Cette plein de effets ses cesse contrat le cas ce dans indiqué jour du minuit à avis sans et droit .expiration'l pour
-
- la comportent Particulières Conditions les Si contrat le , »reconduction tacite «mention en année'd automatiquement reconduit est autre'l ou une'l par résiliation sauf ,année mois deux moins au notifiée ,parties des dans prime la de annuelle échéance'l avant de alinéa dernier au prévues formes des une'l .Assurances des Code du 5 article'l
-
-#### Contrat du Résiliation
-
- et cas les dans résilié être peut contrat Le :après-ci conditions
-
-#### Assureur'l par ou Assuré'l Par)1
-
- contrat du annuelle échéance chaque À 5 article (mois deux de préavis moyennant .(Assurances des code du
-
-#### ou héritier'l ,part une'd Assureur'l Par)2 part autre'd acquéreur'l
-
- aliénation'd ou assuré'l de décès de cas En de continuera assurance'l ,assurés biens des de ou héritier'l de profit au droit plein
-
- exécuter'd ci-ceux pour charge à acquéreur'l était initial assuré'l dont obligations les toutes contrat du vertu en assureur'l de vis-à-vis tenu .(Assurances des Code du 22 article(
-
-#### Assureur'l Par)3
-
- assuré'l par prime de paiement-non de cas En- .(Assurances des Code du 11 article(
-
- déclaration fausse de ou réticence de cas En la dans Assuré'l de part la de intentionnelle ou souscription la à ,risque du déclaration des Code du 8 article (contrat de cours en .(Assurances
-
- assuré'l si risque du aggravation'd cas En prime de augmentation'l pas accepte'n des code du 9 article (conséquence en .(Assurances
-
-#### Assuré'l Par)4
-
- des disparition de ou diminution de cas En mentionnées aggravantes circonstances de demande après si ,contrat le dans prime la réduire de refuse assureur'l ,assuré'l des Code du 9 article (conséquence en .(Assurances
-
-#### droit plein De)5
-
- contrat de cas en ,contrat au fixé terme Au expiration'l à ,an un excédant ferme durée à précisée date la à tard plus au et travaux des .Particulières Conditions aux
-
- ,fusion ,portefeuille de transfert de cas En de ou Assurance'd entreprise'd liquidation ,Assurance BH de agrément'l de total retrait fera se cours en contrats des gestion la articles des dispositions aux conformément et Assurances des Code du suivant et 62 51, .vigueur en législation la de
-
- la demander de faculté la a Assuré'l Lorsque par soit ,choix son à faire le peut il ,résiliation ,recommandée lettre par soit ,notaire huissier une par soit ,réception de accusé avec siège au récépissé contre faite déclaration mandataire du auprès ou société la de social été a contrat le lequel chez société la de .souscrit
-
- notifiée être doit assureur'l par résiliation La de accusé avec recommandée lettre par article (notaire huissier'd voie par ou réception .(Assurances des Code du 4 et 3 alinéas 5,
-
- tenu est assureur'l ,résilié est contrat le Si prime la de reliquat le Assuré'l à restituer de
-
- la à afférent avance'd perçu assurance'd .résiliation la à postérieur période
-
-#### **PLURALITÉ – 15 ARTICLE ASSURANCE-CO ,ASSURANCES'D**
-
-Cumulées ou Multiples Assurances'd Cumul) a des Code du 18 article'l à Conformément :Assurances
-
- contractées sont assurances plusieurs Quand pour ,différentes dates des à soit ,fraude sans de valeur la à supérieure totale somme une valables toutes sont elles ,assurée chose la contrat chaque de part la de proportion en ensemble'l que sans totale somme la dans chose la de valeur la dépasse indemnités des des ordre'l de règle la adoptant en ,assurée .dates
-
- à communiquer immédiatement doit assuré'L une lequel avec assureur'l de nom le société la indiquer et contractée été a assurance autre .assurée somme la
-
-#### Assurance-Co) b
-
- sont contrat présent du garanties les Lorsque suivantes règles les ,assurance-co en assurées :applicables sont
-
- entre juridique solidarité de pas a y'n Il donc est société Chaque .assureurs-co les participation sa de concurrence à engagée .Particulières Conditions aux
-
- autres des mandat a apéritrice société La :pour sociétés
-
- répartir la et prime la de totalité la Encaisser- .assureurs-co les sur
-
- est assuré'l que déclarations toutes Recevoir- .faire de tenu
-
- ,toutefois peut assureur-co Chaque .assureursco les tous à opposables fait ce de sont Elles représentant un par risque le visiter faire .accrédité dûment
-
- dûe indemnité'l de montant le Centraliser verser la de vue en assureur-co chaque par .assuré'l à
-
-,assureurs-co les litige de cas en ,Représenter-
-
-#### **PRESCRIPTION – 16 ARTICLE**
-
- contrat présent du dérivant actions Toutes à ans deux par prescrites sont assurance'd naissance donne y qui événement'l de compter et 14 articles aux prévues conditions les dans .Assurances des Code du 15
-
-#### CONSENTEMENT DE CLAUSE
-
- données mes de traitement du informé être déclare je ,personnel caractère à données des protection la sur portant 2004, juillet 27 du °2004-63n organique loi la à Conformément .Assurance BH par établi assurance'd contrat un'd souscription la de cadre le dans formulaire présent du niveau au renseignées personnelles pour inutiles deviennent elles'lorsqu ou collectées été ont elles lesquelles pour finalités des réalisation de cas en et personnelles données mes de traitement au expressément consens Je
-
-.détruites verront se dernières ces ,Assurance BH de activité'l droit mon que ainsi dernières ces de traitement au opposition'd droit mon de et personnelles données mes de rectification de ,accès'd droit mon de informé être déclare je ,même De .constatée violation toute pour INPDP'l de auprès plainte porter de
-
-عمال بأحكام القانون األساسي عدد 63ـ2004 املؤرخ يف 27 جويلية 2004 واملتعلق بحماية املعطيات الشخصية أصرح بعلمي التام بعملية معالجة معطياتي الشخصية املذكورة يف هذه املطبوعة يف إطار اكتتاب عقد تأمين من طرف BH تأمين.
-
-أوافق صراحة ىلع معالجة معطياتي الشخصية ويف صورة تحقق الغرض الذي جمعت من أجله أو يف صورة ما إذا لم تعد ضرورية لنشاط شركة BH تأمين، يتم القيام بإتالفها. كما أصرح بأني ىلع علم بحقي يف النفاذ إلى معطياتي الشخصية وتصحيحها وحقي يف االعتراض ىلع معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية املعطيات الشخصية يف صورة عدم حمايتها.
-
-### SOUSCRIPTEUR APPROUVÉ ET LU
-
-ASSUREUR
-
-Assurance BH Assurance BH com.assurance-bh.www
+**L’ASSUREUR**  
+BH Assurance  
+www.assurance-bh.com

@@ -8,351 +8,281 @@ Visa : MF N° 379/7 du 23 Janvier 1998
 
 ## **SOMMAIRE**
 
-| Objet<br>et<br>étendue<br>la de<br>garantie                          | .1ART      |
+| Objet et étendue de la garantie                                       | ART. 1     |
 |----------------------------------------------------------------------|------------|
-| Risques<br>exclus                                                    | .2ART      |
-| Formation<br>et<br>prise<br>effet'd<br>du<br>contrat                 | .3ART      |
-| Durée<br>du<br>contrat                                               | .4ART      |
-| Résiliation<br>du<br>contrat                                         | .5ART      |
-| Transfert<br>de<br>propriété                                         | .6ART      |
-| Déclaration<br>concernant<br>le<br>risque<br>ses et<br>modifications | .7ART      |
-| Aggravations<br>du<br>risque                                         | .8ART      |
-| Diminution<br>des<br>risques                                         | .9ART      |
-| Autres<br>Assurances                                                 | ART<br>.10 |
-| Le<br>Paiement<br>la de<br>prime                                     | ART<br>.11 |
-| Obligations<br>l de<br>assuré'<br>en<br>de cas<br>sinistre           | ART<br>.12 |
-| Détermination<br>'l de<br>indemnité<br>en<br>de cas<br>sinistre      | ART<br>.13 |
-| Expertise                                                            | ART<br>.14 |
-| La<br>Règle<br>proportionnelle                                       | ART<br>.15 |
-| Les<br>délais<br>de<br>règlement                                     | ART<br>.16 |
-| Subrogation                                                          | ART<br>.17 |
-| Compétence<br>et<br>Prescription                                     | ART<br>.18 |
+| Risques exclus                                                       | ART. 2     |
+| Formation et prise d'effet du contrat                                | ART. 3     |
+| Durée du contrat                                                     | ART. 4     |
+| Résiliation du contrat                                               | ART. 5     |
+| Transfert de propriété                                                | ART. 6     |
+| Déclaration concernant le risque et ses modifications                 | ART. 7     |
+| Aggravations du risque                                               | ART. 8     |
+| Diminution des risques                                               | ART. 9     |
+| Autres Assurances                                                    | ART. 10    |
+| Le Paiement de la prime                                              | ART. 11    |
+| Obligations de l'assuré en cas de sinistre                           | ART. 12    |
+| Détermination de l'indemnité en cas de sinistre                      | ART. 13    |
+| Expertise                                                            | ART. 14    |
+| La Règle proportionnelle                                             | ART. 15    |
+| Les délais de règlement                                              | ART. 16    |
+| Subrogation                                                          | ART. 17    |
+| Compétence et Prescription                                           | ART. 18    |
 
 ![](_page_2_Picture_0.jpeg)
 
-### GENERALES CONDITIONS ASSURANCE'D CONTRAT EAUX DES DEGATS
+### CONDITIONS GÉNÉRALES DU CONTRAT D'ASSURANCE DÉGÂTS DES EAUX
 
- les que ainsi ,Code le dénommé après-ci Assurances des Code le par régi est contrat présent Le de formulaire le et annexées-ci Particulières Conditions les ,suivent qui Générale Conditions .intégrante partie fait en qui et basé est il duquel réponses les sur ,risque du déclaration
+Le présent contrat est régi par le Code des Assurances, ainsi que les Conditions Particulières ci-annexées et le formulaire de déclaration du risque, sur les réponses duquel il est basé et qui fait partie intégrante.
 
-#### DE ETENDUE ET OBJET - 1 ARTICLE : GARANTIE LA
+#### ARTICLE 1 : OBJET ET ÉTENDUE DE LA GARANTIE
 
- garantit Assurance BH : limites et Objet) 1 par causés dommages les contre assuré'l provenant accidentelles eau'd fuites les installation'l de quelconque partie une'd chauffage de ,intérieure hydraulique des ,gouttières et chenaux des ,central ,pluviales eaux des évacuation'd conduites de général en et vidange de et ménagères service le pour eau'd effet à appareils tous du proviennent fuites ces que ,bâtiment du pourvu autrui'd fait du ou assuré'l de fait .involontaires soient causes les que
+BH Assurance garantit l'assuré contre les dommages causés par des fuites accidentelles d'eau provenant de toute partie de l'installation intérieure de chauffage, hydraulique, des chenaux et gouttières, des conduites d'évacuation des eaux pluviales, de vidange et en général de tous appareils à effet d'eau pour le service ménager, pourvu que ces fuites proviennent du bâtiment, que les causes soient involontaires, du fait de l'assuré ou d'autrui.
 
- les garantis Sont : garantis Risques) 2 des réserve sous ,après-ci définis risques Conditions aux contraires stipulations .Particulières
+**Risques garantis :** Sous réserve des risques exclus définis ci-après, sont garantis aux stipulations contraires des Conditions Particulières.
 
-#### directs Risque) a
+**a) Risque directs :**
 
- biens aux causés Dommages 1 assuré'l de immobiliers
+1. Dommages causés aux biens immobiliers de l'assuré.
+2. Cette garantie comprend le remboursement des frais de déplacement d'objets mobiliers, dans la mesure où ces frais sont imposés par les réparations rendues nécessaires par un sinistre garanti. Les embellissements, papiers peints, peintures et travaux de décoration sont considérés comme biens mobiliers lorsqu'il s'agit de frais exécutés aux frais de l'assuré.
+3. Dommages causés aux marchandises : Cette garantie porte sur :
+   - a) Les marchandises de la profession déclarées par l'assuré, qu'elles lui appartiennent ou soient confiées à lui, confectionnées ou en cours de confection, à quelque titre que ce soit par des tiers.
+   - b) Sur les matières premières nécessaires à l'exercice de la profession de l'assuré.
+   - c) Sur les agencements, matériels fixes ou mobiles de bureau et/ou de magasin, y compris l'outillage professionnel, à l'exclusion des vêtements du personnel ou de tout autre objet concernant ces derniers.
+4. Privation de jouissance : Subie par l'assuré (propriété ou locataire) dans le cas où les locaux qu'il occupe viendraient à être, en tout ou en partie, inutilisables à la suite d'un accident d'eau couvert par le présent contrat.
+5. Perte de loyers : C'est-à-dire, si l'assuré est propriétaire, la perte qu'il subit sur le montant des loyers dont il se trouve privé.
+6. Honoraires d'expert : C'est-à-dire, le remboursement des sommes payées à l'expert choisi par l'assuré à concurrence de 5% (cinq pour cent) de l'indemnité payée au titre des garanties 1, 2, 3, sans dépasser la somme effectivement payée à l'expert.
 
- de biens aux causés Dommages 2 le comprend garantie Cette : assuré'l déplacement de frais des remboursement objets tous de remplacement de et frais ces où mesure la dans ,mobiliers rendues réparations les par imposés sont Les .garanti sinistre un par nécessaires et peintures ,papiers ,embellissements travaux de agit's il'lorsqu ,décoration sont assuré'l de frais aux exécutés .mobiliers biens comme considérés
+**b) Risques de responsabilité :**
 
-#### : marchandises aux causés Dommages 3- : sur porte garantie Cette
+1. Recours du propriétaire : C'est-à-dire, les conséquences pécuniaires de la responsabilité que l'assuré, s'il est locataire, peut encourir envers son propriétaire, en vertu des articles 82, 83, 96 et 782 du Code des Obligations et Contrats, à raison des dégâts matériels causés à l'immeuble par un accident d'eau couvert par le présent contrat.
+2. Recours des locataires : C'est-à-dire, les conséquences pécuniaires de la responsabilité que l'assuré, s'il est propriétaire, peut encourir envers son locataire, en vertu des articles 82, 83, 96, 97 et 758 du Code des Obligations et Contrats, à raison des dégâts matériels causés à leurs biens mobiliers ou à leurs marchandises par un accident d'eau couvert par le présent contrat.
+3. Recours des voisins : C'est-à-dire, la responsabilité que l'assuré, s'il est locataire, peut encourir envers son propriétaire, en vertu des articles 82, 83, 96 et 97 du Code des Obligations et Contrats, à raison des dégâts matériels causés à l'immeuble par un accident d'eau couvert par le présent contrat.
+4. Perte de loyers : C'est-à-dire, la responsabilité que l'assuré, s'il est locataire, peut encourir vis-à-vis de son propriétaire pour le montant des loyers de ses colocataires, à la suite d'un accident d'eau couvert par le présent contrat.
 
- déclarées profession la de marchandises Les) a soient marchandises ces que ,assuré'l par
+**c) Garanties accessoires (accordées moyennant surprime) :**
 
-4
+1. Les frais de réparations des conduites et appareils à effet d'eau détériorés par le gel, à l'exclusion des appareils de chauffage central et des canalisations extérieures.
+2. Les dégâts matériels causés par les infiltrations accidentelles provenant de la pluie ou de la grêle au travers des toitures (à l'exclusion des terrasses et des ciels vitrés).
 
- ,confection de cours en ou confectionnées confiées soient lui ou appartiennent lui elles'qu .quelconque titre un à tiers des par
+### ARTICLE 2 : RISQUES EXCLUS
 
- à nécessaires premières matières les Sur) b .assuré'l de profession la de exercice'l
+Sont exclus de la garantie du présent contrat :
 
- fixes ,matériels et agencements les Sur) c ,magasin de ou/et bureau de ,mobiles ou les et professionnel outillage'l compris y ce en exclusion'l à (personnel du vêtements .(objet autre tout de ,derniers ces concerne qui
+a) Les dommages ayant pour origine un défaut d'entretien.
+b) Les dommages causés par des glissements ou affaissements de terrain.
+c) Les dommages causés aux manuscrits et documents de toute nature.
+d) Le coût de l'eau perdue.
+e) Les pertes subies par l'assuré ou par des tiers, à la suite d'un accident d'eau, par chômage.
+f) Les dommages survenant lorsque le bâtiment n'est pas sous la surveillance de l'assuré :
+   - Soit en raison de son abandon à la suite d'une décision des autorités ordonnant son évacuation.
+   - Soit du fait de son occupation, même partielle, par les autorités régulières ou usurpées.
+   Il appartient à BH Assurance de prouver que le sinistre résulte de l'un de ces faits.
+g) Les sinistres intentionnellement causés par l'assuré lui-même ou avec sa complicité.
+h) Les sinistres occasionnés soit par la guerre civile, soit par des grèves, lock-out, émeutes ou mouvements populaires, ou ceux commis à la faveur de ces événements. Il appartient à BH Assurance de prouver que les dommages résultent de l'un de ces événements.
+i) Les sinistres occasionnés par des tremblements de terre, éruptions volcaniques, inondations, typhons, ouragans, tornades, cyclones ou tout autre cataclysme ou phénomène météorologique.
+j) Les sinistres dus aux effets directs ou indirects d'explosion, de dégagement de chaleur, d'irradiation provenant de transmutation de noyaux d'atome ou de radioactivité, ainsi que les sinistres dus aux effets de radiations provoquées par l'accélération artificielle de particules.
+k) Les infiltrations à travers les terrasses et les toits en terrasses.
+l) Les inondations, refoulements et infiltrations provenant de sources, cours d'eau, naturelles ou artificielles, caniveaux, égouts, fosses d'aisance, rigoles ou canalisation souterraines quelconques.
+m) Le ruissellement des eaux provenant de cours, jardins, voies publiques ou privées.
+n) Les entrées d'eau par les portes, fenêtres, soupiraux, conduites de fumées ou lucarnes.
+o) L'humidité naturelle des locaux, la condensation, la buée.
+p) La chute ou la fonte de blocs de neige ou de glace.
 
- par Subie : jouissance de Privation 4 cas le dans) locataire ou propriété (assuré'l être à viendraient occupe il'qu locaux les où un'd suite la à partie en ou tout en inutilisables .contrat présent le par couvert eau'd accident
+### ARTICLE 3 : FORMATION ET PRISE D'EFFET DU CONTRAT
 
- est assuré'l si dire-à-est'c : loyers de Perte 5 montant le sur subit il'qu perte la ,propriétaire .privé trouve se il dont loyers des
+Le présent contrat est parfait dès sa signature par les parties ; BH Assurance pourra, dès ce moment, poursuivre son exécution. Toutefois, l'assurance ne produira ses effets que le lendemain à midi du jour où la première prime aura été payée à BH Assurance.
 
- le dire-à-est'c : expert'd Honoraires 6 expert'l à payées sommes des remboursement cinq de concurrence à assuré'1 par choisi titre au payée indemnité'l de) % 5 (cent pour somme la dépasser sans 1,2,3, garanties des .expert'l à payée effectivement
+Les mêmes dispositions s'appliquent à tout avenant au contrat.
 
-#### : Responsabilité de Risques) b
+### ARTICLE 4 : DURÉE DU CONTRAT
 
- les dire-à-est'c : propriétaire du Recours 1 responsabilité la de pécuniaires conséquences encourir peut ,locataire est il's ,assuré'l que articles des vertu en ,propriétaire son envers Obligations des Code du 782 et 96 83, 82, matériels dégâts des raison à ,Contrats et eau'd accident un par immeuble'l à causés .contrat présent le par couvert
+Le présent contrat peut être souscrit :
 
- les dire-à-est'c : locataires des Recours 2 responsabilité la de pécuniaires conséquences encourir peut ,propriétaire est il's ,assuré'l que 82, articles des vertu en ,locataire son envers
+1. Pour une période temporaire ferme, inférieure à une année, mentionnée aux Conditions Particulières. Dans ce cas, le contrat cesse ses effets de plein droit à 24 heures du dernier jour de la période assurée.
+2. Pour une période d'une année, renouvelable par tacite reconduction. Dans ce cas, le contrat est résiliable à la fin de chaque année d'assurance, à la charge pour la partie qui en prend l'initiative d'aviser l'autre, deux mois avant l'échéance contractuelle, par voie de lettre recommandée avec accusé de réception, par notification d'huissier notaire, ou contre récépissé faite au siège de BH Assurance ou à l'agence émettrice du contrat. L'échéance contractuelle, qui détermine le point de départ d'une période d'assurance, est indiquée aux Conditions Particulières.
 
- Obligations des Code du 758 et 97, 96, 83, matériels dégâts des raison à ,Contrats et leurs à ou mobiliers biens leurs à causés couvert eau'd accident un par marchandises .contrat présent le par
+### ARTICLE 5 : RÉSILIATION DU CONTRAT
 
- la dire-à-est'c : voisins des Recours 3- ,locataire est il's ,assuré'l que responsabilité en ,propriétaire son envers encourir peut Code du 97 et 96 83, 82, articles des vertu de raison à ,Contrats et Obligations des un par immeuble'l à causés matériels dégâts .contrat présent le par couvert eau'd accident
+Le contrat peut être résilié :
 
- responsabilité la dire-à-est'c : loyers de Perte 4 encourir peut ,locataire est il's ,assuré'l que montant le pour propriétaire son de vis-à-vis un'd suite la à ,colocataires ses de loyers des .contrat présent le par couvert eau'd accident
+**1. Par le souscripteur et BH Assurance :**
 
-#### accordées (Accessoires Garanties) c : (surprime moyennant
+Dans les conditions de délai et de forme prévues par l'article 4 du présent contrat, à la fin de chaque année d'assurance.
 
- et conduites de réparations de frais Les 1- ,gel le par détériorés eau'd effet à appareils et extérieures canalisations des exclusion'l à .central chauffage de appareils des
+**2. Par BH Assurance :**
 
- les par causés matériels dégâts Les 2 la de provenant accidentelles infiltrations et toitures des travers au grêle la de ou pluie .(terrasses des exclusion'l à (vitrés ciels des
+a) Si l'assuré ne paie pas la prime, dans les conditions de délai et de forme prévues par l'article 11 du Code des Assurances.
+b) En cas d'aggravation du risque en cours de contrat, si l'assuré n'accepte pas l'augmentation de prime proposée par BH Assurance, dans les conditions de délai et de forme prévues par l'article 9, alinéa 3 du Code des Assurances.
+c) En cas d'aggravation du risque en cours de contrat, si les nouvelles circonstances, telles qu'elles avaient existé à la souscription ou au renouvellement, n'auraient pas envisagé de contracter (article 9, alinéa 3 du Code des Assurances).
 
-### : EXÇLUS RISQUES - 2 ARTICLE
+**3. Par l'assuré :**
 
-: contrat présent du garantie la de exclus Sont
+Si BH Assurance ne consent pas la diminution de prime correspondant à la diminution des risques en cours de contrat, dans les conditions de délai et de forme prévues par l'article 9, alinéa 6 du Code des Assurances.
 
- un origine pour ayant dommages Les) a .entretien'd défaut
+**4. De plein droit :**
 
- glissements des par causés dommages Les) b .terrain de affaissements ou
+En cas de perte totale de la chose assurée, résultant d'un événement non prévu par le contrat (article 19, alinéa 2 du Code des Assurances).
 
- et manuscrits aux causés dommages Les) c .nature toute de documents
+En cas de résiliation au cours d'une période d'assurance, la portion de prime afférente à la période postérieure à la résiliation n'est pas acquise à BH Assurance ; elle doit être remboursée à l'assuré si elle est perçue d'avance.
 
-.perdue eau'l de coût Le) d
+### ARTICLE 6 : TRANSFERT DE PROPRIÉTÉ
 
- des par ou assuré'l par subies pertes Les) e accident un'd suite la à chômage par ,tiers .eau'd
+En cas de décès de l'assuré ou d'aliénation de la chose assurée, l'assurance continue de plein droit au profit de l'héritier ou de l'acquéreur, à charge pour celui-ci d'exécuter toutes les obligations dont l'assuré était tenu vis-à-vis de BH Assurance, en vertu du contrat (article 22, alinéa 1er du Code des Assurances).
 
- le lorsque survenant dommages Les) f de surveillance la sous pas est'n bâtiment assuré'l
+### ARTICLE 7 : DÉCLARATIONS CONCERNANT LE RISQUE ET SES MODIFICATIONS
 
- suite la à abandon son de raison en Soit − son ordonnant autorités des décision une'd .évacuation
+**1. À la souscription :**
 
- même ,occupation son de fait du Soit − ou régulières autorités les par ,partielle .usurpées
+L'assuré doit répondre loyalement et avec précision à toutes les questions consignées dans le Formulaire de déclaration du risque, sur les circonstances par lequel BH Assurance l'interroge, lors de la souscription du contrat, qui sont de nature à lui faire apprécier les risques qu'elle prend en charge.
 
- que prouver de Assurance BH à appartient Il .faits ces de un'l de résulte sinistre le
+Le présent contrat est établi sur la base des déclarations de l'assuré, figurant sur le Formulaire de déclaration du risque.
 
- intentionnellement causés sinistres Les) g .complicité sa avec ou même-lui assuré'l par
+**2. En cours de contrat :**
 
- guerre la par soit occasionnés sinistres Les) h émeutes ,out-lock ,grèves des par soit ,civile commis ceux ou populaires mouvements ou à appartient Il .événements ces de faveur la à dommages les que prouver de Assurance BH .événements ces de un'l de résultent
+L'assuré doit déclarer à BH Assurance, en cours de contrat, les nouvelles circonstances rendant inexactes les réponses figurant sur le Formulaire de déclaration du risque.
 
- des par occasionnés sinistres Les) i ,volcaniques éruptions ,terre de tremblements ,tornades ,ouragans ,typhons ,inondations ou cataclysme autre tout ou cyclones .météorologique phénomène
+Cette déclaration doit se faire par lettre recommandée avec accusé de réception, dans un délai de huit jours à partir du moment où l'assuré a eu connaissance (article 7, alinéa 3 du Code des Assurances).
 
- ou directs effets aux dus sinistres Les) j dégagement de ,explosion'd indirects de provenant irradiation'd ,chaleur de de ou atome'd noyaux de transmutation dus sinistres les que ainsi radioactivité la par provoquées radiations de effets aux .particules de artificielle accélération'l
+**3. Conséquences :**
 
-et terrasses les travers à infiltrations Les) k
+a) **Nullité du contrat pour fausse déclaration intentionnelle :**  
+Le présent contrat est nul en cas de réticence ou de fausse déclaration intentionnelle de la part de l'assuré, se rapportant aux indications portées sur le Formulaire de déclaration du risque, quand cette réticence ou cette fausse déclaration a changé l'appréciation du risque assuré, même si elle n'a eu aucune influence sur le sinistre. Il demeure entendu que la réticence ou la fausse déclaration de la part de l'assuré n'entraîne la nullité du contrat que lorsque BH Assurance prouve la mauvaise foi de l'assuré (article 8, alinéas 1 et 2 du Code des Assurances).
 
-.terrasses en toits les
+b) **Résiliation du contrat pour fausse déclaration de bonne foi constatée avant sinistre :**  
+Dans tous les autres cas que ceux visés à l'alinéa a) ci-dessus, si BH Assurance constate la réticence ou la fausse déclaration avant tout sinistre, elle a le droit de résilier le contrat dix jours après notification adressée à l'assuré par lettre recommandée avec accusé de réception, sauf si l'assuré accepte une majoration de prime d'assurance en relation avec la réalité du risque assuré.  
+Si le contrat est résilié, BH Assurance restituera à l'assuré la portion de prime afférente à la période pendant laquelle le risque n'a pas couru (article 8, alinéas 3 et 4 du Code des Assurances).
 
- infiltrations et refoulements ,inondations Les) I étendues ,eau'd cours ,sources de provenant ,caniveaux ,artificielles ou naturelles eau'd ou aisance'd fosses ,égouts ,rigoles .quelconques souterraines canalisation
+c) **Réduction de l'indemnité pour fausse déclaration constatée après sinistre :**  
+Lorsque la constatation de la réticence ou de la fausse déclaration a lieu après sinistre, BH Assurance aura le droit de déduire l'indemnité en proportion de la prime payée rapportée à la prime qui aurait dû être payée s'il n'y avait pas eu de réticence ou fausse déclaration (article 8, alinéa 5 du Code des Assurances).
 
- de provenant eaux des ruissellement Le) m .privées ou publiques voies ,jardins ,cours
+Les dispositions du paragraphe 3, alinéas a), b) et c) de l'article présent s'appliquent aux déclarations en cours de contrat, relatives aux nouvelles circonstances visées au paragraphe 2 du présent article.
 
- ,fenêtre ,portes par eau'd entrées Les) n .fumées de conduites ou lucarnes ,soupiraux
+### ARTICLE 8 : AGGRAVATIONS DU RISQUE
 
- la ,locaux des naturelle humidité'L) o .buée la ,condensation
+Pour l'application du présent contrat, il faut entendre par aggravation du risque, au sens de l'article 9 du Code des assurances, les circonstances définies aux Conditions Particulières.
 
- ou neige le blocs de fonte la ou chute La) p .glace de
+### ARTICLE 9 : DIMINUTION DES RISQUES
 
-#### PRISE ET FORMATION - 3 ARTICLE : CONTRAT DU EFFET'D
+En cas de diminution des risques en cours de contrat, l'assuré a le droit de demander une diminution de la prime d'assurance. Lorsque BH Assurance n'accepte pas la demande de diminution, l'assuré a le droit de résilier le contrat trente jours à compter de la date de la notification de la demande de diminution, par lettre recommandée avec accusé de réception ou par déclaration faite contre récépissé aux bureaux de BH Assurance. En cas de résiliation, BH Assurance doit restituer à l'assuré la portion de prime d'assurance afférente à la période pendant laquelle le risque n'a pas couru (article 9, alinéa 6 du Code des Assurances).
 
- signature sa dès parfait est contrat présent Le en pourra Assurance BH ; parties les par .exécution'l ,moment ce dès ,poursuivre effets ses produira ne assurance'l ,Toutefois première la où jour du midi à lendemain le que .Assurance BH à payée été aura prime
+### ARTICLE 10 : AUTRES ASSURANCES
 
- tout à appliquent's dispositions mêmes Les .contrat au avenant
+Si les risques garantis par le présent contrat sont ou viennent à être couverts par une autre assurance, l'assuré doit le déclarer à BH Assurance. Lors de cette déclaration, l'assuré doit faire connaître le nom de l'assureur avec lequel une autre assurance a été contractée et indiquer la somme assurée.
 
-#### CONTRAT DU DUREE - 4 ARTICLE
+Quand plusieurs assurances sont contractées, soit à la même date, soit à des dates différentes, sans fraude, pour une somme totale supérieure à la valeur de la chose assurée, elles sont toutes valables en proportion de la part de chaque contrat dans la somme totale, sans que l'ensemble des indemnités dépasse la valeur de la chose assurée.
 
-souscrit être peut contrat présent Le
+Il peut être stipulé, aux Conditions Particulières, l'adoption de la règle de l'ordre des dates ou la solidarité des assureurs (article 18 du Code des Assurances).
 
- ferme temporaire période une Pour 1 aux mentionnée ,année une à inférieure le ,cas ce Dans .Particulières Conditions 24 à et droit plein de effets ses cesse contrat .assurée période la de jour dernier du heures
+### ARTICLE 11 : LE PAIEMENT DE LA PRIME
 
- renouvelable ,année une'd période une Pour 2 le ,cas ce Dans .reconduction tacite par année chaque de fin la à résiliable est contrat en qui partie la pour charge à ,assurance'd  deux ,autre'l aviser en'd initiative'l prend voie par ,contractuelle échéance'l avant mois recommandée lettre par ,notaire huissier'd notification par ou réception de accusé avec BH de siège au récépissé contre faite .contrat du émettrice agence'l à ou Assurance le détermine qui contractuelle échéance'L ,assurance'd période une'd départ de point .Particulières Conditions aux indiquée est
+La prime doit être acquittée d'avance, comme indiqué aux Conditions Particulières. Elle est payable au siège social de BH Assurance ou à l'une de ses agences (article 6 du Code des Assurances). Toutefois, elle peut être payable au domicile de l'assuré ou à tout autre lieu, dans les cas et conditions fixés par arrêté du Ministre des Finances.
 
-### CONTRAT DU RESILIATION - 5 ARTICLE : résilié être peut contrat Le
+Si une prime ou fraction de prime n'est pas acquittée :
 
-#### : Assurance BH et souscripteur le Par 1.
+- BH Assurance peut suspendre le contrat si l'assuré ne paie pas la prime ou la fraction de prime, à son échéance.
+- La suspension ne prend effet que vingt jours après l'envoi à l'assuré, à son domicile connu par BH Assurance, par lettre recommandée avec accusé de réception, d'une mise en demeure de payer.
+- À l'expiration du délai de vingt jours fixé par l'alinéa ci-dessus, BH Assurance a le droit, dix jours à partir de l'expiration, de résilier le contrat ou de poursuivre son exécution en justice (article 11 du Code des Assurances).
 
- dans ,assurance'd année chaque de fin la A prévues forme de et délai de conditions les .contrat présent du 4 article'l par
+### ARTICLE 12 : OBLIGATIONS DE L'ASSURÉ EN CAS DE SINISTRE
 
-#### : Assurance BH Par• 2
+En cas de sinistre, l'assuré doit :
 
- les dans et prime la pas paie ne assuré'l Si) a( par prévues forme de et délai de conditions .Assurances des Code du 11 Article'l
+1. Donner avis par écrit à BH Assurance, dès qu'il en a connaissance et au plus tard dans les cinq jours ouvrés. L'assuré qui ne respecte pas cette obligation est déchu de droit à indemnité, sauf s'il justifie qu'il a été mis dans l'impossibilité de faire sa déclaration dans le délai imparti, par suite d'un cas fortuit ou de force majeure (article 7, alinéa 4 du Code des Assurances).
+2. User de tous les moyens en son pouvoir pour arrêter le progrès, sauver les objets assurés et veiller à leur conservation.
+3. Faire parvenir à BH Assurance, dans les meilleurs délais, une déclaration indiquant les circonstances du sinistre, ses causes connues ou présumées, la nature et le montant approximatif des dommages, les garanties souscrites sur les mêmes risques auprès d'autres assureurs.
+4. Fournir, dans un délai de 20 jours, un état estimatif, signé et certifié par lui, des objets détruits et sauvés.
+5. Communiquer à BH Assurance, sur simple demande, sans délai, tous documents nécessaires à l'expertise.
+6. Transmettre à BH Assurance, dès réception, tous avis, lettres, convocations, assignations, actes extrajudiciaires et pièces de procédure qui seraient adressés, remis ou signifiés à lui-même ou à ses préposés, concernant un sinistre susceptible d'engager la responsabilité de l'assuré. Faute, par l'assuré, de remplir les formalités précisées aux alinéas 2 à 6 du présent article, sauf cas fortuit ou de force majeure, BH Assurance aura droit à une indemnité proportionnée au dommage que le non-respect de ces formalités pourrait lui causer.
 
- en risque du aggravation'd cas En) b( pas accepte'n assuré'l si ,contrat de cours proposée est lui qui prime de augmentation'l de conditions les dans ,Assurance BH par 9, Article'l par prévues forme de et délai .(Assurances des Code du alinéa
+L'assuré qui, de mauvaise foi, exagère le montant des dommages, prétend détruits des objets n'existant pas lors du sinistre, dissimule ou soustrait tout ou partie des objets assurés, emploie sciemment des moyens frauduleux, des documents inexacts ou ne déclare pas l'existence d'autres assurances portant sur les mêmes risques, est entièrement déchu de tout droit à indemnité sur l'ensemble des risques sinistrés, indépendamment des poursuites judiciaires que l'assureur pourrait engager contre lui, la déchéance étant indivisible entre les divers articles du contrat. La charge de la preuve de la mauvaise foi de l'assuré incombe à BH Assurance.
 
- cours en risque du aggravation'd cas En) e( circonstances les si ,que telle ,contrat de ou souscription la à existé avaient nouvelles aurait'n Assurance BH ,renouvellement au alinéa 9, Article (contracter de envisagé pas .(Assurances des Code du 3,
+### ARTICLE 13 : DÉTERMINATION DE L'INDEMNITÉ EN CAS DE SINISTRE
 
-#### : assuré'l Par • 3
+Le présent contrat ne peut être pour l'assuré une cause de bénéfice ; il ne garantit que la réparation de ses pertes réelles ou celles dont il est responsable.
 
- diminution la pas consent ne Assurance BH Si de diminution la à correspondant prime de conditions les dans ,contrat de cours en risques 9, article'l par prévues forme de et délai de .Assurances des Code du 6 alinéa
+La somme assurée ne peut, en aucun cas, être considérée comme une preuve de la valeur réelle du bien endommagé. L'assuré est tenu de justifier, par tous les moyens, la valeur réelle de ce bien ainsi que l'importance des dommages dont il a fait l'objet.
 
-#### : droit plein De • 4
+### ARTICLE 14 : EXPERTISE
 
- ,assurée chose la de totale perte la de cas En par prévu non événement un'd résultant des Code du 2 alinéa 19 article (contrat le .(Assurances
+Si les dommages ne sont pas fixés de gré à gré, une expertise amiable est toujours obligatoire, sous réserve des droits respectifs des parties.
 
- période une'd cours au résiliation de cas En à afférente prime de portion la ,assurance'd est'n résiliation la à postérieure période la être doit elle ; Assurance BH'l à acquise pas perçue est elle si ,assurée'l à remboursée .avance'd
+Chaque partie choisit un expert. Si les experts ainsi désignés ne sont pas d'accord, ils s'adjoignent un troisième expert. Les trois experts opèrent en commun et à la majorité des voix.
 
-#### : PROPRIETE DE TRANSFERT - 6 ARTICLE
+Faute, par l'une des parties, de nommer son expert, ou par les deux experts de s'entendre sur le choix du troisième, la désignation sera effectuée par le président du tribunal compétent territorialement de première instance, sur simple requête faite par l'une des parties, l'autre partie ayant été convoquée par lettre recommandée. L'expertise, en cas d'assurance, s'effectue pour le compte du souscripteur du contrat, avec le tiers.
 
- de aliénation'd ou assuré'l de décès de cas En plein de continue assurance'l ,assurée chose la acquéreur'l de ou héritier'l de profit au ,droit pour charge à ,appartiendra il qui de ou dont obligations les toutes exécuter'd ci-ceux Assurance BH de vis-à-vis tenu était assuré'l du er1 alinéa 22, Article (contrat du vertu en .(Assurances des Code
+Chaque partie paye les frais et honoraires de son expert et, s'il y a lieu, la moitié des honoraires du tiers expert et des frais de sa nomination.
 
-#### DECLARATIONS - 7 ARTICLE SES ET RISQUE LE CONCERNANT MODIFICATIONS
+L'assuré ne peut faire aucun délaissement des objets garantis ; le sauvetage reste de sa propriété. En cas de contestation sur l'estimation, faute d'accord sur la valeur, chacune des parties peut demander, par sauvetage, la vente amiable ou la vente aux enchères du matériel et marchandises.
 
-#### : souscription la A 1.
+La désignation d'un expert pour procéder à l'estimation du sauvetage, sur simple requête au président du tribunal compétent territorialement de première instance.
 
- avec et loyalement répondre doit assuré'L consignées questions les toutes à précision ,risque du déclaration de Formulaire le dans la de lors ,interroge'l Assurance BH lequel par circonstances les sur ,contrat du souscription les apprécier faire lui à nature de sont qui .charge en prend elle'qu risques
+### ARTICLE 15 : LA RÈGLE PROPORTIONNELLE
 
- des base la sur établi est contrat présent Le le sur figurant ,assuré'l de déclarations .risque du déclaration de Formulaire
+S'il résulte, au jour du sinistre, des estimations que les valeurs des biens faisant l'objet de la garantie sont supérieures aux sommes garanties, l'assuré est considéré comme son propre assureur pour l'excédent et supporte une part proportionnelle des dommages, conformément à l'article 17 du Code des Assurances et à la Notice explicative de la Règle Proportionnelle de Capitaux, faisant partie intégrante du présent contrat.
 
-#### : contrat de cours En 2.
+### ARTICLE 16 : LES DÉLAIS DE RÈGLEMENT
 
- en ,Assurance BH à déclarer doit assuré'L nouvelles circonstances les ,contrat du cours  le sur figurant réponses les inexactes rendant .risque du déclaration de Formulaire
+Le paiement des indemnités doit être effectué dans les 30 jours, soit de l'accord amiable, soit de la décision judiciaire exécutoire. En cas d'opposition, ce délai ne court que du jour de la mainlevée.
 
- lettre par faire se doit déclaration Cette jours huit de délai un dans ,recommandée eu a en assuré'l où moment du partir à Code du 3 alinéa 7, Article (connaissance .(Assurances des
+Les sommes non versées produisent des intérêts, au taux de l'intérêt légal, tel qu'il est fixé par la législation en vigueur, à compter de la date à laquelle ces sommes sont devenues exigibles jusqu'au paiement intégral (article 10, alinéa 2 du Code des Assurances).
 
-#### : Conséquences • 3
+### ARTICLE 17 : SUBROGATION
 
- déclaration fausse pour contrat du Nullité) a( : intentionnelle
+BH Assurance, qui a payé l'indemnité d'assurance, est subrogée, jusqu'à concurrence de cette indemnité, dans les droits et actions de l'assuré contre les tiers qui, par leur fait, ont causé le dommage ayant donné lieu à la responsabilité de BH Assurance. Toutefois, BH Assurance n'a aucun recours contre les descendants, ascendants, alliés en ligne directe, préposés, ouvriers, domestiques ou toute personne vivant habituellement au foyer de l'assuré, sauf en cas de dommage intentionnel commis par l'une de ces personnes (article 21 du Code des Assurances).
 
- réticence de cas en nul est contrat présent Le ,intentionnelle déclaration fausse de ou aux rapportant se ,assuré'l de part la de de Formulaire le sur portées indications réticence cette quand ,risque du déclaration changé a déclaration fausse cette ou même alors ,assuré risque du appréciation'l .sinistre le sur influence sans été a elle'qu la ou réticence la que entendu demeure Il assuré'l de part la de déclaration fausse lorsque que contrat du nullité la entraîne'n de foi mauvaise la prouve Assurance BH des Code du 2 et 1 alinéa 8, Article (assuré'l .(Assurances
+BH Assurance peut être déchargée, en tout ou en partie, de sa responsabilité envers l'assuré, quand la subrogation ne peut plus s'opérer en faveur de BH Assurance, par le fait de l'assuré (article 21, alinéa 2 du Code des Assurances).
 
- fausse pour contrat du Résiliation) b( avant constatée ,foi bonne de déclaration : sinistre
+### ARTICLE 18 : COMPÉTENCE ET PRESCRIPTION
 
- visés ceux que autres cas les tous Dans Assurance BH si ,dessus-ci) a (alinéa'l à déclaration fausse la ou réticence la constate le résilier de droit le a elle ,sinistre tout avant adressée notification après jours dix contrat avec recommandée lettre par assuré'l à accepte assuré'l si sauf ,réception de accusé en assurance'd prime de majoration une
+**1. Compétence :** Pour les actions dérivant du contrat d'assurance :
 
-7
+a) Si l'action est engagée par l'assureur, le tribunal compétent est celui du domicile de l'assuré.
+b) Si l'action est engagée par l'assuré, celui-ci peut saisir soit le tribunal du lieu de son domicile, soit celui du lieu où se trouvent l'assureur, soit le tribunal du lieu où le dommage s'est produit, soit le tribunal du lieu où se trouvent les meubles, objet du contrat d'assurance.
+c) En matière d'immeuble, l'action est portée devant le tribunal du lieu de la situation des immeubles concernés (article 13 du Code des Assurances).
 
-.assuré risque du réalité la avec relation
+**2. Prescription :** Les actions dérivant du présent contrat sont prescrites dans un délai de deux ans à compter de l'événement qui y donne naissance, dans les conditions déterminées par les articles 14 et 15 du Code des Assurances.
 
- Assurance BH ,résilié est contrat le Si prime de portion la assuré'l à restituera le laquelle pendant période la à afférente 4 et 3 alinéa 8, Article (couru pas a'n risque .(Assurances des Code du
-
-#### fausse pour indemnité'l de Réduction) c( : sinistre après constatée déclaration
-
- de ou réticence la de constatation la Lorsque BH .sinistre après lieu a déclaration fausse la indemnité'l déduire de droit le aura Assurance rapportée payée prime la de proportion en y'n il's payée être dû aurait qui prime la à déclaration fausse ou réticence eu pas avait .(Assurances des Code du 5 alinéa 8, Article(
-
- ,(a (alinéas 3, paragraphe du dispositions Les aux appliquent's ,article présent du) c (et) b( aux relatives contrat de cours en déclarations paragraphe au visées ,nouvelles circonstances .article présent du 2
-
-#### DU AGGRAVATIONS - 8 ARTICLE : RISQUE
-
- faut il ,contrat présent du application'l Pour au risque du aggravation par entendre ,assurances des Code du 9 article'l de sens Conditions aux définies circonstances les .Particulières
-
-#### : RISQUES DES DIMINUTION - 9 ARTICLE
-
- de cours en risques des diminution de cas En une demander de droit le a assuré'l ,contrat Lorsque .assurance'd prime la de diminution de demande la pas accepte'n Assurance BH le résilier de droit le a assuré'l ,diminution de date la de compter à jours trente contrat ,diminution de demande la de notification la de accusé avec recommandée lettre par  contre faite déclaration par ou réception En .Assurance BH de bureaux aux récépissé restituer doit Assurance BH résiliation de cas assurance'd prime de portion la assuré'l à le laquelle pendant période la à afférente du 6, alinéa 9, Article (,couru pas a'n risque .(Assurances des Code
-
-#### : ASSURANCES AUTRES - 10 ARTICLE
-
- contrat présent le par garantis risques les Si une par couverts être à viennent ou sont déclarer le doit assuré'l ,assurance autre cette de lors ,doit assuré'L .Assurance BH à de nom le connaître faire ,déclaration a assurance autre une lequel avec assureur'l .assurée somme la indiquer et contractée été
-
- contractées sont assurances plusieurs Quand des à soit ,date même la à soit ,fraude sans totale somme une pour ,différentes dates ,assurée chose la de valeur la à supérieure la de proportion en valables toutes sont elles ,totale somme la dans contrat chaque de part dépasse indemnités des ensemble'l que sans .assurée chose la de valeur la
-
- Particulières Conditions aux ,stipulé être peut Il ordre'l de règle la de adoption'l ,contrat du assureurs des solidarité la ou dates des .(Assurances des Code du 18 Article(
-
-#### LA DE PAIEMENT LE - 11 ARTICLE : PRIME
-
- comme ,avance'd acquittée être doit prime La est Elle .Particulières Conditions aux indiqué ou Assurance BH de social siège au payable des Code du 6, Article (agences ses de une'l à payable être peut elle ,Toutefois .)Assurances lieu autre tout à ou assuré'l de domicile au par fixés conditions et cas les dans ,convenu .Finances des Ministre du arrêté
-
-pas est'n prime de fraction ou prime une Si
-
-: acquittée
-
- contrat le suspendre peut Assurance BH'L − la ,échéance son à ,pas paie ne assuré'l si .prime de fraction la ou prime
-
- vingt que effet prend ne suspension La − dernier son à ,assuré'l à envoi'l après jours par et Assurance BH par connu domicile réception de accusé avec recommandée lettre .payer à avoir'd demeure en mise une'd
-
- partir à jours dix ,droit le a Assurance BH fixé jours vingt de délai du expiration'l de ou contrat le résilier de ,dessus-ci alinéa'l par Article (justice en exécution'l poursuivre en'd .(Assurances des Code du 11
-
-### DE OBLIGATIONS - 12 ARTICLE SINISTRE DE CAS EN ASSURE'L
-
-: doit assuré'l ,sinistre de cas En
-
- au et connaissance a en il'qu dès ,Donner 1 de avis ,ouvrés jours cinq les dans tard plus qui assuré'L .Assurance BH à écrit par sinistre déchu est obligation cette pas respecte ne a il'qu justifie il's sauf ,indemnité à droit du force de ou fortuit cas un'd suite par ,mis été sa faire de impossibilité'l dans ,majeure 7, Article (imparti délai le dans déclaration .(Assurances des Code du 4, alinéa
-
- pouvoir son en moyens les tous de User 2 objets les sauver ,progrès le arrêter en pour .conservation leur à veiller et assurés
-
- les dans ,Assurance BH à parvenir Faire 3 les indiquant déclaration une ,délais meilleurs connues causes ses ,sinistre du circonstances montant le et nature la ,présumées ou garanties les ,dommages des approximatif auprès risques mêmes les sur souscrites .assureurs autres'd
-
- état un ,jours 20 de délai un dans ,Fournir 4 objets des ,lui par signé et certifié estimatif .sauvés et détruits
-
- de demande simple sur ,Communiquer 5 documents tous ,délai sans et Assurance BH .expertise'l à nécessaires
-
- ,réception dès ,Assurance BH à Transmettre 6- ,assignations ,convocations ,lettres ,avis tous procédure de pièces et extrajudiciaires actes à signifiés ou remis ,adressés seraient qui un concernant ,préposés ses à ou même lui responsabilité la engager'd susceptible sinistre les remplir de ,assuré'l par ,Faute.assuré'l de du 6 à 2 alinéas aux précisées formalités force de ou fortuit cas sauf ,article présent une à droit aura Assurance BH ,majeure que dommage au proportionnée indemnité lui pourrait formalités ces de respect non le .causer
-
- le exagère ,foi mauvaise de ,qui assuré'L détruits prétend ,dommages des montant ,sinistre du lors pas existant'n objets des des partie ou tous soustrait ou dissimule comme ,sciemment emploie ,assurés objets ou frauduleux moyens des ,justification pas déclare ne ,inexacts documents des sur portant assurances autres'd existence'l déchu entièrement est ,risques mêmes les ensemble'l sur indemnité à droit tout de des indépendamment sinistrés risques des pourrait assureur'l que judiciaires poursuites étant déchéance la ,lui contre engager .contrat du articles divers les entre indivisible foi mauvaise la de preuve la de charge La .Assurance BH à incombe assuré'l de
-
-#### DE DETERMINATION - 13 ARTICLE : SINISTRE DE CAS EN INDEMNITE'L
-
- de cause une être peut ne contrat présent Le que garantit lui ne il ; assuré'l pour bénéfice celles de ou réelles pertes ses de réparation la .responsable est il dont
-
- être cas aucun en peut ne assurée somme La valeur la de preuve une comme considérée tenu est Assuré'L .endommagé bien du réelle ce de valeur la ,moyens les tous par justifier à dommages des importance'l que ainsi bien .objet'l fait a il dont
-
-### : EXPERTISE - 14 ARTICLE
-
- gré de fixés pas sont ne dommages les Si toujours est amiable expertise une ,gré à respectifs droits des réserve sous ,obligatoire .parties des
-
- les Si .expert un choisit partie Chaque ,accord'd pas sont ne désignés ainsi experts trois Les .expert troisième un adjoignent's ils majorité la à et commun en opèrent experts .voix des
-
- son nommer de ,parties des une'l par ,Faute entendre's de experts deux les par ou ,expert sera désignation la ,troisième du choix le sur de tribunal du président le par effectuée .compétent territorialement instance première ,requête simple sur faite est nomination Cette ,seulement une'd ou parties deux des signée lettre par convoquée été ayant partie autre'l sinistre après expertise'L .recommandée compte le pour assurance'd cas en ,effectue's .contrat du souscripteur le avec ,tiers de
-
- honoraires et frais les paye partie Chaque des moitié la ,lieu a y il's ,et expert son de sa de frais des et expert tiers du honoraires .nomination
-
- délaissement aucun faire peut ne assuré'L sa reste sauvetage le ; garantis objets des sur contestation de cas en même ,propriété la ,estimation'l sur accord'd Faute .valeur sa du ,enchères aux vente la ou ,amiable vente ,marchandises et matériel sur sauvetage par ,demander peut parties des chacune
-
- de tribunal du président au requête simple ,compétent territorialement instance première à procéder pour ,expert un'd désignation la .sauvetage du estimation'l
-
-### REGLE LA - 15 ARTICLE : PROPORTIONNELLE
-
- estimations des résulte il ,sinistre du jour au ,Si de objet'l faisant biens des valeurs les que sommes aux supérieures sont garantie la son comme considéré est assuré'l ,garanties supporte et excédent'l pour assureur propre ,dommages des proportionnelle part une des Code du 17, article'l à conformément la de explicative Notice la à et assurances faisant ,Capitaux de Proportionnelle Règle .contrat présent du intégrante partie
-
-### : REGLEMENT DE DELAIS LES - 16 ARTICLE
-
- effectué être doit indemnités des paiement Le ,amiable accord'l de soit ,jours 30 les dans Ce .exécutoire judiciaire décision la de soit du que court ne ,opposition'd cas en ,délai .mainlevée la de jour
-
- ,intérêts produisent versées non sommes Le tel ,légal intérêt'l de taux au ,droit plein de à ,vigueur en législation la par fixé est il'qu sommes ces laquelle à date la de compter paiement au'jusqu ,exigibles devenues sont des Code du 2, alinéa 10, article (intégral .(Assurances
-
-#### : SUBROGATION - 17 ARTICLE
-
- indemnité'l payé a qui Assurance BH concurrence à'jusqu ,subrogée est assurance'd actions et droits les dans ,indemnité cette de ,fait leur par ,qui tiers les contre assuré'l de la à lieu donné ayant dommage le causé ont ,Toutefois .Assurance BH de responsabilité les contre recours aucun a'n Assurance BH ligne en alliés ,ascendants ,descendants ,domestiques ou ouvriers ,préposés ,directe vivant personne toute généralement et le sauf ,assuré'l de foyer au habituellement par commis intentionnel dommage de cas Code du 21 article (personnes ces de une'l .(assurances des
-
- tout en ,déchargée être peut Assurance BH envers responsabilité sa de ,partie en ou ,plus peut ne subrogation la quand ,assuré'l de faveur en opérer's ,assuré'l de fait le par Code du 2, alinéa 21, Article (Assurance BH .(Assurances des
-
-#### ET COMPETENCE - 18 ARTICLE : PRESCRIPTION
-
- du dérivant actions les Pour : Compétence) 1 : assurance'd contrat
-
-le ,assureur'l par engagée est action'l Si) a(
-
- de domicile du celui est compétent tribunal .assuré'l
-
- son de lieu du tribunal le soit saisir peut cicelui ,assuré'l par engagée est action'l Si) b( de domicile du lieu du celui soit ,domicile trouvent se où lieu du tribunal le soit ,assureur'l soit ,assurance'd contrat du objet meubles les .dommage le produit est's où lieu du tribunal le
-
- portée est action'l ,immeuble'd matière En) c( des situation la de lieu du tribunal le devant des code du 13 article (concernés immeubles .(Assurances
-
- du dérivant actions Les : Prescription) 2 délai un dans prescrites sont contrat présent qui événement'l de compter à ans deux de conditions les dans naissance donne y Code du 15 et 14 articles les par déterminées .Assurances des
-
-### **ASSURANCE BH SOUSCRIPTEUR LE**
+### **LE SOUSCRIPTEUR BH ASSURANCE**
 
 ![](_page_11_Picture_0.jpeg)
 
-#### NOTICE DE LA REGLE PROPORTIONNELLE DE CAPITAUX
+#### NOTICE DE LA RÈGLE PROPORTIONNELLE DE CAPITAUX
 
-Cher Client.
+Cher Client,
 
-Afin de respecter l'article 17 du Code des Assurances, nous attirons votre aimable attention que votre contrat comporte la règle proportionnelle de capitaux.
+Afin de respecter l'article 17 du Code des Assurances, nous attirons votre aimable attention sur le fait que votre contrat comporte la règle proportionnelle de capitaux.
 
-#### QU'EST-CE QUE LA REGLE PROPORTIONNELLE DE CAPITAUX ?
+#### QU'EST-CE QUE LA RÈGLE PROPORTIONNELLE DE CAPITAUX ?
 
-C'est le principe en vertu duquel, s'il résulte de l'estimation des experts que la valeur, telle que définie aux Conditions Générales, de la chose assurée excède, au jour du sinistre, la somme garantie, vous seriez considéré comme restant votre propre assureur pour l'excèsdent et supporterez une part proportionnelle du dommage. C'est-à-dire : Si vous garantissez les biens assurés pour une somme inférieure à sa valeur réelle, vous ne serez indemnisé, en cas de sinistre couvert, que dans le rapport :
+C'est le principe en vertu duquel, s'il résulte de l'estimation des experts que la valeur, telle que définie aux Conditions Générales, de la chose assurée excède, au jour du sinistre, la somme garantie, vous seriez considéré comme restant votre propre assureur pour l'excédent et supporterez une part proportionnelle du dommage. C'est-à-dire : Si vous garantissez les biens assurés pour une somme inférieure à sa valeur réelle, vous ne serez indemnisé, en cas de sinistre couvert, que dans le rapport :
 
-#### VALEUR ASSUREE SUR LE BIEN
-
-VALEUR REELLE DU BIEN
+**VALEUR ASSURÉE SUR LE BIEN / VALEUR RÉELLE DU BIEN**
 
 #### EXEMPLE D'APPLICATION DE LA RÈGLE PROPORTIONNELLE DE CAPITAUX
 
-Supposons des glaces d'une valeur de 10.000DT), assurée pour une somme insuffisante de 5.000 DT)
+Supposons des glaces d'une valeur de 10.000 DT, assurées pour une somme insuffisante de 5.000 DT.
 
-A / Hypothèse de sinistre partiel ayant causé des dommages estimés, par exemple ,à 2.000 DT.
+**A / Hypothèse de sinistre partiel ayant causé des dommages estimés, par exemple, à 2.000 DT.**
 
 L'indemnité est calculée comme suit :
 
-Dommages X  $\frac{\text{Capital assur\'e}}{\text{Valeur réelle}}$  = Soit : 2.000 Drs X  $\frac{5.000 \text{ DT}}{10.000 \text{ DT}}$  =1.000 DT D'où une perte non indemnisée de 1.000 DT
+Dommages × (Capital assuré / Valeur réelle) = Soit : 2.000 DT × (5.000 DT / 10.000 DT) = 1.000 DT  
+D'où une perte non indemnisée de 1.000 DT.
 
-### LE SOUSCRIPTEUR
+**B / Hypothèse de sinistre total**
 
-#### B / HYPOTHESE DE SINISTRE TOTAL
+Les dommages s'élèvent donc à 10.000 DT. Indemnité :
 
-les dommages s'élèvent donc à 10.000 DT Indemnité :
+Soit : 10.000 DT × (5.000 DT / 10.000 DT) = 5.000 DT  
+D'où une perte non indemnisée de 5.000 DT.
 
-Soit : 10.000 Drs X  $\frac{5.000 \text{ Drs}}{10.000 \text{ Drs}} = 5.000 \text{DT}$ 
-
-D'où une perte non indemnisée de 5.000 DT
-
-**BH ASSURANCE** 
+**BH ASSURANCE**
 
 #### CONSENTEMENT DE CLAUSE
 
- données mes de traitement du informé être déclare je ,personnel caractère à données des protection la sur portant 2004, juillet 27 du °2004-63n organique loi la à Conformément .Assurance BH par établi assurance'd contrat un'd souscription la de cadre le dans formulaire présent du niveau au renseignées personnelles
+Conformément à la loi organique n°2004-63 du 27 juillet 2004 portant sur la protection des données personnelles, je déclare être informé du traitement de mes données personnelles renseignées au niveau du présent formulaire dans le cadre de la souscription d’un contrat d’assurance établi par BH Assurance.
 
- pour inutiles deviennent elles'lorsqu ou collectées été ont elles lesquelles pour finalités des réalisation de cas en et personnelles données mes de traitement au expressément consens Je .détruites verront se dernières ces ,Assurance BH de activité'l
-
- droit mon que ainsi dernières ces de traitement au opposition'd droit mon de et personnelles données mes de rectification de ,accès'd droit mon de informé être déclare je ,même De .constatée violation toute pour INPDP'l de auprès plainte porter de
-
-عمال بأحكام القانون األساسي عدد 63ـ2004 املؤرخ يف 27 جويلية 2004 واملتعلق بحماية املعطيات الشخصية أصرح بعلمي التام بعملية معالجة معطياتي الشخصية املذكورة يف هذه املطبوعة يف إطار اكتتاب عقد تأمين من طرف BH تأمين.
-
-أوافق صراحة ىلع معالجة معطياتي الشخصية ويف صورة تحقق الغرض الذي جمعت من أجله أو يف صورة ما إذا لم تعد ضرورية لنشاط شركة BH تأمين، يتم القيام بإتالفها. كما أصرح بأني ىلع علم بحقي يف النفاذ إلى معطياتي الشخصية وتصحيحها وحقي يف االعتراض ىلع معالجتها والقيام بشكوى إلى الهيئة الوطنية لحماية املعطيات الشخصية يف صورة عدم حمايتها.
+Je consens expressément au traitement de mes données personnelles et, en cas de réalisation des finalités pour lesquelles elles ont été collectées ou lorsqu’elles deviennent inutiles pour l’activité de BH Assurance, ces dernières seront détruites. De même, je déclare être informé de mon droit d’accès, de rectification de mes données personnelles et de mon droit d’opposition au traitement de ces dernières, ainsi que de porter plainte auprès de l’INPDP pour toute violation constatée.
 
 ### SOUSCRIPTEUR APPROUVÉ ET LU
 
@@ -360,4 +290,4 @@ ASSURANCE BH
 
 - Assurance BH
 - Assurance BH
-- com.assurance-bh.www
+- www.assurance-bh.com

@@ -1,456 +1,354 @@
-![](_page_0_Picture_0.jpeg)
+# **Contrat d'Assurance « ASSISTANCE PROTECTION JURIDIQUE »**
 
-من رئيس الهيئة العامة للتأمين
+**République Tunisienne**  
+**Ministère des Finances**  
+**Date : 2 juillet 2016**  
+**Référence : 2016 07 22 02 ف م 001490**
 
-إلى
+**À l’attention de** : Madame la Directrice Générale, Société d’Assurances SALIM  
+**Adresse** : Immeuble Assurances SALIM, Lot AFH BC5, Centre urbain nord, 1003 Tunis  
+**Objet** : Validation des conditions générales du contrat d’assurance  
+**Références** : Vos courriers des 15 juin et 8 juillet 2016, notre courrier du 28 juin 2016
 
-عمارة تأمينات سليم -المركز العمراني الشمالي - 1003 تونس
+Conformément aux dispositions de l’article 46 du Code des Assurances, vous avez soumis le projet des conditions générales du contrat d’assurance assistance protection juridique. Suite à la réunion de travail du 8 juillet 2016 et après prise en compte de nos observations, nous avons le plaisir de vous informer que le dépôt du contrat d’assurance soumis à nos services le 8 juillet 2016 a été accepté.
 
-![](_page_0_Picture_1.jpeg)
+**Signé** : Hafedh Gharbi, Président de l’Autorité Générale des Assurances
 
-2 جويلية 2016 ASSURANCES SALLIN 27 JUL. 2016 more at the William 1429 السيدة المديرة العامة لشركة تأمينات سليم
+## CONDITIONS GÉNÉRALES D’ASSURANCE ASSISTANCE PROTECTION JURIDIQUE
 
-République Tunisienne
+Le présent contrat est régi par les dispositions du Code des Assurances, ci-après dénommé « le Code », ainsi que par les conditions générales ci-dessous, les conditions particulières annexées et le formulaire de déclaration des risques sur la base des réponses fournies, qui en fait partie intégrante.
 
-Ministère des Finances
+Ce contrat est classé sous le numéro 9 conformément à l’arrêté du Ministre des Finances du 2 janvier 1993 fixant la liste des branches d’assurance mentionnées à l’article 49 du Code des Assurances.
 
-2016 07 22 02 ف م 001490
+### Définitions
 
-الموضوع: حول توجيه الشروط العامة لعقد تأمين المرجع: – مراسلتاكم بتاريخ 15 جوان و8 جويلية 2016 -مراسلتنا بتاريخ 28 جوان 2016.
+Pour l’application du présent contrat, les termes suivants ont les significations suivantes :
 
-عملا بأحكام الفصل 46 من مجلة التأمين قمتم بتوجيه مشروع الشروط العامة لعقد تأمين المساعدة في الحماية القانونية،
+- **Souscripteur** : Toute personne cliente auprès du distributeur ayant expressément souscrit le contrat d’assurance assistance protection juridique à la date du paiement de la prime.
+- **Assuré** : Tout souscripteur ou personne physique concernée, c’est-à-dire toute partie s’engageant à payer la prime d’assurance, son conjoint non séparé, leurs enfants, même mineurs soumis à l’autorité parentale, au sens fiscal du terme.
+- **Assureur** : Société d’Assurances SALIM, dont le siège est situé à Immeuble Assurances SALIM, Lot AFH BC5, Centre urbain nord, 1003 Tunis.
+- **Tiers** : Toute personne n’étant pas un ascendant, descendant, allié par mariage, employé ou personne résidant habituellement au domicile de l’assuré.
+- **Distributeur** : Banque de l’Habitat, dont le siège est situé au 18 Avenue Mohamed V, Tunis.
+- **Action collective** : Toute action judiciaire intentée par une institution agréée devant un juge pour le compte d’un groupe de consommateurs confrontés à un litige similaire ou identique, en vue d’obtenir réparation des préjudices.
+- **Action recevable** : Une action est considérée comme recevable si :
+  - Le litige ne résulte pas d’une violation manifeste par l’assuré des dispositions légales ou réglementaires.
+  - L’assuré peut fournir une preuve de la validité de sa prétention ou de son fondement juridique.
+  - Le litige oppose l’assuré à un tiers solvable, identifiable et localisable.
+  - L’assuré est défendeur et l’action adverse n’est pas justifiée en droit ou en fait.
+- **Affaire** : Litige soumis à une juridiction compétente par les parties en conflit sur les mêmes faits, pour statuer sur leurs positions, quelles que soient les évolutions procédurales autorisées par le tribunal.
+- **Année d’assurance** : Période s’étendant entre les dates de paiement des primes.
+- **Biens immobiliers assurés** : Tous les biens immobiliers appartenant à l’assuré ou exploités par lui, situés sur le territoire tunisien, à son domicile principal ou choisi en France, ou dans le pays de résidence.
+- **Caution pénale** : Somme déposée auprès du juge par le demandeur pour garantir la validité de son action en justice.
+- **Convention d’honoraires** : Accord signé entre l’avocat et son client pour fixer les honoraires et les modalités de paiement conformément aux réglementations en vigueur.
+- **Créance** : Droit de l’assuré à exiger d’un tiers le paiement d’une somme d’argent au titre d’une dette.
+- **Délai de carence** : Période calculée à partir de la date d’entrée en vigueur du contrat. Pour bénéficier de l’assurance, le litige doit survenir après cette période.
+- **Frais** : Montant des dépenses liées au contentieux (notamment honoraires des officiers publics, indemnités des témoins, frais d’experts, etc.) imposés par le juge à la partie condamnée.
+- **Dol** : Manœuvres, mensonges ou dissimulation intentionnelle d’informations dans le but de tromper une partie pour obtenir son consentement.
+- **Fait générateur du litige** : Survenance d’une difficulté juridique liée à une atteinte à un droit ou à un préjudice subi ou causé par l’assuré à un tiers, avant toute réclamation connexe.
+- **Frais irrécupérables** : Frais engagés avant, pendant et après la procédure, incluant :
+  - Honoraires d’avocats.
+  - Consultations et mémoires.
+  - Frais d’huissiers pour les constats.
+  - Frais d’examens médicaux, de déplacement et de procédures.
+  - Pertes de revenus.
+  Ces frais ne sont pas inclus dans ceux pouvant être imposés par le juge à une partie (par exemple, article 700 du Code de procédure civile français ou équivalent).
+- **Frais forfaitaires** : Montant destiné à couvrir les actes et constats effectués par un huissier, ainsi que les frais engagés par ce dernier, à l’exclusion des frais de déplacement, frais spécifiques et travaux rémunérés dans les honoraires.
+- **Intérêts en jeu** : Montant du litige, hors pénalités de retard, intérêts ou demandes connexes. Pour les contrats à exécution périodique, il s’agit de la prime due.
+- **Litige** : Conflit d’intérêts, différend ou refus faisant l’objet d’une réclamation adressée ou reçue par l’assuré, l’amenant à faire valoir ses droits en tant que demandeur ou défendeur, de manière amiable ou judiciaire.
+- **Recouvrement** : Procédure par laquelle l’administration assure le paiement des impôts par les redevables.
+- **Durée de validité du contrat** : Période s’étendant de la date d’entrée en vigueur à la date de résiliation.
+- **Prescription** : Délai au-delà duquel une demande n’est plus recevable.
+- **Redressement fiscal** : Proposition de rectification fiscale.
+- **Usurpation d’identité** : Utilisation non autorisée des éléments d’identification de l’assuré par un tiers dans le cadre d’actes frauduleux causant un préjudice. Les éléments d’identification incluent : nom, prénom, adresse, numéro de téléphone, carte d’identité nationale, carte de séjour, passeport, permis de conduire, carte grise, relevé bancaire, numéro de sécurité sociale, chèques (hors chèques de voyage), cartes bancaires, argent électronique, identifiant unique, mot de passe, code d’accès, adresse IP, adresse e-mail, numéro de carte bancaire, empreinte numérique.
 
-وجوابا، وبعد الإستجابة لملاحظاتنا موضوع جلسة العمل المنعقدة بتاريخ 8 جويلية 2016، يشرفني أن أعلمكم بأنه تم قبول إيداع عقد التأمين المعروض على مصالحنا بتاريخ 8 جويلية 2016.
+## ARTICLE 1 : Services
 
-والسلام رنيس الهينة للعلمة للتمامين
+### 1.1 Informations juridiques
 
-الإمضاء: حافظ الغريبي
+Un spécialiste en droit (avocat) répond à toutes les questions ou difficultés juridiques relevant du droit tunisien ou français, en fournissant les informations nécessaires sur les droits et obligations de l’assuré et en le guidant sur les démarches à entreprendre dans le cadre de ce contrat.
 
-## الشروط العامة لتامين المساعدة
+Les informations juridiques sont disponibles 24h/24 par un simple appel téléphonique au numéro indiqué dans les conditions particulières. L’assuré bénéficie de ces garanties dans le cadre de sa vie privée ou en tant que salarié. Il peut contacter l’assureur entre la date d’entrée en vigueur et la résiliation du contrat.
 
-## في الحماية القانونية
+L’assuré peut également contacter l’espace service clients pour obtenir des informations pratiques sur le droit français relatives à sa vie privée ou à son statut de salarié, et télécharger des modèles de lettres, contrats et formulaires standardisés.
 
-يخضع هذا العقد لنصوص مجلة التامين المشار إليها فيما يلي باسم " المجلة"، و للشـروط العامة الواردة أدناه، و الشـروط الخاصة المرفقة طيه إلى جانب مطبوعة الإعلام بالخطر والأجوبة التي تسـتند عليها والتي تعتبر جزء لا يتجزأ منه .
+Les frais d’appel depuis l’étranger sont facturés selon les conditions de chaque opérateur. L’assureur peut rappeler le client si nécessaire. Les informations relevant du droit français sont fournies en langue française.
 
-هذا العقد يصنف تحت عدد 9 طبقا لقرار وزير المالية المؤرخ في 2 جانفي 1993 الذي يضبط قائمة أصناف التأمين الواردة بالفصل 49 من مجلة التأمين.
+Pour toute question ou difficulté juridique hors du droit tunisien ou français, l’assureur prend en charge les frais d’appel à un avocat dans les limites prévues à l’article 5.7.2 « Hors France ou Tunisie ».
 
-لتطبيق هذا العقد يقصد بالعبارات التالية ما يلي :
+### 1.2 Assistance à la résolution des litiges
 
-#### الفصل 1- التعاريف :
+L’assureur assiste l’assuré dans la résolution des litiges, dans la limite de deux litiges par année d’assurance pour les procédures judiciaires et deux litiges pour les démarches amiables.
 
-المكتتب : كل شخص حريف لدى الموزع الذي قام صراحة باكتتاب عقد التامين الخاص بالرعاية القانونية في تاريخ سداد قسط التامين الخاص به .
+#### Phase amiable
 
-المؤمن له : كل مكتتب أو ذات طبيعية يعني أي طرف يلتزم بدفع قسط التامين أو قرينه غير المنفصل وأبناؤهما وان كانوا قصر خاضعين للولاية الأبوية بالمعنى الجبائي للعبارة .
+En cas de litige assuré, le chargé des affaires juridiques analyse les aspects juridiques de la situation, fournit une consultation appropriée et oriente l’assuré vers la meilleure stratégie pour défendre ses intérêts. En concertation avec l’assuré et sous réserve que l’action soit recevable, le chargé intervient directement auprès de la partie adverse pour clarifier son analyse et rappeler les droits de l’assuré.
 
-المؤمن/ شركة التامين: تأمينات سليم الكائن مقرها في مبنى تأمينات سليم تقسيم الوكالة العقارية للسكني ب س 5, المركز العمراني الشمالي 1003 تونس .
+#### Phase judiciaire
 
-**الغير** : كل شخص ليس من ذوي الخلف والسلف و ذوي الصلة بحكم الزواج أو الخدم و لا يقيم في منزل المؤمن له .
+Sous réserve que l’action soit recevable et que les intérêts en jeu dépassent 300 euros (ou équivalent en dinars tunisiens, toutes taxes incluses) selon l’évaluation de l’avocat désigné par l’assureur à la date de déclaration du litige, le chargé assiste l’assuré dans la mise en œuvre de l’action judiciaire dans les cas suivants :
 
-الموزع : بنك الإسكان الكائن مقره في 18 شارع مجد الخامس تونس
+- Échec de la résolution amiable du litige.
+- Expiration des délais fixés dans ce cadre.
+- Nécessité pour l’assuré de se défendre en tant que défendeur.
 
-الدعوى الجماعية : كل دعوى قضائية ترفعها مؤسسة معتمدة لدى القاضي لحساب مجموعة من ألمستهليكن الذين يواجهون نزاعا مماثلا أو متطابقا، من اجل التعويض عن الأضرار.
+L’assureur mandate un avocat pour défendre l’assuré tout au long du litige, en lui fournissant le soutien nécessaire. L’assuré est libre de choisir son avocat après en avoir informé l’assureur avec toutes les coordonnées de celui-ci. L’assuré doit tenir le chargé des affaires juridiques informé de l’évolution de son affaire.
 
-### الدعوى المناسبة :
+Si le jugement est favorable à l’assuré, l’avocat prend les mesures nécessaires pour son exécution via un huissier, si l’action est recevable, et fournit à l’huissier toutes les informations nécessaires pour faciliter son intervention auprès du débiteur adverse.
 
-تعتبر الدعوي مناسبة :
+Dans le cadre d’un litige assuré, l’assureur prend en charge tous les frais et honoraires liés à la résolution du litige, dans les limites prévues à l’article 5 « Conditions de l’assurance ».
 
-- إذا لم ينجر النزاع عن خرق ظاهر من قبل المؤمن له للمقتضيات القانونية أو التنظيمية.
-  - إذا تمكن المؤمن له من تقديم إثبات عن صحة إدعائه أو إثبات أساسه القانوني .  $\sim$
-- إذا كان خلاف المؤمن له ضد الغير القادر على الوفاء بالتزاماته و يمكن التعرف عليه وتحديد موقعه.
-- إذا كان المؤمن له مدعى عليه و لم يتم تبرير دعوى الطرف المقابل من حيث المبدأ وفقا لقواعد القانون و / أو الأدلة المادية.
+## ARTICLE 2 : Domaines de l’assurance
 
-القضية: نزاع يحدد من خلاله مرجع النظر الحكمي من قبل الأطراف المتنازعة على نفس الوقائع بحيث يتم البت بخصوص مواقفهم أيا كانت التطورات الإجرائية المأذون بها من قبل المحكمة.
+### 2.1 Assurance des achats, ventes de biens et prestations de services
 
-السنة التأمينية : الفترة الممتدة بين تاريخي قسط التامين .
+L’assuré bénéficie de l’assurance en cas de litige avec un vendeur ou prestataire de services dans le cadre :
 
-**الممتلكات العقارية المؤمنة:** كل الممتلكات العقارية على ملك المؤمن له أو التي يستغلها والموجودة داخل التراب التونسـي أو محل إقامته الأصلية أو المختارة في فرنسـا أو البلد الذي يقيم به .
+- De l’achat, de la maintenance ou de la location de biens mobiliers.
+- De la conclusion, mauvaise exécution, non-exécution ou résiliation d’un contrat de prestation de services.
+- De la vente de biens mobiliers ou de la prestation de services.
 
-**الوديعة الجزائية**: إيداع مبلغ لدى القاضي من قبل المدعي السـاعي لضمان صحة دعواه لدى القضاء.
+### 2.2 Assurance du logement et des travaux immobiliers
 
-اتفاقية الأتعاب : الاتفاقية الموقعة بين المحامي و حريفه لتحديد الأتعاب وطرف دفع حسب التراتيب المعمول بها.
+L’assuré bénéficie de l’assurance en cas de litige survenu en sa qualité de propriétaire, copropriétaire, locataire ou colocataire, dans le cadre de l’occupation, l’achat ou la vente de ses biens immobiliers assurés.
 
-الديون: حق المؤمن له في مطالبة الغير بسداد مبلغ مالي بعنوان دين.
+L’assuré bénéficie également de l’assurance si les biens immobiliers assurés qu’il occupe appartiennent à une société civile immobilière dont il détient des parts, ou en cas de propriété indivise, de nue-propriété ou d’usufruit (qu’il soit nu-propriétaire ou usufruitier).
 
-فترة الانتظار: الفترة المحسوبة ابتداء من تاريخ دخول هذا العقد حيز التنفيذ. لكي يتمتع المؤمن له بهذا التامين يجب أن ينشا النزاع بعد هذه الفترة.
+En cas de résiliation du bail ou de vente des biens immobiliers assurés, l’assuré bénéficie de l’assurance pour les litiges liés à ces biens pendant six mois à compter de la date effective de résiliation ou de vente.
 
-المصاريف: قيمة المصاريف الناشئة عن التقاضي ( خاصة أتعاب الموظفين العموميين و تعويضات الشهود و أتعاب الخبراء والتقنيين الخ..) والتي يفرضها القضاء على الخصم الذي تسلط عليه الحكم .
+L’assuré bénéficie également de l’assurance pour les litiges liés à l’achat ou à la location d’un bien immobilier, si ce bien est destiné à devenir sa résidence principale, à compter de la date de l’achat ou de la conclusion du bail.
 
-التغرير : المناورات والأكاذيب وإخفاء المعلومات (الإخفاء المتعمد) بهدف خداع أي طرف للحصول على موافقته.
+### 2.3 Assurance des salariés
 
-الوقائع المولدة للنزاع : ظهور صعوبة قانونية متمثلة في التعدي على حق أو الضرر الذي يتكبده المُؤمن له أو يسببه للغير قبل أية مطالبات ذات صلة .
+L’assuré bénéficie de l’assurance en cas de litige survenu en sa qualité de salarié avec son employeur, dans le secteur privé ou public, qu’il s’agisse d’un contrat à durée déterminée, indéterminée, de stage ou d’apprentissage. Cette assurance est acquise sous réserve que le litige survienne après un délai de carence de deux mois à compter de l’entrée en vigueur du contrat.
 
-**التكاليف غير القابلة للاسترداد:** تتعلق هذه التكاليف بالنفقات التي يتم تكبدها قبل إثارة الدعوى وأثناء ذلك، وكذلك التكاليف المستقبلية. وهي تشمل:
+### 2.4 Assurance santé
 
-- أتعاب المحامين
-- المذكرات و الاستشارات
-- أتعاب عدول التنفيذ عن المعاينة
-- تكاليف الفحص الطبي و مصاريف التنقل والإجراءات التي تكبدها أي طرف
-  - النقص في الكسب
+L’assuré bénéficie de l’assurance en cas de litige avec un professionnel de santé ou un établissement de santé suite à une erreur médicale, un mauvais diagnostic, une infection nosocomiale ou une blessure liée à un traitement.
 
-التكاليف غير المدرجة في المصاريف التي قد يحملها القاضي على احد الأطراف على معنى قانون الإجراءات المدنية (على سبيل المثال المادة 700 من قانون الإجراءات المدنية الفرنسي) أو ما يعادلها في المحاكم الأخرى.
+### 2.5 Réparation des dommages corporels / Atteinte à l’intégrité physique
 
-التكاليف النسبية : المبلغ الذي يهدف إلى تغطية جميع الأعمال و المعاينات التي يقوم بها عدل التنفيذ ، والتكاليف التي قد يتحملها هذا الأخير باستثناء تكاليف التنقل والنفقات الخاصة والعمل المأجور ضمن الأتعاب .
+L’assuré bénéficie de l’assurance en cas de litige relatif à l’indemnisation des dommages à son intégrité physique causés par une agression ou un accident imputable à un tiers.
 
-الفوائد المفروضة: مبلغ النزاع، باستثناء خطايا التأخير والفوائد و الطلبات ذات الصلة. بالنسبة للعقود التي يتراوح تطبيقها ضمن فترة زمنية دورية متفق عليها، يمثل مبلغ النزاع قسط مستحق.
+### 2.6 Assurance contre l’usurpation d’identité
 
-النزاع : تضارب المصالح أو الخلاف أو رفض يكون موضوع مطالبة يوجهها المؤمن أو يتلقاها ، مما يدفعه لتأكيد أحقيته بصفة مدعي أو مدعي عليه، إما بشكل ودي أو لدى المحكمة.
+L’assuré bénéficie de l’assurance s’il est victime d’une usurpation d’identité dans le cadre de sa vie privée.
 
-الاستخلاص : العملية التي تضمن من خلالها الإدارة سداد الضرائب من مستحقيها .
+### 2.7 Assurance de la défense pénale
 
-**مدة سريان العقد** : الفترة الممتدة من تاريخ الدخول حيز التنفيذ و إلى تاريخ الفسـخ .
+L’assureur défend les intérêts de l’assuré lorsqu’il fait l’objet de poursuites pour une contravention ou un délit devant une juridiction pénale ou lorsqu’il est convoqué par une commission administrative.
 
-التقادم : الفترة التي لا يتم بعدها قبول أي طلب .
+### 2.8 Protection sociale / Prévoyance / Retraite
 
-مقترح تعديل : التعديل الضريبي.
+L’assuré bénéficie de l’assurance en cas de litige relatif aux prestations dues par une organisation sociale, mutualité, compagnie d’assurance, fonds de pension ou de prévoyance.
 
-انتحال هوية : الاستخدام غير المرخص لعناصر بيان هوية المؤمن له من قبل الغير في إطار أعمال احتيالية تؤدي إلى إلحاق الضرر بالمؤمن له. وتشمل عناصر تحديد الهوية ما يلي: الاسم و اللقب والعنوان ورقم الهاتف و بطاقة التعريف الوطنية و بطاقة الإقامة وجواز السـفر ورخصة السـياقة و بطاقة جولان السيارة و رقم تسجيل السيارة و شهادة الحساب المصرفي و رقم الضمان الاجتماعي والشيكات (باستثناء شيكات السفر) والبطاقات البنكية (المشتريات والسحب النقدي من أجهزة الصراف الآلي) و النقود الإلكترونية (أي القيمة المالية التي تمثل دينا على الجهة المصدرة والتي يتم تخزينها على الوسائط الإلكترونية) الخاصة بالمؤمن عليه. كما تشمل عناصر تحديد الهوية أيضا المعرف الوحيد و كلمة العبور و رمز المرور و عناوين بروتوكول الإنترنت و عناوين البريد الالكتروني و أرقام البطاقات البنكية و البصمة الرقمية .
+### 2.9 Assurance fiscale
 
-### الفصل 2 : الخدمات :
+L’assuré bénéficie de l’assurance en cas de litige relatif à une proposition de redressement fiscal ou à un remboursement d’impôt notifié au moins trois mois après la date d’entrée en vigueur du contrat, à condition que le redressement ne concerne pas les revenus, bénéfices ou gains issus d’une activité professionnelle autre que celle de salarié.
 
-### 1.2 المعلومات القانونية :
+### 2.10 Fonctions familiales
 
-يتولى أخصائي في الشـؤون القانونية "محامي" الإجابة عن كافة الأسـئلة أو الصعوبات القانونية في القانون التونسـي أو القانون الفرنسـي مع تقديم مختلف المعلومات اللازمة حول حقوق المؤمن له وواجباته كما يوجهه بخصوص الخطوات الواجب اتخاذها في نطاق تنفيذ هذا العقد.
+L’assuré bénéficie de l’assurance en cas de litige survenu en sa qualité d’employeur d’une personne déclarée régulièrement auprès des organismes de couverture sociale, qui lui fournit un service domestique ou familial.
 
-يتم توفير المعلومات القانونية على مدار 24 / 24 ساعة عبر مكالمة هاتفية بسيطة للرقم المبين في الشروط الخاصة. يستفيد المؤمن له من هذه الضمانات في سياق حياته الخاصة و بصفته كأجير . يمكن للمؤمن له الاتصال بالمؤمن بين تاريخ بدء نفاذ عقده إلى حين فسخه.
+### 2.11 Successions
 
-يمكن للمؤمن له أيضا الاتصال بفضاء خدمة الحرفاء للحصول على معلومات عملية تخص القانون الفرنسي و تتعلق بحياته الخاصة أو بصفته كأجير وتحميل نماذج من الرسائل والعقود والاستمارات الموحدة.
+L’assuré peut, le cas échéant, demander l’assistance et les conseils de l’assureur en matière de successions dans le cadre de la fourniture d’informations. Toute démarche ou formalité doit être effectuée auprès d’un spécialiste en droit. En cas de litige relatif à une succession, l’assuré bénéficie d’une prise en charge des honoraires d’avocat selon le tableau des garanties ou des procédures judiciaires, à l’exclusion des frais de notaire.
 
-تتم فوترة رسـوم الاتصال من الخارج وفقا لشـروط كل مزود. قد يقوم المؤمن بمعاودة الاتصال بالحريف عند الاقتضاء.
+## ARTICLE 3 : Exclusions de l’assurance
 
-تمنح المعلومات الواردة في القانون الفرنسـي باللغة الفرنسـية.
+L’assureur ne prend pas en charge les litiges découlant :
 
-كل تسـاؤل أو إشـكال قانوني يُطرح خارج إطار القانون التونسـي أو القانون الفرنسـي، تتحمل شـركة التأمين معاليم الاتصال بالمحامي طبقا للحد الأقصى المنصوص عليه في الفصل 5.7.2 "خارج فرنسا أو تونس" من هذه الشـروط العامة .
+- De l’achat, de la détention ou de la cession d’actions ou de titres financiers, y compris la multipropriété hors des garanties prévues à l’article 2.
+- Des travaux immobiliers dont la valeur dépasse 2000 euros (ou équivalent en dinars tunisiens, hors taxes) sans équipements, ou 3700 euros (ou équivalent, taxes incluses) avec équipements, pour un même litige.
+- De la délivrance d’un permis de construire ou d’un certificat d’urbanisme demandé par l’assuré.
+- Des travaux de construction, y compris les ventes en l’état futur d’achèvement.
+- Du bornage des propriétés.
+- Des garanties fournies ou délégations reçues par l’assuré.
+- Des litiges immobiliers avec des copropriétaires, des associés d’une société immobilière propriétaire de biens, ou entre nu-propriétaire et usufruitier.
+- Des conflits issus d’un mouvement collectif.
+- De l’usurpation d’identité avec la complicité de l’assuré.
+- De l’usurpation d’identité par une personne bénéficiant de l’assurance sous ce contrat.
+- Des maladies professionnelles.
+- De la propriété intellectuelle.
+- De la gestion ou de l’administration d’une association ou d’une société civile ou commerciale.
+- D’une activité politique, syndicale ou d’un mandat électif.
+- D’un report des délais de paiement par l’assuré sans opposition de sa part sur le principe.
+- De la responsabilité civile de l’assuré lorsqu’un contrat d’assurance existe conformément aux lois ou réglementations en vigueur.
+- Des poursuites liées à des infractions aux règles de stationnement.
+- Des litiges avec les douanes.
+- Des poursuites pour conduite sous l’emprise de l’alcool, délit de fuite, refus d’obtempérer (même sans accident), usage de substances ou plantes classées comme stupéfiants, absence de permis de conduire, absence d’assurance, ou excès de vitesse supérieur à 40 km/h.
+- Du refus de restitution d’un permis de conduire suite à une décision judiciaire ou administrative.
+- Des conséquences d’une fraude ou de poursuites pour un délit intentionnel ou un crime. Toutefois, l’assureur prend en charge les honoraires d’avocat avec l’accord de l’assuré si une décision définitive exclut le caractère intentionnel de l’infraction reprochée (acquittement, non-lieu, absence d’infraction, relaxe, etc.) ou en cas de dol.
+- Des oppositions entre l’assuré et le distributeur.
+- Des modifications constitutionnelles du droit.
+- Des événements découlant de guerres civiles ou étrangères, d’attentats.
+- Des incidents liés à un contact ou une contamination par une matière nucléaire, chimique, biologique ou une source radioactive.
 
-## 2.2 المساعدة على تسوية النزاعات :
+L’assureur ne prend pas en charge les frais suivants :
 
-تساعد شـركة التامين المؤمن له على تسـوية النزاعات في حدود نزاعين في كل سـنة تامين و ذلك في إطار الدعوى القضائية و نزاعين في إطار الإجراءات القانونية للصلح. 3
+- Les honoraires d’agents de toute nature fixés en fonction des intérêts en jeu, du résultat final ou attendu des démarches entreprises.
+- Les frais et honoraires des enquêteurs privés.
+- Les amendes pénales assurées.
+- Les frais de consultation ou de procédures effectuées avant la déclaration du litige, sauf en cas d’urgence.
+- Les frais liés à une question prioritaire de constitutionnalité.
+- Les frais irrécupérables supportés par la partie adverse et imposés à l’assuré par le juge.
 
-### في مرحلة الصلح :
+## ARTICLE 4 : Conditions de l’assurance
 
-في حالة النزاعات المؤمنة ، يتولى المكلف بالشـؤون القانونية تحليل الجوانب القانونية للوضعية و تقديم استشارة مناسبة في إطار التسوية مع توجيه المؤمن له لأفضل مسار قد يتبناه للدفاع عن مصالحه.
+### 4.1 Conditions de garantie
 
-بالتشـاور مع المؤمن له وشـريطة أن تكون الدعوي مناسـبة يتدخل المكلف بالشـؤون القانونية مباشـرة مع الطرف المقابل لتوضيح تحليله للحالة وتذكيره بحقوق المؤمن له.
+Pour qu’un litige soit couvert dans les phases amiable ou judiciaire, les conditions suivantes doivent être remplies :
 
-### في المرحلة القضائية
+- Le litige doit concerner la vie privée de l’assuré ou sa qualité de salarié.
+- Le fait générateur du litige ne devait pas être connu de l’assuré à l’entrée en vigueur de son assurance.
+- L’assuré doit informer l’assureur du litige entre la date d’entrée en vigueur et la fin de validité du contrat, avec une période supplémentaire de deux mois à compter de la résiliation pour déclarer un litige survenu pendant la période de validité.
+- L’assuré doit souscrire et maintenir les contrats d’assurance légaux et obligatoires le concernant.
+- Un contrat de responsabilité civile ne peut couvrir les intérêts de l’assuré dans un litige spécifique.
 
-شريطة أن تكون الدعوى مناسبة و يتجاوز مبلغ الفوائد المفروضة 300 يورو أو ما يقابله بالدينار التونسـي ( كافة الضرائب مشـمولة ) حسـب تقييم المحامي المعين من قبل شـركة التأمين في تاريخ إعلان النزاع، يتولى المكلف بالشؤون القانونية مساعدة المؤمن له في تنفيذ الدعوى القضائية و ذلك في الحالات التالية:
+Pour qu’un litige soit couvert en phase judiciaire, les conditions supplémentaires suivantes doivent être remplies :
 
-- إذا لم يتم حل النزاع بشكل ودي
-- إذا انقضت كافة الآجال المحددة في هذا السياق
-  - إذا تمت دعوة المؤمن له واحتاج إلى دفاع .
+- Les intérêts en jeu doivent dépasser 300 euros (ou équivalent en dinars tunisiens, taxes incluses) à la date de déclaration du litige.
+- L’assuré doit obtenir l’accord préalable de l’assureur avant d’intenter une action, d’entamer une nouvelle phase procédurale ou d’exercer un recours, afin que l’assureur puisse analyser les informations fournies et donner son avis sur les chances de succès.
 
-كما تتولى شـركة التامين تكليف محام للمؤمن له للدفاع عنه طيلة فترة النزاع بتقديم الدعم اللازم له خلال مجريات القضية .
+### 4.2 Causes de non-prise en charge
 
-للمؤمن له حرية اختيار محاميه وقد يعين أحدا من اختياره بعد إعلام شركة التامين بكافة معطيات ذلك المحامي .
+En cas de fausse déclaration ou de déformation des faits ou circonstances du litige, l’assuré perd le droit à la garantie pour le litige concerné.
 
-علاوة على ذلك، ومع احترام مقتضيات العقد، يجب على المؤمن له إبلاغ المكلف بالشـؤون القانونية بمجريات قضيته.
+### 4.3 Déclaration des litiges et informations
 
-إذا كان قرار المحكمة لصالح المؤمن له ،يجب على المحامي اتخاذ الترتيبات اللازمة لتنفيذه عن طريق عدل تنفيذ إذا كانت الدعوى مناسبة . ويقوم بمنح عدل التنفيذ المكلف كافة المعلومات اللازمة لتسهيل تدخله لدى الخصم المدين .
+L’assuré peut contacter l’assureur par téléphone au numéro indiqué dans les conditions générales. L’assureur guide l’assuré sur les démarches à entreprendre pour préserver ses droits et effectuer la déclaration.
 
-في إطار النزاع المؤمن تتحمل شركة التامين كافة المصاريف والأتعاب الناشئة عن تسوية النزاع ضمن الحدود المنصوص عليها في الفصل 5 " شروط التامين " .
+- **Comment déclarer un litige ?** Par écrit.
+- **Où déclarer un litige ?** À l’adresse indiquée dans les conditions générales.
+- **Quand déclarer un litige ?** Dès que l’assuré en a connaissance, dans un délai maximum de 10 jours à compter de cette connaissance.
+- **Informations à fournir** :
+  - Références du contrat d’assistance protection juridique.
+  - Données précises sur l’adversaire.
+  - Références de tout autre contrat pouvant couvrir le litige.
+  - Chronologie des circonstances du litige.
+  - Tous documents prouvant les faits essentiels et informations pertinentes pour l’instruction de l’affaire.
 
-### الفصل 3- مجالات التامين :
+L’assuré doit transmettre à l’assureur, dès réception, tous avis, correspondances, convocations, procès-verbaux d’huissiers, assignations et documents procéduraux qui lui sont adressés. Cette diligence est essentielle pour préserver ses droits et éviter la prescription du litige.
 
-# 1.3 تأمينات شراء وبيع السلع وتقديم الخدمات:
+### 4.4 Territorialité
 
-يتمتع المؤمن له بتامين في صورة حصول نزاع يواجهه مع أي بائع أو مقدم خدمات بمناسبة :
+Les garanties du contrat s’appliquent aux litiges découlant d’événements survenus dans les pays suivants et relevant de la compétence judiciaire de leurs tribunaux, où les décisions sont également exécutées :
 
-- شراء أو صيانة أو كراء الممتلكات المنقولة.
-- إبرام و سوء تنفيذ و عدم تنفيذ أو إنهاء عقد تقديم الخدمات
-  - بيع ممتلكات منقولة أو تقديم خدمات.
+- Tunisie
+- France et Monaco
+- Pays de résidence de l’assuré
 
-### 2.3 تامين السكن و سير الأشغال العقارية :
+L’assureur couvre également les litiges survenus lors d’un séjour de moins de trois mois consécutifs dans un autre pays, relevant de la compétence d’un tribunal hors de la zone géographique précitée. Cette couverture consiste à rembourser les frais et honoraires engagés par l’assuré après la fin des procédures judiciaires, dans la limite de 3000 euros (ou équivalent en dinars tunisiens, taxes incluses), sur présentation des mesures prises, de la décision rendue et de la facture acquittée.
 
-يتمتع المؤمن له بالتامين في صورة حصول نزاعات تعرض لها بوصفه مالكا أو شـريكا في الملكية أو متسوغا أو شريكا في التسويغ بمناسبة إشغال أو شراء أو بيع أي من ممتلكاته العقارية المشمولة بالتامين .
+### 4.5 En cas de désaccord
 
-كما يتمتع المؤمن له كذلك بالتامين إذا كانت العقارات المؤمنة التي يشغلها على ملك شركة مدنية عقارية للتصرف وإذا كان يحمل أسهما في هذه الشركة أو صاحب ملك على الشياع أو حق رقبة أو حق الانتفاع (سـواء كان صاحب ملك الرقبة أو حق الانتفاع) .
+L’assureur analyse les informations fournies pour évaluer la pertinence de poursuivre un litige à chaque étape importante de son évolution, puis informe et discute avec l’assuré.
 
-إذا قام المؤمن له بفسـخ عقد الكراء أو باع الممتلكات المشـمولة بالتامين فانه يتمتع بالتامين في النزاعات ذات الصلة بتلك الممتلكات على مدى ستة أشهر ابتداء من التاريخ الفعلي لفسخ العقد أو إبرام البيع .
+En cas de désaccord avec l’assureur sur les fondements de ses droits ou les mesures à prendre pour résoudre le litige, l’assuré peut engager l’action à ses frais. Si la solution définitive obtenue est plus favorable que celle proposée par l’assureur, ce dernier rembourse les frais et honoraires engagés par l’assuré, dans les limites et conditions prévues par ce document.
 
-كما يتمتع المؤمن له بالإضافة إلى ذلك وفي حال قام بكراء أو شـراء عقار بالتامين على النزاعات ذات الصلة طوال فترة الشراء أو إبرام عقد الكراء و ذلك إذا تم تخصيص هذه الملكية كمحل قامة رئيسية له منذ تاريخ إبرام الشراء أو عقد التسويغ .
+### 4.6 En cas de conflit d’intérêts
 
-### 3.3 تامين الأجبر :
+En cas de conflit d’intérêts entre l’assuré et l’assureur, l’assuré est libre de désigner un avocat de son choix. L’assureur prend en charge les frais et honoraires de cet avocat dans les limites et conditions prévues par ce document.
 
-يتمتع المؤمن له في حالات النزاع التي تنشا بوصفه أجيرا مع مشغله بالقطاع الخاص أو العام و سـواء بموجب عقد محدد أو غير محدد المدة أو عقود التربص و التعويض.
+## ARTICLE 5 : Prise en charge financière
 
-يتمتع المؤمن له بهذا التامين شـريطة أن ينشـا النزاع بعد مرور شـهرين من دخول هذا العقد حيز التنفيذ وتسمى هذه الفترة فترة الانتظار.
+### 5.1 Nature des frais pris en charge
 
-### 4.3 التامين الصحي:
+En cas de litige garanti, l’assureur prend en charge les frais suivants, dans les limites indiquées ci-dessous :
 
-يتمتع المؤمن له بتأمين في حالة نزاع مع مهني صحة أو منشأة صحية نتيجة خطأ طبي أو التشخيص الخاطَئ أو الإصابة علاجية المنشأ أو التي تكتسب داخل المستشـفي.
+- Frais des procès-verbaux de recherche effectués par la police ou les agents désignés par l’assureur.
+- Frais des procès-verbaux de constat établis par les huissiers désignés par l’assureur.
+- Honoraires des experts désignés par l’assureur ou par le tribunal.
+- Honoraires des médiateurs désignés par l’assureur.
+- Frais imposés à l’assuré.
+- Honoraires et frais d’avocats.
 
-## 5.3 جبر الأضرار البدنية / التعدي على السلامة البدنية :
+Les frais non pris en charge sont précisés à l’article 3 « Exclusions ».
 
-يتمتع المؤمن بتامين في حالة نزاع على تعويض عن الأضرار التي لحقت سلامته الجسدية جراء تعدي أو حادث يعزى إلى الغير.
+### 5.2 Montants des frais et honoraires d’avocats
 
-### 6.3 تامين انتحال الهوية
+| **Montants maximums de prise en charge (taxes incluses) par litige et par année** | **Type de prise en charge** |
+|----------------------------------------------------------------------------------|-----------------------------|
+| 1000 € (ou équivalent en dinars tunisiens) par litige                            | Phase amiable               |
+| 10 000 € (ou équivalent en dinars tunisiens) par litige et par année            | Phase judiciaire en Tunisie |
+| 40 000 € (ou équivalent en dinars tunisiens) par litige et par année            | Phase judiciaire en France  |
+| 20 000 € (ou équivalent en dinars tunisiens) par litige et par année            | Phase judiciaire hors France ou Tunisie |
+| 1500 € (ou équivalent en dinars tunisiens) par litige                           | Expertise judiciaire         |
+| 4000 € (ou équivalent en dinars tunisiens) par litige                           | Garantie fiscale            |
 
-إذا كان المؤمن ضحية لانتحال الهوية. وينطبق هذا التامين في إطار حياته الخاصة.
+| **Montants maximums de prise en charge (taxes incluses) pour les honoraires d’avocats en France ou devant les juridictions étrangères** | **Type de procédure** |
+|-------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| 500 € (ou équivalent en dinars tunisiens)                                                                                     | Assistance amiable    |
+| 1706,40 € (ou équivalent en dinars tunisiens)                                                                                 | Assistance pénale en cas de garde à vue |
+| 500 € (ou équivalent en dinars tunisiens)                                                                                     | Autorisation judiciaire ou requête |
+| 800 € (ou équivalent en dinars tunisiens)                                                                                     | Toutes juridictions de première instance |
+| 800 € (ou équivalent en dinars tunisiens)                                                                                     | Cours d’appel en matière pénale |
+| 1100 € (ou équivalent en dinars tunisiens)                                                                                    | Cours d’appel pour toutes autres matières |
+| 1800 € (ou équivalent en dinars tunisiens)                                                                                    | Juridictions suprêmes – Cassation (matière pénale) |
+| 1700 € (ou équivalent en dinars tunisiens)                                                                                    | Juridictions suprêmes – Cassation (autres matières) |
 
-## 7.3 تامين ضمان الدفاع الجنائي
+### 5.3 Modalités de prise en charge
 
-تدافع شـركة التأمين عن مصالح المؤمن له عندما يكون محل تتبع لارتكابه مخالفة أو جنحة أمام قضاء جائر أو يتم استدعاءه من قبل لجنة إدارية.
+La prise en charge des honoraires et frais d’avocats s’effectue comme suit :
 
-## 8.3 الحماية الاجتماعية / الحيطة / التقاعد
+- Soit l’assureur règle directement l’avocat désigné sur présentation des documents procéduraux, de la décision rendue et de l’autorisation d’honoraires signée par l’assuré.
+- Soit, en l’absence d’autorisation, l’assuré règle les honoraires et frais de l’avocat désigné (taxes incluses), et l’assureur le rembourse sur présentation de la décision rendue, du protocole signé ou des démarches effectuées, ainsi que de la facture acquittée.
 
-يتمتع المؤمن له بالتامين في حالة النزاع على الفوائد المستحقة له من قبل منظمة اجتماعية أو تعاونية أو شركة تأمين أو صندوق تقاعد أو حيطة. 5
+**Prise en charge des honoraires d’un avocat défendant un groupe de personnes contre une même partie pour un même litige** :  
+L’assureur rembourse l’assuré proportionnellement au nombre de parties impliquées, dans la limite des montants prévus, en cas de litige identique opposant un groupe de personnes à un même adversaire, avec un avocat mandaté pour défendre les mêmes intérêts.
 
-#### 9.3 تامين الجباية :
+**Sort des frais irrécupérables imposés à l’adversaire** :  
+Le tribunal peut imposer les frais irrécupérables à la partie adverse. Le Code des Assurances permet à l’assureur de récupérer ces montants dans la limite des frais engagés au bénéfice de l’assuré (subrogation). Toutefois, si l’assuré justifie les frais et honoraires engagés dans le cadre du litige, il récupère ces indemnisations en priorité.
 
-يتمتع المؤمن له بالتامين في حالة النزاع على مقترح تعديل ضريبي أو استرداد ضرائب يتم إعلامه به بعد ثلاثة أشهر على الأقل من تاريخ سريان عقده شريطة أن لا يتصل التعديل المقترح بالمداخيل والأرباح و المكاسب أو الأرباح المنجرة عن أي نشاط مهني غير صفته كأجير .
+## ARTICLE 6 : Formation et entrée en vigueur du contrat
 
-### 10.3 الوظائف الأسرية
+Le présent contrat prend effet dès sa signature par les parties. L’assureur, Assurances SALIM, peut en commencer l’exécution. Toutefois, l’assurance ne produit ses effets que le lendemain à midi du jour où la première prime est payée à Assurances SALIM. Les mêmes dispositions s’appliquent à tout avenant au contrat.
 
-يتمتع المؤمن له بالتامين في حالة النزاع الذي ينشا بينه بصفته مشغل لفرد مصرح به بشكل منظم لدى هيئات التغطية الاجتماعية و الذي يقدم له خدمة منزلية أو عائلية.
+## ARTICLE 7 : Durée du contrat
 
-#### 11.3 الإرث
+Le contrat est conclu pour une durée d’un an, renouvelable par tacite reconduction. Il peut être résilié à la fin de chaque année d’assurance, à l’initiative de l’une des parties, qui doit en informer l’autre deux mois avant la date d’échéance contractuelle, par voie d’huissier, lettre recommandée avec accusé de réception ou notification contre récépissé au siège d’Assurances SALIM ou à l’agence émettrice.
 
-يمكن للؤمن له عند الاقتضاء طلب مساعدة شـركة التامين و اسـتشـارتها بخصوص مسـائل الإرث و ذلك في إطار الإدلاء بالمعلومات. يجب القيام بأية إجراءات أو تراتيب لدى مختص في القانون . إذا نشـا أي نزاع يخص الإرث يحصل المؤمن له على تغطية عن أتعاب المحامي المحدد ضمن جدول التأمينات أو الإجراءات القضائية باستثناء أتعاب الاشهاد
+La date d’échéance contractuelle, point de départ de la période d’assurance, est indiquée dans les conditions particulières.
 
-#### الفصل 4 : استثناءات التامين :
+## ARTICLE 8 : Subrogation - Recours après sinistre
 
-لا تغطي شركة التامين النزاعات الناجمة عن :
+L’assureur, Assurances SALIM, ayant payé une indemnité, est subrogé, à concurrence de cette indemnité, dans les droits et actions de l’assuré contre les tiers responsables du dommage ayant engagé la responsabilité de l’assureur.
 
-- شراء أو حيازة أو إحالة الأسهم أو الأوراق المالية، بما في ذلك الملكية المتعددة خارج الضمانات المنصوص عليها في الفصل 3؛
-- الأشغال العقارية التي تفوق قيمتها 2000 يورو أو ما يقابله بالدينار التونسي خاضعة للاداءت ودون احتساب التجهيزات أو 3700 يورو أو ما يقابله بالدينار التونسـي خاضعة للاداءات مع حساب التجهيزات في النزاع الواحد .
-  - إصدار رخصة بناء أو ترخيص عمراني طلبه المؤمن له؛
-  - أعمال البناء بما في ذلك حالات البيع قبل انتهاء الأشغال
-    - ترسيم الحدود
-  - الضمانات المقدمة أو التفويضات المستلمة من المؤمن له
-- الاعتراض في المسائل العقارية مع مالكين على الشياع أو شركاء في شركة عقارية مالكة لعقارات أو بين مالك حق الرقبة و مالك حق الانتفاع .
-  - النزاع الناجم عن شغل جماعي.
-  - انتحال الهوية بالتواطؤ مع المؤمن له.
-  - انتحال الهوية من قبل شخص يتمتع بالتامين بموجب هذا العقد .
-    - الأمراض المهنية
-    - الملكية الفكرية
-    - أعمال الإدارة أو التصرف لجمعية أو لشركة مدنية أو تجارية.
+L’assureur ne peut exercer de recours contre les ascendants, descendants, alliés directs, employés, ouvriers, domestiques ou toute personne résidant habituellement au domicile de l’assuré, sauf en cas de dommage intentionnel causé par l’un d’eux (article 21 du Code des Assurances).
 
-- نشاط سياسبي أو نقابي أو مدة انتخابية
-- تعديل في أجال الدفع من طرف المؤمن له لا ينجر عنه معارضة المؤمن له من حيث الأصل .
-- المسؤولية المدنية للمؤمن له عند وجود عقد تأمين طبقا للقوانين أو التراتيب المعمول رہا .
-  - تتبعات تتعلق بانتهاك لقواعد وقوف السيارات.
-    - مشكلة مع الديوانة
-- تتبعات جراء السياقة تحت تأثير الكحول أو جنحة الفرار و رفض الانصياع حتى في حال عدم وجود حادث، واستخدام المواد أو النباتات المصنفة ضمن جدول المخدرات، وعدم حيازة رخصة سياقة و عدم وجود عقد تأمين وتجاوز أكثر من 40 كم / ساعة من حدود السرعة المسموح بها.
-  - رفض إرجاع رخصة السياقة إثر صدور قرار قضائي أو إداري.
-- الآثار المترتبة على المؤمن له عن الغش أو التتبع المتعلق بجنحة متعمدة أو جناية. ومع ذلك، تتكفل شركة التامين بأتعاب المحامي بعلم المؤمن له ۖ في صورة إصدار قرار بات من شأنه أن يزيل الطابع المتعمد للجريمة التي وجهت للمؤمن له ( إقالة، عدم حصول جريمة، عدم تكييف الجريمة، تسريح ...) أو التغرير؛
-  - المعارضة من قبل المؤمن له مع الموزع.
-    - التعديل الدستوري للقانون.
-  - الحوادث الناجمة عن الحروب الأهلية والحروب الخارجية و الهجمات،
-- الحوادث الناجمة عن أي اتصال مع أو عدوى بأي مادة نووية أو كيميائية أو بيولوجية، او مصدر مشع.
+L’assureur peut être déchargé, en tout ou partie, de sa responsabilité envers l’assuré si la subrogation ne peut plus s’opérer en sa faveur du fait de l’assuré (article 21, alinéa 2, du Code des Assurances).
 
-لا تتكفل شركة التامين بالنفقات التالية :
+## ARTICLE 9 : Résiliation du contrat
 
-- أتعاب الوكلاء من أي نوع، والتي يتم تحديدها بناء على الفوائد المفروضة أو اعتمادا على النتيجة النهائية أو المأمولة في الخطوات المتخذة.
-  - رسوم وأتعاب محققي القانون الخاص ( المحققين الخاصين) .
-    - الخطية الجزائية المؤمنة
-- رسوم الاستشارة أو أعمال الإجراءات التي نفذت قبل إعلان النزاع إلا إذا كان ثمة حاجة ملحة.
-  - التكاليف والرسوم المرتبطة بمسألة ذات أولوية دستورية.
-- التكاليف غير قابلة للاسترداد التي يتكبدها الطرف الخصم ويحملها القاضي على -المؤمن له.
+Le contrat peut être résilié :
 
-### الفصل 5 – شروط التأمينات :
+1. **Par le souscripteur et Assurances SALIM** : À la fin de chaque année d’assurance, dans les conditions de délai et de forme prévues à l’article 7.
+2. **Par Assurances SALIM** :
+   - a) En cas de non-paiement de la prime ou de la cotisation, dans les conditions de délai et de forme prévues à l’article 11 du Code des Assurances.
+   - b) En cas d’aggravation du risque, si l’assuré refuse l’augmentation de prime proposée, dans les conditions de délai et de forme prévues à l’article 9, alinéas 1 et 2, du Code des Assurances.
+   - c) En cas d’aggravation du risque telle que, si les nouvelles circonstances existaient lors de la souscription ou du renouvellement, Assurances SALIM n’aurait pas conclu le contrat, dans les conditions de délai et de forme prévues à l’article 9, alinéa 3, du Code des Assurances.
+3. **Par l’assuré** : Si Assurances SALIM refuse de réduire la prime en cas de diminution du risque, dans les conditions de délai et de forme prévues à l’article 9, alinéa 6, du Code des Assurances.
+4. **De plein droit** : En cas de perte totale ou de destruction complète du bien assuré résultant d’un événement non couvert par le contrat (article 19 du Code des Assurances).
 
-#### 1.5 شروط التامين
+En cas de résiliation en cours de période d’assurance, la portion de prime correspondant à la période postérieure à la résiliation n’est pas acquise à Assurances SALIM et doit être remboursée à l’assuré si elle a été perçue à l’avance.
 
-لكي يتم تامين النزاع في مراحل الصلح القضائي يجب استيفاء الشروط التالية :
+## ARTICLE 10 : Autres assurances
 
-- يجب أن يتصل النزاع بالحياة الخاصة للمؤمن له أو صفته كأجير .
-- لم يكن الفعل المولد للنزاع معلوما للمؤمن له عند دخول تأمينه حيز التنفيذ
-- يجب على المؤمن له إعلام شركة التامين بالنزاع الذي يخوضه بين تاريخ دخول تامين حيز التنفيذ وانتهاء مدته ولكن يتمتع بمهلة إضافية بشهرين ابتداء من تاريخ سريان فسخ العقد لإعلام المؤمن بالنزاع الذي نشيا على مدى فترة سريان التامين .
-  - يجب على المؤمن له إبرام والحفاظ على عقود التامين القانونية والإجبارية الخاصة به.
-    - لا يمكن لعقد المسـؤولية المدنية تأمين مصالح المؤمن له في نزاع معين.
+Si les risques couverts par ce contrat sont ou deviennent couverts par une autre assurance, l’assuré doit en informer Assurances SALIM, en indiquant le nom de l’autre assureur et le montant assuré.
 
-وبالإضافة إلى ذلك، لكي يتم تامين النزاع ضمن المرحلة القضائية، يجب أن تتحقق الشروط التالية:
+## ARTICLE 11 : Compétence juridictionnelle et prescription
 
-- يجب أن تتجاوز مصالح المؤمن له 300 يورو أو ما يقابله بالدينار التونسـي خاضعة للأداء في تاريخ النزاع.
-- يجب أن يحصل المؤمن له على موافقة مسبقة من شركة التامين قبل رفع دعوى أو إبرام مرحلة جديدة من الإجراءات أو ممارسـة أي من إجراءات التعقيب لكي تتمكن شـركة التامين من تحليل المعلومات الواردة لها وتقدم رأيها بخصوص مدى نجاح تبعات نزاعه .
+### 11.1 Compétence juridictionnelle
 
-### 2.5 أسباب عدم استحقاق التامين
+Pour les actions découlant du contrat d’assurance :
 
-في حالة تحريف أو تشويه الحقائق أو ملابسـات النزاع، يسـقط حق المؤمن له في ضمان تامين النزاع المعني.
+- Si l’action est intentée par l’assureur, la juridiction compétente est celle du domicile de l’assuré.
+- Si l’action est intentée par l’assuré, il peut saisir, à son choix, la juridiction de son domicile, celle du domicile de l’assureur, ou celle du lieu où se trouve le bien assuré.
+- Pour les immeubles, l’action est portée devant la juridiction du lieu où se situent les immeubles concernés (article 13 du Code des Assurances).
 
-### 3.5.الإبلاغ عن النزاع والمعلومات
+### 11.2 Prescription
 
-يمكن للمؤمن له الاتصال بالمؤمن عن طريق الهاتف على الرقم الوارد ضمن هذه الشـروط العامة و يتولى المؤمن إرشاد المؤمن له حول الإجراءات التي ينبغي توخيها للحفاظ على حقوقه و القيام بعملية التبليغ .
+Les actions découlant du présent contrat sont prescrites dans un délai de deux ans à compter de l’événement qui leur donne naissance, dans les conditions prévues par les articles 14 et 15 du Code des Assurances.
 
-كيفية الإيلاغ عن النزاع؟ يجب على المؤمن له أن يتولى الإبلاغ عن النزاع كتابيا
+**Souscripteur du contrat**  
+**Assurances SALIM**
 
-مكان الإيلاغ عن النزاع؟ يتولى المؤمن له الإبلاغ عن النزاع على العنوان المشار ضمن الشروط العامة
-
-متى يتم الإيلاغ عن النزاع ؟ يجب على المؤمن له الإبلاغ عن النزاع فورا علمه به و في غضون مدة أقصاها 10 أيام من تاريخ العلم بالنزاع.
-
-المعلومات الواجب تقديمها : يتعين على المؤمن له على وجه الخصوص تقديم المعلومات التالية :
-
-- مراجع عقد المساعدة في الحماية القانونية الخاص به .
-  - البيانات الدقيقة الخاصة بالخصم .
-- المراجع الخاصة بأي عقد آخر من شانه أن يشمل النزاع .
-
-- عرض زمني لملابسات النزاع.
-- جميع المستندات التي من شانها أن تثبت الحقائق الجوهرية و جميع المعلومات والوثائق ذات الصلة بالتحقيق في القضية.
-
-يجب على المؤمن له علاوة على ذلك مد المؤمن فور الاستلام بجميع الإشعارات و المراسلات والاستدعاءات ومحاضر عدول التنفيذ والتكليف بالحضور والوثائق الإجرائية التي يمكن أن تسلم أو ترسل له.تعتبر هذه السرعة مهمة للحفاظ على حقوقه و إجراءاته ولا سيما لتجنب تقادم النزاع.
-
-### 4.5 الإقلىمىة
-
-تمنح ضمانات العقد للمنازعات المنجرة عن الأحداث الناشئة بإحدى للبلدان المذكورة أدناه والتي تنضوي تحت الاختصاص القضائي لأحد محاكم هذه الدول ;و أين يتم كذلك تنفيذ القرارات الصادرة في إحدى هذه البلدان :
-
-- تونس
-
-- فرنسا وموناكو
-
-## - بلد الإقامة الخاص بالمؤمن له
-
-تتولى شركة التأمين أيضا ضمان الخلافات الناشئة بمناسبة الإقامة لمدة تقل عن ثلاثة أشهر متتالية في دولة أخري وبالتالي تدخل ضمن اختصاص محكمة دولة لا تقع ضمن المنطقة الجغرافية المحددة أعلاه. يتمثل التدخل في سـداد النفقات و الأجور التي تكبدها المؤمن له اثر انتهاء إجراءات التقاضي في حدود 3000 يورو أو ما يقابله بالدينار التونسـي مع القيمة المضافة. تسـدد هذه النفقات اثر عرض التدابير المتخذة و القرار الصادر و الفاتورة المسددة .
-
-### 5.5. في حالة عدم الاتفاق
-
-تنظر شـركة التأمين بعد تحليل المعلومات المقدمة في جدوى متابعة نزاعها خلال كل مرحلة هامة من مراحل تطوره.
-
-يحق للمؤمن له رفع الدعوى موضوع الخلاف على نفقته الخاصة في حالة نشوء خلاف بينه و بين شركة التأمين بخصوص أسس حقوقه أو بخصوص التدابير الواجب اتخاذها لحل النزاع.
-
-تقوم شركة التامين في الحالة الأخيرة و في صورة حصول المؤمن له على الحل النهائي المناسب بالمقارنة مع ذلك المقترح من قبلها بتعويض المؤمن له عن النفقات و الأجور التي تكبدها خلال الدعوى وفق الحدود و الشروط المحددة بموجب هذه الوثيقة .
-
-تنظر شـركة التأمين بعد تحليل المعلومات المقدمة في جدوى متابعة نزاعها خلال كل مرحلة هامة من مراحل تطوره و من ثم إبلاغ المؤمن له بمآل ذلك و مناقشة الأمر معه .
-
-يحق للمؤمن له رفع الدعوى على نفقته الخاصة في حالة نشوء خلاف بينه و بين شركة التأمين حول كيفية حل النزاع. و في هذه الحالة و في صورة حصول المؤمن له على الحل النهائي المناسب المقترح من قبل المؤمن يتعين على المؤمن خلاص المصاريف المؤداة من طرف المؤمن له طبقا للشـروط المحددة بموجب هذه الوثيقة .
-
-### .6.5 في حالة تضارب المصالح
-
-يتمتع المؤمن له بحرية تعيين محام من اختياره كلما كان هناك تضارب في المصالح بينه وبين شـركة التأمين و في هذه الحالة تتحمل شـركة التأمين دفع تكاليف وأتعاب المحامي ضمن الحدود والشـروط المحددة في هذه الوثيقة.
-
-### 7.5 التكفل المالي
-
-### 1.7.5 طبيعة التكاليف المتكفل بها
-
-تتكفل شركة التامين بالتكاليف التالية في صورة وجود نزاع مضمون و في حدود المبالغ المحددة ادناه :
-
-- تكاليف محاضر البحث المجراة من قبل الشرطة أو الأعوان المعينين من قبل شركة التامين.
-  - تكاليف محاضر المعاينة المجراة من قبل عدول التنفيذ المعينين من قبل شـركة التامين .
-    - أتعاب الخبراء المعينين من طرف شركة التامين .
-      - أتعاب الخبراء المعينين من قبل المحكمة .  $\sim$
-    - أجور الوسطاء المعينين من قبل شـركة التامين .
-      - المصاريف المحمولة على المؤمن له.
-        - اجور و أتعاب المحاماة.
-
-# حددت التكاليف الغير معتمدة ضمن الفصل 4: الاستثناءات.
-
-### 2.7.5 مبالغ التكاليف وأتعاب المحاماة
-
-| مبالغ التكفل القصوي الخاضعة للضريبة عن كل نزاع و كل سنة         |                             |  |
-|-----------------------------------------------------------------|-----------------------------|--|
-| 1000 يورو أو ما يقابله بالدينار التونسي عن كل نزاع              | سقف التكفل خلال             |  |
-|                                                                 | الطور الصلحي                |  |
-| 10000يورو أو ما يقابله بالدينار التونسي عن كل نزاع وكل سنة      | سـقف التكفل خلال            |  |
-| تامین                                                           | طور التقاضي في تونس         |  |
-| 40000 يورو أو ما يقابله بالدينار التونسي عن كل نزاع وكل سنة     | سـقف التكفل خلال            |  |
-| تامین                                                           | طور التقاضي في فرنسيا       |  |
-| 20000 يورو أو ما يقابله بالدينار التونسـي يورو  عن كل نزاع  وكل | سقف التكفل الخاص خلال       |  |
-| سنة تأمين                                                       | طور التقاضي خارج فرنسيا أو  |  |
-|                                                                 | تونس                        |  |
-| 1500يورو أو ما يقابله بالدينار التونسـي عن كل نزاع              | سـقف التكفل الخاص بالاختبار |  |
-|                                                                 | العدلي                      |  |
-| 4000 يورو أو ما يقابله بالدينار التونسي عن كل نزاع              | سـقف التكفل الخاص بضمان     |  |
-|                                                                 | الجبابة                     |  |
-
-| المبالغ القصوى الخاضعة للضريبة بعنوان  التكفل بأتعاب المحاماة بفرنسـا أو ما يعادلها أمام المحاكم |                                                  |                           |
-|--------------------------------------------------------------------------------------------------|--------------------------------------------------|---------------------------|
-| الأجنبية. تتضمن هذه المصاريف تكاليف الكتابة و التنقل و نسخ الوثائق.                              |                                                  |                           |
-| المساعدة                                                                                         |                                                  |                           |
-|                                                                                                  | ما يقابله بالدينار بحساب التدخل<br>500يورو<br>او | المساعدة بالتراضي         |
-|                                                                                                  | التونسبي                                         |                           |
-|                                                                                                  | 1706.40يورو أو ما يقابله بالدينار   بحساب النزاع | المساعدة الجنائية في حالة |
-|                                                                                                  |                                                  | التونسپ<br>الاحتفاظ       |
-| الاذونات مهما كان التوزيع الحكمي                                                                 |                                                  |                           |
-|                                                                                                  | 500يورو أو ما يقابله بالدينار بحساب الإذن        | الولائية أو على عريضة     |
-|                                                                                                  | التونسـي                                         |                           |
-| الابتدائية                                                                                       |                                                  |                           |
-|                                                                                                  | أو ما يقابله بالدينار بحساب القضية<br>800يورو    | جميع محاكم الدرجة الأولى  |
-|                                                                                                  | التونسبي                                         |                           |
-| الاستئناف                                                                                        |                                                  |                           |
-|                                                                                                  | أو ما يقابله بالدينار<br>800يورو                 | جميع محاكم الاستئناف      |
-|                                                                                                  | التونسبي                                         | في المادة الجنائية        |
-| بحساب القضية<br>بحساب القضية                                                                     | أو ما يقابله بالدينار<br>1100يورو                | جميع المواد الأخري        |
-|                                                                                                  | التونسبي                                         |                           |
-| المحاكم العليا –التعقيب                                                                          |                                                  |                           |
-| بحساب القضية                                                                                     | أو ما يقابله بالدينار<br>1800يورو                | في المادة الجنائية        |
-| بحساب القضية                                                                                     | التونسبي                                         | جميع المواد الأخري        |
-|                                                                                                  | 1700يورو أو ما يقابله بالدينار                   |                           |
-|                                                                                                  | التونسبي                                         |                           |
-|                                                                                                  |                                                  |                           |
-
-### 3.7.5 طرق التكفل
-
-تتم عملية التكفل بأجور و أتعاب المحاماة على النحو التالي :
-
-\*أما أن تتولى شركة التامين مباشرة خلاص المحامي الذي تم تعيينه بموجب المستندات الإجرائية و القرار الصادر و بموجب تقديم التفويض بالأتعاب الممضى من طرف المؤمن له .
-
-\*إما أن يتولى المؤمن له في غياب التفويض خلاص أجور و أتعاب المحامي المعين الخاضعة للضريبة و تتولى شـركة التامين من ثم خلاصه )بموجب تقديمه القرار الصادر أو البروتوكول الممضى أو التمشيات المتبعة من جهة و الفاتورة المسددة من جهة أخرى.
-
-<u>التكفل باجور و اتعاب المحامي الذي يتولى \_ الدفاع\_ عن مجموعة أشـخاص ضد طرف واحد و</u> لنفس النزاع
-
-تقوم شركة التامين بخلاص المؤمن له حسب حصص عدد المتداخلين و ذلك في صورة حصول نفس النزاع مع مجموعة أشخاص ضد نفس الخصم مع تكليف محام لدفاع عن نفس المصالح في حدود المبالغ المنصوص عليها في هذه الوثيقة.
-
-#### مآل النفقات والتكاليف الغبر قابلة للاسترداد و المحملة على الخصم
-
-يمكن للمحكمة المختصة ان تقرر تحميل النفقات والتكاليف الغير قابلة للاسـترداد على الخصم.تمكن مجلة التامين المؤمن من استرداد هاته المبالغ في حدود النفقات و التكاليف التي تكبدها في صالح المؤمن له و يشار إلى مبدأ الاسترداد هذا بالإحلال ) ومع ذلك إذا قام المؤمن له بتبرير التكاليف و الأتعاب التي تكبدها و المعروضة في إطار هذا النزاع فان هذا الأخير سيقوم باسترداد هذه التعويضات حسب الأولوية.
-
-### الفصل 6:تكوين و تاريخ نفاذ العقد
-
-يسري هذا العقد فور إمضائه من قبل الأطراف و يمكن لشركة تأمينات سليم على ضوء ذلك الشروع في العمل به بيد أن التامين لا يصبح نافذا إلا في اليوم الموالي عند منتصف النهار من اليوم الذي يتم فيه سداد القسط الأول إلى شركة تأمينات سليم .
-
-تسري نفس الأحكام على أية عقود تكميلية .
-
-#### الفصل 7:مدة العقد
-
-تم توقيع هذا العقد لمدة سنة واحدة قابلة للتجديد بموجب اتفاق ضمني. يتم إنهاء العقد في نهاية كل سـنة تامين على نفقة الطرف الذي يبادر بإعلام الطرف الأخر قبل شـهران من تاريخ انتهاء اجلَّ الاستحقاق التعاقدي عن طريق عدل تنفيذ أو رسالة مضمونة الوصول مع إعلام بالبلوغ أو من خلال الإشعار مقابل وصل.
-
-تمت الإشارة إلى تاريخ حلول الأجل التعاقدي الذي يحدد نقطة انطلاق فترة التامين ضمن الشـروط الخاصة .
-
-### الفصل 8:الإحلال -دعوى الرجوع بعد وقوع حادث
-
-تحل شـركة تأمينات سـليم التي قامت بالتعويض وفي حدود ذلك التعويض محل المؤمن له فيما له من الحقوق والدعاوي على الآخرين الذين تسبّبوا بفعلهم في الضرر الذي نتجت عنه مسؤولية شركة تامينات سلىم .
-
-لا يمكن لشركة تأمينات سليم الرجوع على الخلف و السلف والأصهار الأقربين والمستخدمين والعملة والخدم وبصفة عامة كل شخص يعيش عادة في منزل المؤمن له إلا في حالة الإضرار القصدي بالغير من قبل أحدهم(الفصل 21 من قانون التأمين).
-
-ويمكن أن تعفى شركة تأمينات سليم كليا أو جزئيا من مسؤوليتها نحو المؤمن له إذا لم يعد بإمكانها الحلول محله بفعل هذا الأخير. (الفصل 21 من قانون التأمين).
-
-#### الفصل 9:فسخ العقد
-
-يجوز فسخ العقد :
-
-- 1- من قبل المكتتب و شركة تأمينات سليم عند موفى كل سنة تامين وفق شروط الآجال و الطرق المنصوص عليها ضمن الفصل 5 من مجلة التامين.
-  - 2- من قبل شركة تأمينات سليم:
-- (أ) إذا لم يدفع المؤمن له قسط التأمين أو معلوم الإشـراك وفق شـروط الآجال و الطرق المنصوص عليها ضمن الفصل 11 من مجلة التامين.
-- (ب)في حالات تفاقم الخطر وفي صورة عدم قبول المؤمن له الترفيع المعروض عليه من قبل شـركة تأمينات سـليم وفق شـروط الآجال و الطرق المنصوص عليها ضمن الفصل 9 من مجلة التامين.
-- (ت)حالات تفاقم الخطر أثناء سـريان العقد بالقدر الذي لو كانت معه الظروف المسـتجدة عند الاكتتاب أو التجديد موجودة لما كان لشـركة تأمينات سـليم التعاقد أصلا وفق شـروط الآجال و الطرق المنصوص عليها ضمن الفصل 9 الفقرة 3 من مجلة التامين .
-  - 3- من قبل المؤمن له :
-
-في صورة عدم موافقة شـركة تأمينات سـليم على تخفيض قسط التامين الموافق لتقلص المخاطر أثناء سريان العقد وفق شروط الآجال و الطرق المنصوص عليها ضمن الفصل 9 من مجلة التامين .
-
-4- وجوبا :
-
-في حالة التلف الكلي أو الضياع الكامل للشـيء المؤمن عليه نتيجة حدث يضمنه العقد (الفصل 9 من مجلة التامين).
-
-لا يمكن في حالة فسخ العقد خلال فترة التامين منح قسط التامين الخاص بالفترة اللاحقة لإجراء فسخ العقد إلى شركة تأمينات سليم و يتم في المقابل سدادها للمؤمن له في صورة تحصيلها مقدما.
-
-### الفصل 10:التأمينات الأخرى
-
-يتوجب على المؤمن له في صورة ما إذا كانت المخاطر المشـمولة بهذا العقد مؤمنة او قابلة للتأمين من قبل شـركة تأمين أخرى بالتالي يتعين على المؤمن له خلال هذا التصريح الإفصاح عن اسـم شـركة التامين التي ابرم معها عقد تامين أخر مع الإشارة إلى تحديد مبلغ التامين .
-
-## الفصل 11:مرجع النظر الحكمي و سقوط الدعوى بمرور الزمن
-
-#### -1 مرجع النظر الحكمي
-
-فيما يتعلق بالدعاوي الناشئة عن عقد التأمين :
-
-- إذا رفعت الدعوى من طرف المؤمن فإنّ المحكمة المختصة هي المحكمة التي .1 بدائرتها مقر المؤمن له
-- ب. إذا رفعت الدعوى من طرف المؤمن له فإن المحكمة المختصة تكون حسب خياره سـواء المحكمة التي بدائرتها مقره أو المحكمة التي بدائرتها مقر المؤمن.
-- ت. بالنسبة للعقارات فإنّها ترفع للمحكمة التي بدائرتها العقارات المعين (الفصل 13من قانون التأمين).
-  - ث.
-
-#### سقوط الدعوى بمرور الزمن -2
-
-تسقط كل الدعاوي الناشئة عن عقد التأمين هذا بعد مضي عامين من تاريخ الحدث الذي تولدت عنه حسب الشروط المنصوص عليها ضمن الفصل 14 و 15 من مجلة التامين .
-
-مكتتب العقد
-
-شركة تأمينات سليم

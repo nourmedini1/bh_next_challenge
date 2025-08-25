@@ -1,263 +1,233 @@
-## **BHASSURANCE** *I*
-
 # NOTICE D'INFORMATION ASSURANCE DE LA CARTE
 
-![](_page_0_Picture_2.jpeg)
+**BH ASSURANCE**
 
-Le présent contrat est régi par le code des assurances ainsi que les Conditions Générales d'assurance Assistance à Domicile (MF N° 042/9 du 10/04/2001), d'assurance assistance aux personnes en voyage (MF N° 396/9 du 08/07/1998), d'assurance contre le Vol (MF N° 376/7 du 23/01/1998) et les conditions spéciales, souscrit par LA BH BANK, société anonyme au capital de 238.000.000, DT sise à Tunis, Avenue Mohamed V, auprès de la société BH ASSURANCE, société anonyme au capital de 13.300.000 DT sise à Tunis, LOT AFH BC 5- CENTRE URBAIN NORD.
+**Visa : MF N° 042/9 du 10/04/2001 (Assistance à Domicile), MF N° 396/9 du 08/07/1998 (Assistance aux Personnes en Voyage), MF N° 376/7 du 23/01/1998 (Vol)**
+
+Le présent contrat est régi par le Code des Assurances, promulgué par la loi n° 24/92 du 9 mars 1992, ainsi que par les Conditions Générales d’assurance Assistance à Domicile, Assistance aux Personnes en Voyage, assurance contre le Vol, les Conditions Spéciales, souscrit par **BH BANK**, société anonyme au capital de 238 000 000 DT, sise à Tunis, Avenue Mohamed V, auprès de **BH ASSURANCE**, société anonyme au capital de 13 300 000 DT, sise à Tunis, LOT AFH BC 5, Centre Urbain Nord.
 
 ## ARTICLE 1 - DÉFINITIONS
 
-## Assureur : La Société BH ASSURANCE.
+- **Assureur** : La société BH ASSURANCE.
+- **Souscripteur** : La BH BANK, qui souscrit le contrat avec l’assureur et est soumise aux engagements de ce contrat, sauf ceux qui, de par leur nature, doivent être respectés par les assurés. Le souscripteur fournit aux assurés ou aux bénéficiaires toutes les informations liées à ce contrat affectant leurs droits et obligations.
+- **Assuré** : La personne physique ou morale, cliente de la banque, titulaire d’une carte bancaire **BH GOLD**.
+- **Carte bancaire** : La carte de paiement et/ou de retrait **CARTE BH GOLD Nationale** et **Internationale**, émise par la banque.
+- **Tiers** : Toute personne physique étrangère à l’assuré ou au personnel du souscripteur.
+- **Voyage** : Les premiers 90 jours d’une excursion en dehors de la Tunisie, tombant dans la période prévue par le contrat.
+- **Vol** : Appropriation frauduleuse du bien d’autrui, à son insu et sans son consentement, ou à sa connaissance, par ruse, violence, menace ou intimidation à la personne, ou par violence à la propriété.
+- **Perte** : Disparition ou soustraction frauduleuse de la carte bancaire par suite d’un vol commis par un tiers.
+- **Usage frauduleux** : Acte ou ensemble d’actes malhonnêtes commis en contravention des lois et règlements, en vue de tromper autrui et d’en tirer un bénéfice, à son insu et sans son consentement, ou au su de la victime mais par force, menace ou violence. La couverture de l’usage frauduleux concerne tout débit constaté sur le compte auquel est rattachée la carte, occasionné par un tiers de façon frauduleuse et consécutif à un vol, une perte ou un usage des données de la carte.
+- **Clés** : Instrument servant à l’ouverture d’une serrure de la porte d’entrée du domicile de l’assuré ou de son véhicule.
+- **Papiers d’identité officiels** : Passeport, carte d’identité nationale, carte de séjour, permis de conduire, carte grise du véhicule propriété de l’assuré, et abonnement de transport en commun.
+- **Prime** : Le prix payé par le souscripteur à l’assureur en échange de la couverture des risques offerts par l’assureur.
+- **Franchise** : Le montant déduit de l’indemnité due pour chaque perte.
 
-Souscripteur : La BH BANK qui souscrit le contrat avec l'assureur et est sujette aux engagements d'un tel contrat excepté les engagements qui, dus à leur nature, doivent être respectés par les assurés. Le souscripteur fournira aux assurés ou les bénéficiaires, toutes les informations liées à ce contrat qui affectent ses droits et obligations
+## ARTICLE 2 - ADHÉSION AU CONTRAT
 
-Assuré : La personne physique ou morale cliente de la banque titulaire d'une Carte bancaire BH GOLD ».
+L’assuré est tenu de signer la demande de carte fournie par la BH BANK, impliquant l’adhésion automatique à l’assurance de la carte **BH GOLD**.
 
-Carte bancaire : La Carte de paiement et/ou de retrait CARTE BH GOLD Nationale et Internationale» émise par la BANQUE.
+## ARTICLE 3 - DURÉE DU CONTRAT
 
-Tiers : Toute personne physique étrangère à l'assuré ou au personnel du souscripteur.
+Le présent contrat est souscrit pour une durée d’un an, renouvelable par tacite reconduction. Il prend effet à l’égard de l’assuré à compter de la date de signature du contrat de la carte **BH GOLD**.
 
-Vovage : Les premiers 90 jours d'une quelconque excursion en dehors de la Tunisie tombant dans la période prévue dans le contrat.
+## ARTICLE 4 - OBJET DES GARANTIES
 
-Vol : Appropriation du bien d'une autre personne, à son insu et sans son consentement ou à sa connaissance, par ruse, violence, menace ou intimidation à la personne, ou de la violence à la propriété.
+Les garanties d’assurance couvertes par le présent contrat incluent :
 
-Perte : Disparition, ou soustraction frauduleuse de la Carte bancaire par suite de vol commis par un tiers.
+1. La couverture de tout débit constaté sur le compte auquel est rattachée la carte, occasionné par un tiers de façon frauduleuse, consécutif à un vol, une perte ou l’usage des données de la carte **BH GOLD**.
+2. Le remboursement des frais de mise en opposition consécutifs à la perte ou au vol de la carte **BH GOLD** ou de ses données.
+3. Le remboursement des frais de reconfection suite à la perte ou au vol de la carte **BH GOLD** ou de ses données.
+4. Le remboursement des frais de remplacement des serrures, suite à la perte ou au vol de clés perdues avec la carte **BH GOLD**.
+5. L’indemnisation nécessaire pour refaire les papiers d’identité officiels perdus ou volés avec la carte **BH GOLD**.
+6. L’assistance domiciliaire pour la carte **BH GOLD**.
+7. La garantie des achats protégés par la carte **BH GOLD**.
+8. Le service **MEDIPHONE**.
+9. L’assistance aux personnes à l’étranger.
 
-Usage Frauduleux : Acte ou ensemble d'actes malhonnêtes commis en contravention des lois et règlements en vue de tromper autrui et d'en tirer un bénéfice à son insu et sans son consentement, ou au su de la victime mais par force ou menace ou violence.
+## ARTICLE 5 - MONTANT DES GARANTIES
 
-La couverture Usage Frauduleux est relative à tout débit constaté sur le compte auquel est rattaché la carte, occasionné par un tiers de façon frauduleuse et consécutif à un vol, ou à une perte, ou à l'usage des données de la carte.
+Le contrat est souscrit par le titulaire de la carte **BH GOLD**. Tout assuré est tenu de signer la demande de carte fournie par la BH BANK, impliquant l’adhésion automatique à l’assurance.
 
-Clés : Instrument servant à l'ouverture d'une serrure de porte d'entrée du domicile de l'assuré ou de son véhicule.
+| Type de carte                     | Utilisation frauduleuse                                | Frais de mise en opposition | Frais de reconfection de la carte | Frais de remplacement des papiers d’identité officiels | Frais de remplacement des serrures et des clés |
+|-----------------------------------|-------------------------------------------------------|-----------------------------|-----------------------------------|-------------------------------------------------------|-----------------------------------------------|
+| **BH GOLD Nationale**             | Jusqu’à 2 000 DT (sans dépasser le plafond de la carte) | Jusqu’à 50 DT               | Jusqu’à 110 DT                    | Jusqu’à 100 DT                                        | Jusqu’à 200 DT                                |
+| **BH GOLD Internationale**        | Jusqu’à 10 000 DT (sans dépasser le plafond de la carte) | Jusqu’à 50 DT               | Jusqu’à 110 DT                    | Jusqu’à 100 DT                                        | Jusqu’à 200 DT                                |
 
-Papiers d'identité officiels : Passeport, Carte d'identité nationale, carte de séjour, permis de conduire, Carte grise du véhicule propriété de l'assuré, et abonnement de transport en commun.
+*Limites accordées par sinistre, par carte assurée et par année d’assurance.*
 
-Prime : le prix que le souscripteur a payé à l'assureur en échange de la couverture des risques offerts par l'assureur.
+### Assistance domiciliaire
 
-Franchise : Le montant déduit de l'indemnité due pour chaque perte.
+| Prestations     | Objet de la garantie « Assistance domiciliaire »                                                                 | Limite                                            |
+|-----------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| **Plomberie**   | En cas de rupture de canalisations, fuites des installations sanitaires ou des installations fixes d’eau dans l’habitation | 100 DT/intervention, maximum 3 interventions par an |
+| **Pose de vitres** | En cas de dégâts causés aux portes vitrées ou aux fenêtres assurant la fermeture extérieure de l’habitation       | 100 DT/intervention, maximum 3 interventions par an |
+| **Électricité** | En cas de rupture du courant électrique au sein du local à usage d’habitation, résultant d’un défaut ou de dégâts causés aux installations électriques internes | 100 DT/intervention, maximum 3 interventions par an |
+| **Serrurerie**  | En cas d’exposition du local à usage d’habitation à un danger ou d’impossibilité d’y accéder suite à la perte ou au vol des clés, ou aux dégâts causés à une ou plusieurs serrures dus à un vol ou à toute autre cause | 100 DT/intervention, maximum 3 interventions par an |
 
-#### ARTICLE 2 - ADHESION AU CONTRAT
+### Garantie « Achats protégés »
 
-L'assuré est tenu de signer la demande de la carte fournie par la Banque et impliquant l'adhésion automatique à l'assurance de la carte BH GOLD.
+|                              | Détails                                                                                                           |
+|------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Objet de la garantie**     | Pour tous les biens achetés avec la carte : remboursement du prix d’achat en cas de vol par effraction ou agression ; remboursement des frais de réparation en cas de dommage accidentel, ou, si les frais excèdent le prix d’achat ou si le bien est irréparable, remboursement du prix d’achat. |
+| **Conditions de garantie**   | La garantie s’exerce lorsque : le bien est payé avec la carte ; la valeur d’achat du bien est supérieure à 50 DT ; le vol ou le dommage accidentel survient dans les 2 jours à compter de la date d’achat (déterminée par la facture d’achat ou la facturette carte). |
+| **Domaine d’intervention**   | Tous les achats personnels ou familiaux, à l’exclusion des objets précieux, animaux vivants, plantes, denrées périssables, espèces, billets de banque, devises, chèques de voyage, titres de transport, titres négociables, véhicules terrestres à moteur et leurs accessoires. |
+| **Montant de garantie**      | Limite : 500 DT par sinistre ; 1 000 DT par année d’assurance.                                                    |
+| **Territorialité**           | Tous les achats réalisés sur le territoire tunisien.                                                              |
 
-## ARTICLE 3 - DUREE DU CONTRAT
+### Service MEDIPHONE : Le Guide Médical
 
-Le présent contrat est souscrit pour une année renouvelable par tacite reconduction. Il prend effet à l'égard de l'assuré à compter de la date de signature du contrat de la carte «GOLD BH ».
+AFRIQUE ASSISTANCE met à la disposition des abonnés une base de données actualisée des professionnels et centres de santé en Tunisie (médecins, dentistes, hôpitaux, pharmacies, ambulances, centres de radiologie, etc.), conventionnés CNAM ou non. AFRIQUE ASSISTANCE communique par téléphone les coordonnées des professionnels et centres de santé, en fonction du critère de localisation le plus commode et opportun applicable à chaque cas.
 
-## ARTICLE 4 - OBJET ET MONTANT DES GARANTIES
+**Centrale d’Alarme AFRIQUE ASSISTANCE** :  
+Opère 24h/24, 7j/7, 365 jours par an.  
+**Tél** : +216 71 104 540  
+**Fax** : +216 71 949 099
 
-L'objet des garanties d'assurance couvertes par le présent contrat est le suivant :
+### Garantie Assistance aux Personnes à l’Étranger
 
-- La couverture de tout débit constaté sur le compte auquel est rattaché la carte, occasionné par un tiers de facon frauduleuse et consécutif à un vol, ou à une perte ou à l'usage des données de la carte BH GOLD.
-- Le remboursement des frais de mise en opposition consécutifs à la perte ou au vol de la carte BH GOLD ou de ses données.
-- Le remboursement des frais de reconfection suite au Vol ou la perte de la Carte BH GOLD ou de ses données.
-- Le remboursement des frais de changement de serrure. suite à la perte ou au vol de clés perdues avec la carte BH GOLD.
-- e L'indemnisation nécessaire pour refaire les papiers officiels, perdus ou volés avec la carte BH GOLD.
-- Assistance domiciliaire pour la carte BH GOLD.
-- Achats protégés par la carte BH GOLD
-- MEDIPHONE
-- · Assistance aux personnes à l'étranger
+La garantie assistance en voyage à l’étranger couvre la famille du détenteur de la carte (**assuré**, son conjoint(e) et ses deux enfants de moins de 18 ans) pour un même voyage, au même moment et à la même destination. L’assuré peut s’adresser à son agence BH BANK pour recevoir une attestation et une carte de garantie assistance à l’étranger.
 
-ARTICLE 5- MONTANT COUVERT (PAR CARTE ASSURÉE)
+| Garanties                                                                 | Limites                                                                                                           | Franchises                                                                 |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Frais médicaux à l’étranger**                                           | Prise en charge des frais d’hospitalisation, interventions chirurgicales, honoraires médicaux et produits pharmaceutiques. Les maladies préexistantes avant le voyage ne sont pas couvertes. | Max. 50 000 USD (Canada, USA, Japon, Australie), franchise 100 USD ; Max. 30 000 EUR (reste du monde), franchise 50 EUR |
+| **Rapatriement médical de l’assuré en cas de maladie ou d’accident**      | Transport médicalisé jusqu’au centre adéquatement équipé ou au domicile habituel, selon l’urgence ou la gravité et l’avis du médecin traitant. | Frais réels                                                               |
+| **Rapatriement du bénéficiaire décédé**                                   | Rapatriement de la dépouille mortelle au pays de résidence, prise en charge des frais du cercueil. Les frais d’enterrement ne sont pas pris en charge. | Frais réels                                                               |
+| **Visite d’un membre de la famille**                                      | En cas d’hospitalisation de l’assuré dépassant 10 jours (selon prescription médicale), prise en charge du billet aller-retour et de l’hébergement d’un membre de la famille résidant en Tunisie. Les frais de restauration et autres frais non liés à l’hébergement sont à la charge du bénéficiaire. | Billet aller-retour, 100 USD/jour (max. 10 jours)                         |
+| **Rapatriement de la famille accompagnatrice**                            | En cas de rapatriement médical, prise en charge du retour d’un membre de la famille accompagnant l’assuré, s’il ne peut utiliser le moyen ou titre de transport initial. | Billet retour                                                             |
+| **Déplacement suite à l’interruption du voyage due à un décès d’un membre de la famille** | Retour prématuré de l’assuré en cas de décès d’un conjoint, ascendant, descendant, frère ou sœur ne participant pas au voyage. L’assuré doit fournir un certificat de décès. | Billet retour                                                             |
+| **Retard de bagages**                                             | Complément des remboursements garantis par la compagnie aérienne, sur présentation de la liste du contenu des bagages (prix et dates d’achat), du règlement de compensation du transporteur et du certificat original du transporteur ou de la plainte relative à la perte. | Max. 250 USD                                                              |
+| **Assistance juridique**                                          | Frais de défense juridique en cas de procédures pénales ou civiles engagées contre les bénéficiaires suite à un accident de la circulation. | Max. 2 500 USD                                                            |
+| **Avance sur caution pénale**                                     | Avance de la caution exigée par les tribunaux étrangers pour garantir la liberté provisoire de l’assuré dans une procédure pénale liée à un accident de la circulation où il conduisait. L’assuré doit rembourser dans les 45 jours. | Max. 1 000 USD                                                            |
+| **Retard d’un vol régulier de plus de 6 heures**                  | Prise en charge des achats de première nécessité sur présentation des factures et du certificat original du transporteur ou de la plainte relative au retard. | Max. 250 USD                                                              |
+| **Envoi de médicaments**                                          | Envoi de médicaments indispensables et introuvables sur place, par caractère d’urgence.                   | Frais d’envoi                                                             |
+| **Localisation et acheminement de bagages**                       | Dénonciation du vol ou de la perte des bagages, collaboration dans les recherches et expédition jusqu’au lieu de destination ou au domicile habituel de l’assuré. | Frais d’envoi                                                             |
+| **Transmission de messages urgents**                              | Messages à caractère d’urgence relatifs aux prestations offertes par le contrat.                         | Sans frais                                                                |
 
-Le contrat est souscrit par le titulaire de la carte «BH GOLD». Tout assuré est tenu de signer la demande de la carte fournie par la Banque et impliquant l'adhésion automatique à l'assurance.
+## ARTICLE 6 - EFFET ET DURÉE DE LA GARANTIE
 
-| TYPE DE CARTE                           | UTILISATION<br>FRAUDULEUSE                                                           |  | FRAIS DE MISE<br>EN OPPOSITION                       |
-|-----------------------------------------|--------------------------------------------------------------------------------------|--|------------------------------------------------------|
-| BH GOLD<br>Nationale                    | Jusqu'à 2.000 Dinars<br>(Sans toutefois dépasser le plafond<br>de la Carte assurée)  |  | Jusqu'à                                              |
-| BH GOLD<br>Internationale               | Jusqu'à 10.000 Dinars<br>(Sans toutefois dépasser le plafond<br>de la Carte assurée) |  | 50 Dinars                                            |
-| FRAIS DE<br>RECONFECTION<br>DE LA CARTE | FRAIS DE<br>REMPLACEMENT<br>Des papiers<br>d'identités officiels                     |  | Frais de<br>remplacement<br>des serrures et des clés |
-| Jusqu'à<br>110 Dinars                   | Jusqu'à<br>100 Dinars                                                                |  | Jusqu'à<br>200 Dinars                                |
+### Effet de la garantie
 
-Limites accordées par sinistre, par carte assurée et année d'assurance.
+1. **En cas de vol, perte ou disparition de la carte bancaire** : La garantie prend effet deux jours ouvrables avant le dépôt par l’assuré de sa déclaration de perte ou de vol de la carte bancaire.
+2. **En cas d’usage frauduleux des données de la carte bancaire** : La garantie prend effet cinq jours ouvrables avant le dépôt par l’assuré de sa déclaration de mise en opposition des utilisations frauduleuses suite à l’usage des données de la carte.
 
-## Assistance domiciliaire
+### Durée de la garantie
 
-| Prestations       | Objet de la garantie<br>« Assistance domiciliaire »                                                                                                                                                                                                   | Limite                                                                         |
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| Plomberie         | En<br>cas de rupture<br>des<br>canalisations,<br>fuites<br>des<br>installations sanitaires, des<br>installations fixes d'eau dans<br>l'habitation                                                                                                     | 100 DT/<br>intervention avec<br>un Maximum de 3<br>interventions par<br>année. |
-| Pose<br>de vitres | En cas de dégâts causés aux<br>portes vitrées ou aux<br>fenêtres assurant la<br>fermeture extérieure de<br>l'habitation                                                                                                                               | 100 DT/<br>intervention avec<br>un Maximum de 3<br>interventions par<br>année. |
-| Electricité       | En cas de rupture du courant<br>électrique au sein du local à<br>usage d'habitation, résultant<br>d'un défaut ou dégâts causés<br>aux installations électriques<br>internes                                                                           | 100 DT/<br>intervention avec<br>un Maximum de 3<br>interventions par<br>année. |
-| Serrurerie        | Au cas où le local à usage<br>d'habitation serait exposé au<br>danger ou s'il devenait<br>impossible d'y accéder suite<br>à la perte ou au vol des clés<br>ou aux dégâts causés à une<br>ou plusieurs serrures dus à<br>un vol ou à toute autre cause | 100 DT/<br>intervention avec<br>un Maximum de 3<br>interventions par<br>année. |
+La durée de la garantie en cas de vol, perte, disparition ou usage frauduleux des données de la carte bancaire est fixée à cinq jours ouvrables à partir de la date de mise en opposition par le détenteur de la carte assurée.
 
-Garantie « ACHATS PROTEGES »
+## ARTICLE 7 - EXCLUSIONS
 
-|                              | Garantie ACHATS                                                                                                                                                                                                                                                                                                                                                                                                                |  |  |
-|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Objet<br>de la<br>Garantie   | Pour tous les biens achetés avec la carte :<br>Rembourser au titulaire, en cas de vol par<br>effraction ou agression d'un bien, le prix d'achat<br>de ce bien :<br>Rembourser au titulaire, en cas de dommage<br>accidentel causé à un bien, les frais de répara-<br>tion de ce bien ou, si ces frais sont supérieurs au<br>prix d'achat du bien ou si celui-ci n'est pas<br>réparable, rembourser le prix d'achat de ce bien. |  |  |
-| Conditions<br>de<br>Garantie | La garantie ne s'exerce que lorsque sont réunies<br>les conditions suivantes :<br>Le bien concerné est payé avec une carte<br>la valeur d'achat du bien est supérieure à : 50<br>DT<br>Le vol ou le dommage accidentel survient dans<br>la période d'assurance : 2 jours à compter de la<br>date d'achat (la date de l'achat est déterminée<br>à partir de la facture d'achat ou de la facturette<br>carte).                   |  |  |
-| Domaine<br>d'intervention    | Tous les achats personnels ou familiaux, à<br>l'exclusion des objets précieux et/ou de valeur, des<br>animaux vivants, des plantes, des denrées<br>périssables, des espèces, des billets de banque, des<br>devises, des chèques de voyage, des titres de<br>transport et de tout titre négociable, des véhicules<br>terrestres à moteur ainsi que leurs accessoires<br>intérieurs ou extérieurs.                               |  |  |
-| Montant de<br>Garantie       | Limite : 500 DT par sinistre<br>Limite : 1.000 DT par année d'assurance                                                                                                                                                                                                                                                                                                                                                        |  |  |
-| Territorialité               | Tous les achats réalisés sur le territoire tunisien                                                                                                                                                                                                                                                                                                                                                                            |  |  |
+### Garantie Perte et Vol de la Carte Assurée « BH GOLD »
 
-Service MEDIPHONE : LE GUIDE MEDICAL
+Sont exclus de la garantie vol et perte de la carte assurée :
+- La faute intentionnelle ou dolosive commise par l’assuré ou un membre de sa famille.
+- L’utilisation frauduleuse commise après l’expiration du délai de carence de 5 jours ouvrables à partir de la date de mise en opposition de la carte **BH GOLD**.
 
-AFRIQUE ASSISTANCE met à la disposition des abonnés une base de données actualisée des professionnels et centres de santé en Tunisie : médecins, dentistes, hôpitaux, pharmacies, ambulances, centres de radiologie ....etc. conventionné CNAM ou non conventionné.
-
-AFRIQUE ASSISTANCE communique par téléphone les coordonnées des professionnels et les centres de santé précités, en fonction du critère de localisation le plus commode et opportun applicable à chaque cas.
-
-La Centrale d'Alarme d'AFRIQUE ASSISTANCE opère 24/24 heures, 7jours/7, 365 jours par an : Tel: +216 71 104 540
-
-Garantie ASSISTANCE AUX PERSONNES A L'ETRANGER
-
-« La garantie assistance en voyage à l'étranger couvre la famille du détenteur de la carte, soit l'assuré, son conjoint(e) et ses deux enfants de moins de 18ans, et ce pour un même voyage avec l'assuré au même moment et à la même destination ».
-
-L'assuré, à l'occasion de son voyage à l'étranger peut s'adresser à son agence BH BANK, pour recevoir une attestation et une carte de la garantie assistance aux personnes à l'étranger.
-
-| Garanties                                                                                                | Limites                                                                                                                                                                                                                                                                                                                                                                                                                                | Franchises                                                                                                                               |
-|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| Frais<br>médicaux à<br>l'étranger                                                                        | d'hospitalisation,<br>En<br>cas<br>l'assureur prend en charge, les<br>d'hospitalisation<br>frais<br>et<br>interventions chirurgicales, des<br>honoraires des médecins et les<br>produits pharmaceutiques.<br>Ne sont pas pris en charge les<br>maladies préexistantes avant                                                                                                                                                            | Max 50000\$ pour le<br>Canada, USA, Japon<br>et Australie<br>Franchise 100\$<br>Max 30 000 € pour<br>le reste du monde<br>Franchise 50 € |
-| Rapatriement<br>médical de<br>l'assuré en cas<br>de maladie ou<br>d'accident                             | le voyage.<br>Selon l'urgence ou la gravité<br>du cas et selon l'avis<br>du<br>médecin traitant, le transport<br>médicalisé jusqu'au centre<br>adéquatement<br>équipé<br>ou<br>jusqu'à son domicile habituel.                                                                                                                                                                                                                          | le transport<br>médicalisé                                                                                                               |
-| Rapatriement<br>du<br>bénéficiaire<br>décédé                                                             | Rapatriement de la dépouille<br>mortelle au pays du résidence<br>et prise en charge des frais du<br>cercueil. Les frais d'enterre-<br>ment ne sont pas pris en charge.                                                                                                                                                                                                                                                                 | Frais réels                                                                                                                              |
-| Visite d'un<br>membre de<br>la famille                                                                   | En cas ou l'hospitalisation du<br>bénéficiaire dépasse les<br>10<br>jours selon la prescription du<br>médecin traitant, l'assureur<br>prend en<br>charge<br>le<br>billet<br>aller-retour et l'hébergement<br>d'un membre de la famille<br>résidant en Tunisie pour se<br>rendre au chevet de l'assuré<br>Sont à la charge du bénéfi-<br>ciaire, les frais de restaura-<br>tion et autres frais non liés<br>directement à l'hébergement | Billet aller/retour<br>100\$ par jour avec<br>un Max de 10<br>jours                                                                      |
-| Rapatriement<br>de la famille<br>accompagna-<br>trice                                                    | En cas de rapatriement médical,<br>l'assureur prend en charge, le<br>retour d'un<br>membre de<br>sa<br>famille, qui<br>le<br>accompagne<br>bénéficiaire<br>du<br>au<br>cours<br>déplacement pour autant qu'il<br>ne puisse pas effectuer le dit<br>déplacement avec le moyen ou<br>le titre de transport utilisé pour<br>faire le voyage.                                                                                              | Billet retour                                                                                                                            |
-| Déplacement<br>suite à.<br>l'interruption<br>du voyage due<br>à un décès<br>d'un membre<br>de sa famille | Retour prématuré de l'assuré<br>s'il doit interrompre son voyage<br>du fait d'un décès d'un membre<br>de sa famille (son conjoint,<br>ascendant, descendant, frère,<br>sœur) ne participant pas au<br>voyage.<br>L'assuré doit fournir le document<br>qui justifie son retour (certificat<br>de décès).                                                                                                                                | Billet retour                                                                                                                            |
-
-| Retard<br>bagages                                    | l'assureur<br>complétera.<br>les<br>remboursements garantis par la<br>compagnie<br>aérienne.<br>sur<br>présentation de :<br>- la liste du contenu de leurs<br>bagages avec les prix et dates<br>d'achat des articles<br>- le règlement du paiement de<br>compensation du transporteur<br>certificat<br>Le<br>original<br>du<br>transporteur ou la plainte se<br>rapportant à la perte de bagages                          | Max 250 \$    |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
-| Assistance<br>juridique                              | les frais de défense juridique en<br>cas ou des procédures pénales<br>civiles<br>sont engendrées<br>ou<br>contre les bénéficiaires en cas<br>d'accident de la circulation                                                                                                                                                                                                                                                 | Max 2 500 \$  |
-| Avance sur<br>caution<br>pénale                      | L'assureur avancera au bénéfi-<br>ciaire la caution que les<br>tribunaux étrangers exigent<br>pour garantir sa liberté provi-<br>soire.<br>dans<br>la<br>procédure<br>pénale engagée<br>contre<br>lui<br>suite à un accident de<br>la<br>circulation<br>dans<br>le<br>leguel<br>bénéficiaire<br>conduisait<br>personnellement le véhicule.<br>L'assuré est tenu de rembour-<br>ser la somme avancée dans les<br>45 jours. | Max 1000 \$   |
-| Retard d'un<br>vol régulié<br>de plus de<br>6 heures | de retard de<br>En<br>cas<br>vol<br>régulier de plus de 6 heures,<br>prise en charge des achats de<br>nécessités<br>premières<br>sur<br>présentation des factures et<br>du<br>certificat original du<br>transporteur ou la plainte se<br>rapportant au retrard                                                                                                                                                            | Max 250 \$    |
-| Envoi de<br>médicaments                              | L'envoi des médicaments par<br>caractère d'urgence, et qui<br>indispensables<br>sont<br>et<br>introuvables sur place                                                                                                                                                                                                                                                                                                      | Frais d'envoi |
-| Localisation<br>et<br>acheminement<br>de bagages     | dénonciation du vol ou de la<br>perte de ses<br>bagages<br>et<br>collaboration<br>dans<br>les<br>recherches pour leur localisa-<br>leur<br>expédition<br>tion<br>et<br>jusqu'au lieu de destination<br>du bénéficiaire ou jusqu'à son<br>domicile habituel.                                                                                                                                                               | Frais d'envoi |
-| Transmission<br>de messages<br>urgents               | Les messages<br>à caractère<br>relatifs<br>d'urgence<br>aux<br>prestations offertes par ce<br>contrat                                                                                                                                                                                                                                                                                                                     |               |
-
-#### ARTICLE 6 - EFFET ET DUREE DE LA GARANTIE
-
-#### Effet de la garantie
-
-## 1. En cas de vol, ou perte ou disparition de la Carte bancaire
-
-Deux jours ouvrables avant le dépôt de l'assuré de sa déclaration de perte, de vol de sa Carte bancaire.
-
-## 2. En cas d'usage des données de la Carte bancaire
-
-Cing jours ouvrables avant le dépôt de l'assuré de sa déclaration de mise en opposition des utilisations frauduleuses suite à l'usage des données de sa Carte bancaire
-
-## Durée de la garantie :
-
-La durée de la garantie en cas de vol, ou perte ou disparition ou usage des données de la Carte bancaire et fixée à :
-
-. Cinq jours ouvrables à partir de la date de mise en opposition par le détenteur de la carte assurée.
-
-#### ARTICLE 7 - EXCLUSION
-
-• Garantie Perte et vol de la carte assurée « BH GOLD » Sont exclus de la garantie vol et perte de la carte assurée par le présent contrat :
-
-- La faute intentionnelle ou dolosive commise par l'assuré ou un membre de sa famille.
-- L'utilisation frauduleuse commise après l'expiration du délai de carence de 5 jours ouvrables pour la Carte BH GOLD et ce à partir de la date de mise en opposition de ladite Carte
-- Garantie « ACHATS PROTEGES »
+### Garantie « Achats Protégés »
 
 Sont exclus de la garantie « Achats protégés » :
+- Disparition inexpliquée, perte, vol sans effraction ou sans agression.
+- Usure normale ou vice propre.
+- Non-respect des conditions d’utilisation du bien préconisées par son fabricant ou son distributeur.
+- Faute intentionnelle ou dolosive de l’assuré ou de l’un de ses proches (conjoint, ascendant ou descendant).
+- Guerre civile ou étrangère, embargo, confiscation, capture ou destruction par ordre d’un gouvernement ou d’une autorité publique.
+- Désintégration du noyau atomique ou rayonnement ionisant.
 
-- Disparition inexpliquée, perte, vol sans effraction ou sans agression;
-- Usure normale, vice propre :
-- Non respect des conditions d'utilisation du bien préconisées par son fabricant ou son distributeur ;
-- Faute intentionnelle ou dolosive de la part de l'assuré ou de la part d'un de ses proches (conjoint. ascendant ou descendant):
-- Guerre civile ou étrangère, embargo, confiscation, ordre destruction par d'un capture ou gouvernement ou d'une autorité publique :
-- Désintégration du noyau atomique ou d'un rayonnement ionisant.
+## ARTICLE 8 - TERRITORIALITÉ
 
-#### ARTICLE 8- TERRITORIALITÉ
+La garantie est limitée au territoire tunisien pour la carte **BH GOLD Nationale** (sauf pour l’assistance à l’étranger) et s’étend au monde entier pour la carte **BH GOLD Internationale** et l’assistance à l’étranger.
 
-La présente garantie est limitée au territoire tunisien pour la Carte BH GOLD nationale (sauf pour l'assistance à l'étranger) et le monde entier pour la carte BH GOLD internationale et l'assistance à l'étranger.
+## ARTICLE 9 - MODALITÉS DE DÉCLARATION DE SINISTRE
 
-ARTICLE 9- MODALITE DE DECLARATION DE SINISTRE
+### 9.1 En cas de perte ou vol de la carte BH GOLD
 
-#### 9-1 En cas de perte ou vol de la carte BH GOLD :
+L’assuré doit, en cas de perte ou de vol de sa carte et sauf cas fortuit ou de force majeure, faire immédiatement opposition auprès de l’agence de la BH BANK, par tout moyen (courrier, fax, email, etc.).
 
-L'assuré doit en cas de perte ou de vol de sa carte et sauf cas fortuit ou de force majeure faire immédiatement opposition auprès de l'agence de la BH BANK, et ce par tout moyen (courrier, fax, email...).
+L’assuré doit fournir :
+- Le récépissé de perte ou la copie du dépôt de plainte auprès des autorités de police en cas de vol ou perte.
+- Les déclarations de sinistres doivent être adressées à l’assureur par le souscripteur (BH BANK), par tout moyen (courrier, fax, email), au cours de l’exercice de survenance du sinistre, et dans un délai d’une semaine à partir de la date de déclaration du sinistre par l’assuré à la banque.
 
-L'Assuré doit fournir le récépissé de perte ou la copie de dépôt de plainte auprès de la Police en cas de vol ou perte.
+**Constitution du dossier de sinistre** :
+Conformément aux conditions générales d’utilisation de la carte de paiement figurant au verso de la demande de carte signée par le souscripteur (BH BANK) et l’assuré, l’assuré doit :
+- Faire immédiatement opposition auprès du souscripteur en cas de perte ou de vol, sauf cas fortuit ou de force majeure.
+- Fournir le récépissé de perte ou la copie du dépôt de plainte auprès des autorités de police.
+- La banque doit transmettre à l’assureur, à l’appui de chaque déclaration de sinistre :
+  - La déclaration auprès des autorités de police en cas de perte ou de vol.
+  - Une copie de la lettre d’opposition envoyée ou déposée par l’assuré à l’agence de la BH BANK.
+  - Une copie de l’extrait de compte attestant les montants des utilisations frauduleuses dans les délais mentionnés, ainsi que les frais de mise en opposition et de reconfection de la carte (ou de ses données).
+  - En cas de perte ou de vol des papiers d’identité officiels ou des clés avec la carte **BH GOLD**, les factures ou justificatifs de leur remplacement.
 
-Les déclarations de sinistres seront adressées à l'assureur par le souscripteur « BH BANK », par tout moyen (courrier, fax, email), au cours de l'exercice de survenance du sinistre et en tout cas dans les délais d'une semaine à partir de la date de déclaration du sinistre par l'assuré à la Banque.
+L’assureur s’engage à régler le sinistre dans les 30 jours ouvrés suivant la réception de l’ensemble des pièces demandées, dans la limite des garanties indiquées.
 
-#### Constitution de dossier sinistre :
+### 9.2 En cas de sinistre « Achats protégés »
 
-Conformément aux dispositions fixées dans les conditions générales d'utilisation de la carte de paiement figurant au verso de la demande de la carte assurée signée par le Souscripteur « BH BANK » et l'assuré, l'assuré doit, en cas de perte ou de vol de sa carte et sauf cas fortuit ou de force majeure, faire immédiatement opposition auprès du souscripteur.
+**Déclaration de sinistre** :
+Le bénéficiaire doit, dès qu’il constate le vol ou le dommage, et sous peine de déchéance de ses droits à indemnisation (sauf cas fortuit ou de force majeure) :
+- Faire un dépôt de plainte auprès des autorités de police compétentes en cas de vol caractérisé, le plus rapidement possible.
+- Déclarer le sinistre au souscripteur (BH BANK) dans les 48 heures suivant sa survenance.
 
-L'Assuré doit fournir le récépissé de perte ou la copie de dépôt de plainte auprès des Autorités de Police en cas de vol ou perte.
+**Détermination de l’indemnité** :
+Le montant de l’indemnité est calculé sur la base des éléments suivants, à adresser à l’assureur via le souscripteur :
+- Un justificatif identifiant le bien acheté, son prix et la date d’achat (facture ou ticket de caisse).
+- Un justificatif du moyen de paiement utilisé (facturette, relevé de compte ou relevé de carte).
+- En cas de vol par agression ou effraction : le procès-verbal de la police et une déclaration sur l’honneur indiquant les circonstances et la date exacte du sinistre.
+- En cas de dommage accidentel : le devis ou la facture de réparation, ou une attestation du vendeur précisant la nature des dommages et certifiant que le bien est irréparable.
+- Toute pièce jugée nécessaire par l’assureur pour évaluer le préjudice.
 
-La Banque doit transmettre à l'Assureur à l'appui de chaque déclaration de sinistre les pièces suivantes :
+**Paiement de l’indemnité** :
+L’indemnité est accordée dans les 30 jours ouvrés suivant la réception par l’assureur de l’ensemble des pièces fournies par l’assuré et, le cas échéant, du rapport de l’expert.
 
-• Déclaration auprès des autorités de police de la région.en cas de perte ou de vol de la carte bancaire
+L’assuré s’engage à prendre toutes les dispositions en son pouvoir pour limiter ou réduire les conséquences du sinistre.
 
-- Déclaration auprès des autorités de police de la région en cas de perte ou de vol de la carte bancaire
-- · Copie de la lettre d'opposition envoyée ou déposée par l'assuré à l'agence de la « BH BANK »
-- Copie de l'extrait du compte attestant les montants des utilisations frauduleuses ayant eu en lieu dans les délais ci-haut mentionnés et fixant les frais de mise en opposition. de reconfection de la carte objet de la perte ou vol (de la carte ou de ses données).
-- En cas de perte ou de vol des papiers d'identités officiels et des clés avec la carte BH GOLD, l'assuré doit remettre les factures ou les justificatifs de leur remplacement.
+### 9.3 Assistance domiciliaire
 
-L'assureur s'engage à régler le sinistre dans 30 jours ouvrés qui suivent la réception de l'ensemble des pièces demandées et dans la limite des garanties indiquées ci-dessus.
+En cas de sinistre, le bénéficiaire ou toute personne réclamant l’assistance doit contacter la **Centrale d’Alarme d’AFRIQUE ASSISTANCE**, disponible 24h/24, 7j/7 :  
+**Tél** : +216 71 104 580  
+**Fax** : +216 71 949 099  
 
-## 9-2 En cas de sinistre « achats protégés » :
+Il doit fournir les informations suivantes :
+- Le numéro du contrat d’assistance, de la carte bancaire ou l’identifiant.
+- Nom et prénom.
+- Lieu où il se trouve.
+- Genre de service requis.
+- Coordonnées de contact (adresse, téléphone, etc.).
+- Toute autre information appropriée ou jugée nécessaire.
 
-Déclaration de sinistre : Le bénéficiaire doit, dès qu'il constate le vol ou le dommage et sous peine de déchéance de ses droits à indemnisation (sauf cas fortuit ou de force majeure):
+### 9.4 Assistance aux personnes à l’étranger
 
-- · Faire le plus rapidement possible un dépôt de plainte auprès des autorités de police compétentes en cas de vol caractérisé.
-- Déclarer au souscripteur (la BH Bank), le sinistre dans les 48 heures qui suivent la date de sa survenance.
+En cas de sinistre, le bénéficiaire réclamant l’assistance doit prendre toutes les précautions raisonnables pour minimiser les frais d’assistance et contacter la **Centrale d’Alarme d’AFRIQUE ASSISTANCE**, disponible 24h/24, 7j/7, 365 jours par an :  
+**Tél** : +216 71 104 540  
+**Fax** : +216 71 104 545  
 
-Détermination de l'indemnité : Le montant de l'indemnité est calculé sur la base des éléments suivants que l'assuré doit adresser à l'assureur via le souscripteur :
+Il doit fournir les informations suivantes :
+- Le numéro du contrat d’assistance, de la carte bancaire ou l’identifiant.
+- Nom et prénom.
+- Lieu où il se trouve.
+- Genre de service requis.
+- Coordonnées de contact (adresse, téléphone, etc.).
+- Toute autre information appropriée ou jugée nécessaire.
 
-- Un justificatif permettant d'identifier le bien acheté ainsi que son prix et la date d'achat tel qu'une facture ou un ticket de caisse,
-- Un justificatif du moyen de paiement utilisé pour l'achat tel qu'une facturette, un relevé de compte ou un relevé de carte.
-- En cas de vol par agression ou par effraction : le procès verbal de la police ainsi qu'une déclaration sur l'honneur indiquant les circonstances et la date exacte du sinistre.
+L’assuré ne doit faire aucune promesse de paiement ni signer d’engagement avec les fournisseurs de services, sauf ceux requis par l’assisteur.
 
-Lors de la survenance d'un sinistre, l'assuré s'engage à prendre toutes les dispositions en son pouvoir pour limiter ou réduire les conséquences du sinistre.
+## ARTICLE 10 - SUBROGATION
 
-- En cas de dommage accidentel : le devis ou la facture de réparation du bien sinistré ou attestation du vendeur précisant la nature des dommages et certifiant que le bien est irréparable,
-- Et plus généralement, toute pièce que l'Assureur estimera nécessaire pour évaluer le préjudice.
+L’assureur est subrogé, jusqu’à concurrence de l’indemnité versée, dans les droits et actions de l’assuré contre le tiers responsable du sinistre, conformément à l’article 21 du Code des Assurances.
 
-Paiement de l'indemnité : Toute indemnité est accordée dans les 30 jours ouvrés qui suivent la réception, par l'assureur, de l'ensemble des pièces que l'Assuré doit fournir et, le cas échéant, du rapport de l'expert.
+## ARTICLE 11 - FIN DE LA GARANTIE
 
-## 9-3 Assistance domiciliaire
+La garantie prend fin le jour de la résiliation du contrat de la carte bancaire, à la date d’expiration de la validité de la carte, de la clôture du compte, ou de la résiliation du contrat d’assurance carte **BH GOLD** souscrit par la BH BANK.
 
-En cas de sinistre, le bénéficiaire ou toute autre personne réclamant l'assistance est tenu de contacter la Centrale d'Alarme de prestataire de service d'AFRIQUE ASSISTANCE 24/24 heures:
+## ARTICLE 12 - CONTACT ET SERVICES
 
-#### Tel: +216 71 104 580 - Fax: +216 71 949 099
+Pour plus d’informations, le conseiller de clientèle de la BH BANK est à disposition pour présenter les avantages du package d’assurance rattaché à la carte et traiter rapidement les déclarations de sinistres.
 
-Et de lui fournir les informations suivantes :
+En cas de perte, vol ou usage frauduleux des données de la carte **BH GOLD**, l’assuré peut contacter :
+- **BH BANK** pendant les heures d’ouverture : à son agence, au centre monétique (+216 71 337 955), ou au centre de contact :  
+  - Depuis la Tunisie : 1800  
+  - Depuis l’étranger : +216 71 001 800  
+  Par téléphone, télégramme ou déclaration écrite remise sur place.
+- **Centre de Télésurveillance de l’Émetteur**, disponible 7j/7 : +216 71 337 980.
+- **Centre d’Autorisation de la Société Monétique Tunisie**, disponible 24h/24, 7j/7 : +216 71 155 840.
 
-- · Le numéro du contrat d'Assistance ou de la carte bancaire ou l'identifiant.
-- Le nom et prénom.
-- L'endroit où il se trouve.
-- Le genre de service dont il a besoin.
+## ARTICLE 13 - PRESCRIPTION
 
-- Les coordonnées où il peut être joint (son adresse. téléphone...).
-- Et toute autre information appropriée ou jugée nécessaire 9-4 Assistance aux personnes à l'étranger
-
-#### En cas de sinistre, le bénéficiaire qui réclame l'assistance est tenu de prendre toutes les précautions raisonnables pour réduire au minimum les frais d'assistance et de communiquer par téléphone, à la Centrale d'Alarme d'AFRIQUE ASSISTANCE 24/24 heures, 7jours/7, 365 jours par an :
-
-## Tel: +216 71 104 540 - Fax: +216 71 104 545
-
-Et de lui fournir les informations suivantes :
-
-- Le numéro du contrat d'Assistance ou de la carte bancaire ou l'identifiant.
-- Le nom et prénom.
-- L'endroit où il se trouve.
-- Le genre de service dont il a besoin.
-- Les coordonnées où il peut être joint (son adresse. téléphone...).
-
-• Et toute autre information appropriée ou jugée nécessaire L'assuré ne doit faire aucune promesse de paiement ou signer un quelconque engagement aux fournisseurs de service autres que ceux demandés par l'assisteur
-
-#### ARTICLE 10- SUBROGATION
-
-La compagnie d'assurance est subrogée jusqu'à concurrence de l'indemnité versée par elle, dans les droits et actions de l'Assuré contre le tiers responsable du sinistre.
-
-## ARTICLE 11- FIN DE LA GARANTIE
-
-La garantie prend fin le jour de la résiliation du contrat de la carte bancaire, à la date d'expiration de la validité de la carte ou la clôture du compte ou de la résiliation du contrat d'assurance Carte « BH GOLD » souscrit par la BH BANK.
-
-#### ARTICLE 12- CONTACT ET SERVICES
-
-Pour plus d'information, votre conseiller de clientèle se tient à votre disposition pour vous présenter tous les avantages du package d'assurance rattaché à la carte et traiter le plus rapidement possible vos déclarations de sinistres.
-
-En cas de perte ou de vol de la carte assurée «BH GOLD» ou usage de ses données, l'assuré peut contacter :
-
-• La BH BANK pendant ses heures d'ouverture : à son agence, au centre monétique (+00 216 71 337 955) ou au centre de contact en appelant le n<sup>o</sup> suivant : de la Tunisie 1800, de l'Etranger (+00 216 71 001 800), par téléphone, télégramme ou déclaration écrite remise sur place.
-
-Le centre de Télésurveillance de l'Emetteur ouvert 7jours /7 en appelant le numéro suivant : (+00 216 71 337 980).
-
-Le Centre d'autorisation de la Société Monétique Tunisie ouvert 7 jours/ 7 et 24h/24 en appelant l'un des numéros suivants : (+00 216 71 155 840).
-
-#### ARTICLE 13- PRESCRITION
-
-Toute action dérivant du contrat souscrit auprès de l'Assureur est prescrite dans un délai de 2 ans à compter de la date de survenance de l'événement qui y donne naissance. La prescription peut notamment être interrompue par l'une des conditions prévues par le Code des Assurances après l'envoi d'une lettre au porteur avec décharge ou par lettre recommandée avec avis de réception.
+Toute action dérivant du présent contrat est prescrite dans un délai de deux ans à compter de la date de survenance de l’événement qui y donne naissance, conformément aux articles 14 et 15 du Code des Assurances. La prescription peut être interrompue, notamment par l’envoi d’une lettre au porteur avec décharge ou par lettre recommandée avec accusé de réception.
