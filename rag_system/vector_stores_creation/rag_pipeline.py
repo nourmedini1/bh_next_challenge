@@ -1,8 +1,8 @@
 import os
 from time import sleep
 from common.config import Config
-from rag.vector_db_manager import VectorDBManager
-from rag.text_processor import TextProcessor
+from vector_stores_creation.vector_db_manager import VectorDBManager
+from vector_stores_creation.text_processor import TextProcessor
 from typing import List, Dict
 
 

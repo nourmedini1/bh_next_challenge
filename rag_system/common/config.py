@@ -4,5 +4,5 @@ class Config:
     """
     model_name: str = "BAAI/bge-m3"
     VDBs_folder: str = "vector_db"
-    clean_data_path: str = "rag/documents/clean_data"
+    clean_data_path: str = "vector_stores_creation/documents/clean_data"
     distance_strategy: str = "cosine"

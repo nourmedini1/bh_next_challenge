@@ -8,8 +8,8 @@ from unittest.mock import patch, MagicMock
 # Add the parent directory to the path to import modules
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from rag.vector_db_manager import VectorDBManager
-from rag.text_processor import TextProcessor
+from vector_stores_creation.vector_db_manager import VectorDBManager
+from vector_stores_creation.text_processor import TextProcessor
 from common.config import Config
 
 
