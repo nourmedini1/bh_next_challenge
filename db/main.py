@@ -16,6 +16,7 @@ from db.routers import (
     contracts_router,
     claims_router,
     persons_router,
+    agent_access_router,
 )
 
 logger = logging.getLogger(__name__)
@@ -76,6 +77,12 @@ app.include_router(
     persons_router,
     prefix=f"{settings.api_v1_str}/persons",
     tags=["Persons"]
+)
+
+app.include_router(
+    agent_access_router,
+    prefix=f"{settings.api_v1_str}/agent",
+    tags=["Agent Access"]
 )
 
 

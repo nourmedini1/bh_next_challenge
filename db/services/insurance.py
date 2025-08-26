@@ -113,6 +113,22 @@ class PersonService:
             raise NotFoundError("Moral person not found")
         
         return person
+    
+    def get_physical_person_direct(self, ref_personne: int) -> PersonnePhysique:
+        """Get physical person without authentication checks - for agent access only"""
+        person = self.physique_repo.get_by_ref_personne(ref_personne)
+        if not person:
+            raise NotFoundError("Physical person not found")
+        
+        return person
+    
+    def get_moral_person_direct(self, ref_personne: int) -> PersonneMorale:
+        """Get moral person without authentication checks - for agent access only"""
+        person = self.morale_repo.get_by_ref_personne(ref_personne)
+        if not person:
+            raise NotFoundError("Moral person not found")
+        
+        return person
 
 
 class ContractService:
@@ -146,6 +162,14 @@ class ContractService:
             raise NotFoundError("Contract not found or you don't have permission to access it")
         
         return contract
+    
+    def get_contract_by_number(self, num_contrat: str, ref_personne: int) -> Contrat:
+        """Get contract by number for a specific user - for agent access"""
+        contract = self.contrat_repo.get_by_num_contrat(num_contrat, ref_personne)
+        if not contract:
+            raise NotFoundError("Contract not found")
+        
+        return contract
 
 
 class ClaimService:
@@ -177,5 +201,13 @@ class ClaimService:
         claim = self.sinistre_repo.get_by_num_sinistre(num_sinistre, ref_personne)
         if not claim:
             raise NotFoundError("Claim not found or you don't have permission to access it")
+        
+        return claim
+    
+    def get_claim_by_number(self, num_sinistre: str, ref_personne: int) -> Sinistre:
+        """Get claim by number for a specific user - for agent access"""
+        claim = self.sinistre_repo.get_by_num_sinistre(num_sinistre, ref_personne)
+        if not claim:
+            raise NotFoundError("Claim not found")
         
         return claim
