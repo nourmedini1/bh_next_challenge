@@ -2,10 +2,10 @@
 FastAPI router for vector store query endpoints.
 """
 
-from fastapi import APIRouter, HTTPException, Depends
+from fastapi import APIRouter, HTTPException, Depends, UploadFile, File, Form
 from typing import Dict
 
-from api.models import QueryRequest, QueryResponse, StoreInfo
+from api.models import QueryRequest, QueryResponse, StoreInfo, AddDocumentResponse
 from api.config import VECTOR_STORE_CONFIG, get_store_config
 from api.vector_store_service import VectorStoreService
 
@@ -36,6 +36,53 @@ async def get_stores_info(service: VectorStoreService = Depends(get_vector_store
             endpoint=f"/query/{store_name}"
         )
     return stores_info
+
+
+@router.post("/stores/{store_name}/documents", response_model=AddDocumentResponse)
+async def add_document_to_store(
+    store_name: str,
+    file: UploadFile = File(...),
+    service: VectorStoreService = Depends(get_vector_store_service)
+):
+    """
+    Add a markdown document to a specific vector store.
+    
+    Args:
+        store_name: Name of the vector store (must match existing store names)
+        file: Markdown file to upload
+        service: Vector store service dependency
+    
+    Returns:
+        AddDocumentResponse with success message and chunk count
+    """
+    try:
+        # Validate file type
+        if not file.filename.endswith('.md'):
+            raise HTTPException(
+                status_code=400, 
+                detail="Only markdown (.md) files are supported"
+            )
+        
+        # Read file content
+        content = await file.read()
+        markdown_content = content.decode('utf-8')
+        
+        # Add document to vector store
+        chunks_added = await service.add_document_to_store(
+            store_name=store_name,
+            markdown_content=markdown_content,
+            file_name=file.filename
+        )
+        
+        return AddDocumentResponse(
+            message=f"Successfully added document to vector store '{store_name}'",
+            store_name=store_name,
+            file_name=file.filename,
+            chunks_added=chunks_added
+        )
+        
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=str(e))
 
 
 async def _query_vector_store_endpoint(store_name: str, request: QueryRequest, service: VectorStoreService) -> QueryResponse:

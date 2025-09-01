@@ -49,3 +49,11 @@ class RootResponse(BaseModel):
     available_stores: List[str]
     loaded_stores: List[str]
     version: str
+
+
+class AddDocumentResponse(BaseModel):
+    """Response model for adding documents to vector store."""
+    message: str
+    store_name: str
+    file_name: str
+    chunks_added: int

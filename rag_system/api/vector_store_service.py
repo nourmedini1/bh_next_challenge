@@ -123,3 +123,46 @@ class VectorStoreService:
             "loaded_stores": len(self.vector_stores),
             "total_stores": len(VECTOR_STORE_CONFIG)
         }
+
+    async def add_document_to_store(self, store_name: str, markdown_content: str, file_name: str) -> int:
+        """
+        Add a markdown document to a specific vector store.
+        
+        Args:
+            store_name: Name of the vector store to add to
+            markdown_content: Content of the markdown file
+            file_name: Name of the file
+            
+        Returns:
+            int: Number of chunks added
+            
+        Raises:
+            Exception: If store doesn't exist or isn't loaded
+        """
+        # Validate store exists and is loaded
+        if store_name not in VECTOR_STORE_CONFIG:
+            raise Exception(f"Vector store '{store_name}' does not exist")
+            
+        if store_name not in self.vector_stores:
+            raise Exception(f"Vector store '{store_name}' is not loaded")
+        
+        # Import text processor
+        from vector_stores_creation.text_processor import TextProcessor
+        
+        # Process the markdown content into chunks
+        text_processor = TextProcessor()
+        chunks = text_processor.split_markdown(markdown_content)
+        
+        if not chunks:
+            raise Exception("No valid chunks could be extracted from the markdown content")
+        
+        # Get the vector store manager
+        vm = self.vector_stores[store_name]
+        
+        # Add documents to the vector store
+        vm.add_documents(chunks, file_name, store_name)
+        
+        # Save the updated vector store
+        vm.save_VDB(store_name)
+        
+        return len(chunks)
