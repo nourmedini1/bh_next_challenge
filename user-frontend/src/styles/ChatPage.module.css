@@ -1,0 +1,139 @@
+.chatPage {
+  height: 100vh;
+  background-color: var(--bg-primary);
+  overflow: hidden;
+  display: flex;
+  padding-top: 70px; /* Account for fixed navbar */
+  position: relative;
+}
+
+.chatContainer {
+  height: calc(100vh - 70px);
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebarToggle {
+  position: fixed;
+  top: 85px; /* Below the fixed navbar */
+  left: 20px;
+  z-index: 1020;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+}
+
+.sidebarToggle:hover {
+  background-color: var(--bg-secondary);
+  border-color: var(--text-secondary);
+}
+
+/* Sidebar - Always visible, transitions between collapsed/expanded */
+.sidebarWrapper {
+  position: relative;
+  width: 280px;
+  height: 100%;
+  transition: all 0.3s ease;
+  flex-shrink: 0;
+}
+
+.sidebarWrapper.sidebarCollapsed {
+  width: 60px;
+}
+
+.sidebarCol {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+}
+
+/* Main chat area - takes remaining space */
+.chatMainWrapper {
+  flex: 1;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  min-width: 0; /* Allows flex item to shrink */
+}
+
+.chatMainCol {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.chatMain {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: var(--bg-primary);
+}
+
+.messagesContainer {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px;
+  /*background-color: var(--bg-secondary);*/
+}
+
+.overlay {
+  display: none;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .chatPage {
+    padding-top: 60px;
+  }
+  
+  .chatContainer {
+    height: calc(100vh - 60px);
+    position: relative;
+    display: flex;
+  }
+  
+  /* On mobile, collapsed sidebar takes normal space, expanded sidebar overlays */
+  .sidebarWrapper {
+    position: relative;
+    width: 60px; /* Space for collapsed sidebar */
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+  }
+  
+  .sidebarWrapper.sidebarCollapsed {
+    width: 60px; /* Keep space for collapsed sidebar */
+  }
+  
+  /* When expanded, sidebar becomes overlay */
+  .sidebarWrapper:not(.sidebarCollapsed) {
+    position: absolute;
+    z-index: 1000;
+    width: 280px;
+    left: 0;
+    top: 0;
+    bottom: 0;
+  }
+  
+  /* Chat takes remaining width on mobile */
+  .chatMainWrapper {
+    flex: 1;
+    margin-left: 0;
+  }
+  
+  .messagesContainer {
+    padding: 15px;
+  }
+}

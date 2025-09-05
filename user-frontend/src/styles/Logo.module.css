@@ -1,0 +1,29 @@
+.logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0; /* Remove margin for navbar usage */
+  padding: 0; /* Remove any padding */
+  width: fit-content; /* Only take up necessary width */
+}
+
+.logoIcon {
+  color: var(--primary-color);
+  filter: drop-shadow(0 2px 4px rgba(220, 53, 69, 0.2));
+}
+
+.logoImage {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+}
+
+/* Dark theme override */
+:global(.dark-theme) .logoIcon {
+  filter: drop-shadow(0 2px 4px rgba(220, 53, 69, 0.3));
+}
+
+:global(.dark-theme) .logoImage {
+  filter: drop-shadow(0 2px 4px rgba(255, 255, 255, 0.1));
+}

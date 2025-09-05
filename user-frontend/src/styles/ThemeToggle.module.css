@@ -1,0 +1,36 @@
+.themeToggle {
+  border-radius: 8px;
+  width: 40px;
+  height: 40px;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: all 0.2s ease;
+  border: 1px solid var(--border-color) !important;
+  background-color: transparent !important;
+  color: var(--text-secondary) !important;
+  padding: 0 !important;
+  line-height: 1 !important;
+}
+
+.themeToggle:hover {
+  background-color: var(--bg-secondary) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--primary-color) !important;
+}
+
+.themeToggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.15) !important;
+}
+
+/* Dark theme override for focus */
+:global(.dark-theme) .themeToggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(74, 158, 255, 0.15) !important;
+}
+
+@media (max-width: 768px) {
+  .themeToggle {
+    width: 36px;
+    height: 36px;
+  }
+}

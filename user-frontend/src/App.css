@@ -1,0 +1,151 @@
+/* Global Theme Variables */
+:root {
+  --primary-color: #dc3545; /* BH Assurance red */
+  --primary-hover: #b02a37; /* Darker red for hover */
+  --secondary-color: #1a365d; /* Navy blue from logo */
+  --accent-color: #2d4a66; /* Lighter navy for accents */
+  --success-color: #28a745;
+  --danger-color: #dc3545;
+  --warning-color: #ffc107;
+  --info-color: #17a2b8;
+  
+  /* Light Theme */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  --bg-tertiary: #e9ecef;
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --text-muted: #868e96;
+  --border-color: #dee2e6;
+  --shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  --shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.175);
+}
+
+/* Dark Theme */
+.dark-theme {
+  --bg-primary: #1a1a1a;
+  --bg-secondary: #2d2d2d;
+  --bg-tertiary: #404040;
+  --text-primary: #ffffff;
+  --text-secondary: #b3b3b3;
+  --text-muted: #888888;
+  --border-color: #404040;
+  --shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.3);
+  --shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.5);
+  
+  /* Override brand colors for dark mode contrast */
+  --secondary-color: #4a9eff; /* Brighter blue for dark mode */
+  --accent-color: #5ba6ff; /* Lighter accent blue */
+}
+
+/* Global Styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding-top: 0; /* Remove default padding, let components handle it */
+}
+
+.App {
+  text-align: left;
+  min-height: 100vh;
+}
+
+/* Ensure fixed navbar doesn't overlap content */
+body.has-navbar {
+  padding-top: 70px;
+}
+
+@media (max-width: 768px) {
+  body.has-navbar {
+    padding-top: 60px;
+  }
+}
+
+/* Bootstrap Overrides */
+.btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-hover);
+  border-color: var(--primary-hover);
+}
+
+.btn-outline-secondary {
+  color: var(--text-secondary);
+  border-color: var(--border-color);
+}
+
+.btn-outline-secondary:hover {
+  background-color: var(--bg-secondary);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+.form-control {
+  background-color: var(--bg-primary);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+.form-control:focus {
+  background-color: var(--bg-primary);
+  border-color: var(--primary-color);
+  color: var(--text-primary);
+  box-shadow: 0 0 0 0.2rem rgba(0, 102, 204, 0.25);
+}
+
+.card {
+  background-color: var(--bg-primary);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+.navbar {
+  background-color: var(--bg-secondary) !important;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.list-group-item {
+  background-color: var(--bg-primary);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 15px;
+  }
+}
