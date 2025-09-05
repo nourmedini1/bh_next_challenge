@@ -1,0 +1,670 @@
+/* Global Styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Override Bootstrap defaults */
+.btn:focus {
+  box-shadow: none !important;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+  border-color: #E32227 !important;
+}
+
+.form-check-input:checked {
+  background-color: #E32227 !important;
+  border-color: #E32227 !important;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E32227;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #c41e22;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .main-content {
+    padding-left: 60px !important;
+  }
+  
+  .card-body {
+    padding: 1rem !important;
+  }
+  
+  .table th, .table td {
+    padding: 0.75rem !important;
+    font-size: 0.875rem;
+  }
+  
+  h1 {
+    font-size: 1.75rem !important;
+  }
+  
+  h5 {
+    font-size: 1.125rem !important;
+  }
+}
+
+@media (max-width: 576px) {
+  .main-content {
+    padding-left: 0 !important;
+  }
+  
+  .sidebar-mobile {
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+  
+  .sidebar-mobile.show {
+    transform: translateX(0);
+  }
+  
+  .container-fluid {
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
+  }
+  
+  .card {
+    border-radius: 8px !important;
+  }
+  
+  .card-body {
+    padding: 0.75rem !important;
+  }
+  
+  .table-responsive {
+    font-size: 0.8rem;
+  }
+  
+  .recharts-responsive-container {
+    min-height: 250px !important;
+  }
+}
+
+/* Fixed layout styles */
+.fixed-header {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1020;
+}
+
+.scrollable-content {
+  height: calc(100vh - 76px);
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Smooth transitions for layout changes */
+.main-layout {
+  transition: padding-left 0.3s ease;
+}
+
+/* Custom scrollbar for content area */
+.scrollable-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollable-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollable-content::-webkit-scrollbar-thumb {
+  background: #E32227;
+  border-radius: 4px;
+}
+
+.scrollable-content::-webkit-scrollbar-thumb:hover {
+  background: #c41e22;
+}
+
+/* Mobile overlay for sidebar */
+@media (max-width: 576px) {
+  .sidebar-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1005;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+  }
+  
+  .sidebar-overlay.show {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+/* Animation classes */
+.fade-in {
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Table hover effects */
+.table-hover tbody tr:hover {
+  background-color: rgba(227, 34, 39, 0.05) !important;
+}
+
+/* Table background fixes for dark mode */
+.table {
+  background-color: transparent !important;
+}
+
+.table th,
+.table td {
+  background-color: transparent !important;
+}
+
+.table tbody tr {
+  background-color: transparent !important;
+}
+
+/* Dark mode table fixes */
+.table-dark {
+  background-color: transparent !important;
+  color: inherit !important;
+}
+
+.table-dark th,
+.table-dark td {
+  background-color: transparent !important;
+  border-color: inherit !important;
+}
+
+.table-dark tbody tr:hover {
+  background-color: rgba(227, 34, 39, 0.1) !important;
+}
+
+/* Button styles */
+.btn-primary {
+  background-color: #E32227;
+  border-color: #E32227;
+}
+
+.btn-primary:hover {
+  background-color: #c41e22;
+  border-color: #c41e22;
+}
+
+.btn-outline-primary {
+  color: #E32227;
+  border-color: #E32227;
+}
+
+.btn-outline-primary:hover {
+  background-color: #E32227;
+  border-color: #E32227;
+}
+
+/* Sidebar text fixes */
+.nav .nav-item div {
+  color: inherit !important;
+}
+
+.nav .nav-item div span {
+  color: inherit !important;
+}
+
+.nav .nav-item div:hover {
+  color: inherit !important;
+}
+
+/* Ensure proper text inheritance in sidebar */
+.sidebar-nav-item {
+  color: inherit !important;
+}
+
+.sidebar-nav-item * {
+  color: inherit !important;
+  fill: inherit !important;
+  stroke: inherit !important;
+}
+
+.sidebar-nav-item span {
+  color: inherit !important;
+  font-size: 14px !important;
+  font-weight: 500 !important;
+}
+
+.sidebar-nav-item svg {
+  color: inherit !important;
+  fill: inherit !important;
+  stroke: inherit !important;
+}
+
+/* Sidebar Styles */
+.sidebar {
+  height: 100vh;
+  position: fixed;
+  top: 76px;
+  left: 0;
+  transition: width 0.3s ease, transform 0.3s ease;
+  z-index: 1010;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-shadow: 2px 0 4px rgba(0,0,0,0.1);
+}
+
+.sidebar.collapsed {
+  width: 60px;
+}
+
+.sidebar.expanded {
+  width: 250px;
+}
+
+/* Mobile responsive behavior */
+@media (max-width: 768px) {
+  .sidebar.collapsed {
+    transform: translateX(-100%);
+    width: min(280px, 85vw); /* Responsive width - max 85% of viewport */
+  }
+  
+  .sidebar.expanded {
+    transform: translateX(0);
+    width: min(280px, 85vw); /* Responsive width - max 85% of viewport */
+    z-index: 1018; /* Below header (1020) but above backdrop (1015) */
+    box-shadow: 4px 0 12px rgba(0,0,0,0.3); /* Stronger shadow on mobile */
+    /* Ensure absolute positioned children are contained */
+    contain: layout;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+  
+  /* Adjust sidebar positioning for mobile */
+  .sidebar {
+    top: 76px; /* Ensure it starts below the fixed header */
+    height: calc(100vh - 76px);
+  }
+  
+  /* Better mobile navigation items */
+  .sidebar .sidebar-nav-item {
+    padding: 16px 24px;
+    margin: 4px 16px;
+    font-size: 16px;
+  }
+  
+  .sidebar .nav-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 16px;
+  }
+  
+  .sidebar .nav-text {
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  /* Adjust navigation menu padding on mobile */
+  .sidebar .navigation-menu {
+    padding-top: 24px;
+    margin-top: 0;
+  }
+  
+  /* Override collapsed desktop styles for mobile */
+  .sidebar.collapsed .sidebar-nav-item {
+    justify-content: flex-start !important;
+    padding: 16px 24px !important;
+  }
+  
+  .sidebar.collapsed .sidebar-nav-item .nav-icon {
+    margin-right: 16px !important;
+  }
+}
+
+/* Mobile overlay backdrop */
+.mobile-sidebar-backdrop {
+  position: fixed;
+  top: 76px; /* Start from below header */
+  left: 0;
+  width: 100vw;
+  height: calc(100vh - 76px);
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1015; /* Below header (1020) and sidebar (1018) */
+  display: none;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@media (max-width: 768px) {
+  .mobile-sidebar-backdrop.show {
+    display: block;
+  }
+}
+
+.sidebar-toggle-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: transparent;
+  border: none;
+  padding: 8px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  min-width: 40px;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar-toggle-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sidebar-toggle-btn:focus {
+  box-shadow: none;
+}
+
+/* When collapsed, make toggle button larger and centered */
+.sidebar.collapsed .sidebar-toggle-btn {
+  position: relative;
+  top: 0;
+  right: 0;
+  width: 44px;
+  height: 44px;
+  margin: 8px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar.collapsed .sidebar-toggle-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* When collapsed, make toggle button look like sidebar icons */
+.sidebar.collapsed .sidebar-toggle-btn {
+  position: relative;
+  top: 0;
+  right: 0;
+  width: auto;
+  height: auto;
+  padding: 12px;
+  margin: 5px 10px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar.collapsed .sidebar-toggle-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Mobile behavior for toggle button */
+@media (max-width: 768px) {
+  /* Hide toggle button when sidebar is collapsed (we have header button) */
+  .sidebar.collapsed .sidebar-toggle-btn {
+    display: none;
+  }
+  
+  /* Show toggle button when sidebar is expanded (to close it) */
+  .sidebar.expanded .sidebar-toggle-btn {
+    display: flex !important;
+    position: absolute !important;
+    top: 20px !important;
+    right: 20px !important;
+    background: rgba(255, 255, 255, 0.2) !important;
+    border-radius: 8px !important;
+    width: 44px !important;
+    height: 44px !important;
+    min-width: 44px !important;
+    min-height: 44px !important;
+    z-index: 99 !important;
+    margin: 0 !important;
+    /* Force containment within sidebar */
+    max-width: calc(100% - 40px) !important;
+    left: auto !important;
+    transform: none !important;
+  }
+  
+  /* Reset navigation menu padding */
+  .sidebar.expanded .navigation-menu {
+    padding-top: 80px;
+  }
+}
+
+/* Extra small screens - adjust toggle button positioning */
+@media (max-width: 375px) {
+  .sidebar.expanded .sidebar-toggle-btn {
+    right: 15px !important;
+    top: 15px !important;
+    width: 40px !important;
+    height: 40px !important;
+    min-width: 40px !important;
+    min-height: 40px !important;
+  }
+}
+
+/* Utility classes */
+.spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.navigation-menu {
+  padding-top: 60px; /* More space from toggle button */
+  margin-top: 0;
+}
+
+/* When collapsed, no extra padding since toggle is first item */
+.sidebar.collapsed .navigation-menu {
+  padding-top: 20px;
+  margin-top: 0;
+}
+
+.sidebar-nav-item {
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  cursor: pointer;
+  border-radius: 8px;
+  margin: 5px 10px;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  border: none;
+  background: transparent;
+  user-select: none;
+  white-space: nowrap;
+}
+
+.sidebar-nav-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sidebar-nav-item.active {
+  background-color: #E32227;
+}
+
+.sidebar-nav-item .nav-icon {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.sidebar.collapsed .sidebar-nav-item .nav-icon {
+  margin-right: 0;
+}
+
+.sidebar.collapsed .sidebar-nav-item {
+  justify-content: center;
+  padding: 12px;
+}
+
+.sidebar.collapsed .nav-text {
+  display: none;
+}
+
+.sidebar-nav-item .nav-text {
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.sidebar.collapsed .nav-text {
+  display: none;
+}
+
+/* Light mode colors */
+.sidebar.light-theme {
+  background-color: #ffffff;
+  border-right: 1px solid #e0e0e0;
+}
+
+.sidebar.light-theme .sidebar-toggle-btn,
+.sidebar.light-theme .sidebar-nav-item,
+.sidebar.light-theme .sidebar-nav-item .nav-icon,
+.sidebar.light-theme .sidebar-nav-item .nav-text {
+  color: #0C1E35;
+}
+
+.sidebar.light-theme .sidebar-toggle-btn svg,
+.sidebar.light-theme .sidebar-nav-item .nav-icon,
+.sidebar.light-theme .sidebar-nav-item svg {
+  color: #0C1E35 !important;
+  fill: #0C1E35 !important;
+  stroke: #0C1E35 !important;
+}
+
+.sidebar.light-theme .sidebar-nav-item.active,
+.sidebar.light-theme .sidebar-nav-item.active .nav-icon,
+.sidebar.light-theme .sidebar-nav-item.active .nav-text {
+  color: #ffffff;
+}
+
+.sidebar.light-theme .sidebar-nav-item.active svg {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+  stroke: #ffffff !important;
+}
+
+/* Dark mode colors */
+.sidebar.dark-theme {
+  background-color: #0C1E35 !important;
+  border-right: 1px solid #333333;
+}
+
+.sidebar.dark-theme .sidebar-toggle-btn,
+.sidebar.dark-theme .sidebar-nav-item,
+.sidebar.dark-theme .sidebar-nav-item .nav-icon,
+.sidebar.dark-theme .sidebar-nav-item .nav-text {
+  color: #ffffff !important;
+}
+
+.sidebar.dark-theme .sidebar-toggle-btn svg,
+.sidebar.dark-theme .sidebar-nav-item .nav-icon,
+.sidebar.dark-theme .sidebar-nav-item svg {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+  stroke: #ffffff !important;
+}
+
+.sidebar.dark-theme .sidebar-nav-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sidebar.dark-theme .sidebar-nav-item.active,
+.sidebar.dark-theme .sidebar-nav-item.active .nav-icon,
+.sidebar.dark-theme .sidebar-nav-item.active .nav-text {
+  color: #ffffff !important;
+}
+
+.sidebar.dark-theme .sidebar-nav-item.active svg {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+  stroke: #ffffff !important;
+}
+
+.sidebar-nav-item svg {
+  color: inherit !important;
+}
+
+/* Override any bootstrap nav styling that might interfere */
+.nav-item .sidebar-nav-item {
+  color: inherit !important;
+}
+
+.nav-item .sidebar-nav-item:hover {
+  text-decoration: none !important;
+}
+
+.nav-item .sidebar-nav-item:focus {
+  text-decoration: none !important;
+}
+
+/* Force sidebar text colors */
+.sidebar-nav-item span {
+  color: inherit !important;
+  opacity: 1 !important;
+}
+
+.sidebar-nav-item svg {
+  color: inherit !important;
+  opacity: 1 !important;
+}
+
+/* Bootstrap nav overrides */
+.nav .nav-item {
+  color: inherit !important;
+}
+
+.nav .nav-item * {
+  color: inherit !important;
+}
