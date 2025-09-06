@@ -4,7 +4,7 @@ import { BsDatabase, BsUpload, BsInfoCircle, BsCloudUpload, BsFileEarmarkText, B
 import { useTheme } from '../contexts/ThemeContext';
 
 const VectorStores = () => {
-  const { colors } = useTheme();
+  const { colors, isDarkMode } = useTheme();
   const [stores, setStores] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -261,7 +261,12 @@ const VectorStores = () => {
         </Col>
       </Row>
 
-      <Tabs activeKey={activeTab} onSelect={(k) => setActiveTab(k)} className="mb-4">
+      <Tabs 
+        activeKey={activeTab} 
+        onSelect={(k) => setActiveTab(k)} 
+        className={`mb-4 ${isDarkMode ? 'dark-mode' : ''}`}
+        data-theme={isDarkMode ? 'dark' : 'light'}
+      >
         <Tab eventKey="stores" title="Vector Stores">
           <Row>
             <Col>

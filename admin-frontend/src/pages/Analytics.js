@@ -12,7 +12,7 @@ import SearchAnalytics from '../components/analytics/SearchAnalytics';
 import LLMInsights from '../components/analytics/LLMInsights';
 
 const Analytics = () => {
-  const { colors } = useTheme();
+  const { colors, isDarkMode } = useTheme();
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
@@ -105,7 +105,12 @@ const Analytics = () => {
         </Col>
       </Row>
 
-      <Tabs activeKey={activeTab} onSelect={(k) => setActiveTab(k)} className="mb-4">
+      <Tabs 
+        activeKey={activeTab} 
+        onSelect={(k) => setActiveTab(k)} 
+        className={`mb-4 ${isDarkMode ? 'dark-mode' : ''}`}
+        data-theme={isDarkMode ? 'dark' : 'light'}
+      >
         <Tab eventKey="overview" title="Overview">
           <Row>
             <Col xs={12}>
