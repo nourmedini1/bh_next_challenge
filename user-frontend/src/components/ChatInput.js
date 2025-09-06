@@ -27,7 +27,7 @@ const ChatInput = ({ onSendMessage }) => {
         <InputGroup>
           <Form.Control
             type="text"
-            placeholder="Type your message here..."
+            placeholder="Ask me anything about BH Assurance services..."
             value={message}
             onChange={(e) => setMessage(e.target.value)}
             onKeyPress={handleKeyPress}

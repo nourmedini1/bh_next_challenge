@@ -36,6 +36,31 @@ const ChatMessages = ({customer, messages, isThinking = false , isTyping = false
     }
   };
 
+  // Function to detect Arabic text
+  const detectArabicText = (text) => {
+    const arabicRegex = /[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]/;
+    return arabicRegex.test(text);
+  };
+
+  // Function to get text direction - enhanced for mixed content
+  const getTextDirection = (text) => {
+    if (!text) return 'ltr';
+    
+    // Count Arabic vs Latin characters
+    const arabicMatches = text.match(/[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]/g);
+    const latinMatches = text.match(/[a-zA-Z]/g);
+    
+    const arabicCount = arabicMatches ? arabicMatches.length : 0;
+    const latinCount = latinMatches ? latinMatches.length : 0;
+    
+    // If more Arabic characters than Latin, use RTL
+    if (arabicCount > latinCount) {
+      return 'rtl';
+    }
+    
+    return 'ltr';
+  };
+
   // Play sound when new message is added
   useEffect(() => {
     if (messages.length > prevMessagesLength.current && messages.length > 0) {
@@ -150,7 +175,11 @@ const ChatMessages = ({customer, messages, isThinking = false , isTyping = false
                 )}
                 
                 <div className={styles.messageBubble}>
-                  <div className={styles.messageText}>
+                  <div 
+                    className={styles.messageText}
+                    dir={getTextDirection(message.text)}
+                    lang={detectArabicText(message.text) ? 'ar' : 'en'}
+                  >
                     {message.sender === 'user' ? (
                       message.text
                     ) : (

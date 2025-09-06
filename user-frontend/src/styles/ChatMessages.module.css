@@ -221,8 +221,8 @@
 }
 
 .botMessage .messageBubble {
-  background-color: var(--primary-color);
-  color: white;
+  background-color: var(--bot-bubble-color);
+  color: var(--text-primary);
 }
 .botMessage .messageText {
   padding-right: 20px;
@@ -365,4 +365,100 @@
   .timestamp {
     font-size: 0.7rem;
   }
+}
+
+/* RTL and Arabic text support */
+.messageText {
+  direction: ltr; /* Default to LTR */
+  text-align: left;
+  unicode-bidi: embed;
+}
+
+/* Detect Arabic content and apply RTL */
+.messageText:has([dir="rtl"]),
+.messageText[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Automatic detection for Arabic script */
+.messageText:lang(ar) {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Mixed content handling - preserve markdown structure */
+.messageText p,
+.messageText div,
+.messageText span {
+  direction: inherit;
+  unicode-bidi: embed;
+}
+
+/* Ensure lists work properly in RTL */
+.messageText ul,
+.messageText ol {
+  direction: inherit;
+}
+
+.messageText li {
+  direction: inherit;
+  text-align: inherit;
+}
+
+/* Code blocks should remain LTR even in RTL content */
+.messageText code,
+.messageText pre {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: embed;
+}
+
+/* Headers should inherit direction but maintain proper spacing */
+.messageText h1,
+.messageText h2,
+.messageText h3,
+.messageText h4,
+.messageText h5,
+.messageText h6 {
+  direction: inherit;
+  text-align: inherit;
+}
+
+/* Blockquotes in RTL */
+.messageText blockquote {
+  direction: inherit;
+  text-align: inherit;
+}
+
+/* RTL blockquote border should be on the right */
+.messageText[dir="rtl"] blockquote,
+.messageText:lang(ar) blockquote {
+  border-left: none;
+  border-right: 3px solid rgba(255, 255, 255, 0.3);
+  padding-left: 0;
+  padding-right: 12px;
+}
+
+/* Ensure proper spacing for mixed LTR/RTL content */
+.messageText * {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Dark theme RTL adjustments */
+:global(.dark-theme) .messageText[dir="rtl"] blockquote,
+:global(.dark-theme) .messageText:lang(ar) blockquote {
+  border-left: none;
+  border-right: 3px solid rgba(255, 255, 255, 0.3);
+  padding-left: 0;
+  padding-right: 12px;
+}
+
+:global(.dark-theme) .messageText code {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+:global(.dark-theme) .messageText pre {
+  background: rgba(255, 255, 255, 0.1);
 }

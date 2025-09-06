@@ -18,6 +18,9 @@
   --text-muted: #868e96;
   --border-color: #dee2e6;
   --shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  
+  /* Chat bubble colors */
+  --bot-bubble-color: #e2e6ea; /* Darker than user bubble (--bg-secondary) */
   --shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
   --shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.175);
 }
@@ -34,6 +37,9 @@
   --shadow-sm: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.3);
   --shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.4);
   --shadow-lg: 0 1rem 3rem rgba(0, 0, 0, 0.5);
+  
+  /* Chat bubble colors for dark mode */
+  --bot-bubble-color: #1f1f1f; /* Darker than user bubble (--bg-secondary) */
   
   /* Override brand colors for dark mode contrast */
   --secondary-color: #4a9eff; /* Brighter blue for dark mode */
