@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import { BsRobot, BsPerson, BsCircle, BsChatDots } from 'react-icons/bs';
 import { TiMessages } from 'react-icons/ti';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import useSound from 'use-sound';
 import { useAuth } from '../context/AuthContext';
 import TypingIndicator from './TypingIndicator';
@@ -176,14 +177,16 @@ const ChatMessages = ({customer, messages, isThinking = false , isTyping = false
                 
                 <div className={styles.messageBubble}>
                   <div 
-                    className={styles.messageText}
-                    dir={getTextDirection(message.text)}
-                    lang={detectArabicText(message.text) ? 'ar' : 'en'}
+                    className={
+                      detectArabicText(message.text) && message.sender !== 'user'
+                        ? `${styles.messageText} ${styles.arabicMarkdown}`
+                        : styles.messageText
+                    }
                   >
                     {message.sender === 'user' ? (
                       message.text
                     ) : (
-                      <ReactMarkdown>{message.text}</ReactMarkdown>
+                      <ReactMarkdown remarkPlugins={[remarkGfm]}>{message.text}</ReactMarkdown>
                     )}
                   </div>
                 </div>

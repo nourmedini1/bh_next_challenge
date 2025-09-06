@@ -1,3 +1,14 @@
+.arabicMarkdown {
+  direction: rtl;
+  text-align: right;
+  font-family: "Noto Naskh Arabic", "Amiri", "Arial", sans-serif;
+  word-break: break-word;
+}
+
+/* Optional: dark mode support for arabicMarkdown */
+.dark-theme .arabicMarkdown {
+  color: var(--text-primary);
+}
 .messagesContainer {
   display: flex;
   flex-direction: column;
