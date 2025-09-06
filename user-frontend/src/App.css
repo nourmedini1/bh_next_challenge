@@ -42,7 +42,7 @@
   --bot-bubble-color: #1f1f1f; /* Darker than user bubble (--bg-secondary) */
   
   /* Override brand colors for dark mode contrast */
-  --secondary-color: #4a9eff; /* Brighter blue for dark mode */
+  --secondary-color: #ffffff; /* Brighter blue for dark mode */
   --accent-color: #5ba6ff; /* Lighter accent blue */
 }
 
