@@ -1,0 +1,209 @@
+.chatContainer {
+    max-width: 500px;
+    margin: 50px auto;
+    border: 1px solid var(--border-color, #ddd);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--bg-primary, white);
+}
+
+.chatHeader {
+    background: var(--primary-color, #007bff);
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.chatHeader h3 {
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.chatStatus {
+    font-style: italic;
+    color: var(--text-muted, #666);
+    padding: 5px 15px;
+    background: var(--bg-secondary, #f8f9fa);
+    border-bottom: 1px solid var(--border-color, #ddd);
+    font-size: 0.9rem;
+}
+
+.chatMessages {
+    height: 400px;
+    padding: 15px;
+    overflow-y: auto;
+    background: var(--bg-secondary, #f8f9fa);
+}
+
+.message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 80%;
+    position: relative;
+}
+
+.customerMessage {
+    background: var(--primary-color, #007bff);
+    color: white;
+    margin-left: auto;
+    text-align: right;
+}
+
+.agentMessage {
+    background: var(--bg-primary, white);
+    border: 1px solid var(--border-color, #ddd);
+    color: var(--text-primary, #333);
+}
+
+.humanAgentMessage {
+    background: var(--success-color, #28a745);
+    color: white;
+}
+
+.messageContent {
+    margin-bottom: 5px;
+}
+
+.messageTime {
+    font-size: 0.75rem;
+    opacity: 0.7;
+    margin-top: 5px;
+}
+
+.chatInput {
+    display: flex;
+    padding: 15px;
+    background: var(--bg-primary, white);
+    border-top: 1px solid var(--border-color, #ddd);
+}
+
+.chatInput input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid var(--border-color, #ddd);
+    border-radius: 4px;
+    margin-right: 10px;
+    background: var(--bg-primary, white);
+    color: var(--text-primary, #333);
+}
+
+.chatInput input:focus {
+    outline: none;
+    border-color: var(--primary-color, #007bff);
+}
+
+.chatInput input:disabled {
+    background: var(--bg-disabled, #f5f5f5);
+    cursor: not-allowed;
+}
+
+.chatInput button {
+    padding: 10px 20px;
+    background: var(--primary-color, #007bff);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.chatInput button:hover:not(:disabled) {
+    background: var(--primary-hover, #0056b3);
+}
+
+.chatInput button:disabled {
+    background: var(--text-muted, #6c757d);
+    cursor: not-allowed;
+}
+
+/* Typing indicator animation */
+.typingIndicator {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+.typingIndicator span {
+    width: 6px;
+    height: 6px;
+    background-color: var(--text-muted, #666);
+    border-radius: 50%;
+    animation: typing 1.4s infinite ease-in-out;
+}
+
+.typingIndicator span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.typingIndicator span:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.typingIndicator span:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes typing {
+    0%, 80%, 100% {
+        transform: scale(0.8);
+        opacity: 0.5;
+    }
+    40% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .chatContainer {
+        border-color: #444;
+    }
+    
+    .agentMessage {
+        background: #2d3748;
+        border-color: #444;
+        color: #e2e8f0;
+    }
+    
+    .chatStatus {
+        background: #2d3748;
+        color: #a0aec0;
+    }
+    
+    .chatMessages {
+        background: #1a202c;
+    }
+    
+    .chatInput {
+        background: #2d3748;
+        border-color: #444;
+    }
+    
+    .chatInput input {
+        background: #4a5568;
+        border-color: #444;
+        color: #e2e8f0;
+    }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .chatContainer {
+        margin: 20px;
+        max-width: none;
+    }
+    
+    .message {
+        max-width: 90%;
+    }
+    
+    .chatInput {
+        padding: 10px;
+    }
+    
+    .chatInput input {
+        margin-right: 8px;
+    }
+}

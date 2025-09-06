@@ -1,0 +1,15 @@
+[project]
+name = "security-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "a2a-sdk>=0.3.3",
+    "langchain>=0.3.27",
+    "langchain-mistralai>=0.2.11",
+    "langgraph>=0.6.6",
+    "sse-starlette>=3.0.2",
+    "starlette>=0.47.3",
+    "uvicorn>=0.35.0",
+]

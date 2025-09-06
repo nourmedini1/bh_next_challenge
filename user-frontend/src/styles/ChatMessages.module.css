@@ -1,0 +1,475 @@
+.arabicMarkdown {
+  direction: rtl;
+  text-align: right;
+  font-family: "Noto Naskh Arabic", "Amiri", "Arial", sans-serif;
+  word-break: break-word;
+}
+
+/* Optional: dark mode support for arabicMarkdown */
+.dark-theme .arabicMarkdown {
+  color: var(--text-primary);
+}
+.messagesContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 0 20px 20px;
+  gap: 8px; /* Small gap between consecutive messages */
+  min-height: calc(100vh - 200px); /* Take available height minus header/input */
+}
+
+/* Empty State Styles */
+.emptyState {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.emptyStateIcon {
+  margin-bottom: 32px;
+  color: var(--primary-color);
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.emptyStateIcon:hover {
+  opacity: 1;
+}
+
+.emptyStateText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.emptyStateHeading {
+  color: var(--text-primary);
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin: 0 0 16px 0;
+  letter-spacing: -0.02em;
+  text-align: center;
+  width: 100%;
+}
+
+.emptyStateMessage {
+  color: var(--text-secondary);
+  font-size: 1.15rem;
+  font-weight: 400;
+  margin: 0 auto;
+  max-width: 400px;
+  line-height: 1.6;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+}
+
+.messageWrapper {
+  display: flex;
+  width: 100%;
+}
+
+.messageWrapper.differentSender:not(.firstMessage) {
+  margin-top: 8px; /* Larger gap between different senders, but not for first message */
+}
+
+.userMessage {
+  justify-content: flex-end;
+}
+
+.botMessage {
+  justify-content: flex-start;
+}
+
+.messageContent {
+  display: flex;
+  flex-direction: column;
+  max-width: 70%; /* Maximum 70% of chat container */
+  width: 100%; /* Take full width available */
+}
+
+.userMessage .messageContent {
+  align-items: flex-end;
+}
+
+.botMessage .messageContent {
+  align-items: flex-start;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+.botMessage .avatar {
+  background-color: transparent;
+}
+
+.botAvatar {
+  border: none;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.fallbackIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-secondary);
+}
+
+.userMessage .avatar {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.userAvatarIcon {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.userAvatarIcon .circleIcon {
+  color: var(--primary-color);
+  fill: var(--primary-color);
+  width: 100%;
+  height: 100%;
+}
+
+.userAvatarIcon .avatarLetter {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  z-index: 1;
+}
+
+.messageBubbleContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.userMessage .messageBubbleContainer {
+  align-items: flex-end; /* Right-align user message bubbles */
+}
+
+.botMessage .messageBubbleContainer {
+  align-items: flex-start; /* Left-align bot message bubbles */
+}
+
+.messageHeader {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 8px;
+  width: 100%; /* Take full width of container */
+}
+
+.userMessage .messageHeader {
+  justify-content: flex-end; /* Push content to the right edge */
+}
+
+.botMessage .messageHeader {
+  justify-content: flex-start;
+}
+
+.messageHeaderContent {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.userMessage .messageHeaderContent {
+  flex-direction: row-reverse; /* Reverse order for user messages */
+}
+
+.senderName {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+.timestamp {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.messageBubble {
+  border-radius: 20px; /* Large corner radii for pill-like shape */
+  padding: 16px 20px; /* Consistent padding inside - generous space around text */
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  position: relative;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+.userMessage .messageBubble {
+  background-color: var(--bg-secondary);
+  color: var(--text-primary);
+  max-width: 100%; /* Allow wrapping within the 70% container width */
+  width: fit-content;
+  min-width: 60px; /* Small minimum to prevent squishing */
+}
+
+.botMessage .messageBubble {
+  background-color: var(--bot-bubble-color);
+  color: var(--text-primary);
+}
+.botMessage .messageText {
+  padding-right: 20px;
+}
+.messageText {
+  line-height: 1.6;
+  font-size: 1.05rem;
+  margin: 0; /* Remove any default margins */
+}
+
+/* Markdown styling for bot messages */
+.messageText h1,
+.messageText h2,
+.messageText h3,
+.messageText h4,
+.messageText h5,
+.messageText h6 {
+  margin: 0 0 6px 0;
+  font-weight: 600;
+  color: inherit;
+}
+
+.messageText h1 {
+  font-size: 1.4rem;
+}
+
+.messageText h2 {
+  font-size: 1.3rem;
+}
+
+.messageText h3 {
+  font-size: 1.2rem;
+}
+
+.messageText p {
+  margin: 0 0 4px 0;
+}
+
+.messageText ul,
+.messageText ol {
+  margin: 4px 0;
+  padding-left: 20px;
+}
+
+.messageText li {
+  margin: 2px 0;
+}
+
+.messageText strong {
+  font-weight: 700;
+}
+
+.messageText em {
+  font-style: italic;
+}
+
+.messageText code {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 2px 4px;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  font-size: 0.9em;
+}
+
+.messageText pre {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 8px;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 4px 0;
+}
+
+.messageText pre code {
+  background: none;
+  padding: 0;
+}
+
+.messageText blockquote {
+  border-left: 3px solid rgba(255, 255, 255, 0.3);
+  margin: 4px 0;
+  padding-left: 12px;
+  font-style: italic;
+}
+.userMessage .messageText {
+  max-width: 100%;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .messagesContainer {
+    padding: 0 16px 16px; /* Horizontal padding - bubbles never touch screen edges */
+    gap: 6px;
+    min-height: calc(100vh - 180px); /* Adjust for mobile header/input */
+  }
+  
+  .emptyState {
+    padding: 30px 16px;
+  }
+  
+  .emptyStateIcon {
+    margin-bottom: 24px;
+  }
+  
+  .emptyStateHeading {
+    font-size: 1.4rem;
+  }
+  
+  .emptyStateMessage {
+    font-size: 1rem;
+    max-width: 320px;
+  }
+  
+  .messageWrapper.differentSender:not(.firstMessage) {
+    margin-top: 6px;
+  }
+  
+  .messageContent {
+    max-width: 85%; /* Slightly more width on mobile */
+  }
+  
+  .avatar {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .messageBubble {
+    border-radius: 16px;
+    padding: 12px 16px; /* Maintain generous padding on mobile */
+    min-width: 100px; /* Slightly smaller min-width on mobile */
+  }
+  
+  .messageText {
+    font-size: 0.95rem;
+  }
+  
+  .senderName {
+    font-size: 0.85rem;
+  }
+  
+  .timestamp {
+    font-size: 0.7rem;
+  }
+}
+
+/* RTL and Arabic text support */
+.messageText {
+  direction: ltr; /* Default to LTR */
+  text-align: left;
+  unicode-bidi: embed;
+}
+
+/* Detect Arabic content and apply RTL */
+.messageText:has([dir="rtl"]),
+.messageText[dir="rtl"] {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Automatic detection for Arabic script */
+.messageText:lang(ar) {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Mixed content handling - preserve markdown structure */
+.messageText p,
+.messageText div,
+.messageText span {
+  direction: inherit;
+  unicode-bidi: embed;
+}
+
+/* Ensure lists work properly in RTL */
+.messageText ul,
+.messageText ol {
+  direction: inherit;
+}
+
+.messageText li {
+  direction: inherit;
+  text-align: inherit;
+}
+
+/* Code blocks should remain LTR even in RTL content */
+.messageText code,
+.messageText pre {
+  direction: ltr;
+  text-align: left;
+  unicode-bidi: embed;
+}
+
+/* Headers should inherit direction but maintain proper spacing */
+.messageText h1,
+.messageText h2,
+.messageText h3,
+.messageText h4,
+.messageText h5,
+.messageText h6 {
+  direction: inherit;
+  text-align: inherit;
+}
+
+/* Blockquotes in RTL */
+.messageText blockquote {
+  direction: inherit;
+  text-align: inherit;
+}
+
+/* RTL blockquote border should be on the right */
+.messageText[dir="rtl"] blockquote,
+.messageText:lang(ar) blockquote {
+  border-left: none;
+  border-right: 3px solid rgba(255, 255, 255, 0.3);
+  padding-left: 0;
+  padding-right: 12px;
+}
+
+/* Ensure proper spacing for mixed LTR/RTL content */
+.messageText * {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Dark theme RTL adjustments */
+:global(.dark-theme) .messageText[dir="rtl"] blockquote,
+:global(.dark-theme) .messageText:lang(ar) blockquote {
+  border-left: none;
+  border-right: 3px solid rgba(255, 255, 255, 0.3);
+  padding-left: 0;
+  padding-right: 12px;
+}
+
+:global(.dark-theme) .messageText code {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+:global(.dark-theme) .messageText pre {
+  background: rgba(255, 255, 255, 0.1);
+}

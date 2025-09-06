@@ -1,0 +1,429 @@
+.sidebar {
+  height: 100%;
+  background-color: var(--bg-primary);
+  border-right: 1px solid var(--border-color);
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  transition: width 0.3s ease;
+  position: relative;
+}
+
+.sidebar.collapsed {
+  width: 60px;
+}
+
+/* Mobile Responsive - Hide sidebar on mobile */
+@media (max-width: 768px) {
+  .sidebar {
+    height: 100%;
+    position: relative; /* Normal positioning when collapsed */
+    top: auto;
+    left: auto;
+    bottom: auto;
+    z-index: auto;
+    width: 60px;
+    transition: width 0.3s ease;
+    box-shadow: none;
+  }
+  
+  .sidebar.collapsed {
+    width: 60px; /* Same small width as desktop */
+    position: relative; /* Keep normal flow when collapsed */
+    box-shadow: none;
+  }
+  
+  /* When expanded, become overlay */
+  .sidebar:not(.collapsed) {
+    position: fixed;
+    top: 60px; /* Stick right to navbar on mobile */
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    width: 280px;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Mobile header adjustments */
+  .sidebarHeader {
+    padding-top: 75px; /* Keep space for close button when expanded */
+  }
+  
+  .collapsed .sidebarHeader {
+    padding-top: 15px; /* No space needed when collapsed - no close button */
+    margin-top: 75px; /* Keep space for expand button */
+  }
+  
+  /* Mobile button positioning fixes */
+  .expandButton {
+    top: 15px; /* Adjust for mobile */
+  }
+  
+  .closeButton {
+    top: 15px; /* Adjust for mobile */
+    right: 15px;
+  }
+  
+  /* Collapsed sidebar on mobile should have minimal header space */
+  .collapsed .sidebarHeader {
+    padding-top: 15px !important;
+    margin-top: 60px !important; /* Reduce space for expand button */
+  }
+  
+  /* Expanded sidebar on mobile needs more space for close button */
+  .sidebar:not(.collapsed) .sidebarHeader {
+    padding-top: 80px !important; /* Much more space for close button */
+    margin-top: 0 !important;
+  }
+}
+
+.sidebarHeader {
+  padding: 15px;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 75px; /* Add more space for collapse button at the top */
+}
+
+.collapsed .sidebarHeader {
+  justify-content: center;
+  padding: 15px 10px;
+  margin-top: 75px; /* Make more space for top expand button */
+}
+
+.collapsedHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  align-items: center;
+}
+
+.newChatButton {
+  width: 100%;
+  border-radius: 8px;
+  font-weight: 500;
+  padding: 10px 16px;
+  font-size: 0.9rem;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.collapsedNewChatButton {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  font-weight: 500;
+  padding: 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+}
+
+.expandButton {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  width: 40px;
+  height: 40px;
+  background: var(--bg-secondary) !important;
+  border: 1px solid var(--border-color) !important;
+  color: var(--text-secondary) !important;
+  padding: 0 !important;
+  border-radius: 8px !important;
+  transition: all 0.2s ease;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+}
+
+.expandButton:hover {
+  background-color: var(--bg-tertiary) !important;
+  color: var(--text-primary) !important;
+  border-color: var(--text-secondary) !important;
+}
+
+.closeButton {
+  position: absolute;
+  top: 20px;
+  right: 15px;
+  z-index: 10;
+  background: var(--bg-secondary) !important;
+  border: 1px solid var(--border-color) !important;
+  color: var(--text-secondary) !important;
+  padding: 0 !important;
+  border-radius: 8px !important;
+  transition: all 0.2s ease;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 40px;
+  height: 40px;
+  line-height: 1 !important;
+}
+
+.closeButton:hover {
+  background-color: var(--bg-secondary) !important;
+  color: var(--text-primary) !important;
+}
+
+.chatHistory {
+  flex: 1;
+  overflow-y: auto;
+  padding: 20px 0;
+}
+
+.historyTitle {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 15px;
+  padding: 0 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.chatItem {
+  border: none !important;
+  background: transparent !important;
+  padding: 0 !important;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.chatItem:hover {
+  background-color: var(--bg-secondary) !important;
+}
+
+.chatItem.active {
+  background-color: var(--bg-tertiary) !important;
+  border-left: 3px solid var(--primary-color) !important;
+}
+
+.chatItemContent {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 15px 20px;
+  position: relative;
+}
+
+.chatIcon {
+  color: var(--text-muted);
+  margin-top: 4px;
+  font-size: 1.2rem;
+  flex-shrink: 0;
+}
+
+.chatInfo {
+  flex: 1;
+  min-width: 0;
+}
+
+.deleteButton {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: transparent !important;
+  border: none !important;
+  color: var(--text-secondary) !important;
+  padding: 4px !important;
+  border-radius: 4px !important;
+  opacity: 0;
+  transition: all 0.2s ease;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 24px;
+  height: 24px;
+  line-height: 1 !important;
+}
+
+.chatItem:hover .deleteButton {
+  opacity: 1;
+}
+
+.deleteButton:hover {
+  background-color: var(--bg-tertiary) !important;
+  color: var(--text-primary) !important;
+}
+
+.chatTitle {
+  font-weight: 500;
+  color: var(--text-primary);
+  font-size: 1rem;
+  margin-bottom: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.chatPreview {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 4px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.chatTime {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+}
+
+/* Collapsed sidebar styles */
+.collapsedChatHistory {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 15px 10px;
+}
+
+.collapsedChatItem {
+  width: 40px;
+  height: 40px;
+  border-radius: 8px;
+  background: none !important;
+  border: 1px solid transparent !important;
+  color: var(--text-secondary) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: all 0.2s ease;
+  padding: 0 !important;
+  line-height: 1 !important;
+}
+
+.collapsedChatItem:hover {
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+.collapsedChatItem.active {
+  background-color: var(--primary-color) !important;
+  border-color: var(--primary-color) !important;
+  color: white !important;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .sidebarHeader {
+    padding: 15px;
+  }
+  
+  .newChatButton {
+    padding: 10px 15px;
+    font-size: 0.9rem;
+  }
+  
+  .sidebar.collapsed {
+    width: 60px;
+  }
+}
+
+/* Modern Popover Styling */
+:global(.modern-popover) {
+  border: 1px solid var(--border-color) !important;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12) !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  max-width: 280px !important;
+  background-color: var(--bg-primary) !important;
+}
+
+:global(.modern-popover .popover-header) {
+  border-radius: 8px 8px 0 0 !important;
+  padding: 12px 16px !important;
+  font-size: 0.875rem !important;
+  display: flex !important;
+  align-items: center !important;
+  background-color: var(--danger-color) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  color: white !important;
+}
+
+:global(.modern-popover .popover-body) {
+  border-radius: 0 0 8px 8px !important;
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary) !important;
+  padding: 16px !important;
+}
+
+:global(.modern-popover .popover-body p) {
+  font-size: 0.8rem !important;
+  line-height: 1.4 !important;
+  margin-bottom: 12px !important;
+  color: var(--text-secondary) !important;
+}
+
+:global(.modern-popover .btn) {
+  border-radius: 6px !important;
+  padding: 6px 12px !important;
+  font-size: 0.8rem !important;
+  transition: all 0.15s ease !important;
+  font-weight: 500 !important;
+}
+
+:global(.modern-popover .btn-danger) {
+  background-color: var(--danger-color) !important;
+  border-color: var(--danger-color) !important;
+  color: white !important;
+}
+
+:global(.modern-popover .btn-danger:hover) {
+  background-color: #c82333 !important;
+  border-color: #bd2130 !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 2px 8px rgba(220, 53, 69, 0.3) !important;
+}
+
+:global(.modern-popover .btn-outline-secondary) {
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+:global(.modern-popover .btn-outline-secondary:hover) {
+  background-color: var(--bg-tertiary) !important;
+  border-color: var(--text-secondary) !important;
+  color: var(--text-primary) !important;
+  transform: translateY(-1px) !important;
+}
+
+/* Popover arrow styling for better connection */
+:global(.modern-popover .popover-arrow::before) {
+  border-right-color: var(--border-color) !important;
+}
+
+:global(.modern-popover .popover-arrow::after) {
+  border-right-color: var(--bg-primary) !important;
+}
+
+/* Dark theme specific adjustments */
+:global(.dark-theme .modern-popover) {
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4) !important;
+  border-color: var(--border-color) !important;
+}
+
+:global(.dark-theme .modern-popover .popover-body p) {
+  color: var(--text-secondary) !important;
+}
+
+:global(.dark-theme .modern-popover .btn-outline-secondary) {
+  background-color: var(--bg-tertiary) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+:global(.dark-theme .modern-popover .btn-outline-secondary:hover) {
+  background-color: var(--bg-secondary) !important;
+  border-color: var(--text-secondary) !important;
+}

@@ -1,0 +1,7 @@
+docker
+pandas
+sqlalchemy
+psycopg2-binary
+openpyxl
+passlib
+bcrypt==4.0.1
